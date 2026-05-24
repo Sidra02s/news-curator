@@ -1,5 +1,6 @@
 import json
 import os
+import time
 import logging
 from datetime import datetime
 from dotenv import load_dotenv
@@ -82,33 +83,39 @@ Remember: Sharp, witty, personal. She wants signal not noise."""
 
 # ─── GENERATE BRIEFING ──────────────────────────────────────────
 def generate_briefing(articles):
-    """Send articles to Groq and get briefing back."""
+    """Send articles to Groq and get briefing back with retry logic."""
     if not articles:
         log.error("No articles to summarize")
         return None
 
     log.info(f"Sending {len(articles)} articles to Groq...")
 
-    try:
-        prompt = build_prompt(articles)
+    for attempt in range(3):
+        try:
+            prompt = build_prompt(articles)
 
-        response = client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
-            messages=[
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": prompt}
-            ],
-            temperature=0.7,
-            max_tokens=1500,
-        )
+            response = client.chat.completions.create(
+                model="llama-3.3-70b-versatile",
+                messages=[
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user", "content": prompt}
+                ],
+                temperature=0.7,
+                max_tokens=1500,
+            )
 
-        briefing = response.choices[0].message.content
-        log.info("Briefing generated successfully")
-        return briefing
+            briefing = response.choices[0].message.content
+            log.info("Briefing generated successfully")
+            return briefing
 
-    except Exception as e:
-        log.error(f"Groq API error: {e}")
-        return None
+        except Exception as e:
+            log.warning(f"Attempt {attempt + 1} failed: {e}")
+            if attempt < 2:
+                log.info(f"Retrying in 5 seconds...")
+                time.sleep(5)
+            else:
+                log.error("All 3 attempts failed")
+                return None
 
 # ─── MAIN ────────────────────────────────────────────────────────
 def main():
