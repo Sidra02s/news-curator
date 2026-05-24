@@ -34,7 +34,8 @@ Rules:
 - Each bullet is 1-2 sentences max
 - Be opinionated where relevant — this is a personal briefing, not a newspaper
 - If a story is genuinely important, say why
-- Organize into these sections (only include sections that have relevant stories):
+- You MUST include at least 4 different sections every time
+- Organize into these sections:
   🌍 World & Politics
   🤖 Tech & AI
   💄 Fashion & Beauty
@@ -96,7 +97,7 @@ def generate_briefing(articles):
             prompt = build_prompt(articles)
 
             response = client.models.generate_content(
-                model="gemini-2.5-flash",
+                model="gemini-2.-flash",
                 contents=f"{SYSTEM_PROMPT}\n\n{prompt}",
                 config=types.GenerateContentConfig(
                     temperature=0.7,
@@ -144,17 +145,15 @@ def main():
 
     # Add header
     today = datetime.now().strftime("%A, %B %d, %Y")
-    full_briefing = f"""╔══════════════════════════════════════╗
-       SIDRA'S MORNING BRIEFING
-       {today}
-╚══════════════════════════════════════╝
+    full_briefing = f"""🗞 *SIDRA'S MORNING BRIEFING*
+📅 {today}
+─────────────────────────────
 
 {briefing}
 
-─────────────────────────────────────
-Generated at {datetime.now().strftime("%H:%M")} UAE time
+─────────────────────────────
+⏰ Generated at {datetime.now().strftime("%H:%M")} UAE time
 """
-
     # Save to file
     with open("briefing.txt", "w", encoding="utf-8") as f:
         f.write(full_briefing)
