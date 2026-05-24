@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+*.pyc
+raw_news.json
+ranked_news.json
+briefing.txt
