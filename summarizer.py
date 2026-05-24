@@ -3,6 +3,7 @@ import os
 import time
 import logging
 from datetime import datetime
+from zoneinfo import ZoneInfo
 from dotenv import load_dotenv
 from google import genai
 from google.genai import types
@@ -102,7 +103,7 @@ def generate_briefing(articles):
                 config=types.GenerateContentConfig(
                     temperature=0.7,
                     max_output_tokens=1500,
-                )
+                    )
             )
 
             briefing = response.text
@@ -143,8 +144,14 @@ def main():
         log.error("Failed to generate briefing")
         return
 
-    # Add header
-    today = datetime.now().strftime("%A, %B %d, %Y")
+    # ─── TIMEZONE-AWARE HEADER GENERATION ────────────────────────────
+    # Set the timezone explicitly to UAE (Asia/Dubai) for GitHub Actions
+    uae_tz = ZoneInfo("Asia/Dubai")
+    now_uae = datetime.now(uae_tz)
+
+    today = now_uae.strftime("%A, %B %d, %Y")
+    generated_time = now_uae.strftime("%H:%M")
+
     full_briefing = f"""🗞 *SIDRA'S MORNING BRIEFING*
 📅 {today}
 ─────────────────────────────
@@ -152,8 +159,10 @@ def main():
 {briefing}
 
 ─────────────────────────────
-⏰ Generated at {datetime.now().strftime("%H:%M")} UAE time
+⏰ Generated at {generated_time} UAE time
 """
+    # ──────────────────────────────────────────────────────────────────
+
     # Save to file
     with open("briefing.txt", "w", encoding="utf-8") as f:
         f.write(full_briefing)
