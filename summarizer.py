@@ -4,7 +4,8 @@ import time
 import logging
 from datetime import datetime
 from dotenv import load_dotenv
-from groq import Groq
+from google import genai
+from google.genai import types
 
 # ─── LOGGING ────────────────────────────────────────────────────
 logging.basicConfig(
@@ -19,9 +20,9 @@ log = logging.getLogger(__name__)
 
 load_dotenv()
 
-# ─── CONFIGURE GROQ ─────────────────────────────────────────────
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-client = Groq(api_key=GROQ_API_KEY)
+# ─── CONFIGURE GEMINI ───────────────────────────────────────────
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+client = genai.Client(api_key=GEMINI_API_KEY)
 
 # ─── SYSTEM PROMPT ──────────────────────────────────────────────
 SYSTEM_PROMPT = """You are Sidra's personal news editor — sharp, direct, and witty.
@@ -83,35 +84,34 @@ Remember: Sharp, witty, personal. She wants signal not noise."""
 
 # ─── GENERATE BRIEFING ──────────────────────────────────────────
 def generate_briefing(articles):
-    """Send articles to Groq and get briefing back with retry logic."""
+    """Send articles to Gemini and get briefing back with retry logic."""
     if not articles:
         log.error("No articles to summarize")
         return None
 
-    log.info(f"Sending {len(articles)} articles to Groq...")
+    log.info(f"Sending {len(articles)} articles to Gemini...")
 
     for attempt in range(3):
         try:
             prompt = build_prompt(articles)
 
-            response = client.chat.completions.create(
-                model="llama-3.3-70b-versatile",
-                messages=[
-                    {"role": "system", "content": SYSTEM_PROMPT},
-                    {"role": "user", "content": prompt}
-                ],
-                temperature=0.7,
-                max_tokens=1500,
+            response = client.models.generate_content(
+                model="gemini-2.5-flash",
+                contents=f"{SYSTEM_PROMPT}\n\n{prompt}",
+                config=types.GenerateContentConfig(
+                    temperature=0.7,
+                    max_output_tokens=1500,
+                )
             )
 
-            briefing = response.choices[0].message.content
+            briefing = response.text
             log.info("Briefing generated successfully")
             return briefing
 
         except Exception as e:
             log.warning(f"Attempt {attempt + 1} failed: {e}")
             if attempt < 2:
-                log.info(f"Retrying in 5 seconds...")
+                log.info("Retrying in 5 seconds...")
                 time.sleep(5)
             else:
                 log.error("All 3 attempts failed")
