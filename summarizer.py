@@ -97,7 +97,7 @@ def generate_briefing(articles):
             prompt = build_prompt(articles)
 
             response = client.models.generate_content(
-                model="gemini-2.-flash",
+                model="gemini-2.5-flash",
                 contents=f"{SYSTEM_PROMPT}\n\n{prompt}",
                 config=types.GenerateContentConfig(
                     temperature=0.7,
