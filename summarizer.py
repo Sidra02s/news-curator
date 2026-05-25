@@ -35,15 +35,18 @@ Rules:
 - Each bullet is 1-2 sentences max
 - Be opinionated where relevant — this is a personal briefing, not a newspaper
 - If a story is genuinely important, say why
-- You MUST include ALL of these sections every time, even if you have to pull from lower ranked articles:
+- Do NOT use any markdown symbols like **, *, #, or __
+- Plain text only — no bold, no italic, no headers with symbols
+- You MUST include ALL of these sections every time:
   🌍 World & Politics
   🤖 Tech & AI
   💄 Fashion & Beauty
   💪 Health & Wellness
   🇮🇳 India
   🎵 Music
+
 Format each section exactly like this:
-[emoji + SECTION NAME]:
+🌍 World & Politics
 - [story summary]
 - [story summary]
 - [story summary]
@@ -60,9 +63,7 @@ def build_prompt(articles):
         title = a.get("title", "")
         description = a.get("description", "") or ""
         source = a.get("source", "Unknown")
-        topic = a.get("topic", "")
         category = a.get("category", "")
-        score = a.get("total_score", 0)
 
         article_list += f"""
 Article {i} [Category: {category}]:
@@ -75,7 +76,7 @@ Source: {source}
 
 Here are today's top ranked news articles organized by category.
 Generate Sidra's complete morning briefing covering ALL 6 sections.
-If a section has no articles from the top ranked list, still include it with 1-2 relevant stories from the list.
+No markdown symbols. Plain text only.
 
 {article_list}
 
@@ -105,7 +106,7 @@ def generate_briefing(articles):
             )
 
             briefing = response.text
-            log.info(f"Briefing generated successfully ({len(briefing)} characters)")
+            log.info(f"Briefing generated ({len(briefing)} characters)")
             return briefing
 
         except Exception as e:

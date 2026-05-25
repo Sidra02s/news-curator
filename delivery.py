@@ -1,4 +1,5 @@
 import os
+import re
 import asyncio
 import logging
 from datetime import datetime
@@ -22,12 +23,22 @@ load_dotenv()
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
+# ─── CLEAN MARKDOWN ─────────────────────────────────────────────
+def clean_markdown(text):
+    """Strip all markdown symbols from text."""
+    text = re.sub(r'\*\*(.*?)\*\*', r'\1', text)
+    text = re.sub(r'\*(.*?)\*', r'\1', text)
+    text = re.sub(r'__(.*?)__', r'\1', text)
+    text = re.sub(r'_(.*?)_', r'\1', text)
+    text = re.sub(r'#{1,6}\s', '', text)
+    return text
+
 # ─── SEND MESSAGE ───────────────────────────────────────────────
 async def send_briefing(text):
     """Send briefing to Telegram in chunks if too long."""
+    text = clean_markdown(text)
     bot = Bot(token=TELEGRAM_TOKEN)
 
-    # Telegram max message length is 4096 characters
     max_length = 4000
     chunks = [text[i:i+max_length] for i in range(0, len(text), max_length)]
 
@@ -36,7 +47,7 @@ async def send_briefing(text):
             await bot.send_message(
                 chat_id=TELEGRAM_CHAT_ID,
                 text=chunk,
-                parse_mode=None  # plain text — no markdown parsing issues
+                parse_mode=None
             )
             if len(chunks) > 1:
                 log.info(f"Sent chunk {i+1} of {len(chunks)}")
