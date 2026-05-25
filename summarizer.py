@@ -35,26 +35,25 @@ Rules:
 - Each bullet is 1-2 sentences max
 - Be opinionated where relevant — this is a personal briefing, not a newspaper
 - If a story is genuinely important, say why
-- You MUST include at least 4 different sections every time
-- Organize into these sections:
-  🌍 World & Politics
-  🤖 Tech & AI
-  💄 Fashion & Beauty
-  💪 Health & Wellness
-  🇮🇳 India
-  🎵 Music
+- You MUST include ALL of these sections every time, even if you have to pull from lower ranked articles:
+  World & Politics
+  Tech & AI
+  Fashion & Beauty
+  Health & Wellness
+  India
+  Music
 
-Format each section like this:
-*[emoji] [Section Name]*
-• [story summary]
-• [story summary]
-• [story summary]
+Format each section exactly like this (plain text, no markdown symbols):
+[SECTION NAME]
+- [story summary]
+- [story summary]
+- [story summary]
 
-End with a one-line "Today's Takeaway" that captures the most important thing happening in the world right now."""
+End with:
+TODAY'S TAKEAWAY: [one line capturing the most important thing happening right now]"""
 
 # ─── BUILD PROMPT ───────────────────────────────────────────────
 def build_prompt(articles):
-    """Format top articles into a prompt."""
     today = datetime.now().strftime("%A, %B %d, %Y")
     article_list = ""
 
@@ -63,30 +62,30 @@ def build_prompt(articles):
         description = a.get("description", "") or ""
         source = a.get("source", "Unknown")
         topic = a.get("topic", "")
+        category = a.get("category", "")
         score = a.get("total_score", 0)
 
         article_list += f"""
-Article {i}:
+Article {i} [Category: {category}]:
 Title: {title}
 Description: {description[:200] if description else 'N/A'}
 Source: {source}
-Topic: {topic}
-Priority Score: {score}
 ---"""
 
     prompt = f"""Today is {today}.
 
-Here are today's top ranked news articles. Generate Sidra's morning briefing:
+Here are today's top ranked news articles organized by category.
+Generate Sidra's complete morning briefing covering ALL 6 sections.
+If a section has no articles from the top ranked list, still include it with 1-2 relevant stories from the list.
 
 {article_list}
 
-Remember: Sharp, witty, personal. She wants signal not noise."""
+IMPORTANT: Write the COMPLETE briefing with ALL 6 sections. Do not stop early."""
 
     return prompt
 
 # ─── GENERATE BRIEFING ──────────────────────────────────────────
 def generate_briefing(articles):
-    """Send articles to Gemini and get briefing back with retry logic."""
     if not articles:
         log.error("No articles to summarize")
         return None
@@ -102,12 +101,12 @@ def generate_briefing(articles):
                 contents=f"{SYSTEM_PROMPT}\n\n{prompt}",
                 config=types.GenerateContentConfig(
                     temperature=0.7,
-                    max_output_tokens=1500,
-                    )
+                    max_output_tokens=3000,
+                )
             )
 
             briefing = response.text
-            log.info("Briefing generated successfully")
+            log.info(f"Briefing generated successfully ({len(briefing)} characters)")
             return briefing
 
         except Exception as e:
@@ -124,7 +123,6 @@ def main():
     start_time = datetime.now()
     log.info("Starting summarizer...")
 
-    # Load ranked articles
     try:
         with open("ranked_news.json", "r", encoding="utf-8") as f:
             articles = json.load(f)
@@ -133,44 +131,36 @@ def main():
         log.error("ranked_news.json not found. Run ranker.py first.")
         return
 
-    # Take top 20
     top_articles = articles[:20]
     log.info(f"Using top {len(top_articles)} articles for briefing")
 
-    # Generate briefing
     briefing = generate_briefing(top_articles)
 
     if not briefing:
         log.error("Failed to generate briefing")
         return
 
-    # ─── TIMEZONE-AWARE HEADER GENERATION ────────────────────────────
-    # Set the timezone explicitly to UAE (Asia/Dubai) for GitHub Actions
     uae_tz = ZoneInfo("Asia/Dubai")
     now_uae = datetime.now(uae_tz)
-
     today = now_uae.strftime("%A, %B %d, %Y")
     generated_time = now_uae.strftime("%H:%M")
 
-    full_briefing = f"""🗞 *SIDRA'S MORNING BRIEFING*
-📅 {today}
-─────────────────────────────
+    full_briefing = f"""SIDRA'S MORNING BRIEFING
+{today}
+-----------------------------
 
 {briefing}
 
-─────────────────────────────
-⏰ Generated at {generated_time} UAE time
+-----------------------------
+Generated at {generated_time} UAE time
 """
-    # ──────────────────────────────────────────────────────────────────
 
-    # Save to file
     with open("briefing.txt", "w", encoding="utf-8") as f:
         f.write(full_briefing)
 
     elapsed = (datetime.now() - start_time).total_seconds()
     log.info(f"Briefing saved to briefing.txt in {elapsed:.2f} seconds")
 
-    # Print preview
     print("\n" + "="*50)
     print(full_briefing)
     print("="*50 + "\n")

@@ -28,7 +28,6 @@ async def send_briefing(text):
     bot = Bot(token=TELEGRAM_TOKEN)
 
     # Telegram max message length is 4096 characters
-    # Split into chunks if needed
     max_length = 4000
     chunks = [text[i:i+max_length] for i in range(0, len(text), max_length)]
 
@@ -37,12 +36,12 @@ async def send_briefing(text):
             await bot.send_message(
                 chat_id=TELEGRAM_CHAT_ID,
                 text=chunk,
-                parse_mode="Markdown"
+                parse_mode=None  # plain text — no markdown parsing issues
             )
             if len(chunks) > 1:
                 log.info(f"Sent chunk {i+1} of {len(chunks)}")
 
-        log.info(f"Briefing delivered to Telegram successfully")
+        log.info("Briefing delivered to Telegram successfully")
 
     except TelegramError as e:
         log.error(f"Telegram error: {e}")
@@ -52,7 +51,6 @@ async def send_briefing(text):
 def main():
     log.info("Starting delivery...")
 
-    # Check tokens
     if not TELEGRAM_TOKEN:
         log.error("TELEGRAM_TOKEN not found in .env")
         return
@@ -60,7 +58,6 @@ def main():
         log.error("TELEGRAM_CHAT_ID not found in .env")
         return
 
-    # Load briefing
     try:
         with open("briefing.txt", "r", encoding="utf-8") as f:
             briefing = f.read()
@@ -69,7 +66,6 @@ def main():
         log.error("briefing.txt not found. Run summarizer.py first.")
         return
 
-    # Send to Telegram
     asyncio.run(send_briefing(briefing))
     log.info("Delivery complete")
 

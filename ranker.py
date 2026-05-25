@@ -45,8 +45,27 @@ SPAM_KEYWORDS = [
     "billion by 203", "million by 203"
 ]
 
+# ─── TOPIC MAPPING ──────────────────────────────────────────────
+TOPIC_CATEGORIES = {
+    "fashion": ["fashion trends 2025", "fashion", "vogue", "allure", "skincare"],
+    "health": ["PCOS endometriosis women health", "Women's Health"],
+    "tech": ["artificial intelligence technology", "Tech", "AI"],
+    "india": ["India politics Modi", "India"],
+    "music": ["new music album release", "Music"],
+    "world": ["world", "lifeandstyle"],
+    "beauty": ["skincare beauty makeup", "Skincare", "Beauty"],
+}
+
+def get_topic_category(article):
+    topic = article.get("topic", "").lower()
+    source = article.get("source", "").lower()
+    for category, keywords in TOPIC_CATEGORIES.items():
+        for keyword in keywords:
+            if keyword.lower() in topic or keyword.lower() in source:
+                return category
+    return "other"
+
 def calculate_recency_score(published_at):
-    """Newer articles score higher. Max 10 points."""
     try:
         if not published_at:
             return 0
@@ -67,55 +86,45 @@ def calculate_recency_score(published_at):
         return 0
 
 def calculate_heuristic_score(article):
-    """Calculate rule-based priority score."""
     score = 0
     title = article.get("title", "").lower()
     source = article.get("source", "").lower()
     description = article.get("description", "").lower()
     combined = title + " " + description
 
-    # Keyword boost
     for keyword in HIGH_KEYWORDS:
         if keyword in combined:
             score += 8
 
-    # Trusted source boost
     for trusted in TRUSTED_SOURCES:
         if trusted in source:
             score += 5
             break
 
-    # Recency boost
     score += calculate_recency_score(article.get("published_at", ""))
 
-    # Spam penalty
     for spam in SPAM_KEYWORDS:
         if spam in combined:
             score -= 15
 
-    # Length penalty — very short titles are often clickbait
     if len(article.get("title", "")) < 20:
         score -= 5
 
     return score
 
-# ─── LOAD + CLEAN LABELED DATA ──────────────────────────────────
 def load_labeled_data(filepath="labeled_headlines.csv"):
-    """Load and clean the labeled headlines CSV."""
     titles, labels = [], []
     label_map = {"high": 2, "medium": 1, "low": 0}
 
     try:
         with open(filepath, "r", encoding="utf-8") as f:
             reader = csv.reader(f)
-            next(reader)  # skip header
+            next(reader)
             for row in reader:
                 if len(row) < 2:
                     continue
                 title = row[0].strip().strip('"').strip("'")
                 priority = row[-1].strip().lower().strip('"').strip("'")
-
-                # Clean up common formatting issues
                 priority = re.sub(r'[^a-z]', '', priority)
 
                 if priority in label_map and len(title) > 5:
@@ -129,9 +138,7 @@ def load_labeled_data(filepath="labeled_headlines.csv"):
         log.error("labeled_headlines.csv not found")
         return [], []
 
-# ─── TRAIN CLASSIFIER ───────────────────────────────────────────
 def train_classifier(titles, labels):
-    """Train TF-IDF + Logistic Regression classifier."""
     if len(titles) < 20:
         log.warning("Not enough labeled data to train classifier")
         return None, None
@@ -143,8 +150,6 @@ def train_classifier(titles, labels):
     )
 
     X = vectorizer.fit_transform(titles)
-
-    # Train/test split for evaluation
     X_train, X_test, y_train, y_test = train_test_split(
         X, labels, test_size=0.2, random_state=42, stratify=labels
     )
@@ -156,61 +161,49 @@ def train_classifier(titles, labels):
     )
     classifier.fit(X_train, y_train)
 
-    # Evaluation metrics
     y_pred = classifier.predict(X_test)
     log.info("\n" + classification_report(y_test, y_pred,
              target_names=["Low", "Medium", "High"]))
-    log.info(f"Confusion Matrix:\n{confusion_matrix(y_test, y_pred)}")
 
-    # Save model for reuse
     with open("classifier.pkl", "wb") as f:
         pickle.dump((vectorizer, classifier), f)
     log.info("Classifier saved to classifier.pkl")
 
     return vectorizer, classifier
 
-# ─── RANK ARTICLES ──────────────────────────────────────────────
 def rank_articles(articles, vectorizer, classifier):
-    """Score each article combining ML + heuristics."""
     scored = []
-    label_map = {0: "Low", 1: "Medium", 2: "High"}
 
     for article in articles:
         title = article.get("title", "")
         if not title:
             continue
 
-        # ML score (0-2 mapped to 0-100)
         ml_score = 0
         if vectorizer and classifier:
             try:
                 X = vectorizer.transform([title])
                 proba = classifier.predict_proba(X)[0]
-                ml_score = proba[2] * 60 + proba[1] * 30  # weighted
+                ml_score = proba[2] * 60 + proba[1] * 30
             except Exception as e:
                 log.warning(f"ML scoring failed for '{title}': {e}")
 
-        # Heuristic score
         heuristic_score = calculate_heuristic_score(article)
-
-        # Combined score
         total_score = ml_score + heuristic_score
 
         article["ml_score"] = round(ml_score, 2)
         article["heuristic_score"] = round(heuristic_score, 2)
         article["total_score"] = round(total_score, 2)
+        article["category"] = get_topic_category(article)
         scored.append(article)
 
-    # Sort by total score descending
     scored.sort(key=lambda x: x["total_score"], reverse=True)
     return scored
 
-# ─── MAIN ────────────────────────────────────────────────────────
 def main():
     start_time = datetime.now()
     log.info("Starting ranker pipeline...")
 
-    # Load raw articles
     try:
         with open("raw_news.json", "r", encoding="utf-8") as f:
             articles = json.load(f)
@@ -219,32 +212,39 @@ def main():
         log.error("raw_news.json not found. Run ingest.py first.")
         return
 
-    # Train classifier
     titles, labels = load_labeled_data()
     vectorizer, classifier = train_classifier(titles, labels)
-
-    # Rank articles
     ranked = rank_articles(articles, vectorizer, classifier)
 
-    # Stats
-    high_count = sum(1 for a in ranked if a["total_score"] >= 50)
-    log.info(f"Articles scored: {len(ranked)}")
-    log.info(f"High priority articles (score >= 50): {high_count}")
-    log.info(f"Top article: '{ranked[0]['title']}' (score: {ranked[0]['total_score']})")
+    # ─── TOPIC DIVERSITY — max 3 per category ───────────────────
+    seen_categories = {}
+    diverse_articles = []
+    for article in ranked:
+        category = article.get("category", "other")
+        seen_categories[category] = seen_categories.get(category, 0) + 1
+        if seen_categories[category] <= 3:
+            diverse_articles.append(article)
+        if len(diverse_articles) >= 20:
+            break
 
-    # Save top 20
-    top_articles = ranked[:20]
+    log.info(f"Top 20 after diversity filter:")
+    categories_used = {}
+    for a in diverse_articles:
+        cat = a.get("category", "other")
+        categories_used[cat] = categories_used.get(cat, 0) + 1
+    for cat, count in categories_used.items():
+        log.info(f"  {cat}: {count} articles")
+
     with open("ranked_news.json", "w", encoding="utf-8") as f:
-        json.dump(top_articles, f, indent=2, ensure_ascii=False)
+        json.dump(diverse_articles, f, indent=2, ensure_ascii=False)
 
     elapsed = (datetime.now() - start_time).total_seconds()
     log.info(f"Ranked {len(ranked)} articles in {elapsed:.2f} seconds")
-    log.info(f"Top 15 saved to ranked_news.json")
+    log.info(f"Top 20 (diverse) saved to ranked_news.json")
 
-    # Print top 5 for quick review
     print("\n── TOP 5 ARTICLES ──────────────────────────────")
-    for i, a in enumerate(ranked[:5], 1):
-        print(f"{i}. [{a['total_score']:.0f}] {a['title']}")
+    for i, a in enumerate(diverse_articles[:5], 1):
+        print(f"{i}. [{a['total_score']:.0f}] [{a['category']}] {a['title']}")
     print("────────────────────────────────────────────────\n")
 
 if __name__ == "__main__":
