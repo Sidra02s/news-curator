@@ -36,15 +36,14 @@ Rules:
 - Be opinionated where relevant — this is a personal briefing, not a newspaper
 - If a story is genuinely important, say why
 - You MUST include ALL of these sections every time, even if you have to pull from lower ranked articles:
-  World & Politics
-  Tech & AI
-  Fashion & Beauty
-  Health & Wellness
-  India
-  Music
-
-Format each section exactly like this (plain text, no markdown symbols):
-[SECTION NAME]
+  🌍 World & Politics
+  🤖 Tech & AI
+  💄 Fashion & Beauty
+  💪 Health & Wellness
+  🇮🇳 India
+  🎵 Music
+Format each section exactly like this:
+[emoji + SECTION NAME]:
 - [story summary]
 - [story summary]
 - [story summary]
