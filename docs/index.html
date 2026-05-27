@@ -136,7 +136,7 @@
     document.getElementById('current-date').textContent = date.toLocaleDateString('en-US', options).toUpperCase();
 
     // Fetch briefing
-    fetch('briefing.txt')
+    fetch('https://raw.githubusercontent.com/Sidra02s/news-curator/main/docs/briefing.txt')
       .then(response => {
         if (!response.ok) throw new Error('Briefing not found');
         return response.text();
