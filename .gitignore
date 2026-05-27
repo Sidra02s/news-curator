@@ -5,3 +5,4 @@ __pycache__/
 raw_news.json
 ranked_news.json
 briefing.txt
+!docs/briefing.txt
