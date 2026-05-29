@@ -126,5 +126,40 @@ python main.py
 
 
 
-\## Project Structure
+## Project Structure
+
+```text
+news-agent/
+│
+├── .github/workflows/     # GitHub Actions automation configurations (6AM UAE Cron)
+│   └── main.yml           # Serverless workflow pipeline execution script
+│
+├── docs/                  # Public web directory for frontend hosting
+│   └── index.html         # Live static dashboard rendering the morning briefing
+│
+├── ingest.py              # Fetches raw articles from NewsAPI, Guardian API, and 13 RSS feeds
+├── ranker.py              # Runs headlines through scikit-learn Logistic Regression classifier
+├── summarizer.py          # Formats top-ranked articles and calls Gemini 2.5 Flash API
+├── delivery.py            # Connects to Telegram Bot API to broadcast final briefings
+│
+├── classifier.pkl         # Serialized ML model weights (TF-IDF Vectorizer + Classifier)
+├── pipeline.db            # SQLite relational database archiving history (V2 Upgrade)
+├── requirements.txt       # Production library dependency versions manifest
+└── README.md              # Project documentation and engineering portfolio homepage
+
+
+
+## 📊 Model Evaluation & Performance
+The ranking layer uses a `scikit-learn` pipeline featuring a **TF-IDF Vectorizer** and a **Logistic Regression** classifier. The model evaluates incoming headlines and scores them into priority tiers.
+
+### Classification Report
+| Priority Tier | Precision | Recall | F1-Score | Support |
+| :--- | :---: | :---: | :---: | :---: |
+| 🔴 **High** | 0.47 | 0.80 | **0.59** | 20 |
+| 🟡 **Medium** | 1.00 | 0.10 | 0.18 | 10 |
+| 🔵 **Low** | 0.30 | 0.20 | 0.24 | 15 |
+| **Overall Accuracy** | | | **0.44** | **45** |
+
+### Strategic Optimization Note
+The model is intentionally tuned to favor **high recall (0.80) on High-priority news**. In the context of a personal news assistant, minimizing false negatives is critical—it is much better for the agent to surface a few extra borderline articles (lower precision) than to completely miss a major story I care about (high recall).
 
