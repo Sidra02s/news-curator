@@ -2,6 +2,7 @@ import json
 import os
 import time
 import logging
+import sqlite3  # Added database driver
 from datetime import datetime
 from zoneinfo import ZoneInfo
 from dotenv import load_dotenv
@@ -22,6 +23,7 @@ log = logging.getLogger(__name__)
 load_dotenv()
 
 # ─── CONFIGURE GEMINI ───────────────────────────────────────────
+# Pull API Key safely out of environment state context
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 client = genai.Client(api_key=GEMINI_API_KEY)
 
@@ -55,6 +57,38 @@ Format each section exactly like this:
 End with:
 TODAY'S TAKEAWAY: [one line capturing the most important thing happening right now]"""
 
+# ─── DATABASE FETCH FUNCTION ────────────────────────────────────
+def fetch_high_priority_articles_from_db():
+    """Queries the SQLite database relational layer for the top freshest High priority rows."""
+    try:
+        connection = sqlite3.connect("pipeline.db")
+        cursor = connection.cursor()
+        
+        # Pulling the top 20 high signal headlines
+        cursor.execute("""
+            SELECT title, source, url 
+            FROM articles 
+            WHERE priority = 'High' 
+            ORDER BY id DESC 
+            LIMIT 20
+        """)
+        rows = cursor.fetchall()
+        connection.close()
+        
+        articles = []
+        for title, source, url in rows:
+            articles.append({
+                "title": title,
+                "description": "", # Default blank since database tracks headlines
+                "source": source,
+                "url": url,
+                "category": "High Signal News Archive"
+            })
+        return articles
+    except Exception as e:
+        log.error(f"Database collection failed: {e}")
+        return []
+
 # ─── BUILD PROMPT ───────────────────────────────────────────────
 def build_prompt(articles):
     today = datetime.now().strftime("%A, %B %d, %Y")
@@ -65,8 +99,8 @@ def build_prompt(articles):
         description = a.get("description", "") or ""
         source = a.get("source", "Unknown")
         category = a.get("category", "")
-
         url = a.get("url", "")
+        
         article_list += f"""
 Article {i} [Category: {category}]:
 Title: {title}
@@ -123,23 +157,20 @@ def generate_briefing(articles):
 # ─── MAIN ────────────────────────────────────────────────────────
 def main():
     start_time = datetime.now()
-    log.info("Starting summarizer...")
+    log.info("Starting database-integrated summarizer...")
 
-    try:
-        with open("ranked_news.json", "r", encoding="utf-8") as f:
-            articles = json.load(f)
-        log.info(f"Loaded {len(articles)} ranked articles")
-    except FileNotFoundError:
-        log.error("ranked_news.json not found. Run ranker.py first.")
+    # Swapped from opening ranked_news.json to fetching straight from SQLite columns
+    top_articles = fetch_high_priority_articles_from_db()
+    log.info(f"Loaded {len(top_articles)} high-priority articles from SQL engine")
+
+    if not top_articles:
+        log.error("No high priority data rows found in database context. Make sure to execute ranker.py first.")
         return
-
-    top_articles = articles[:20]
-    log.info(f"Using top {len(top_articles)} articles for briefing")
 
     briefing = generate_briefing(top_articles)
 
     if not briefing:
-        log.error("Failed to generate briefing")
+        log.error("Failed to generate briefing string output matching credentials.")
         return
 
     uae_tz = ZoneInfo("Asia/Dubai")

@@ -362,3 +362,29 @@ weighted avg       0.53      0.44      0.38        45
 2026-05-29 16:40:38,702 [INFO] ==================================================
 2026-05-29 16:40:38,702 [INFO] PIPELINE COMPLETE in 42.48 seconds
 2026-05-29 16:40:38,702 [INFO] ==================================================
+2026-05-30 00:43:33,280 [INFO] Starting ranker pipeline...
+2026-05-30 00:43:33,281 [INFO] Loaded 90 articles from raw_news.json
+2026-05-30 00:43:33,285 [INFO] Loaded 225 labeled headlines
+2026-05-30 00:43:33,314 [INFO] 
+              precision    recall  f1-score   support
+
+         Low       0.30      0.20      0.24        15
+      Medium       1.00      0.10      0.18        10
+        High       0.47      0.80      0.59        20
+
+    accuracy                           0.44        45
+   macro avg       0.59      0.37      0.34        45
+weighted avg       0.53      0.44      0.38        45
+
+2026-05-30 00:43:33,314 [INFO] Classifier saved to classifier.pkl
+2026-05-30 00:43:33,365 [INFO] Top 20 after diversity filter:
+2026-05-30 00:43:33,365 [INFO]   health: 3 articles
+2026-05-30 00:43:33,365 [INFO]   tech: 3 articles
+2026-05-30 00:43:33,365 [INFO]   india: 3 articles
+2026-05-30 00:43:33,365 [INFO]   fashion: 3 articles
+2026-05-30 00:43:33,365 [INFO]   music: 3 articles
+2026-05-30 00:43:33,365 [INFO] Ranked 90 articles in 0.08 seconds
+2026-05-30 00:43:33,365 [INFO] Top 20 (diverse) saved to ranked_news.json
+2026-05-30 01:05:45,955 [INFO] Starting database-integrated summarizer...
+2026-05-30 01:05:45,968 [INFO] Loaded 0 high-priority articles from SQL engine
+2026-05-30 01:05:45,969 [ERROR] No high priority data rows found in database context. Make sure to execute ranker.py first.

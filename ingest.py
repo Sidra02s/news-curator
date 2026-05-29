@@ -2,11 +2,12 @@ import requests
 import feedparser
 import json
 import os
+import sqlite3
 from datetime import datetime, timedelta
 
 # ─── YOUR API KEYS ───────────────────────────────────────────────
-NEWS_API_KEY="769eab7a28a24db3ac4f28fb7bc214d5"
-GUARDIAN_API_KEY="c267d684-3954-4f0c-ae32-1abe8127cb86"
+NEWS_API_KEY = "YOUR_NEWSAPI_KEY_HERE"
+GUARDIAN_API_KEY = "YOUR_GUARDIAN_KEY_HERE"  # Get free at open-platform.theguardian.com
 
 # ─── YOUR TOPICS (NewsAPI) ───────────────────────────────────────
 # These are searched across 150,000+ sources
@@ -102,7 +103,7 @@ def fetch_guardian(section, api_key):
         "section": section,
         "from-date": yesterday,
         "order-by": "newest",
-        "page-size": 20,
+        "page-size": 10,
         "api-key": api_key,
     }
     try:
@@ -131,7 +132,7 @@ def fetch_rss(feed_url, topic_label):
     try:
         feed = feedparser.parse(feed_url)
         results = []
-        for entry in feed.entries[:20]:
+        for entry in feed.entries[:10]:
             title = entry.get("title", "").strip()
             if not title:
                 continue
@@ -162,7 +163,41 @@ def deduplicate(articles):
     return unique
 
 
-# ─── MAIN ────────────────────────────────────────────────────────
+# ─── DATABASE STORAGE INTEGRATION ────────────────────────────────
+
+def save_articles_to_db(articles_list):
+    """Saves incoming pipeline metrics and headlines to SQLite database archive."""
+    connection = sqlite3.connect("pipeline.db")
+    cursor = connection.cursor()
+    saved_count = 0
+    
+    for article in articles_list:
+        try:
+            # UNIQUE constraint on URL protects system from entering tracking duplicates
+            cursor.execute("""
+                INSERT OR IGNORE INTO articles (title, url, source, published_at, priority)
+                VALUES (?, ?, ?, ?, ?)
+            """, (
+                article.get('title'),
+                article.get('url'),
+                article.get('source'),
+                article.get('published_at'),
+                'Low' # Initial default layer state before machine learning evaluation runs
+            ))
+            
+            if cursor.rowcount > 0:
+                saved_count += 1
+                
+        except Exception as e:
+            print(f"Error inserting article into SQLite execution context: {e}")
+            continue
+
+    connection.commit()
+    connection.close()
+    print(f"💾 Successfully saved {saved_count} brand new unique articles to SQLite database!")
+
+
+# ─── MAIN EXECUTION PIPELINE ─────────────────────────────────────
 
 def main():
     all_articles = []
@@ -192,11 +227,14 @@ def main():
     unique_articles = deduplicate(all_articles)
     print(f"\n✓ Total after deduplication: {len(unique_articles)} articles")
 
-    # Save
+    # Save to flat file legacy backup layer
     with open("raw_news.json", "w", encoding="utf-8") as f:
         json.dump(unique_articles, f, indent=2, ensure_ascii=False)
+    print("✓ Saved to raw_news.json legacy log file")
 
-    print("✓ Saved to raw_news.json")
+    # Save directly to SQL Database Relational Storage Engine
+    save_articles_to_db(unique_articles)
+
     print(f"\nBreakdown by origin:")
     for origin in ["newsapi", "guardian", "rss"]:
         count = sum(1 for a in unique_articles if a["origin"] == origin)
