@@ -44,10 +44,14 @@ async def send_briefing(text):
 
     try:
         for i, chunk in enumerate(chunks):
+            # Added explicit timeouts to prevent connection drops on large text payloads
             await bot.send_message(
                 chat_id=TELEGRAM_CHAT_ID,
                 text=chunk,
-                parse_mode=None
+                parse_mode=None,
+                connect_timeout=30,  # Gives the connection 30 seconds to handshake
+                read_timeout=30,     # Gives the payload 30 seconds to stream completely
+                write_timeout=30     # Gives the API server time to process and reply
             )
             if len(chunks) > 1:
                 log.info(f"Sent chunk {i+1} of {len(chunks)}")

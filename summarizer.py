@@ -37,6 +37,7 @@ Rules:
 - If a story is genuinely important, say why
 - Do NOT use any markdown symbols like **, *, #, or __
 - Plain text only — no bold, no italic, no headers with symbols
+- After each bullet point include the source URL in brackets like this:[Read more](url)
 - You MUST include ALL of these sections every time:
   🌍 World & Politics
   🤖 Tech & AI
@@ -65,13 +66,14 @@ def build_prompt(articles):
         source = a.get("source", "Unknown")
         category = a.get("category", "")
 
+        url = a.get("url", "")
         article_list += f"""
 Article {i} [Category: {category}]:
 Title: {title}
 Description: {description[:200] if description else 'N/A'}
 Source: {source}
+URL: {url}
 ---"""
-
     prompt = f"""Today is {today}.
 
 Here are today's top ranked news articles organized by category.
