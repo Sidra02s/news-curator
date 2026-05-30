@@ -1,3 +1,4 @@
+import sqlite3
 import json
 import os
 import csv
@@ -200,6 +201,24 @@ def rank_articles(articles, vectorizer, classifier):
     scored.sort(key=lambda x: x["total_score"], reverse=True)
     return scored
 
+def update_priorities_in_db(articles):
+    connection = sqlite3.connect("pipeline.db")
+    cursor = connection.cursor()
+    for article in articles:
+        score = article.get("total_score", 0)
+        if score >= 40:
+            priority = "High"
+        elif score >= 20:
+            priority = "Medium"
+        else:
+            priority = "Low"
+        cursor.execute("""
+            UPDATE articles SET priority = ? WHERE url = ?
+        """, (priority, article.get("url")))
+    connection.commit()
+    connection.close()
+    log.info(f"Updated priorities in database for {len(articles)} articles")
+
 def main():
     start_time = datetime.now()
     log.info("Starting ranker pipeline...")
@@ -246,6 +265,8 @@ def main():
     for i, a in enumerate(diverse_articles[:5], 1):
         print(f"{i}. [{a['total_score']:.0f}] [{a['category']}] {a['title']}")
     print("────────────────────────────────────────────────\n")
+
+update_priorities_in_db(ranked)
 
 if __name__ == "__main__":
     main()
