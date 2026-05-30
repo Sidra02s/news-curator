@@ -388,3 +388,45 @@ weighted avg       0.53      0.44      0.38        45
 2026-05-30 01:05:45,955 [INFO] Starting database-integrated summarizer...
 2026-05-30 01:05:45,968 [INFO] Loaded 0 high-priority articles from SQL engine
 2026-05-30 01:05:45,969 [ERROR] No high priority data rows found in database context. Make sure to execute ranker.py first.
+2026-05-30 13:22:37,989 [INFO] ==================================================
+2026-05-30 13:22:37,989 [INFO] SIDRA'S BRIEFING PIPELINE STARTING
+2026-05-30 13:22:37,989 [INFO] ==================================================
+2026-05-30 13:23:00,613 [INFO] Starting ranker pipeline...
+2026-05-30 13:23:00,613 [INFO] Loaded 90 articles from raw_news.json
+2026-05-30 13:23:00,613 [INFO] Loaded 225 labeled headlines
+2026-05-30 13:23:00,703 [INFO] 
+              precision    recall  f1-score   support
+
+         Low       0.30      0.20      0.24        15
+      Medium       1.00      0.10      0.18        10
+        High       0.47      0.80      0.59        20
+
+    accuracy                           0.44        45
+   macro avg       0.59      0.37      0.34        45
+weighted avg       0.53      0.44      0.38        45
+
+2026-05-30 13:23:00,723 [INFO] Classifier saved to classifier.pkl
+2026-05-30 13:23:00,791 [INFO] Top 20 after diversity filter:
+2026-05-30 13:23:00,793 [INFO]   india: 3 articles
+2026-05-30 13:23:00,793 [INFO]   health: 3 articles
+2026-05-30 13:23:00,793 [INFO]   tech: 3 articles
+2026-05-30 13:23:00,793 [INFO]   fashion: 3 articles
+2026-05-30 13:23:00,793 [INFO]   music: 3 articles
+2026-05-30 13:23:00,805 [INFO] Ranked 90 articles in 0.19 seconds
+2026-05-30 13:23:00,805 [INFO] Top 20 (diverse) saved to ranked_news.json
+2026-05-30 13:23:00,828 [INFO] Updated priorities in database for 90 articles
+2026-05-30 13:23:00,831 [INFO] Starting database-integrated summarizer...
+2026-05-30 13:23:00,831 [INFO] Loaded 20 high-priority articles from SQL engine
+2026-05-30 13:23:00,831 [INFO] Sending 20 articles to Gemini...
+2026-05-30 13:23:00,831 [INFO] AFC is enabled with max remote calls: 10.
+2026-05-30 13:23:15,102 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-05-30 13:23:15,110 [INFO] Briefing generated (496 characters)
+2026-05-30 13:23:15,140 [INFO] Briefing saved to briefing.txt in 14.31 seconds
+2026-05-30 13:23:15,147 [INFO] Starting delivery...
+2026-05-30 13:23:15,147 [INFO] Loaded briefing (635 characters)
+2026-05-30 13:23:16,472 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-05-30 13:23:16,477 [INFO] Briefing delivered to Telegram successfully
+2026-05-30 13:23:16,482 [INFO] Delivery complete
+2026-05-30 13:23:16,484 [INFO] ==================================================
+2026-05-30 13:23:16,484 [INFO] PIPELINE COMPLETE in 38.50 seconds
+2026-05-30 13:23:16,484 [INFO] ==================================================

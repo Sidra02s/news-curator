@@ -142,9 +142,13 @@ def generate_briefing(articles):
             )
 
             briefing = response.text
+
+            if len(briefing) < 1000:
+               log.warning(f"Briefing too short ({len(briefing)} chars) — likely truncated. Retrying...")
+               raise Exception("Briefing output too short")
+
             log.info(f"Briefing generated ({len(briefing)} characters)")
             return briefing
-
         except Exception as e:
             log.warning(f"Attempt {attempt + 1} failed: {e}")
             if attempt < 2:

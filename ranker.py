@@ -260,13 +260,13 @@ def main():
     elapsed = (datetime.now() - start_time).total_seconds()
     log.info(f"Ranked {len(ranked)} articles in {elapsed:.2f} seconds")
     log.info(f"Top 20 (diverse) saved to ranked_news.json")
+    update_priorities_in_db(ranked)
 
     print("\n── TOP 5 ARTICLES ──────────────────────────────")
     for i, a in enumerate(diverse_articles[:5], 1):
         print(f"{i}. [{a['total_score']:.0f}] [{a['category']}] {a['title']}")
     print("────────────────────────────────────────────────\n")
 
-update_priorities_in_db(ranked)
 
 if __name__ == "__main__":
     main()
