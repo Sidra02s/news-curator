@@ -1,16 +1,14 @@
 SIDRA'S MORNING BRIEFING
-Friday, May 29, 2026
+Sunday, May 31, 2026
 -----------------------------
 
 🌍 World & Politics
-- Delhi’s elite are in a huff over the potential eviction of the exclusive Delhi Gymkhana Club; seems even the highest echelons aren't immune to a good old-fashioned property dispute. [Read more](https://www.theguardian.com/world/2026/may/29/delhi-gymkhana-club-why-india-government-modi-shut-down)
-- Ukraine is seriously upping its air game, with a new deal for Gripen fighter jets from Sweden, suggesting the tide might be turning. This is important because air superiority could be a game-changer. [Read more](https://www.theguardian.com/world/2026/may/29/ukraine-war-briefing-gripen-jet-deal-sweden-zelenskyy)
-- The EU is feeling optimistic, claiming Russia is on the back foot and the dynamics of the war in Ukraine are shifting in Ukraine’s favor. Let's hope they're right and not just wishful thinking. [Read more](https://www.theguardian.com/world/live/2026/may/28/europe-russia-ukraine-talks-heatwave-kaja-kallas-putin-latest-news-updates)
+- West Bengal is shaking up its government, with 35 new ministers set to take oath tomorrow. This is big political news as it signifies a major reshuffle. [Read more](https://www.ndtv.com/india-news/35-ministers-to-take-oath-in-west-bengal-cabinet-expansion-tomorrow-11572751#publisher=newsstand)
+- A Trinamool meeting got canceled because three-fourths of its MLAs decided to play hooky. Talk about internal party drama; someone's definitely getting an angry call. [Read more](https://www.thehindu.com/news/national/west-bengal/tmc-mla-meet-called-off-abhishek-kalyan-banerjee-attacks-bengal/article71045151.ece)
+- In a truly wild statement, a Madhya Pradesh MLA praised a Chambal dacoit as a "companion in happiness and sorrow." We're not sure what kind of political strategy this is, but it's certainly... bold. [Read more](https://www.ndtv.com/india-news/madhya-pradesh-mla-pritam-lodhi-praises-chambal-dacoit-rambabu-gadariya-calls-him-companions-in-happiness-sorrow-11572544#publisher=newsstand)
 
 🤖 Tech & AI
-- Anthropic just blew past OpenAI, hitting a staggering $965 billion valuation to become the world's most valuable AI firm. Looks like the AI race just got a new frontrunner, and it's not who you might expect. [Read more](https://www.theguardian.com/technology/2026/may/28/anthropic-ai-valuation)
-- Adobe's new conversational AI agent for design is apparently a bit of a flop, described as a "mediocre design intern." Good to know some creative tasks still need human brilliance, or at least a better AI. [Read more](https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern)
-- A new AI startup called Shift will clean your home for free, but there's a catch: they'll record everything to train future robot cleaners. So, free cleaning, but at the cost of your privacy – the ultimate trade-off. [Read more](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning)
+- User-replaceable batteries are making a comeback, thanks to new EU legislation. Finally, a win for sustainability and
 
 -----------------------------
-Generated at 16:52 UAE time
+Generated at 22:00 UAE time
