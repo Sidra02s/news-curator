@@ -6,8 +6,8 @@ import sqlite3
 from datetime import datetime, timedelta
 
 # ─── YOUR API KEYS ───────────────────────────────────────────────
-NEWS_API_KEY = "YOUR_NEWSAPI_KEY_HERE"
-GUARDIAN_API_KEY = "YOUR_GUARDIAN_KEY_HERE"  # Get free at open-platform.theguardian.com
+NEWS_API_KEY = os.getenv("NEWS_API_KEY")
+GUARDIAN_API_KEY = os.getenv("GUARDIAN_API_KEY")
 
 # ─── YOUR TOPICS (NewsAPI) ───────────────────────────────────────
 # These are searched across 150,000+ sources
@@ -170,10 +170,9 @@ def save_articles_to_db(articles_list):
     connection = sqlite3.connect("pipeline.db")
     cursor = connection.cursor()
     saved_count = 0
-    
+
     for article in articles_list:
         try:
-            # UNIQUE constraint on URL protects system from entering tracking duplicates
             cursor.execute("""
                 INSERT OR IGNORE INTO articles (title, url, source, published_at, priority)
                 VALUES (?, ?, ?, ?, ?)
@@ -182,12 +181,12 @@ def save_articles_to_db(articles_list):
                 article.get('url'),
                 article.get('source'),
                 article.get('published_at'),
-                'Low' # Initial default layer state before machine learning evaluation runs
+                'Low'
             ))
-            
+
             if cursor.rowcount > 0:
                 saved_count += 1
-                
+
         except Exception as e:
             print(f"Error inserting article into SQLite execution context: {e}")
             continue

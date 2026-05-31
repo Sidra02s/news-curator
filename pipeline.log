@@ -531,3 +531,45 @@ weighted avg       0.53      0.44      0.38        45
 2026-05-31 20:50:06,272 [INFO] ==================================================
 2026-05-31 20:50:06,272 [INFO] PIPELINE COMPLETE in 60.20 seconds
 2026-05-31 20:50:06,272 [INFO] ==================================================
+2026-05-31 21:50:54,808 [INFO] ==================================================
+2026-05-31 21:50:54,808 [INFO] SIDRA'S BRIEFING PIPELINE STARTING
+2026-05-31 21:50:54,808 [INFO] ==================================================
+2026-05-31 21:51:23,323 [INFO] Starting ranker pipeline...
+2026-05-31 21:51:23,323 [INFO] Loaded 90 articles from raw_news.json
+2026-05-31 21:51:23,329 [INFO] Loaded 225 labeled headlines
+2026-05-31 21:51:23,431 [INFO] 
+              precision    recall  f1-score   support
+
+         Low       0.30      0.20      0.24        15
+      Medium       1.00      0.10      0.18        10
+        High       0.47      0.80      0.59        20
+
+    accuracy                           0.44        45
+   macro avg       0.59      0.37      0.34        45
+weighted avg       0.53      0.44      0.38        45
+
+2026-05-31 21:51:23,447 [INFO] Classifier saved to classifier.pkl
+2026-05-31 21:51:23,567 [INFO] Top 20 after diversity filter:
+2026-05-31 21:51:23,567 [INFO]   tech: 3 articles
+2026-05-31 21:51:23,567 [INFO]   health: 3 articles
+2026-05-31 21:51:23,567 [INFO]   india: 3 articles
+2026-05-31 21:51:23,567 [INFO]   fashion: 3 articles
+2026-05-31 21:51:23,567 [INFO]   music: 3 articles
+2026-05-31 21:51:23,578 [INFO] Ranked 90 articles in 0.26 seconds
+2026-05-31 21:51:23,578 [INFO] Top 20 (diverse) saved to ranked_news.json
+2026-05-31 21:51:23,605 [INFO] Updated priorities in database for 90 articles
+2026-05-31 21:51:23,612 [INFO] Starting database-integrated summarizer...
+2026-05-31 21:51:23,612 [INFO] Loaded 20 high-priority articles from SQL engine
+2026-05-31 21:51:23,612 [INFO] Sending 20 articles to Gemini...
+2026-05-31 21:51:23,612 [INFO] AFC is enabled with max remote calls: 10.
+2026-05-31 21:51:40,165 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-05-31 21:51:40,176 [INFO] Briefing generated (2947 characters)
+2026-05-31 21:51:40,194 [INFO] Briefing saved to briefing.txt in 16.58 seconds
+2026-05-31 21:51:40,198 [INFO] Starting delivery...
+2026-05-31 21:51:40,198 [INFO] Loaded briefing (3084 characters)
+2026-05-31 21:51:42,249 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-05-31 21:51:42,249 [INFO] Briefing delivered to Telegram successfully
+2026-05-31 21:51:42,249 [INFO] Delivery complete
+2026-05-31 21:51:42,249 [INFO] ==================================================
+2026-05-31 21:51:42,249 [INFO] PIPELINE COMPLETE in 47.44 seconds
+2026-05-31 21:51:42,249 [INFO] ==================================================

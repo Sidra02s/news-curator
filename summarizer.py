@@ -2,7 +2,7 @@ import json
 import os
 import time
 import logging
-import sqlite3  # Added database driver
+import sqlite3
 from datetime import datetime
 from zoneinfo import ZoneInfo
 from dotenv import load_dotenv
@@ -23,7 +23,6 @@ log = logging.getLogger(__name__)
 load_dotenv()
 
 # ─── CONFIGURE GEMINI ───────────────────────────────────────────
-# Pull API Key safely out of environment state context
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 client = genai.Client(api_key=GEMINI_API_KEY)
 
@@ -63,8 +62,7 @@ def fetch_high_priority_articles_from_db():
     try:
         connection = sqlite3.connect("pipeline.db")
         cursor = connection.cursor()
-        
-        # Pulling the top 20 high signal headlines
+
         cursor.execute("""
             SELECT title, source, url 
             FROM articles 
@@ -74,12 +72,12 @@ def fetch_high_priority_articles_from_db():
         """)
         rows = cursor.fetchall()
         connection.close()
-        
+
         articles = []
         for title, source, url in rows:
             articles.append({
                 "title": title,
-                "description": "", # Default blank since database tracks headlines
+                "description": "",
                 "source": source,
                 "url": url,
                 "category": "High Signal News Archive"
@@ -100,7 +98,7 @@ def build_prompt(articles):
         source = a.get("source", "Unknown")
         category = a.get("category", "")
         url = a.get("url", "")
-        
+
         article_list += f"""
 Article {i} [Category: {category}]:
 Title: {title}
@@ -108,6 +106,7 @@ Description: {description[:200] if description else 'N/A'}
 Source: {source}
 URL: {url}
 ---"""
+
     prompt = f"""Today is {today}.
 
 Here are today's top ranked news articles organized by category.
@@ -137,18 +136,19 @@ def generate_briefing(articles):
                 contents=f"{SYSTEM_PROMPT}\n\n{prompt}",
                 config=types.GenerateContentConfig(
                     temperature=0.7,
-                    max_output_tokens=3000,
+                    max_output_tokens=8000,
                 )
             )
 
             briefing = response.text
 
-            if len(briefing) < 1000:
-               log.warning(f"Briefing too short ({len(briefing)} chars) — likely truncated. Retrying...")
-               raise Exception("Briefing output too short")
+            if len(briefing) < 800:
+                log.warning(f"Briefing too short ({len(briefing)} chars) — likely truncated. Retrying...")
+                raise Exception("Briefing output too short")
 
             log.info(f"Briefing generated ({len(briefing)} characters)")
             return briefing
+
         except Exception as e:
             log.warning(f"Attempt {attempt + 1} failed: {e}")
             if attempt < 2:
@@ -163,7 +163,6 @@ def main():
     start_time = datetime.now()
     log.info("Starting database-integrated summarizer...")
 
-    # Swapped from opening ranked_news.json to fetching straight from SQLite columns
     top_articles = fetch_high_priority_articles_from_db()
     log.info(f"Loaded {len(top_articles)} high-priority articles from SQL engine")
 
