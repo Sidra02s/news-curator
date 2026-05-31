@@ -430,3 +430,104 @@ weighted avg       0.53      0.44      0.38        45
 2026-05-30 13:23:16,484 [INFO] ==================================================
 2026-05-30 13:23:16,484 [INFO] PIPELINE COMPLETE in 38.50 seconds
 2026-05-30 13:23:16,484 [INFO] ==================================================
+2026-05-31 19:49:22,956 [INFO] ==================================================
+2026-05-31 19:49:22,956 [INFO] SIDRA'S BRIEFING PIPELINE STARTING
+2026-05-31 19:49:22,956 [INFO] ==================================================
+2026-05-31 19:49:57,784 [INFO] Starting ranker pipeline...
+2026-05-31 19:49:57,788 [INFO] Loaded 90 articles from raw_news.json
+2026-05-31 19:49:57,790 [INFO] Loaded 225 labeled headlines
+2026-05-31 19:49:57,878 [INFO] 
+              precision    recall  f1-score   support
+
+         Low       0.30      0.20      0.24        15
+      Medium       1.00      0.10      0.18        10
+        High       0.47      0.80      0.59        20
+
+    accuracy                           0.44        45
+   macro avg       0.59      0.37      0.34        45
+weighted avg       0.53      0.44      0.38        45
+
+2026-05-31 19:49:57,896 [INFO] Classifier saved to classifier.pkl
+2026-05-31 19:49:57,984 [INFO] Top 20 after diversity filter:
+2026-05-31 19:49:57,984 [INFO]   health: 3 articles
+2026-05-31 19:49:57,984 [INFO]   tech: 3 articles
+2026-05-31 19:49:57,984 [INFO]   india: 3 articles
+2026-05-31 19:49:57,994 [INFO]   fashion: 3 articles
+2026-05-31 19:49:57,994 [INFO]   music: 3 articles
+2026-05-31 19:49:57,998 [INFO] Ranked 90 articles in 0.21 seconds
+2026-05-31 19:49:57,998 [INFO] Top 20 (diverse) saved to ranked_news.json
+2026-05-31 19:49:58,012 [INFO] Updated priorities in database for 90 articles
+2026-05-31 19:49:58,015 [INFO] Starting database-integrated summarizer...
+2026-05-31 19:49:58,021 [INFO] Loaded 20 high-priority articles from SQL engine
+2026-05-31 19:49:58,022 [INFO] Sending 20 articles to Gemini...
+2026-05-31 19:49:58,024 [INFO] AFC is enabled with max remote calls: 10.
+2026-05-31 19:50:14,336 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-05-31 19:50:14,354 [WARNING] Briefing too short (377 chars) — likely truncated. Retrying...
+2026-05-31 19:50:14,354 [WARNING] Attempt 1 failed: Briefing output too short
+2026-05-31 19:50:14,354 [INFO] Retrying in 5 seconds...
+2026-05-31 19:50:19,357 [INFO] AFC is enabled with max remote calls: 10.
+2026-05-31 19:50:34,104 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-05-31 19:50:34,111 [WARNING] Briefing too short (478 chars) — likely truncated. Retrying...
+2026-05-31 19:50:34,111 [WARNING] Attempt 2 failed: Briefing output too short
+2026-05-31 19:50:34,112 [INFO] Retrying in 5 seconds...
+2026-05-31 19:50:39,112 [INFO] AFC is enabled with max remote calls: 10.
+2026-05-31 19:50:54,067 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-05-31 19:50:54,072 [WARNING] Briefing too short (419 chars) — likely truncated. Retrying...
+2026-05-31 19:50:54,072 [WARNING] Attempt 3 failed: Briefing output too short
+2026-05-31 19:50:54,072 [ERROR] All 3 attempts failed
+2026-05-31 19:50:54,074 [ERROR] Failed to generate briefing string output matching credentials.
+2026-05-31 19:50:54,086 [INFO] Starting delivery...
+2026-05-31 19:50:54,094 [INFO] Loaded briefing (635 characters)
+2026-05-31 19:50:56,114 [ERROR] Telegram error: httpx.ConnectError: 
+2026-05-31 19:50:56,254 [ERROR] Pipeline stopped due to error
+2026-05-31 20:49:06,077 [INFO] ==================================================
+2026-05-31 20:49:06,077 [INFO] SIDRA'S BRIEFING PIPELINE STARTING
+2026-05-31 20:49:06,077 [INFO] ==================================================
+2026-05-31 20:49:25,278 [INFO] Starting ranker pipeline...
+2026-05-31 20:49:25,282 [INFO] Loaded 90 articles from raw_news.json
+2026-05-31 20:49:25,282 [INFO] Loaded 225 labeled headlines
+2026-05-31 20:49:25,374 [INFO] 
+              precision    recall  f1-score   support
+
+         Low       0.30      0.20      0.24        15
+      Medium       1.00      0.10      0.18        10
+        High       0.47      0.80      0.59        20
+
+    accuracy                           0.44        45
+   macro avg       0.59      0.37      0.34        45
+weighted avg       0.53      0.44      0.38        45
+
+2026-05-31 20:49:25,378 [INFO] Classifier saved to classifier.pkl
+2026-05-31 20:49:25,426 [INFO] Top 20 after diversity filter:
+2026-05-31 20:49:25,426 [INFO]   india: 3 articles
+2026-05-31 20:49:25,426 [INFO]   tech: 3 articles
+2026-05-31 20:49:25,426 [INFO]   health: 3 articles
+2026-05-31 20:49:25,426 [INFO]   fashion: 3 articles
+2026-05-31 20:49:25,426 [INFO]   music: 3 articles
+2026-05-31 20:49:25,426 [INFO] Ranked 90 articles in 0.15 seconds
+2026-05-31 20:49:25,426 [INFO] Top 20 (diverse) saved to ranked_news.json
+2026-05-31 20:49:25,442 [INFO] Updated priorities in database for 90 articles
+2026-05-31 20:49:25,442 [INFO] Starting database-integrated summarizer...
+2026-05-31 20:49:25,442 [INFO] Loaded 20 high-priority articles from SQL engine
+2026-05-31 20:49:25,442 [INFO] Sending 20 articles to Gemini...
+2026-05-31 20:49:25,442 [INFO] AFC is enabled with max remote calls: 10.
+2026-05-31 20:49:26,882 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-05-31 20:49:26,882 [WARNING] Attempt 1 failed: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-05-31 20:49:26,882 [INFO] Retrying in 5 seconds...
+2026-05-31 20:49:31,887 [INFO] AFC is enabled with max remote calls: 10.
+2026-05-31 20:49:49,118 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-05-31 20:49:49,118 [WARNING] Briefing too short (432 chars) — likely truncated. Retrying...
+2026-05-31 20:49:49,118 [WARNING] Attempt 2 failed: Briefing output too short
+2026-05-31 20:49:49,134 [INFO] Retrying in 5 seconds...
+2026-05-31 20:49:54,135 [INFO] AFC is enabled with max remote calls: 10.
+2026-05-31 20:50:05,048 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-05-31 20:50:05,048 [INFO] Briefing generated (3403 characters)
+2026-05-31 20:50:05,096 [INFO] Briefing saved to briefing.txt in 39.65 seconds
+2026-05-31 20:50:05,096 [INFO] Starting delivery...
+2026-05-31 20:50:05,096 [INFO] Loaded briefing (3540 characters)
+2026-05-31 20:50:06,272 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-05-31 20:50:06,272 [INFO] Briefing delivered to Telegram successfully
+2026-05-31 20:50:06,272 [INFO] Delivery complete
+2026-05-31 20:50:06,272 [INFO] ==================================================
+2026-05-31 20:50:06,272 [INFO] PIPELINE COMPLETE in 60.20 seconds
+2026-05-31 20:50:06,272 [INFO] ==================================================
