@@ -1,14 +1,30 @@
 SIDRA'S MORNING BRIEFING
-Sunday, May 31, 2026
+Monday, June 01, 2026
 -----------------------------
 
 🌍 World & Politics
-- West Bengal is shaking up its government, with 35 new ministers set to take oath tomorrow. This is big political news as it signifies a major reshuffle. [Read more](https://www.ndtv.com/india-news/35-ministers-to-take-oath-in-west-bengal-cabinet-expansion-tomorrow-11572751#publisher=newsstand)
-- A Trinamool meeting got canceled because three-fourths of its MLAs decided to play hooky. Talk about internal party drama; someone's definitely getting an angry call. [Read more](https://www.thehindu.com/news/national/west-bengal/tmc-mla-meet-called-off-abhishek-kalyan-banerjee-attacks-bengal/article71045151.ece)
-- In a truly wild statement, a Madhya Pradesh MLA praised a Chambal dacoit as a "companion in happiness and sorrow." We're not sure what kind of political strategy this is, but it's certainly... bold. [Read more](https://www.ndtv.com/india-news/madhya-pradesh-mla-pritam-lodhi-praises-chambal-dacoit-rambabu-gadariya-calls-him-companions-in-happiness-sorrow-11572544#publisher=newsstand)
+- Erin Brockovich is now tackling the secretive world of data centers, pushing for more transparency around their environmental impact and operations. This is important because it highlights growing concerns about the tech industry's footprint. [Read more](https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/)
 
 🤖 Tech & AI
-- User-replaceable batteries are making a comeback, thanks to new EU legislation. Finally, a win for sustainability and
+- Computex is the event for chip news, and Nvidia is leading with its new 'RTX Spark' chip, touted as the most efficient PC chip ever built, already popping up in new Microsoft Surface Laptops. Expect a lot of buzz. [Read more](https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date)
+- Apple's playing the long game with smart glasses, reportedly mirroring its smart watch strategy: start simple, then iterate. Don't expect a revolutionary AR headset overnight, but do expect a slow burn. [Read more](https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches)
+- Good news for budget-conscious techies: Dell is bringing back a revamped XPS 13, directly targeting MacBook Air users with a temporary $599 price tag. Finally, some competition! [Read more](https://www.theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price)
+
+💄 Fashion & Beauty
+- Florence Pugh is serving major boho glam, incorporating real flowers into her look for an ethereal vibe. Definitely worth a scroll for some fresh inspiration. [Read more](https://www.vogue.com/article/florence-pugh-boho-glam)
+
+💪 Health & Wellness
+- Brace yourself, North India: the recent rain relief is ending tonight, meaning temperatures are set to soar again. Stay hydrated and plan your outdoor activities accordingly. [Read more](https://www.ndtv.com/india-news/india-weather-news-rain-relief-for-north-india-to-end-tonight-temperatures-will-rise-again-imd-weather-update-11573827#publisher=newsstand)
+
+🇮🇳 India
+- Rahul Gandhi slammed the government over the high cost of CBSE re-evaluation, likening it to a "pickpocket" move on students. Expect this to fuel political debates around education. [Read more](https://www.thehindu.com/news/national/beware-of-pickpockets-rahul-slams-govt-over-cbse-re-evaluation-cost/article71047035.ece)
+- West Bengal saw a cabinet expansion with 35 MLAs taking oath, signaling potential shifts in regional power dynamics. Keep an eye on how this impacts state governance. [Read more](https://www.thehindu.com/news/national/west-bengal/west-bengal-cm-suvendu-adhikari-cabinet-formation-bjp-ministers-live-updates-monday-june-1-2026/article71047014.ece)
+- Kota is celebrating a hat-trick in JEE Advanced, with 6 out of 10 toppers coming from the coaching hub. It's a testament to their intense academic environment, but also highlights the pressure on young aspirants. [Read more](https://www.ndtv.com/education/kota-celebrates-rank-1-hat-trick-6-of-10-toppers-in-jee-advanced-2026-11574023#publisher=newsstand)
+
+🎵 Music
+- Nothing new on the music front to report today, Sidra. Maybe put on your favorite playlist and make your own headlines.
+
+TODAY'S TAKEAWAY: The tech world is buzzing with new chips and ambitious plans, while India grapples with political shifts and educational controversies.
 
 -----------------------------
-Generated at 22:00 UAE time
+Generated at 10:45 UAE time
