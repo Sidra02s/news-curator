@@ -1,15 +1,15 @@
-import sqlite3
 import json
 import os
 import csv
 import re
 import pickle
+import sqlite3
 from datetime import datetime, timezone
 from dotenv import load_dotenv
 from sklearn.linear_model import LogisticRegression
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import classification_report, confusion_matrix
+from sklearn.metrics import classification_report
 import logging
 
 # ─── LOGGING ────────────────────────────────────────────────────
@@ -139,10 +139,31 @@ def load_labeled_data(filepath="labeled_headlines.csv"):
         log.error("labeled_headlines.csv not found")
         return [], []
 
+def load_classifier():
+    """Load classifier.pkl — supports logistic regression, naive bayes, and sentence transformer."""
+    try:
+        with open("classifier.pkl", "rb") as f:
+            data = pickle.load(f)
+        
+        # New format: tuple with model type tag
+        if isinstance(data, tuple) and isinstance(data[0], str):
+            model_type = data[0]
+            log.info(f"Loaded classifier type: {model_type}")
+            return data
+        
+        # Legacy format: (vectorizer, classifier) tuple
+        log.info("Loaded legacy classifier format")
+        return ("logistic_regression_legacy", data[0], data[1])
+    
+    except FileNotFoundError:
+        log.warning("classifier.pkl not found — will train from scratch")
+        return None
+
 def train_classifier(titles, labels):
+    """Fallback: train logistic regression if no classifier.pkl exists."""
     if len(titles) < 20:
         log.warning("Not enough labeled data to train classifier")
-        return None, None
+        return None
 
     vectorizer = TfidfVectorizer(
         ngram_range=(1, 2),
@@ -150,29 +171,60 @@ def train_classifier(titles, labels):
         stop_words='english'
     )
 
-    X = vectorizer.fit_transform(titles)
-    X_train, X_test, y_train, y_test = train_test_split(
-        X, labels, test_size=0.2, random_state=42, stratify=labels
-    )
-
+    from sklearn.pipeline import Pipeline
     classifier = LogisticRegression(
         max_iter=1000,
         class_weight='balanced',
         random_state=42
     )
-    classifier.fit(X_train, y_train)
+    pipeline = Pipeline([('tfidf', vectorizer), ('clf', classifier)])
 
-    y_pred = classifier.predict(X_test)
+    X_train, X_test, y_train, y_test = train_test_split(
+        titles, labels, test_size=0.2, random_state=42, stratify=labels
+    )
+
+    pipeline.fit(X_train, y_train)
+    y_pred = pipeline.predict(X_test)
     log.info("\n" + classification_report(y_test, y_pred,
              target_names=["Low", "Medium", "High"]))
 
+    import pickle
     with open("classifier.pkl", "wb") as f:
-        pickle.dump((vectorizer, classifier), f)
+        pickle.dump(("logistic_regression", pipeline), f)
     log.info("Classifier saved to classifier.pkl")
 
-    return vectorizer, classifier
+    return ("logistic_regression", pipeline)
 
-def rank_articles(articles, vectorizer, classifier):
+def get_ml_score(title, classifier_data):
+    """Get ML score for a title regardless of model type."""
+    if classifier_data is None:
+        return 0
+
+    model_type = classifier_data[0]
+
+    try:
+        if model_type in ("logistic_regression", "naive_bayes"):
+            pipeline = classifier_data[1]
+            proba = pipeline.predict_proba([title])[0]
+            return proba[2] * 60 + proba[1] * 30
+
+        elif model_type == "logistic_regression_legacy":
+            vectorizer, classifier = classifier_data[1], classifier_data[2]
+            X = vectorizer.transform([title])
+            proba = classifier.predict_proba(X)[0]
+            return proba[2] * 60 + proba[1] * 30
+
+        elif model_type == "sentence_transformer":
+            st_model, classifier = classifier_data[1], classifier_data[2]
+            embedding = st_model.encode([title])
+            proba = classifier.predict_proba(embedding)[0]
+            return proba[2] * 60 + proba[1] * 30
+
+    except Exception as e:
+        log.warning(f"ML scoring failed for '{title}': {e}")
+        return 0
+
+def rank_articles(articles, classifier_data):
     scored = []
 
     for article in articles:
@@ -180,15 +232,7 @@ def rank_articles(articles, vectorizer, classifier):
         if not title:
             continue
 
-        ml_score = 0
-        if vectorizer and classifier:
-            try:
-                X = vectorizer.transform([title])
-                proba = classifier.predict_proba(X)[0]
-                ml_score = proba[2] * 60 + proba[1] * 30
-            except Exception as e:
-                log.warning(f"ML scoring failed for '{title}': {e}")
-
+        ml_score = get_ml_score(title, classifier_data)
         heuristic_score = calculate_heuristic_score(article)
         total_score = ml_score + heuristic_score
 
@@ -232,8 +276,15 @@ def main():
         return
 
     titles, labels = load_labeled_data()
-    vectorizer, classifier = train_classifier(titles, labels)
-    ranked = rank_articles(articles, vectorizer, classifier)
+    
+    # Try loading existing classifier first
+    classifier_data = load_classifier()
+    
+    # If no classifier exists, train one
+    if classifier_data is None:
+        classifier_data = train_classifier(titles, labels)
+
+    ranked = rank_articles(articles, classifier_data)
 
     # ─── TOPIC DIVERSITY — max 3 per category ───────────────────
     seen_categories = {}
@@ -260,13 +311,13 @@ def main():
     elapsed = (datetime.now() - start_time).total_seconds()
     log.info(f"Ranked {len(ranked)} articles in {elapsed:.2f} seconds")
     log.info(f"Top 20 (diverse) saved to ranked_news.json")
+
     update_priorities_in_db(ranked)
 
     print("\n── TOP 5 ARTICLES ──────────────────────────────")
     for i, a in enumerate(diverse_articles[:5], 1):
         print(f"{i}. [{a['total_score']:.0f}] [{a['category']}] {a['title']}")
     print("────────────────────────────────────────────────\n")
-
 
 if __name__ == "__main__":
     main()

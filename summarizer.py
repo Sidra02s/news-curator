@@ -38,7 +38,7 @@ Rules:
 - If a story is genuinely important, say why
 - Do NOT use any markdown symbols like **, *, #, or __
 - Plain text only — no bold, no italic, no headers with symbols
-- After each bullet point include the source URL in brackets like this:[Read more](url)
+- Each bullet point MUST end with the article reference number in square brackets, like: [1] or [2]
 - You MUST include ALL of these sections every time:
   🌍 World & Politics
   🤖 Tech & AI
@@ -49,9 +49,9 @@ Rules:
 
 Format each section exactly like this:
 🌍 World & Politics
-- [story summary]
-- [story summary]
-- [story summary]
+- [story summary] [1]
+- [story summary] [2]
+- [story summary] [3]
 
 End with:
 TODAY'S TAKEAWAY: [one line capturing the most important thing happening right now]"""
@@ -89,28 +89,22 @@ def fetch_high_priority_articles_from_db():
 
 # ─── BUILD PROMPT ───────────────────────────────────────────────
 def build_prompt(articles):
+    """Build prompt without URLs — URLs are stitched back in after generation."""
     today = datetime.now().strftime("%A, %B %d, %Y")
     article_list = ""
 
     for i, a in enumerate(articles, 1):
         title = a.get("title", "")
-        description = a.get("description", "") or ""
         source = a.get("source", "Unknown")
-        category = a.get("category", "")
-        url = a.get("url", "")
 
-        article_list += f"""
-Article {i} [Category: {category}]:
-Title: {title}
-Description: {description[:200] if description else 'N/A'}
-Source: {source}
-URL: {url}
----"""
+        # URLs deliberately excluded from prompt to reduce token usage
+        article_list += f"[{i}] {title} (Source: {source})\n"
 
     prompt = f"""Today is {today}.
 
-Here are today's top ranked news articles organized by category.
+Here are today's top ranked news articles. Each has a reference number.
 Generate Sidra's complete morning briefing covering ALL 6 sections.
+After each bullet point, include the article reference number in square brackets like [1].
 No markdown symbols. Plain text only.
 
 {article_list}
@@ -118,6 +112,26 @@ No markdown symbols. Plain text only.
 IMPORTANT: Write the COMPLETE briefing with ALL 6 sections. Do not stop early."""
 
     return prompt
+
+# ─── URL STITCHING ───────────────────────────────────────────────
+def stitch_urls(briefing, articles):
+    """Replace [1], [2] etc reference numbers with actual Read more links."""
+    url_map = {}
+    for i, a in enumerate(articles, 1):
+        url = a.get("url", "")
+        if url:
+            url_map[i] = url
+
+    import re
+    def replace_ref(match):
+        num = int(match.group(1))
+        url = url_map.get(num, "")
+        if url:
+            return f"[Read more]({url})"
+        return ""
+
+    stitched = re.sub(r'\[(\d+)\]', replace_ref, briefing)
+    return stitched
 
 # ─── GENERATE BRIEFING ──────────────────────────────────────────
 def generate_briefing(articles):
@@ -146,6 +160,8 @@ def generate_briefing(articles):
                 log.warning(f"Briefing too short ({len(briefing)} chars) — likely truncated. Retrying...")
                 raise Exception("Briefing output too short")
 
+            # Stitch URLs back in after generation
+            briefing = stitch_urls(briefing, articles)
             log.info(f"Briefing generated ({len(briefing)} characters)")
             return briefing
 

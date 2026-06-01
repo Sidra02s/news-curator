@@ -573,3 +573,91 @@ weighted avg       0.53      0.44      0.38        45
 2026-05-31 21:51:42,249 [INFO] ==================================================
 2026-05-31 21:51:42,249 [INFO] PIPELINE COMPLETE in 47.44 seconds
 2026-05-31 21:51:42,249 [INFO] ==================================================
+2026-05-31 22:10:11,658 [INFO] ==================================================
+2026-05-31 22:10:11,658 [INFO] SIDRA'S BRIEFING PIPELINE STARTING
+2026-05-31 22:10:11,658 [INFO] ==================================================
+2026-05-31 22:10:39,649 [INFO] Starting ranker pipeline...
+2026-05-31 22:10:39,653 [INFO] Loaded 90 articles from raw_news.json
+2026-05-31 22:10:39,653 [INFO] Loaded 225 labeled headlines
+2026-05-31 22:10:39,730 [INFO] 
+              precision    recall  f1-score   support
+
+         Low       0.30      0.20      0.24        15
+      Medium       1.00      0.10      0.18        10
+        High       0.47      0.80      0.59        20
+
+    accuracy                           0.44        45
+   macro avg       0.59      0.37      0.34        45
+weighted avg       0.53      0.44      0.38        45
+
+2026-05-31 22:10:39,744 [INFO] Classifier saved to classifier.pkl
+2026-05-31 22:10:39,928 [INFO] Top 20 after diversity filter:
+2026-05-31 22:10:39,928 [INFO]   tech: 3 articles
+2026-05-31 22:10:39,928 [INFO]   health: 3 articles
+2026-05-31 22:10:39,928 [INFO]   india: 3 articles
+2026-05-31 22:10:39,928 [INFO]   fashion: 3 articles
+2026-05-31 22:10:39,928 [INFO]   music: 3 articles
+2026-05-31 22:10:39,932 [INFO] Ranked 90 articles in 0.28 seconds
+2026-05-31 22:10:39,932 [INFO] Top 20 (diverse) saved to ranked_news.json
+2026-05-31 22:10:39,948 [INFO] Updated priorities in database for 90 articles
+2026-05-31 22:10:39,954 [INFO] Starting database-integrated summarizer...
+2026-05-31 22:10:39,962 [INFO] Loaded 20 high-priority articles from SQL engine
+2026-05-31 22:10:39,963 [INFO] Sending 20 articles to Gemini...
+2026-05-31 22:10:39,963 [INFO] AFC is enabled with max remote calls: 10.
+2026-05-31 22:10:57,909 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-05-31 22:10:57,909 [INFO] Briefing generated (4440 characters)
+2026-05-31 22:10:57,923 [INFO] Briefing saved to briefing.txt in 17.97 seconds
+2026-05-31 22:10:57,923 [INFO] Starting delivery...
+2026-05-31 22:10:57,923 [INFO] Loaded briefing (4577 characters)
+2026-05-31 22:11:10,601 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-05-31 22:11:10,601 [INFO] Sent chunk 1 of 2
+2026-05-31 22:11:10,826 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-05-31 22:11:10,828 [INFO] Sent chunk 2 of 2
+2026-05-31 22:11:10,828 [INFO] Briefing delivered to Telegram successfully
+2026-05-31 22:11:10,834 [INFO] Delivery complete
+2026-05-31 22:11:10,839 [INFO] ==================================================
+2026-05-31 22:11:10,839 [INFO] PIPELINE COMPLETE in 59.18 seconds
+2026-05-31 22:11:10,839 [INFO] ==================================================
+2026-06-01 14:49:05,337 [INFO] ==================================================
+2026-06-01 14:49:05,338 [INFO] SIDRA'S BRIEFING PIPELINE STARTING
+2026-06-01 14:49:05,339 [INFO] ==================================================
+2026-06-01 14:49:30,057 [INFO] Starting ranker pipeline...
+2026-06-01 14:49:30,057 [INFO] Loaded 90 articles from raw_news.json
+2026-06-01 14:49:30,066 [INFO] Loaded 225 labeled headlines
+2026-06-01 14:49:41,118 [INFO] Loaded classifier type: sentence_transformer
+2026-06-01 14:49:43,110 [INFO] Top 20 after diversity filter:
+2026-06-01 14:49:43,110 [INFO]   tech: 3 articles
+2026-06-01 14:49:43,112 [INFO]   health: 3 articles
+2026-06-01 14:49:43,112 [INFO]   india: 3 articles
+2026-06-01 14:49:43,112 [INFO]   fashion: 3 articles
+2026-06-01 14:49:43,112 [INFO]   music: 3 articles
+2026-06-01 14:49:43,114 [INFO] Ranked 90 articles in 13.06 seconds
+2026-06-01 14:49:43,114 [INFO] Top 20 (diverse) saved to ranked_news.json
+2026-06-01 14:49:43,136 [INFO] Updated priorities in database for 90 articles
+2026-06-01 14:49:43,144 [INFO] Starting database-integrated summarizer...
+2026-06-01 14:49:43,144 [INFO] Loaded 20 high-priority articles from SQL engine
+2026-06-01 14:49:43,144 [INFO] Sending 20 articles to Gemini...
+2026-06-01 14:49:43,147 [INFO] AFC is enabled with max remote calls: 10.
+2026-06-01 14:49:43,825 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-06-01 14:49:43,827 [WARNING] Attempt 1 failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 16.449152747s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '16s'}]}}
+2026-06-01 14:49:43,829 [INFO] Retrying in 5 seconds...
+2026-06-01 14:49:48,830 [INFO] AFC is enabled with max remote calls: 10.
+2026-06-01 14:49:49,150 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-06-01 14:49:49,152 [WARNING] Attempt 2 failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 11.135621986s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '11s'}]}}
+2026-06-01 14:49:49,152 [INFO] Retrying in 5 seconds...
+2026-06-01 14:49:54,154 [INFO] AFC is enabled with max remote calls: 10.
+2026-06-01 14:49:54,465 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-06-01 14:49:54,477 [WARNING] Attempt 3 failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 5.793468031s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '5s'}]}}
+2026-06-01 14:49:54,477 [ERROR] All 3 attempts failed
+2026-06-01 14:49:54,477 [ERROR] Failed to generate briefing string output matching credentials.
+2026-06-01 14:49:54,488 [INFO] Starting delivery...
+2026-06-01 14:49:54,501 [INFO] Loaded briefing (4577 characters)
+2026-06-01 14:49:56,188 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-01 14:49:56,205 [INFO] Sent chunk 1 of 2
+2026-06-01 14:49:56,431 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-01 14:49:56,441 [INFO] Sent chunk 2 of 2
+2026-06-01 14:49:56,441 [INFO] Briefing delivered to Telegram successfully
+2026-06-01 14:49:56,448 [INFO] Delivery complete
+2026-06-01 14:49:56,453 [INFO] ==================================================
+2026-06-01 14:49:56,453 [INFO] PIPELINE COMPLETE in 51.12 seconds
+2026-06-01 14:49:56,455 [INFO] ==================================================

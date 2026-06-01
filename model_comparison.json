@@ -1,0 +1,18 @@
+{
+  "models": {
+    "Logistic Regression + TF-IDF": {
+      "accuracy": 0.4622,
+      "std": 0.0552
+    },
+    "Naive Bayes + TF-IDF": {
+      "accuracy": 0.4489,
+      "std": 0.0708
+    },
+    "Sentence Transformer + LR": {
+      "accuracy": 0.4889,
+      "std": 0.0243
+    }
+  },
+  "best_model": "Sentence Transformer + LR",
+  "best_accuracy": 0.4889
+}

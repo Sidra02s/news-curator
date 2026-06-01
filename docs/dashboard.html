@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sidra's News Pipeline Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0f0f0f; color: #e0e0e0; padding: 24px; }
+  h1 { font-size: 1.8rem; font-weight: 700; margin-bottom: 4px; }
+  h2 { font-size: 1.1rem; font-weight: 600; margin: 28px 0 12px; color: #aaa; text-transform: uppercase; letter-spacing: 0.05em; }
+  .subtitle { color: #666; font-size: 0.85rem; margin-bottom: 32px; }
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 16px; margin-bottom: 32px; }
+  .card { background: #1a1a1a; border: 1px solid #2a2a2a; border-radius: 12px; padding: 20px; }
+  .card .value { font-size: 2rem; font-weight: 700; color: #fff; }
+  .card .label { font-size: 0.78rem; color: #666; margin-top: 4px; text-transform: uppercase; letter-spacing: 0.05em; }
+  .card.green .value { color: #4ade80; }
+  .card.blue .value { color: #60a5fa; }
+  .card.purple .value { color: #c084fc; }
+  .card.orange .value { color: #fb923c; }
+  .charts { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-bottom: 32px; }
+  .chart-box { background: #1a1a1a; border: 1px solid #2a2a2a; border-radius: 12px; padding: 20px; }
+  table { width: 100%; border-collapse: collapse; background: #1a1a1a; border-radius: 12px; overflow: hidden; margin-bottom: 32px; }
+  th { background: #2a2a2a; padding: 10px 14px; text-align: left; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.05em; color: #888; }
+  td { padding: 10px 14px; border-top: 1px solid #2a2a2a; font-size: 0.875rem; }
+  tr:hover td { background: #222; }
+  @media (max-width: 768px) { .charts { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<h1>📰 News Pipeline Dashboard</h1>
+<p class="subtitle">Last updated: June 01, 2026 at 16:05 UAE</p>
+
+<div class="cards">
+  <div class="card blue">
+    <div class="value">291</div>
+    <div class="label">Total Articles</div>
+  </div>
+  <div class="card green">
+    <div class="value">123</div>
+    <div class="label">High Priority</div>
+  </div>
+  <div class="card purple">
+    <div class="value">103</div>
+    <div class="label">Medium Priority</div>
+  </div>
+  <div class="card orange">
+    <div class="value">0</div>
+    <div class="label">Pipeline Runs</div>
+  </div>
+</div>
+
+<div class="charts">
+  <div class="chart-box">
+    <canvas id="highChart"></canvas>
+  </div>
+  <div class="chart-box">
+    <canvas id="dedupChart"></canvas>
+  </div>
+</div>
+
+<h2>Pipeline Run History</h2>
+<table>
+  <tr>
+    <th>Run At</th>
+    <th>Ingested</th>
+    <th>After Dedup</th>
+    <th>Dupe Rate</th>
+    <th>High Priority</th>
+    <th>Classifier Acc</th>
+    <th>Runtime</th>
+    <th>Briefing</th>
+  </tr>
+  
+</table>
+
+<h2>Top Sources</h2>
+<table>
+  <tr><th>Source</th><th>Articles</th></tr>
+  <tr><td>India Latest News: Top National Headlines Today & Breaking News | The Hindu</td><td>75</td></tr><tr><td>NDTV News Search Records Found 1000</td><td>47</td></tr><tr><td>The Verge</td><td>34</td></tr><tr><td>Vogue</td><td>31</td></tr><tr><td>TechCrunch</td><td>31</td></tr><tr><td>Music News</td><td>26</td></tr><tr><td>RSS: News</td><td>21</td></tr><tr><td>Allure</td><td>15</td></tr><tr><td>Healthline News RSS Feed</td><td>11</td></tr>
+</table>
+
+<h2>Model Comparison</h2><table><tr><th>Model</th><th>Accuracy</th><th>Std Dev</th><th></th></tr><tr><td>Logistic Regression + TF-IDF</td><td>46.2%</td><td>±0.055</td><td></td></tr><tr><td>Naive Bayes + TF-IDF</td><td>44.9%</td><td>±0.071</td><td></td></tr><tr><td>Sentence Transformer + LR 🏆</td><td>48.9%</td><td>±0.024</td><td>Best</td></tr></table>
+
+<script>
+const dates = [];
+const highCounts = [];
+const dedupRates = [];
+
+new Chart(document.getElementById('highChart'), {
+  type: 'line',
+  data: {
+    labels: dates,
+    datasets: [{
+      label: 'High Priority Articles',
+      data: highCounts,
+      borderColor: '#4ade80',
+      backgroundColor: 'rgba(74,222,128,0.1)',
+      tension: 0.3,
+      fill: true
+    }]
+  },
+  options: {
+    responsive: true,
+    plugins: { legend: { labels: { color: '#aaa' } } },
+    scales: {
+      x: { ticks: { color: '#666' }, grid: { color: '#222' } },
+      y: { ticks: { color: '#666' }, grid: { color: '#222' } }
+    }
+  }
+});
+
+new Chart(document.getElementById('dedupChart'), {
+  type: 'bar',
+  data: {
+    labels: dates,
+    datasets: [{
+      label: 'Duplicate Rate %',
+      data: dedupRates,
+      backgroundColor: 'rgba(96,165,250,0.6)',
+      borderColor: '#60a5fa',
+      borderWidth: 1
+    }]
+  },
+  options: {
+    responsive: true,
+    plugins: { legend: { labels: { color: '#aaa' } } },
+    scales: {
+      x: { ticks: { color: '#666' }, grid: { color: '#222' } },
+      y: { ticks: { color: '#666' }, grid: { color: '#222' } }
+    }
+  }
+});
+</script>
+</body>
+</html>

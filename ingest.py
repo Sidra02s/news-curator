@@ -152,14 +152,52 @@ def fetch_rss(feed_url, topic_label):
 
 
 def deduplicate(articles):
-    """Remove duplicate articles by normalizing titles."""
-    seen = set()
+    """
+    Remove duplicate articles using fuzzy title matching.
+    Catches near-duplicates like:
+      'OpenAI launches GPT-5' vs 'OpenAI's GPT-5 just launched'
+    Threshold: 85 similarity score (0-100). Tune down if too aggressive.
+    """
+    try:
+        from rapidfuzz import fuzz
+        use_fuzzy = True
+    except ImportError:
+        print("  [Warning] rapidfuzz not installed, falling back to exact dedup.")
+        print("  Run: pip install rapidfuzz")
+        use_fuzzy = False
+
+    seen_titles = []
     unique = []
+    duplicates_caught = 0
+
     for article in articles:
-        key = article["title"].lower().strip()
-        if key and key not in seen:
-            seen.add(key)
+        title = article["title"].lower().strip()
+        if not title:
+            continue
+
+        if not use_fuzzy:
+            # Exact match fallback
+            if title not in seen_titles:
+                seen_titles.append(title)
+                unique.append(article)
+            continue
+
+        # Fuzzy match against all accepted titles
+        is_duplicate = False
+        for seen in seen_titles:
+            score = fuzz.token_sort_ratio(title, seen)
+            if score >= 85:
+                is_duplicate = True
+                duplicates_caught += 1
+                break
+
+        if not is_duplicate:
+            seen_titles.append(title)
             unique.append(article)
+
+    if use_fuzzy and duplicates_caught > 0:
+        print(f"  [Fuzzy Dedup] Caught {duplicates_caught} near-duplicate articles")
+
     return unique
 
 
