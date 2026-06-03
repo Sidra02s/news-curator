@@ -1,30 +1,29 @@
 SIDRA'S MORNING BRIEFING
-Monday, June 01, 2026
+Wednesday, June 03, 2026
 -----------------------------
 
 🌍 World & Politics
-- Erin Brockovich is now tackling the secretive world of data centers, pushing for more transparency around their environmental impact and operations. This is important because it highlights growing concerns about the tech industry's footprint. [Read more](https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/)
+- Trump has signed an executive order to review AI models before release, a move that could slow down innovation but is pitched as a necessary safeguard against future risks. [Read more](https://www.theverge.com/policy/941775/trump-ai-executive-order)
 
 🤖 Tech & AI
-- Computex is the event for chip news, and Nvidia is leading with its new 'RTX Spark' chip, touted as the most efficient PC chip ever built, already popping up in new Microsoft Surface Laptops. Expect a lot of buzz. [Read more](https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date)
-- Apple's playing the long game with smart glasses, reportedly mirroring its smart watch strategy: start simple, then iterate. Don't expect a revolutionary AR headset overnight, but do expect a slow burn. [Read more](https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches)
-- Good news for budget-conscious techies: Dell is bringing back a revamped XPS 13, directly targeting MacBook Air users with a temporary $599 price tag. Finally, some competition! [Read more](https://www.theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price)
+- Microsoft dropped a bombshell at Build, unveiling its first advanced reasoning AI and a next-gen quantum chip that dramatically shortens the timeline to useful quantum computing. This is genuinely huge. [Read more](https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026) [Read more](https://www.theverge.com/news/940874/microsoft-majorana-2-quantum-chip-build)
+- Google is fighting back against AI's dark side, rolling out fake call detection to protect us from deepfake impersonation scams. A much-needed defense for our digital lives. [Read more](https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/)
+- Uber's employees blew through their AI budget in just four months, prompting the company to cap spending. A hilarious and telling glimpse into the rapid, costly adoption of this tech. [Read more](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/)
 
 💄 Fashion & Beauty
-- Florence Pugh is serving major boho glam, incorporating real flowers into her look for an ethereal vibe. Definitely worth a scroll for some fresh inspiration. [Read more](https://www.vogue.com/article/florence-pugh-boho-glam)
+- Cyberdecks, those wonderfully chunky, DIY computers, are making a comeback. Think of it as a stylish, anti-surveillance statement piece for the discerning tech rebel. [Read more](https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/)
 
 💪 Health & Wellness
-- Brace yourself, North India: the recent rain relief is ending tonight, meaning temperatures are set to soar again. Stay hydrated and plan your outdoor activities accordingly. [Read more](https://www.ndtv.com/india-news/india-weather-news-rain-relief-for-north-india-to-end-tonight-temperatures-will-rise-again-imd-weather-update-11573827#publisher=newsstand)
+- Google's new deepfake call detection offers a quiet win for your peace of mind, protecting you from the stress and potential harm of AI impersonation scams. Less anxiety, more wellness. [Read more](https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/)
 
 🇮🇳 India
-- Rahul Gandhi slammed the government over the high cost of CBSE re-evaluation, likening it to a "pickpocket" move on students. Expect this to fuel political debates around education. [Read more](https://www.thehindu.com/news/national/beware-of-pickpockets-rahul-slams-govt-over-cbse-re-evaluation-cost/article71047035.ece)
-- West Bengal saw a cabinet expansion with 35 MLAs taking oath, signaling potential shifts in regional power dynamics. Keep an eye on how this impacts state governance. [Read more](https://www.thehindu.com/news/national/west-bengal/west-bengal-cm-suvendu-adhikari-cabinet-formation-bjp-ministers-live-updates-monday-june-1-2026/article71047014.ece)
-- Kota is celebrating a hat-trick in JEE Advanced, with 6 out of 10 toppers coming from the coaching hub. It's a testament to their intense academic environment, but also highlights the pressure on young aspirants. [Read more](https://www.ndtv.com/education/kota-celebrates-rank-1-hat-trick-6-of-10-toppers-in-jee-advanced-2026-11574023#publisher=newsstand)
+- Karnataka is buzzing as D.K. Shivakumar is set to be sworn in as CM, a strategic move by Congress eyeing the 2028 polls and crucial regional votes. [Read more](https://www.thehindu.com/news/national/karnataka/karnataka-cm-dks-dk-shivakumar-oath-taking-swearing-in-ceremony-live-updates-june-3-2026/article71053881.ece) [Read more](https://www.thehindu.com/news/national/karnataka/congress-bets-on-dk-shivakumar-with-eye-on-2028-polls-vokkaliga-vote-and-old-mysore-region/article71054073.ece)
+- The political bonhomie between Siddaramaiah and D.K. Shivakumar appears strong, setting a tone for Karnataka's new leadership. [Read more](https://www.thehindu.com/news/national/karnataka/siddaramaiah-and-dk-shivakumar-a-public-bonhomie-that-never-let-up/article71034382.ece)
+- Tourists will be temporarily banned from Tadoba tiger reserve's core areas for three months during monsoon season, a sensible step for wildlife conservation and visitor safety. [Read more](https://www.thehindu.com/news/national/maharashtra/tourists-to-be-banned-in-tadoba-tiger-reserves-core-areas-for-3-months-with-eye-on-monsoon/article71055567.ece)
 
 🎵 Music
-- Nothing new on the music front to report today, Sidra. Maybe put on your favorite playlist and make your own headlines.
 
-TODAY'S TAKEAWAY: The tech world is buzzing with new chips and ambitious plans, while India grapples with political shifts and educational controversies.
+TODAY'S TAKEAWAY: The AI boom is officially here, Sidra, shaping everything from global politics to your personal cybersecurity and even how companies manage their budgets.
 
 -----------------------------
 Generated at 10:45 UAE time

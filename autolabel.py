@@ -1,5 +1,5 @@
 """
-autolabel.py — Expands labeled_headlines.csv using Groq to auto-label
+autolabel.py — Expands labeled_headlines.csv using Gemini to auto-label
 articles from raw_news.json and pipeline.db.
 
 Run once to bulk-generate labels, then retrain the classifier.
@@ -11,13 +11,15 @@ import csv
 import json
 import sqlite3
 import time
+import re
 from dotenv import load_dotenv
-from groq import Groq
+from google import genai
+from google.genai import types
 
 load_dotenv()
 
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-client = Groq(api_key=GROQ_API_KEY)
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+client = genai.Client(api_key=GEMINI_API_KEY)
 
 LABEL_PROMPT = """You are a news priority classifier for a personal morning briefing system.
 
@@ -46,14 +48,13 @@ You will receive a list of headlines numbered like:
 1. Headline text
 2. Headline text
 
-Respond ONLY with a JSON array in this exact format, nothing else:
+Respond ONLY with a JSON array in this exact format, nothing else, no markdown:
 [{"id": 1, "label": "High"}, {"id": 2, "label": "Low"}, ...]
 
 Every id must appear exactly once. Labels must be exactly: High, Medium, or Low."""
 
 
 def load_existing_titles(filepath="labeled_headlines.csv"):
-    """Load titles already in the CSV to avoid duplicates."""
     existing = set()
     try:
         with open(filepath, "r", encoding="utf-8") as f:
@@ -68,10 +69,8 @@ def load_existing_titles(filepath="labeled_headlines.csv"):
 
 
 def collect_unlabeled_articles(existing_titles):
-    """Collect articles from raw_news.json and pipeline.db not yet labeled."""
     candidates = []
 
-    # From raw_news.json
     try:
         with open("raw_news.json", "r", encoding="utf-8") as f:
             articles = json.load(f)
@@ -82,7 +81,6 @@ def collect_unlabeled_articles(existing_titles):
     except FileNotFoundError:
         print("raw_news.json not found, skipping")
 
-    # From pipeline.db
     try:
         conn = sqlite3.connect("pipeline.db")
         cursor = conn.cursor()
@@ -97,7 +95,6 @@ def collect_unlabeled_articles(existing_titles):
     except Exception as e:
         print(f"DB read error: {e}")
 
-    # Deduplicate
     seen = set()
     unique = []
     for t in candidates:
@@ -108,45 +105,70 @@ def collect_unlabeled_articles(existing_titles):
     return unique
 
 
+def parse_labels(text, batch_size):
+    """Robustly parse Gemini's JSON response, handling common malformations."""
+    # Strip markdown fences
+    text = re.sub(r'```json|```', '', text).strip()
+
+    # Try direct parse first
+    try:
+        results = json.loads(text)
+        labels = {}
+        for item in results:
+            idx = item["id"] - 1
+            label = item["label"].strip().capitalize()
+            if label in ["High", "Medium", "Low"] and 0 <= idx < batch_size:
+                labels[idx] = label
+        return labels
+    except Exception:
+        pass
+
+    # Fallback: extract individual {"id": X, "label": "Y"} pairs with regex
+    labels = {}
+    pattern = r'"id"\s*:\s*(\d+)[^}]*"label"\s*:\s*"([^"]+)"'
+    matches = re.findall(pattern, text)
+    for id_str, label in matches:
+        idx = int(id_str) - 1
+        label = label.strip().capitalize()
+        if label in ["High", "Medium", "Low"] and 0 <= idx < batch_size:
+            labels[idx] = label
+
+    return labels
+
+
 def label_batch(titles_batch):
-    """Send a batch of titles to Groq and get labels back."""
     numbered = "\n".join(f"{i+1}. {t}" for i, t in enumerate(titles_batch))
 
-    for attempt in range(3):
+    for attempt in range(5):
         try:
-            response = client.chat.completions.create(
-                model="llama-3.3-70b-versatile",
-                messages=[
-                    {"role": "system", "content": LABEL_PROMPT},
-                    {"role": "user", "content": f"Headlines to classify:\n{numbered}"}
-                ],
-                temperature=0.1,
-                max_tokens=2000,
+            response = client.models.generate_content(
+                model="gemini-2.5-flash",
+                contents=f"{LABEL_PROMPT}\n\nHeadlines to classify:\n{numbered}",
+                config=types.GenerateContentConfig(
+                    temperature=0.1,
+                    max_output_tokens=2000,
+                )
             )
 
-            text = response.choices[0].message.content.strip()
-            text = text.replace("```json", "").replace("```", "").strip()
-            results = json.loads(text)
+            text = response.text.strip()
+            labels = parse_labels(text, len(titles_batch))
 
-            labels = {}
-            for item in results:
-                idx = item["id"] - 1
-                label = item["label"].strip().capitalize()
-                if label in ["High", "Medium", "Low"] and 0 <= idx < len(titles_batch):
-                    labels[idx] = label
+            if len(labels) == 0:
+                raise Exception("No valid labels parsed from response")
 
             return labels
 
         except Exception as e:
+            wait = 15 * (attempt + 1)  # 15s, 30s, 45s, 60s, 75s
             print(f"  Attempt {attempt+1} failed: {e}")
-            if attempt < 2:
-                time.sleep(5)
+            if attempt < 4:
+                print(f"  Waiting {wait}s before retry...")
+                time.sleep(wait)
 
     return {}
 
 
 def append_to_csv(new_rows, filepath="labeled_headlines.csv"):
-    """Append newly labeled rows to the CSV."""
     file_exists = os.path.exists(filepath)
     with open(filepath, "a", encoding="utf-8", newline="") as f:
         writer = csv.writer(f)
@@ -169,23 +191,28 @@ def main():
         print("Nothing new to label. Run ingest.py first to get fresh articles.")
         return
 
-    # Larger batches since Groq has generous limits
-    batch_size = 50
+    batch_size = 20
     total_labeled = 0
     new_rows = []
 
     for i in range(0, len(candidates), batch_size):
         batch = candidates[i:i+batch_size]
-        print(f"  Labeling batch {i//batch_size + 1}/{(len(candidates)-1)//batch_size + 1} ({len(batch)} titles)...")
+        batch_num = i//batch_size + 1
+        total_batches = (len(candidates)-1)//batch_size + 1
+        print(f"  Labeling batch {batch_num}/{total_batches} ({len(batch)} titles)...")
 
         labels = label_batch(batch)
 
-        for idx, label in labels.items():
-            new_rows.append((batch[idx], label))
-            total_labeled += 1
+        if labels:
+            for idx, label in labels.items():
+                new_rows.append((batch[idx], label))
+                total_labeled += 1
+            print(f"    Got {len(labels)} labels")
+        else:
+            print(f"    Batch {batch_num} failed completely, skipping")
 
-        # Small delay to stay under RPM
-        time.sleep(2)
+        # Rate limit pause between batches
+        time.sleep(3)
 
     append_to_csv(new_rows)
 
@@ -194,7 +221,7 @@ def main():
     print(f"\nDone. Added {total_labeled} new labeled articles.")
     print(f"Distribution of new labels: {dict(dist)}")
     print(f"Total in CSV now: {len(existing) + total_labeled}")
-    print("\nNext step: run train_models.py to retrain the classifier on the expanded dataset.")
+    print("\nNext step: run train_models.py to retrain on expanded dataset.")
 
 
 if __name__ == "__main__":
