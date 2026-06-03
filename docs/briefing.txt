@@ -2,30 +2,30 @@ SIDRA'S MORNING BRIEFING
 Thursday, June 04, 2026
 -----------------------------
 
-Good morning, Sidra! Your daily dose of wit and news is here.
-
 🌍 World & Politics
-- Ben Goertzel is loudly advocating for decentralized AGI development, pushing back hard on any government trying to own or control AI. This is a critical fight for the future of intelligence itself. [Read more](https://cryptobriefing.com/goertzel-decentralized-agi-development/)
+- Trump's administration just dropped a surprisingly tame AI executive order, basically asking companies to play nice and voluntarily submit models for review. It's more of a suggestion than a mandate, which feels a bit like closing the barn door with a feather. [Read more](https://thenextweb.com/news/trump-signs-downsized-ai-executive-order-voluntary-review/)
+- Meanwhile, Ben Goertzel is loudly advocating for decentralized AGI development, pushing back hard on any idea of governments owning or controlling AI. It’s a crucial debate about who gets to hold the keys to the future. [Read more](https://cryptobriefing.com/goertzel-decentralized-agi-development/)
+- Uber is rolling out 500 new data-collection vehicles. While technically a tech move, the sheer scale of data harvesting always raises eyebrows and potential privacy debates, putting it squarely in the realm of public policy concerns. [Read more](https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/)
 
 🤖 Tech & AI
-- Nvidia is already planning its N2X and N3X chips, with the ultimate goal of creating a real-life Star Trek computer. Prepare for warp speed. [Read more](https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan)
-- Microsoft and OpenAI have officially broken up and are now ready to battle it out for AI supremacy. It's a tech divorce that promises plenty of drama. [Read more](https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition)
-- Instagram is cleaning house, alerting users who were targeted by hackers using AI chatbot attacks. Time to check your security settings. [Read more](https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/)
+- Microsoft and OpenAI are officially on the outs and ready to rumble. This isn't just a breakup; it's a major industry shake-up that will redefine the AI landscape. Get ready for some serious competition. [Read more](https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition)
+- Nvidia is already cooking up N2X and N3X chips, with the audacious goal of building a "Star Trek computer." Your future gadgets are about to get a serious brain upgrade, making current AI look like an abacus. [Read more](https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan)
+- Instagram is sending out alerts to users hit by hackers exploiting AI chatbot vulnerabilities. Always a good reminder that cutting-edge tech often comes with cutting-edge security risks. [Read more](https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/)
 
 💄 Fashion & Beauty
-- Nothing groundbreaking to report here, Sidra. The world of fashion and beauty seems to be taking a chic day off from making headlines.
+- Your wardrobe and makeup bag are safe from tech disruption today. No AI-powered mascara or blockchain-verified haute couture on the horizon, thankfully.
 
 💪 Health & Wellness
-- Your health and wellness news is as quiet as a silent retreat this morning. No new miracle cures or extreme diets to worry about today.
+- Good news, your fitness tracker isn't obsolete yet. No AI has figured out how to make you actually want to run, so we're all still relying on good old-fashioned willpower.
 
 🇮🇳 India
-- Anbumani is questioning why Tamil Nadu can't fully waive farm loans if Maharashtra managed it, putting pressure on state leaders. [Read more](https://www.thehindu.com/news/national/tamil-nadu/if-maharashtra-can-waive-farm-loans-fully-why-cant-tamil-nadu-asks-anbumani/article71057935.ece)
-- The CPI(M) is demanding an end to restrictions on visitors to the Secretariat, pushing for more transparency in government. [Read more](https://www.thehindu.com/news/national/tamil-nadu/remove-restrictions-on-visitors-to-secretariat-cpim/article71058591.ece)
+- The farm loan waiver debate is heating up, with Anbumani questioning why Tamil Nadu can't match Maharashtra's full waiver. This is a big political and economic headache for state governments. [Read more](https://www.thehindu.com/news/national/tamil-nadu/if-maharashtra-can-waive-farm-loans-fully-why-cant-tamil-nadu-asks-anbumani/article71057935.ece)
+- CPI(M) is demanding an end to restrictions on visitors to the Secretariat. It's a key local issue about public access and transparency in governance. [Read more](https://www.thehindu.com/news/national/tamil-nadu/remove-restrictions-on-visitors-to-secretariat-cpim/article71058591.ece)
 
 🎵 Music
-- Despite being caught in a whirlwind of copyright lawsuits, AI music generator Suno just raked in another $400 million in funding. Apparently, money talks, even over legal battles. [Read more](https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/)
+- Despite facing multiple copyright lawsuits, AI music generator Suno just bagged another $400 million. It seems investors are betting big on the future of AI-generated tunes, legal battles be damned. [Read more](https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/)
 
-TODAY'S TAKEAWAY: The AI race is accelerating, not just in innovation, but in who controls it, who funds it, and who gets caught in its crosshairs.
+TODAY'S TAKEAWAY: AI is the undisputed headline act today, Sidra, with major players splitting, new hardware on the horizon, and its ethical dilemmas getting louder.
 
 -----------------------------
-Generated at 00:12 UAE time
+Generated at 00:23 UAE time
