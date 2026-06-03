@@ -1,10 +1,12 @@
 import os
 import re
+import json
 import asyncio
+import hashlib
 import logging
 from datetime import datetime
 from dotenv import load_dotenv
-from telegram import Bot
+from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.error import TelegramError
 
 # ─── LOGGING ────────────────────────────────────────────────────
@@ -33,34 +35,82 @@ def clean_markdown(text):
     text = re.sub(r'#{1,6}\s', '', text)
     return text
 
-# ─── SEND MESSAGE ───────────────────────────────────────────────
-async def send_briefing(text):
-    """Send briefing to Telegram in chunks if too long."""
+# ─── ARTICLE MAP ────────────────────────────────────────────────
+def get_article_id(url):
+    """Short MD5 hash to identify an article within Telegram's 64-byte callback_data limit."""
+    return hashlib.md5(url.encode()).hexdigest()[:8]
+
+def save_article_map(articles):
+    """Save article_id → metadata mapping so feedback_listener can look up votes."""
+    article_map = {}
+    for a in articles:
+        article_id = get_article_id(a.get("url", ""))
+        article_map[article_id] = {
+            "url": a.get("url", ""),
+            "title": a.get("title", ""),
+            "topic": a.get("topic", ""),
+            "category": a.get("category", "")
+        }
+    with open("article_map.json", "w", encoding="utf-8") as f:
+        json.dump(article_map, f, indent=2)
+    log.info(f"Saved article map with {len(article_map)} entries")
+
+# ─── SEND BRIEFING TEXT ─────────────────────────────────────────
+async def send_briefing(text, bot):
+    """Send the main briefing text to Telegram in chunks if too long."""
     text = clean_markdown(text)
-    bot = Bot(token=TELEGRAM_TOKEN)
 
     max_length = 4000
     chunks = [text[i:i+max_length] for i in range(0, len(text), max_length)]
 
-    try:
-        for i, chunk in enumerate(chunks):
-            # Added explicit timeouts to prevent connection drops on large text payloads
+    for i, chunk in enumerate(chunks):
+        await bot.send_message(
+            chat_id=TELEGRAM_CHAT_ID,
+            text=chunk,
+            parse_mode=None,
+            connect_timeout=30,
+            read_timeout=30,
+            write_timeout=30
+        )
+        if len(chunks) > 1:
+            log.info(f"Sent chunk {i+1} of {len(chunks)}")
+
+    log.info("Briefing text delivered successfully")
+
+# ─── SEND ARTICLE BUTTONS ───────────────────────────────────────
+async def send_article_buttons(articles, bot):
+    """Send each article as a separate message with 👍👎 inline buttons."""
+    for a in articles:
+        url = a.get("url", "")
+        title = a.get("title", "No title")
+        description = (a.get("description", "") or "")[:120]
+        article_id = get_article_id(url)
+
+        text = f"{title}"
+        if description:
+            text += f"\n{description}"
+        if url:
+            text += f"\n{url}"
+
+        keyboard = InlineKeyboardMarkup([[
+            InlineKeyboardButton("👍 Relevant", callback_data=f"fb_{article_id}_up"),
+            InlineKeyboardButton("👎 Skip", callback_data=f"fb_{article_id}_dn")
+        ]])
+
+        try:
             await bot.send_message(
                 chat_id=TELEGRAM_CHAT_ID,
-                text=chunk,
+                text=text,
+                reply_markup=keyboard,
                 parse_mode=None,
-                connect_timeout=30,  # Gives the connection 30 seconds to handshake
-                read_timeout=30,     # Gives the payload 30 seconds to stream completely
-                write_timeout=30     # Gives the API server time to process and reply
+                connect_timeout=30,
+                read_timeout=30,
+                write_timeout=30
             )
-            if len(chunks) > 1:
-                log.info(f"Sent chunk {i+1} of {len(chunks)}")
+        except TelegramError as e:
+            log.warning(f"Failed to send buttons for '{title}': {e}")
 
-        log.info("Briefing delivered to Telegram successfully")
-
-    except TelegramError as e:
-        log.error(f"Telegram error: {e}")
-        raise
+    log.info(f"Sent {len(articles)} articles with feedback buttons")
 
 # ─── MAIN ────────────────────────────────────────────────────────
 def main():
@@ -73,6 +123,7 @@ def main():
         log.error("TELEGRAM_CHAT_ID not found in .env")
         return
 
+    # Load briefing text
     try:
         with open("briefing.txt", "r", encoding="utf-8") as f:
             briefing = f.read()
@@ -81,7 +132,25 @@ def main():
         log.error("briefing.txt not found. Run summarizer.py first.")
         return
 
-    asyncio.run(send_briefing(briefing))
+    # Load ranked articles for buttons
+    try:
+        with open("ranked_news.json", "r", encoding="utf-8") as f:
+            articles = json.load(f)
+        top_articles = articles[:15]
+        log.info(f"Loaded {len(top_articles)} articles for feedback buttons")
+    except FileNotFoundError:
+        log.error("ranked_news.json not found. Run ranker.py first.")
+        return
+
+    # Save article map for feedback_listener
+    save_article_map(top_articles)
+
+    async def run():
+        bot = Bot(token=TELEGRAM_TOKEN)
+        await send_briefing(briefing, bot)
+        await send_article_buttons(top_articles, bot)
+
+    asyncio.run(run())
     log.info("Delivery complete")
 
 if __name__ == "__main__":
