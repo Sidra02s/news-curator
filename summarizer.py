@@ -4,10 +4,8 @@ import time
 import logging
 import sqlite3
 from datetime import datetime
-from zoneinfo import ZoneInfo
 from dotenv import load_dotenv
-from google import genai
-from google.genai import types
+from groq import Groq
 
 # ─── LOGGING ────────────────────────────────────────────────────
 logging.basicConfig(
@@ -22,9 +20,9 @@ log = logging.getLogger(__name__)
 
 load_dotenv()
 
-# ─── CONFIGURE GEMINI ───────────────────────────────────────────
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-client = genai.Client(api_key=GEMINI_API_KEY)
+# ─── CONFIGURE GROQ ─────────────────────────────────────────────
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+client = Groq(api_key=GROQ_API_KEY)
 
 # ─── SYSTEM PROMPT ──────────────────────────────────────────────
 SYSTEM_PROMPT = """You are Sidra's personal news editor — sharp, direct, and witty.
@@ -38,8 +36,7 @@ Rules:
 - If a story is genuinely important, say why
 - Do NOT use any markdown symbols like **, *, #, or __
 - Plain text only — no bold, no italic, no headers with symbols
-- Each bullet point MUST end with the article reference number in square brackets, like: [1] or [2]
-- You MUST include ALL of these sections every time:
+- Organize into these sections (only include sections that have relevant stories):
   🌍 World & Politics
   🤖 Tech & AI
   💄 Fashion & Beauty
@@ -47,164 +44,127 @@ Rules:
   🇮🇳 India
   🎵 Music
 
-Format each section exactly like this:
-🌍 World & Politics
-- [story summary] [1]
-- [story summary] [2]
-- [story summary] [3]
+Format each section like this:
+## [emoji] [Section Name]
+• [story summary]
+• [story summary]
+• [story summary]
 
 End with:
 TODAY'S TAKEAWAY: [one line capturing the most important thing happening right now]"""
 
-# ─── DATABASE FETCH FUNCTION ────────────────────────────────────
-def fetch_high_priority_articles_from_db():
-    """Queries the SQLite database relational layer for the top freshest High priority rows."""
-    try:
-        connection = sqlite3.connect("pipeline.db")
-        cursor = connection.cursor()
-
-        cursor.execute("""
-            SELECT title, source, url 
-            FROM articles 
-            WHERE priority = 'High' 
-            ORDER BY id DESC 
-            LIMIT 20
-        """)
-        rows = cursor.fetchall()
-        connection.close()
-
-        articles = []
-        for title, source, url in rows:
-            articles.append({
-                "title": title,
-                "description": "",
-                "source": source,
-                "url": url,
-                "category": "High Signal News Archive"
-            })
-        return articles
-    except Exception as e:
-        log.error(f"Database collection failed: {e}")
-        return []
-
 # ─── BUILD PROMPT ───────────────────────────────────────────────
 def build_prompt(articles):
-    """Build prompt without URLs — URLs are stitched back in after generation."""
+    """Format top articles into a prompt."""
     today = datetime.now().strftime("%A, %B %d, %Y")
     article_list = ""
 
     for i, a in enumerate(articles, 1):
         title = a.get("title", "")
+        description = a.get("description", "") or ""
         source = a.get("source", "Unknown")
+        topic = a.get("topic", "")
+        score = a.get("total_score", 0)
+        url = a.get("url", "")
 
-        # URLs deliberately excluded from prompt to reduce token usage
-        article_list += f"[{i}] {title} (Source: {source})\n"
+        article_list += f"""
+Article {i} [ref:{i}]:
+Title: {title}
+Description: {description[:200] if description else 'N/A'}
+Source: {source}
+Topic: {topic}
+Priority Score: {score}
+---"""
 
     prompt = f"""Today is {today}.
 
-Here are today's top ranked news articles. Each has a reference number.
-Generate Sidra's complete morning briefing covering ALL 6 sections.
-After each bullet point, include the article reference number in square brackets like [1].
-No markdown symbols. Plain text only.
+Here are today's top ranked news articles. Generate Sidra's morning briefing.
+When referencing an article in a bullet, end the bullet with [ref:N] where N is the article number.
 
 {article_list}
 
-IMPORTANT: Write the COMPLETE briefing with ALL 6 sections. Do not stop early."""
+Remember: Sharp, witty, personal. She wants signal not noise."""
 
     return prompt
 
-# ─── URL STITCHING ───────────────────────────────────────────────
+# ─── STITCH URLS ────────────────────────────────────────────────
 def stitch_urls(briefing, articles):
-    """Replace [1], [2] etc reference numbers with actual Read more links."""
-    url_map = {}
-    for i, a in enumerate(articles, 1):
-        url = a.get("url", "")
+    """Replace [ref:N] markers with [Read more](url) links."""
+    for i, article in enumerate(articles, 1):
+        url = article.get("url", "")
         if url:
-            url_map[i] = url
-
-    import re
-    def replace_ref(match):
-        num = int(match.group(1))
-        url = url_map.get(num, "")
-        if url:
-            return f"[Read more]({url})"
-        return ""
-
-    stitched = re.sub(r'\[(\d+)\]', replace_ref, briefing)
-    return stitched
+            briefing = briefing.replace(f"[ref:{i}]", f"[Read more]({url})")
+        else:
+            briefing = briefing.replace(f"[ref:{i}]", "")
+    return briefing
 
 # ─── GENERATE BRIEFING ──────────────────────────────────────────
 def generate_briefing(articles):
+    """Send articles to Groq and get briefing back."""
     if not articles:
         log.error("No articles to summarize")
         return None
 
-    log.info(f"Sending {len(articles)} articles to Gemini...")
+    log.info(f"Sending {len(articles)} articles to Groq...")
 
-    for attempt in range(3):
-        try:
-            prompt = build_prompt(articles)
+    try:
+        prompt = build_prompt(articles)
 
-            response = client.models.generate_content(
-                model="gemini-2.5-flash",
-                contents=f"{SYSTEM_PROMPT}\n\n{prompt}",
-                config=types.GenerateContentConfig(
-                    temperature=0.7,
-                    max_output_tokens=8000,
-                )
-            )
+        response = client.chat.completions.create(
+            model="llama-3.3-70b-versatile",
+            messages=[
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.7,
+            max_tokens=1500,
+        )
 
-            briefing = response.text
+        briefing = response.choices[0].message.content
+        briefing = stitch_urls(briefing, articles)
+        log.info("Briefing generated successfully")
+        return briefing
 
-            if len(briefing) < 800:
-                log.warning(f"Briefing too short ({len(briefing)} chars) — likely truncated. Retrying...")
-                raise Exception("Briefing output too short")
-
-            # Stitch URLs back in after generation
-            briefing = stitch_urls(briefing, articles)
-            log.info(f"Briefing generated ({len(briefing)} characters)")
-            return briefing
-
-        except Exception as e:
-            log.warning(f"Attempt {attempt + 1} failed: {e}")
-            if attempt < 2:
-                log.info("Retrying in 5 seconds...")
-                time.sleep(5)
-            else:
-                log.error("All 3 attempts failed")
-                return None
+    except Exception as e:
+        log.error(f"Groq API error: {e}")
+        return None
 
 # ─── MAIN ────────────────────────────────────────────────────────
 def main():
     start_time = datetime.now()
-    log.info("Starting database-integrated summarizer...")
+    log.info("Starting summarizer...")
 
-    top_articles = fetch_high_priority_articles_from_db()
-    log.info(f"Loaded {len(top_articles)} high-priority articles from SQL engine")
-
-    if not top_articles:
-        log.error("No high priority data rows found in database context. Make sure to execute ranker.py first.")
+    try:
+        with open("ranked_news.json", "r", encoding="utf-8") as f:
+            articles = json.load(f)
+        log.info(f"Loaded {len(articles)} ranked articles")
+    except FileNotFoundError:
+        log.error("ranked_news.json not found. Run ranker.py first.")
         return
+
+    top_articles = articles[:15]
+    log.info(f"Using top {len(top_articles)} articles for briefing")
 
     briefing = generate_briefing(top_articles)
 
     if not briefing:
-        log.error("Failed to generate briefing string output matching credentials.")
+        log.error("Failed to generate briefing")
         return
 
-    uae_tz = ZoneInfo("Asia/Dubai")
-    now_uae = datetime.now(uae_tz)
-    today = now_uae.strftime("%A, %B %d, %Y")
-    generated_time = now_uae.strftime("%H:%M")
-
-    full_briefing = f"""SIDRA'S MORNING BRIEFING
-{today}
+    today = datetime.now().strftime("%A, %B %d, %Y")
+    full_briefing = f"""
+       SIDRA'S MORNING BRIEFING
+       {today}
 -----------------------------
+
 
 {briefing}
 
 -----------------------------
-Generated at {generated_time} UAE time
+
+
+─────────────────────────────────────
+Generated at {datetime.now().strftime("%H:%M")} UAE time
 """
 
     with open("briefing.txt", "w", encoding="utf-8") as f:

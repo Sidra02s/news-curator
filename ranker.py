@@ -286,13 +286,13 @@ def main():
 
     ranked = rank_articles(articles, classifier_data)
 
-    # ─── TOPIC DIVERSITY — max 3 per category ───────────────────
+    # ─── TOPIC DIVERSITY — max 5 per category ───────────────────
     seen_categories = {}
     diverse_articles = []
     for article in ranked:
         category = article.get("category", "other")
         seen_categories[category] = seen_categories.get(category, 0) + 1
-        if seen_categories[category] <= 3:
+        if seen_categories[category] <= 5:
             diverse_articles.append(article)
         if len(diverse_articles) >= 20:
             break

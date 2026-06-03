@@ -2,15 +2,18 @@ import requests
 import feedparser
 import json
 import os
+import re
 import sqlite3
 from datetime import datetime, timedelta
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # ─── YOUR API KEYS ───────────────────────────────────────────────
 NEWS_API_KEY = os.getenv("NEWS_API_KEY")
 GUARDIAN_API_KEY = os.getenv("GUARDIAN_API_KEY")
 
 # ─── YOUR TOPICS (NewsAPI) ───────────────────────────────────────
-# These are searched across 150,000+ sources
 NEWSAPI_TOPICS = [
     "fashion trends 2025",
     "skincare beauty makeup",
@@ -21,15 +24,13 @@ NEWSAPI_TOPICS = [
 ]
 
 # ─── GUARDIAN SECTIONS ───────────────────────────────────────────
-# Guardian has clean section-based filtering — much more reliable
-# Full list: https://open-platform.theguardian.com/explore/
 GUARDIAN_SECTIONS = [
-    "fashion",          # Fashion & Beauty
-    "technology",       # Tech & AI
-    "india",            # Indian Politics
-    "music",            # Music
-    "lifeandstyle",     # Covers wellness, health, beauty
-    "world",            # World news
+    "fashion",
+    "technology",
+    "india",
+    "music",
+    "lifeandstyle",
+    "world",
 ]
 
 # ─── RSS FEEDS BY TOPIC ──────────────────────────────────────────
@@ -57,11 +58,21 @@ RSS_FEEDS = [
     ("https://feeds.feedburner.com/AIWeekly", "AI"),
 ]
 
+# ─── HTML CLEANER ────────────────────────────────────────────────
+def strip_html(text):
+    """Remove HTML tags and clean up whitespace from a string."""
+    if not text:
+        return ""
+    text = re.sub(r'<[^>]+>', '', text)
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text
 
 # ─── FETCHERS ────────────────────────────────────────────────────
 
 def fetch_newsapi(topic, api_key):
-    """Fetch articles from NewsAPI for a given topic."""
+    if not api_key:
+        print("  [NewsAPI] No API key found — skipping")
+        return []
     url = "https://newsapi.org/v2/everything"
     yesterday = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
     params = {
@@ -81,8 +92,8 @@ def fetch_newsapi(topic, api_key):
             if not a.get("title") or a.get("title") == "[Removed]":
                 continue
             results.append({
-                "title": a.get("title", "").strip(),
-                "description": a.get("description", ""),
+                "title": strip_html(a.get("title", "").strip()),
+                "description": strip_html(a.get("description", "")),
                 "url": a.get("url", ""),
                 "source": a.get("source", {}).get("name", "Unknown"),
                 "published_at": a.get("publishedAt", ""),
@@ -96,7 +107,9 @@ def fetch_newsapi(topic, api_key):
 
 
 def fetch_guardian(section, api_key):
-    """Fetch articles from The Guardian API for a given section."""
+    if not api_key:
+        print("  [Guardian] No API key found — skipping")
+        return []
     url = "https://content.guardianapis.com/search"
     yesterday = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
     params = {
@@ -113,7 +126,7 @@ def fetch_guardian(section, api_key):
         results = []
         for a in results_raw:
             results.append({
-                "title": a.get("webTitle", "").strip(),
+                "title": strip_html(a.get("webTitle", "").strip()),
                 "description": "",
                 "url": a.get("webUrl", ""),
                 "source": "The Guardian",
@@ -128,17 +141,16 @@ def fetch_guardian(section, api_key):
 
 
 def fetch_rss(feed_url, topic_label):
-    """Fetch articles from an RSS feed."""
     try:
         feed = feedparser.parse(feed_url)
         results = []
         for entry in feed.entries[:10]:
-            title = entry.get("title", "").strip()
+            title = strip_html(entry.get("title", "").strip())
             if not title:
                 continue
             results.append({
                 "title": title,
-                "description": entry.get("summary", ""),
+                "description": strip_html(entry.get("summary", "")),
                 "url": entry.get("link", ""),
                 "source": feed.feed.get("title", feed_url),
                 "published_at": entry.get("published", ""),
@@ -152,18 +164,11 @@ def fetch_rss(feed_url, topic_label):
 
 
 def deduplicate(articles):
-    """
-    Remove duplicate articles using fuzzy title matching.
-    Catches near-duplicates like:
-      'OpenAI launches GPT-5' vs 'OpenAI's GPT-5 just launched'
-    Threshold: 85 similarity score (0-100). Tune down if too aggressive.
-    """
     try:
         from rapidfuzz import fuzz
         use_fuzzy = True
     except ImportError:
         print("  [Warning] rapidfuzz not installed, falling back to exact dedup.")
-        print("  Run: pip install rapidfuzz")
         use_fuzzy = False
 
     seen_titles = []
@@ -176,13 +181,11 @@ def deduplicate(articles):
             continue
 
         if not use_fuzzy:
-            # Exact match fallback
             if title not in seen_titles:
                 seen_titles.append(title)
                 unique.append(article)
             continue
 
-        # Fuzzy match against all accepted titles
         is_duplicate = False
         for seen in seen_titles:
             score = fuzz.token_sort_ratio(title, seen)
@@ -201,10 +204,7 @@ def deduplicate(articles):
     return unique
 
 
-# ─── DATABASE STORAGE INTEGRATION ────────────────────────────────
-
 def save_articles_to_db(articles_list):
-    """Saves incoming pipeline metrics and headlines to SQLite database archive."""
     connection = sqlite3.connect("pipeline.db")
     cursor = connection.cursor()
     saved_count = 0
@@ -221,55 +221,49 @@ def save_articles_to_db(articles_list):
                 article.get('published_at'),
                 'Low'
             ))
-
             if cursor.rowcount > 0:
                 saved_count += 1
-
         except Exception as e:
-            print(f"Error inserting article into SQLite execution context: {e}")
+            print(f"Error inserting article: {e}")
             continue
 
     connection.commit()
     connection.close()
-    print(f"💾 Successfully saved {saved_count} brand new unique articles to SQLite database!")
+    print(f"Saved {saved_count} new articles to database")
 
-
-# ─── MAIN EXECUTION PIPELINE ─────────────────────────────────────
 
 def main():
     all_articles = []
 
-    # 1. NewsAPI
     print("\n[1/3] Fetching from NewsAPI...")
+    if not NEWS_API_KEY:
+        print("  WARNING: NEWS_API_KEY not found in .env — skipping NewsAPI")
     for topic in NEWSAPI_TOPICS:
         articles = fetch_newsapi(topic, NEWS_API_KEY)
         print(f"  '{topic}': {len(articles)} articles")
         all_articles.extend(articles)
 
-    # 2. The Guardian
     print("\n[2/3] Fetching from The Guardian...")
+    if not GUARDIAN_API_KEY:
+        print("  WARNING: GUARDIAN_API_KEY not found in .env — skipping Guardian")
     for section in GUARDIAN_SECTIONS:
         articles = fetch_guardian(section, GUARDIAN_API_KEY)
         print(f"  Section '{section}': {len(articles)} articles")
         all_articles.extend(articles)
 
-    # 3. RSS Feeds
     print("\n[3/3] Fetching from RSS feeds...")
     for feed_url, topic_label in RSS_FEEDS:
         articles = fetch_rss(feed_url, topic_label)
         print(f"  '{topic_label}' ({feed_url.split('/')[2]}): {len(articles)} articles")
         all_articles.extend(articles)
 
-    # Deduplicate
     unique_articles = deduplicate(all_articles)
-    print(f"\n✓ Total after deduplication: {len(unique_articles)} articles")
+    print(f"\nTotal after deduplication: {len(unique_articles)} articles")
 
-    # Save to flat file legacy backup layer
     with open("raw_news.json", "w", encoding="utf-8") as f:
         json.dump(unique_articles, f, indent=2, ensure_ascii=False)
-    print("✓ Saved to raw_news.json legacy log file")
+    print("Saved to raw_news.json")
 
-    # Save directly to SQL Database Relational Storage Engine
     save_articles_to_db(unique_articles)
 
     print(f"\nBreakdown by origin:")
