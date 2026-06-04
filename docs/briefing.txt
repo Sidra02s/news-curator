@@ -3,29 +3,36 @@ Thursday, June 04, 2026
 -----------------------------
 
 🌍 World & Politics
-- Trump's administration just dropped a surprisingly tame AI executive order, basically asking companies to play nice and voluntarily submit models for review. It's more of a suggestion than a mandate, which feels a bit like closing the barn door with a feather. [Read more](https://thenextweb.com/news/trump-signs-downsized-ai-executive-order-voluntary-review/)
-- Meanwhile, Ben Goertzel is loudly advocating for decentralized AGI development, pushing back hard on any idea of governments owning or controlling AI. It’s a crucial debate about who gets to hold the keys to the future. [Read more](https://cryptobriefing.com/goertzel-decentralized-agi-development/)
-- Uber is rolling out 500 new data-collection vehicles. While technically a tech move, the sheer scale of data harvesting always raises eyebrows and potential privacy debates, putting it squarely in the realm of public policy concerns. [Read more](https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/)
+- Defense tech is getting a cash injection, but the long-term players are still TBD. It's a gold rush with high stakes and higher risk, so watch who's actually built to last. [Read more](https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/)
+- India is reportedly making strategic moves to attract foreign investment, likely leveraging the ongoing Iran war as a backdrop. Keep an eye on the geopolitical chess board, it's getting complex. [Read more](https://www.ndtv.com/india-news/indias-big-move-to-attract-foreign-investment-amid-iran-war-sources-11588779#publisher=newsstand)
+- The "shoot-to-disable" tactic is gaining traction as a new policing norm, raising serious questions about state power and public safety. This is a critical discussion we need to have. [Read more](https://www.thehindu.com/news/national/is-shoot-to-disable-the-new-normal/article71056685.ece)
 
 🤖 Tech & AI
-- Microsoft and OpenAI are officially on the outs and ready to rumble. This isn't just a breakup; it's a major industry shake-up that will redefine the AI landscape. Get ready for some serious competition. [Read more](https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition)
-- Nvidia is already cooking up N2X and N3X chips, with the audacious goal of building a "Star Trek computer." Your future gadgets are about to get a serious brain upgrade, making current AI look like an abacus. [Read more](https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan)
-- Instagram is sending out alerts to users hit by hackers exploiting AI chatbot vulnerabilities. Always a good reminder that cutting-edge tech often comes with cutting-edge security risks. [Read more](https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/)
+- Nvidia is already cooking up N2X and N3X chips, aiming for a Star Trek-level computer. Prepare for your mind to be blown (and your wallet to be emptied). [Read more](https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan)
+- Apple is rolling out age verification in Texas this week, a move that feels like Big Tech trying to play Big Brother. Your digital privacy just got a little more complicated. [Read more](https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store)
+- Uber is sending 500 data-collection cars onto the roads this year, so don't be surprised if your morning commute becomes part of their next big AI project. Smile, you're on Uber camera. [Read more](https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/)
 
 💄 Fashion & Beauty
-- Your wardrobe and makeup bag are safe from tech disruption today. No AI-powered mascara or blockchain-verified haute couture on the horizon, thankfully.
+- Nintendo's new Switch 2 will have replaceable batteries in the EU, a small win for sustainability that fast fashion could certainly learn a thing or two from. [Read more](https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu)
+- Even in a tech-heavy world, the flow of capital, like Benchmark's $2B fund, hints at future innovations that will inevitably shape how we consume and present ourselves. [Read more](https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/)
+- Brands like "Lovable" are scaling up with Google Cloud, reminding us how digital infrastructure underpins everything, from e-commerce to how beauty brands reach you. [Read more](https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/)
 
 💪 Health & Wellness
-- Good news, your fitness tracker isn't obsolete yet. No AI has figured out how to make you actually want to run, so we're all still relying on good old-fashioned willpower.
+- Kharge is slamming the BJP over NFHS-6 data, calling their handling of public health "absolute incompetence." Sounds like a political blame game, but the underlying health data is genuinely important. [Read more](https://www.thehindu.com/news/national/absolute-incompetence-of-bjp-unmasked-by-nfhs-6-data-kharge/article71059760.ece)
+- Kerala's fiscal health is looking dire, with a staggering 5.07-lakh crore liability. When a state's budget is sick, public services (including health) usually feel the pinch first. [Read more](https://www.thehindu.com/news/national/kerala/kerala-faces-burden-of-507-lakh-crore-liabilities-fiscal-structure-under-serious-strain-says-white-paper-tabled-by-cm/article71059665.ece)
+- India is grappling with how an economy built on cheap labor faces higher wages, a shift that impacts everything from access to care to the overall cost of wellness services. [Read more](https://www.thehindu.com/news/national/karnataka/explained-when-an-economy-built-on-cheap-labour-faces-higher-wages-karnataka/article71058014.ece)
 
 🇮🇳 India
-- The farm loan waiver debate is heating up, with Anbumani questioning why Tamil Nadu can't match Maharashtra's full waiver. This is a big political and economic headache for state governments. [Read more](https://www.thehindu.com/news/national/tamil-nadu/if-maharashtra-can-waive-farm-loans-fully-why-cant-tamil-nadu-asks-anbumani/article71057935.ece)
-- CPI(M) is demanding an end to restrictions on visitors to the Secretariat. It's a key local issue about public access and transparency in governance. [Read more](https://www.thehindu.com/news/national/tamil-nadu/remove-restrictions-on-visitors-to-secretariat-cpim/article71058591.ece)
+- The "Kafir screenshot" row in Kerala is heating up, with calls for a continued probe and a SIT inquiry. This is a messy one, highlighting ongoing social and political tensions. [Read more](https://www.thehindu.com/news/national/kerala/kafir-screenshot-row-in-kerala-kk-shailaja-says-probe-must-continue-shafi-parambil-welcomes-sit-inquiry/article71059773.ece)
+- Lalit Modi is back in the headlines, asking why Rahul Gandhi keeps targeting him. Just when you thought the political drama couldn't get more theatrical. [Read more](https://www.ndtv.com/india-news/not-a-fugitive-why-does-rahul-gandhi-target-me-asks-lalit-modi-11588857#publisher=newsstand)
+- Andhra Pradesh is stepping up its game, with Vizag set to host the state's first India Semiconductor Mission project. A big push for local tech manufacturing and economic growth. [Read more](https://www.thehindu.com/news/cities/Visakhapatnam/vizag-set-to-host-aps-first-india-semiconductor-mission-project/article71056847.ece)
 
 🎵 Music
-- Despite facing multiple copyright lawsuits, AI music generator Suno just bagged another $400 million. It seems investors are betting big on the future of AI-generated tunes, legal battles be damned. [Read more](https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/)
+- WiiM is expanding its whole-home audio system with a new soundbar, meaning your tunes can sound even better, everywhere. Because good music deserves good tech. [Read more](https://www.theverge.com/tech/942748/wiim-releases-first-soundbar)
+- With Nvidia aiming for Star Trek computers, imagine the next-level audio production and consumption possible – maybe your next favorite track will be AI-composed. [Read more](https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan)
+- Even as defense tech gets funded, the underlying cloud infrastructure, like Google Cloud, supports the streaming services and digital music platforms we all use daily. [Read more](https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/)
 
-TODAY'S TAKEAWAY: AI is the undisputed headline act today, Sidra, with major players splitting, new hardware on the horizon, and its ethical dilemmas getting louder.
+TODAY'S TAKEAWAY: The future is now, Sidra, and it's powered by AI, data, and a whole lot of geopolitical maneuvering – stay sharp.
 
 -----------------------------
-Generated at 00:23 UAE time
+Generated at 10:29 UAE time
