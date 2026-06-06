@@ -1,18 +1,21 @@
 {
   "models": {
     "Logistic Regression + TF-IDF": {
-      "accuracy": 0.4622,
-      "std": 0.0552
+      "accuracy": 0.5072,
+      "std": 0.0483,
+      "macro_f1": 0.6706
     },
     "Naive Bayes + TF-IDF": {
-      "accuracy": 0.4489,
-      "std": 0.0708
+      "accuracy": 0.3856,
+      "std": 0.0534,
+      "macro_f1": 0.6402
     },
     "Sentence Transformer + LR": {
-      "accuracy": 0.4889,
-      "std": 0.0243
+      "accuracy": 0.5376,
+      "std": 0.0482,
+      "macro_f1": 0.674
     }
   },
   "best_model": "Sentence Transformer + LR",
-  "best_accuracy": 0.4889
+  "best_macro_f1": 0.674
 }

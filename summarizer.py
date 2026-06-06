@@ -5,7 +5,8 @@ import logging
 import sqlite3
 from datetime import datetime
 from dotenv import load_dotenv
-from groq import Groq
+from google import genai
+
 
 # ─── LOGGING ────────────────────────────────────────────────────
 logging.basicConfig(
@@ -20,10 +21,9 @@ log = logging.getLogger(__name__)
 
 load_dotenv()
 
-# ─── CONFIGURE GROQ ─────────────────────────────────────────────
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-client = Groq(api_key=GROQ_API_KEY)
-
+# ─── CONFIGURE GEMINI ───────────────────────────────────────────
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+client = genai.Client(api_key=GEMINI_API_KEY)
 # ─── SYSTEM PROMPT ──────────────────────────────────────────────
 SYSTEM_PROMPT = """You are Sidra's personal news editor — sharp, direct, and witty.
 Your job is to turn today's top news into a punchy morning briefing she'll actually want to read.
@@ -107,17 +107,14 @@ def generate_briefing(articles):
     try:
         prompt = build_prompt(articles)
 
-        response = client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
-            messages=[
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": prompt}
-            ],
-            temperature=0.7,
-            max_tokens=1500,
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=f"{SYSTEM_PROMPT}\n\n{prompt}"
+                
         )
+           
+        briefing = response.text
 
-        briefing = response.choices[0].message.content
         briefing = stitch_urls(briefing, articles)
         log.info("Briefing generated successfully")
         return briefing

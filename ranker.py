@@ -115,8 +115,15 @@ def calculate_heuristic_score(article):
 
 def load_labeled_data(filepath="labeled_headlines.csv"):
     titles, labels = [], []
-    label_map = {"high": 2, "medium": 1, "low": 0}
 
+    label_map = {
+    "high": 1,
+    "medium": 0,
+    "low": 0,
+    "keep": 1,
+    "skip": 0
+    }
+    
     try:
         with open(filepath, "r", encoding="utf-8") as f:
             reader = csv.reader(f)
@@ -185,8 +192,11 @@ def train_classifier(titles, labels):
 
     pipeline.fit(X_train, y_train)
     y_pred = pipeline.predict(X_test)
-    log.info("\n" + classification_report(y_test, y_pred,
-             target_names=["Low", "Medium", "High"]))
+    log.info("\n" + classification_report(
+        y_test,
+        y_pred,
+        target_names=["Skip", "Keep", ]
+    ))
 
     import pickle
     with open("classifier.pkl", "wb") as f:
@@ -195,8 +205,8 @@ def train_classifier(titles, labels):
 
     return ("logistic_regression", pipeline)
 
+
 def get_ml_score(title, classifier_data):
-    """Get ML score for a title regardless of model type."""
     if classifier_data is None:
         return 0
 
@@ -206,24 +216,25 @@ def get_ml_score(title, classifier_data):
         if model_type in ("logistic_regression", "naive_bayes"):
             pipeline = classifier_data[1]
             proba = pipeline.predict_proba([title])[0]
-            return proba[2] * 60 + proba[1] * 30
+            return proba[1] * 100
 
         elif model_type == "logistic_regression_legacy":
             vectorizer, classifier = classifier_data[1], classifier_data[2]
             X = vectorizer.transform([title])
             proba = classifier.predict_proba(X)[0]
-            return proba[2] * 60 + proba[1] * 30
+            return proba[1] * 100
 
         elif model_type == "sentence_transformer":
             st_model, classifier = classifier_data[1], classifier_data[2]
             embedding = st_model.encode([title])
             proba = classifier.predict_proba(embedding)[0]
-            return proba[2] * 60 + proba[1] * 30
+            return proba[1] * 100
 
     except Exception as e:
         log.warning(f"ML scoring failed for '{title}': {e}")
-        return 0
 
+    return 0
+    
 def rank_articles(articles, classifier_data):
     scored = []
 
@@ -234,8 +245,10 @@ def rank_articles(articles, classifier_data):
 
         ml_score = get_ml_score(title, classifier_data)
         heuristic_score = calculate_heuristic_score(article)
-        total_score = ml_score + heuristic_score
-
+        total_score = (
+           0.75 * ml_score + 
+           0.25 * heuristic_score
+        )
         article["ml_score"] = round(ml_score, 2)
         article["heuristic_score"] = round(heuristic_score, 2)
         article["total_score"] = round(total_score, 2)
@@ -250,12 +263,11 @@ def update_priorities_in_db(articles):
     cursor = connection.cursor()
     for article in articles:
         score = article.get("total_score", 0)
-        if score >= 40:
-            priority = "High"
-        elif score >= 20:
-            priority = "Medium"
+        if score >= 60:
+            priority = "Keep"
+     
         else:
-            priority = "Low"
+            priority = "Skip"
         cursor.execute("""
             UPDATE articles SET priority = ? WHERE url = ?
         """, (priority, article.get("url")))
