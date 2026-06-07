@@ -2,6 +2,7 @@
 autolabel.py — Expands labeled_headlines.csv using Groq to auto-label
 articles from raw_news.json and pipeline.db.
 
+Binary classification: High or Skip only.
 Run once to bulk-generate labels, then retrain the classifier.
 Usage: python autolabel.py
 """
@@ -29,34 +30,31 @@ The reader cares about these topics:
 - World politics, geopolitics, wars, elections
 - Music: new releases, artist news, concerts
 
-Classify each headline as High, Medium, or Low priority using these rules:
+Classify each headline as either Keep or Skip using these rules:
 
-HIGH: Breaking news, major policy decisions, significant scientific findings, 
+KEEP: Breaking news, major policy decisions, significant scientific findings,
       important product launches, major political events, health breakthroughs,
       anything directly relevant to the reader's core interests listed above.
+      Interesting trends, industry news, moderate celebrity news also qualify.
 
-MEDIUM: Interesting but not urgent. Industry trends, opinion pieces, moderate 
-        celebrity news, regional news, follow-up stories.
-
-LOW: Market reports, clickbait, listicles, obscure artist news, 
-     sponsored content, routine announcements, album reviews of unknown artists,
-     topics completely outside the reader's interests.
+SKIP: Market reports, clickbait, listicles, sponsored content, routine
+      announcements, topics completely outside the reader's interests,
+      obscure artist news, CAGR reports, press releases.
 
 You will receive a list of headlines numbered like:
 1. Headline text
 2. Headline text
 
 Respond ONLY with a JSON array in this exact format, nothing else:
-[{"id": 1, "label": "High"}, {"id": 2, "label": "Low"}, ...]
+[{"id": 1, "label": "Keep"}, {"id": 2, "label": "Skip"}, ...]
 
-Every id must appear exactly once. Labels must be exactly: High, Medium, or Low."""
+Every id must appear exactly once. Labels must be exactly: Keep or Skip."""
 
 
 def load_existing_titles(filepath="labeled_headlines.csv"):
-    """Load titles already in the CSV to avoid duplicates."""
     existing = set()
     try:
-        with open(filepath, "r", encoding="utf-8") as f:
+        with open(filepath, "r", encoding="utf-8-sig", errors="ignore") as f:
             reader = csv.reader(f)
             next(reader)
             for row in reader:
@@ -68,10 +66,8 @@ def load_existing_titles(filepath="labeled_headlines.csv"):
 
 
 def collect_unlabeled_articles(existing_titles):
-    """Collect articles from raw_news.json and pipeline.db not yet labeled."""
     candidates = []
 
-    # From raw_news.json
     try:
         with open("raw_news.json", "r", encoding="utf-8") as f:
             articles = json.load(f)
@@ -82,7 +78,6 @@ def collect_unlabeled_articles(existing_titles):
     except FileNotFoundError:
         print("raw_news.json not found, skipping")
 
-    # From pipeline.db
     try:
         conn = sqlite3.connect("pipeline.db")
         cursor = conn.cursor()
@@ -97,7 +92,6 @@ def collect_unlabeled_articles(existing_titles):
     except Exception as e:
         print(f"DB read error: {e}")
 
-    # Deduplicate
     seen = set()
     unique = []
     for t in candidates:
@@ -109,7 +103,6 @@ def collect_unlabeled_articles(existing_titles):
 
 
 def label_batch(titles_batch):
-    """Send a batch of titles to Groq and get labels back."""
     numbered = "\n".join(f"{i+1}. {t}" for i, t in enumerate(titles_batch))
 
     for attempt in range(3):
@@ -132,7 +125,7 @@ def label_batch(titles_batch):
             for item in results:
                 idx = item["id"] - 1
                 label = item["label"].strip().capitalize()
-                if label in ["High", "Medium", "Low"] and 0 <= idx < len(titles_batch):
+                if label in ["Keep", "Skip"] and 0 <= idx < len(titles_batch):
                     labels[idx] = label
 
             return labels
@@ -146,7 +139,6 @@ def label_batch(titles_batch):
 
 
 def append_to_csv(new_rows, filepath="labeled_headlines.csv"):
-    """Append newly labeled rows to the CSV."""
     file_exists = os.path.exists(filepath)
     with open(filepath, "a", encoding="utf-8", newline="") as f:
         writer = csv.writer(f)
@@ -169,7 +161,6 @@ def main():
         print("Nothing new to label. Run ingest.py first to get fresh articles.")
         return
 
-    # Larger batches since Groq has generous limits
     batch_size = 50
     total_labeled = 0
     new_rows = []
@@ -184,7 +175,6 @@ def main():
             new_rows.append((batch[idx], label))
             total_labeled += 1
 
-        # Small delay to stay under RPM
         time.sleep(2)
 
     append_to_csv(new_rows)
@@ -194,7 +184,7 @@ def main():
     print(f"\nDone. Added {total_labeled} new labeled articles.")
     print(f"Distribution of new labels: {dict(dist)}")
     print(f"Total in CSV now: {len(existing) + total_labeled}")
-    print("\nNext step: run train_models.py to retrain the classifier on the expanded dataset.")
+    print("\nNext step: run train_models.py to retrain the classifier.")
 
 
 if __name__ == "__main__":

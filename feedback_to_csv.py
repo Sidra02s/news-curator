@@ -2,8 +2,8 @@
 feedback_to_csv.py — Reads thumbs up/down votes from pipeline.db
 and merges them into labeled_headlines.csv for retraining.
 
-Thumbs up (vote='up')  → High priority
-Thumbs down (vote='dn') → Low priority
+Thumbs up (vote='up')  → High
+Thumbs down (vote='dn') → Skip
 
 Run before train_models.py to include user feedback in retraining.
 """
@@ -59,11 +59,10 @@ def main():
             skipped += 1
             continue
 
-        # Map vote to priority label
         if vote == "up":
-            label = "High"
+            label = "Keep"
         elif vote == "dn":
-            label = "Low"
+            label = "Skip"
         else:
             skipped += 1
             continue
@@ -75,7 +74,6 @@ def main():
         print(f"No new feedback to add ({skipped} already existed or invalid).")
         return
 
-    # Append to CSV
     file_exists = os.path.exists(LABELED_CSV)
     with open(LABELED_CSV, "a", encoding="utf-8", newline="") as f:
         writer = csv.writer(f)
@@ -86,7 +84,7 @@ def main():
 
     print(f"Added {len(new_rows)} feedback votes to {LABELED_CSV}")
     print(f"Skipped {skipped} (duplicates or invalid)")
-    print(f"Label breakdown: High={sum(1 for _,l in new_rows if l=='High')}, Low={sum(1 for _,l in new_rows if l=='Low')}")
+    print(f"Keep={sum(1 for _,l in new_rows if l=='Keep')}, Skip={sum(1 for _,l in new_rows if l=='Skip')}")
     print("Ready to retrain — run train_models.py")
 
 

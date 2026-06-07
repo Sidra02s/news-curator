@@ -85,10 +85,10 @@ def load_labeled_data(filepath="labeled_headlines.csv"):
 
 
 def evaluate_model(name, pipeline, X, y, cv=5):
-    """Run stratified k-fold cross validation and return mean accuracy."""
+    """Run stratified k-fold cross validation and return f"""
     skf = StratifiedKFold(n_splits=cv, shuffle=True, random_state=42)
     scores = cross_val_score(pipeline, X, y, cv=skf, scoring='f1')
-    log.info(f"{name}: CV F1 = {scores.mean():.3f} ± {scores.std():.3f}")
+    log.info(f"{name}: CV‑F1 = {scores.mean():.3f} ± {scores.std():.3f}")
     return scores.mean(), scores.std()
 
 
@@ -208,7 +208,7 @@ def save_best_model(results, lr_pipeline, nb_pipeline, st_model, st_classifier, 
     log.info("MODEL COMPARISON RESULTS:")
     for name, (mean, std, macro_f1) in results.items():
         marker = " ← BEST" if name == best_name else ""
-        log.info(f"  {name}: Accuracy={mean:.3f}±{std:.3f}  MacroF1={macro_f1:.3f}{marker}")
+        log.info(f"  {name}: CV_F1={mean:.3f}±{std:.3f}  MacroF1={macro_f1:.3f}{marker}")
     log.info(f"{'='*50}")
 
     # Save confusion matrix for best model
@@ -278,7 +278,7 @@ def main():
     best_name, best_acc = save_best_model(
         results, lr_pipeline, nb_pipeline, st_model, st_classifier, cms
     )
-    log.info(f"\nBest model: {best_name} with {best_acc:.1%} accuracy")
+    log.info(f"\nBest model: {best_name} with Macro F1 = {best_acc:.3f}") 
     log.info("classifier.pkl updated. Restart ranker.py to use new model.")
 
 

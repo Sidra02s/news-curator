@@ -3,6 +3,7 @@ import os
 import csv
 import re
 import pickle
+import numpy as np
 import sqlite3
 from datetime import datetime, timezone
 from dotenv import load_dotenv
@@ -115,17 +116,16 @@ def calculate_heuristic_score(article):
 
 def load_labeled_data(filepath="labeled_headlines.csv"):
     titles, labels = [], []
-
     label_map = {
-    "high": 1,
-    "medium": 0,
-    "low": 0,
-    "keep": 1,
-    "skip": 0
+        "high": 1,
+        "medium": 0,
+        "low": 0,
+        "keep": 1,
+        "skip": 0
     }
-    
+
     try:
-        with open(filepath, "r", encoding="utf-8") as f:
+        with open(filepath, "r", encoding="utf-8-sig", errors="ignore") as f:
             reader = csv.reader(f)
             next(reader)
             for row in reader:
@@ -147,27 +147,23 @@ def load_labeled_data(filepath="labeled_headlines.csv"):
         return [], []
 
 def load_classifier():
-    """Load classifier.pkl — supports logistic regression, naive bayes, and sentence transformer."""
     try:
         with open("classifier.pkl", "rb") as f:
             data = pickle.load(f)
-        
-        # New format: tuple with model type tag
+
         if isinstance(data, tuple) and isinstance(data[0], str):
             model_type = data[0]
             log.info(f"Loaded classifier type: {model_type}")
             return data
-        
-        # Legacy format: (vectorizer, classifier) tuple
+
         log.info("Loaded legacy classifier format")
         return ("logistic_regression_legacy", data[0], data[1])
-    
+
     except FileNotFoundError:
         log.warning("classifier.pkl not found — will train from scratch")
         return None
 
 def train_classifier(titles, labels):
-    """Fallback: train logistic regression if no classifier.pkl exists."""
     if len(titles) < 20:
         log.warning("Not enough labeled data to train classifier")
         return None
@@ -192,13 +188,8 @@ def train_classifier(titles, labels):
 
     pipeline.fit(X_train, y_train)
     y_pred = pipeline.predict(X_test)
-    log.info("\n" + classification_report(
-        y_test,
-        y_pred,
-        target_names=["Skip", "Keep", ]
-    ))
+    log.info("\n" + classification_report(y_test, y_pred, target_names=["Skip", "Keep"]))
 
-    import pickle
     with open("classifier.pkl", "wb") as f:
         pickle.dump(("logistic_regression", pipeline), f)
     log.info("Classifier saved to classifier.pkl")
@@ -234,7 +225,7 @@ def get_ml_score(title, classifier_data):
         log.warning(f"ML scoring failed for '{title}': {e}")
 
     return 0
-    
+
 def rank_articles(articles, classifier_data):
     scored = []
 
@@ -245,10 +236,8 @@ def rank_articles(articles, classifier_data):
 
         ml_score = get_ml_score(title, classifier_data)
         heuristic_score = calculate_heuristic_score(article)
-        total_score = (
-           0.75 * ml_score + 
-           0.25 * heuristic_score
-        )
+        total_score = (0.75 * ml_score + 0.25 * heuristic_score)
+
         article["ml_score"] = round(ml_score, 2)
         article["heuristic_score"] = round(heuristic_score, 2)
         article["total_score"] = round(total_score, 2)
@@ -263,11 +252,7 @@ def update_priorities_in_db(articles):
     cursor = connection.cursor()
     for article in articles:
         score = article.get("total_score", 0)
-        if score >= 60:
-            priority = "Keep"
-     
-        else:
-            priority = "Skip"
+        priority = "Keep" if score >= 60 else "Skip"
         cursor.execute("""
             UPDATE articles SET priority = ? WHERE url = ?
         """, (priority, article.get("url")))
@@ -288,23 +273,21 @@ def main():
         return
 
     titles, labels = load_labeled_data()
-    
-    # Try loading existing classifier first
+
     classifier_data = load_classifier()
-    
-    # If no classifier exists, train one
+
     if classifier_data is None:
         classifier_data = train_classifier(titles, labels)
 
     ranked = rank_articles(articles, classifier_data)
 
-    # ─── TOPIC DIVERSITY — max 3 per category ───────────────────
+    # ─── TOPIC DIVERSITY — max 5 per category ───────────────────
     seen_categories = {}
     diverse_articles = []
     for article in ranked:
         category = article.get("category", "other")
         seen_categories[category] = seen_categories.get(category, 0) + 1
-        if seen_categories[category] <= 3:
+        if seen_categories[category] <= 5:
             diverse_articles.append(article)
         if len(diverse_articles) >= 20:
             break
