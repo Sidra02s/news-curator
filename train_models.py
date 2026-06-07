@@ -121,7 +121,7 @@ def save_confusion_matrix_image(cm, model_name, filename="docs/confusion_matrix.
     disp.plot(ax=ax, colorbar=True, cmap='Blues')
     ax.set_title(f"Confusion Matrix — {model_name}", fontsize=13, pad=15)
     plt.tight_layout()
-    plt.savefig(filename, dpi=150)
+    plt.savefig("docs/confusion_matrix.png", dpi=150)
     plt.close()
     log.info(f"Confusion matrix saved to {filename}")
 
