@@ -8,6 +8,7 @@ Called at the end of main.py after every pipeline run.
 import sqlite3
 import json
 import os
+import re
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
@@ -125,6 +126,24 @@ def load_model_comparison():
         return None
 
 
+
+def load_briefing_as_html():
+    """Read briefing.txt and convert markdown links to HTML anchor tags."""
+    try:
+        with open("briefing.txt", "r", encoding="utf-8") as f:
+            text = f.read()
+        # Convert [Read more](url) to clickable HTML links
+        text = re.sub(
+            r'\[([^\]]+)\]\((https?://[^\)]+)\)',
+            r'<a href="\2" target="_blank" style="color:#60a5fa;text-decoration:none;">\1</a>',
+            text
+        )
+        # Preserve line breaks
+        text = text.replace("\n", "<br>")
+        return text
+    except FileNotFoundError:
+        return "No briefing available yet."
+
 def generate_dashboard():
     """Generate static HTML dashboard and save to docs/dashboard.html"""
     runs = fetch_all_runs()
@@ -193,6 +212,7 @@ def generate_dashboard():
     else:
         model_html = "<h2>Model Comparison</h2><p>Run train_models.py to see model comparison results.</p>"
 
+    briefing_html = load_briefing_as_html()
     html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -277,6 +297,12 @@ def generate_dashboard():
 </table>
 
 {model_html}
+
+
+<h2>Today's Briefing</h2>
+<div style="background:#1a1a1a;border:1px solid #2a2a2a;border-radius:12px;padding:24px;font-size:0.9rem;line-height:1.8;white-space:pre-wrap;font-family:monospace;">
+{briefing_html}
+</div>
 
 <script>
 const dates = [{",".join(run_dates)}];
