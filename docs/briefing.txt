@@ -1,40 +1,33 @@
 
        SIDRA'S MORNING BRIEFING
-       Saturday, June 06, 2026
+       Sunday, June 07, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Denmark’s 'pig election' saw campaigners win against industrial farming, proving that people power can still tackle big agro. A win for the good guys. [Read more](https://www.theguardian.com/world/2026/jun/06/industrial-farming-denmark-pig-election)
-• Tensions are high in the Middle East as Iran allegedly targeted Kuwait and Bahrain after a skirmish with the US. Keep an eye on this one, could escalate. [Read more](https://www.theguardian.com/world/2026/jun/06/us-says-iran-radar-sites-struck-and-drones-intercepted-in-latest-threat-to-fragile-ceasefire)
-• Armenia is at the polls, facing Russian pressure and whispers of a "Ukrainian scenario." Not ideal when your neighbors are... well, Russia. [Read more](https://www.theguardian.com/world/2026/jun/06/russia-putin-armenia-election)
+• Peru's voters are stuck between a straight left-right choice in their election runoff. Sounds like fun for them. [Read more](https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori)
+• Ukraine just unleashed a drone swarm on Russia, probably because Putin blew off Zelenskyy for talks. The hits keep coming. [Read more](https://www.theguardian.com/world/2026/jun/07/ukraine-war-briefing-kyiv-unleashes-hundreds-of-drones-on-russia-after-putin-rejected-zelenskyy-meeting)
 
 ## 🤖 Tech & AI
-• Companies are getting smarter about AI spending, using "model routing" to match tasks with the right AI model, which means less cash for OpenAI and Anthropic. Good, make them work for it. [Read more](https://www.cnbc.com/2026/06/05/model-routing-on-ai-is-a-problem-for-openai-and-anthropic.html)
-• In small-town Indiana, a mayor basically called residents opposing a $2B data center "shitty house" dwellers. Classy. Really great PR there, Shelbyville. [Read more](https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center)
-• Musician Benn Jordan is nostalgic for tech that didn't spy on you, a sentiment we can all relate to after years of targeted ads. Simpler times, right? [Read more](https://www.theverge.com/report/942609/benn-jordan-music-gear-cybersecurity-surveillance-questionnaire)
+• OpenAI is rolling out a new "Lockdown Mode" for ChatGPT, aiming to protect sensitive data from prompt injection attacks. Good, because we all have *something* we don't want AI knowing. [Read more](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/)
 
 ## 💄 Fashion & Beauty
-• The Rocky Horror Show revival on Broadway is getting buzz for its wild hair and makeup, proving that glam and glitter are always in style, especially for a cult classic. [Read more](https://www.allure.com/story/rocky-horror-show-musical-backstage-beauty)
+• The Rocky Horror Show is back on Broadway, and Allure got the scoop on its glittery, out-of-this-world hair and makeup. A cult classic getting a beauty spotlight – you love to see it. [Read more](https://www.allure.com/story/rocky-horror-show-musical-backstage-beauty)
 
 ## 💪 Health & Wellness
-• HUGE NEWS: GLP-1 drugs, like Ozempic, are showing promise in significantly lowering breast cancer risk. This is a game-changer for women's health and genuinely important. [Read more](https://www.healthline.com/health-news/glp-1-drugs-lower-breast-cancer-incidence)
-• There's also a groundbreaking new pill, daraxonrasib, that nearly doubled pancreatic cancer survival rates in trials. Another big win for medical science. [Read more](https://www.healthline.com/health-news/pancreatic-cancer-drug-nearly-doubles-survival-rates)
-• The Oura Ring 5 is out, promising even better health and fitness tracking in a smaller package. Because who doesn't need another gadget to tell them to move more? [Read more](https://www.healthline.com/health-news/oura-ring-5-new-health-fitness-features)
+• Huge news: New research suggests GLP-1 drugs, like Ozempic, might significantly cut breast cancer risk. This is genuinely important and a potential game-changer for women's health. [Read more](https://www.healthline.com/health-news/glp-1-drugs-lower-breast-cancer-incidence)
+• A groundbreaking new pill has almost doubled survival rates for pancreatic cancer patients in trials. This is incredibly promising and offers much-needed hope. [Read more](https://www.healthline.com/health-news/pancreatic-cancer-drug-nearly-doubles-survival-rates)
+• Forget BMI; waist-to-hip ratio is emerging as a better indicator for obesity and overall health. Time to get out the measuring tape instead of just stepping on the scale. [Read more](https://www.healthline.com/health-news/bmi-may-underestimate-obesity-chronic-disease-risk)
 
 ## 🇮🇳 India
-• India and Nepal are apparently "decisively shifting" bilateral ties to achieve full potential, according to Jaishankar. Let's hope "full potential" means actual progress. [Read more](https://www.thehindu.com/news/national/india-nepal-can-decisively-shift-trajectory-of-bilateral-ties-to-achieve-full-potential-s-jaishankar/article71070732.ece)
-• K Annamalai, after ditching the BJP, claims nearly 14 lakh people have joined his new movement, which plans to contest the next Lok Sabha elections. Talk about a political rebound. [Read more](https://www.ndtv.com/india-news/k-annamalai-tamil-nadu-politics-we-the-leaders-24-hours-after-annamalai-leaves-bjp-nearly-14-lakh-join-his-new-movement-11599979#publisher=newsstand)
-• A rebel Trinamool leader, Ritabrata Banerjee, is alleging that Abhishek Banerjee and "corporate brokers" have hijacked the party. Standard political drama, really. [Read more](https://www.thehindu.com/news/national/ritabrata-banerjee-interview-no-way-to-raise-grievances-within-trinamool/article71070401.ece)
+• India’s government is defending recent LPG price hikes, claiming rates are still among the world's lowest despite a 46% global jump. We're feeling it in our wallets, regardless. [Read more](https://www.thehindu.com/news/national/lpg-price-hike-government-says-rates-in-india-among-worlds-lowest-despite-46-jump-in-global-benchmark/article71072406.ece)
+• A 'Cockroach' youth movement founder is in Delhi, protesting Modi. Sounds like things are heating up on the political front. [Read more](https://www.channelnewsasia.com/asia/india-cockroach-janta-party-abhijeet-dipke-protest-6166131)
+• The Supreme Court has backed curbs on online gaming, which is a major blow to gaming platforms battling GST levies. Your weekend gaming might just get more expensive. [Read more](https://www.thehindu.com/news/national/why-did-supreme-court-back-curbs-on-online-gaming-explained/article71070728.ece)
 
-## 🎵 Music
-• The Earth, Wind & Fire hit "Reasons" was apparently inspired by an "adulterous one-night stand." Suddenly that wedding classic has a whole new vibe. [Read more](https://www.rollingstone.com/music/music-news/earth-wind-fire-real-story-reasons-new-doc-1235573226/)
-• Stevie Nicks donated $3 million to a medical school to honor her voice doctor. A true rock legend, taking care of the voice that gave us so many iconic songs. [Read more](https://www.theguardian.com/music/2026/jun/06/stevie-nicks-donates-ucs-medical-school)
-
-TODAY'S TAKEAWAY: The medical breakthroughs for cancer prevention and treatment are seriously good news, keep those on your radar.
+TODAY'S TAKEAWAY: New medical breakthroughs are actually giving us real hope, while the rest of the world keeps doing its usual chaotic thing.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 17:51 UAE time
+Generated at 06:15 UAE time
