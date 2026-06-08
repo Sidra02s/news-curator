@@ -37,42 +37,10 @@ jobs:
           fi
           mkdir -p docs
           cp briefing.txt docs/briefing.txt
-      - name: Convert briefing to HTML for GitHub Pages
-        run: |
-          python -c "
-from metrics import load_briefing_as_html
-from datetime import datetime
-briefing_html = load_briefing_as_html()
-date_str = datetime.now().strftime('%A, %B %d, %Y')
-html = f'''<!DOCTYPE html>
-<html lang=\"en\">
-<head>
-  <meta charset=\"UTF-8\">
-  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
-  <title>Sidra's Morning Briefing</title>
-  <style>
-    body {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 40px auto; padding: 20px; }}
-    .header {{ text-align: center; margin-bottom: 30px; }}
-    .date {{ color: #666; font-style: italic; }}
-  </style>
-</head>
-<body>
-  <div class=\"header\">
-    <h1>Sidra's Morning Briefing</h1>
-    <div class=\"date\">''' + date_str + '''</div>
-  </div>
-  <div class=\"content\">
-    ''' + briefing_html + '''
-  </div>
-</body>
-</html>'''
-          with open('docs/index.html', 'w', encoding='utf-8') as f:
-              f.write(html)
-          "
       - name: Commit outputs to repo
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add docs/briefing.txt docs/dashboard.html docs/index.html
+          git add docs/briefing.txt docs/dashboard.html
           git diff --staged --quiet || git commit -m "Update daily briefing and dashboard"
           git push
