@@ -1,33 +1,35 @@
 
        SIDRA'S MORNING BRIEFING
-       Sunday, June 07, 2026
+       Monday, June 08, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Peru's voters are stuck between a straight left-right choice in their election runoff. Sounds like fun for them. [Read more](https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori)
-• Ukraine just unleashed a drone swarm on Russia, probably because Putin blew off Zelenskyy for talks. The hits keep coming. [Read more](https://www.theguardian.com/world/2026/jun/07/ukraine-war-briefing-kyiv-unleashes-hundreds-of-drones-on-russia-after-putin-rejected-zelenskyy-meeting)
+• Zelenskyy reportedly met with Roman Abramovich in Kyiv, hinting at a quiet backchannel for negotiations with Putin – a rare glimpse into behind-the-scenes diplomacy. [Read more](https://www.theguardian.com/world/2026/jun/08/ukraine-war-briefing-zelenskyy-roman-abramovich-kyiv-meeting-putin-message)
+• The Middle East just got hotter: Israel struck Iran despite a reported plea from Trump, escalating an already tense situation with retaliatory attacks flying both ways. This is a big deal, keep an eye on it. [ref:9, ref:10, ref:11]
+• A strong earthquake rocked the southern Philippines, triggering tsunami warnings – a stark reminder of nature's power. [Read more](https://www.theguardian.com/world/2026/jun/08/philippines-earthquake-mindanao-tsunami-warnings)
 
 ## 🤖 Tech & AI
-• OpenAI is rolling out a new "Lockdown Mode" for ChatGPT, aiming to protect sensitive data from prompt injection attacks. Good, because we all have *something* we don't want AI knowing. [Read more](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/)
+• Summer Game Fest 2026 wrapped up with some interesting reveals, hinting at the future of gaming in what's been a tough year for the industry. [Read more](https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories)
+• Xbox is doubling down on exclusivity, confirming that Gears of War: E-Day won't be gracing the PS5 – a clear play to keep gamers in their ecosystem. [Read more](https://www.theverge.com/entertainment/945269/gears-of-war-e-day-ps5-launch)
 
 ## 💄 Fashion & Beauty
-• The Rocky Horror Show is back on Broadway, and Allure got the scoop on its glittery, out-of-this-world hair and makeup. A cult classic getting a beauty spotlight – you love to see it. [Read more](https://www.allure.com/story/rocky-horror-show-musical-backstage-beauty)
+• The Tony Awards red carpet was a spectacle, naturally, with all the usual glam and drama you'd expect from Broadway's big night. [Read more](https://www.vogue.com/slideshow/2026-tony-awards-red-carpet-hunter-abrams)
+• Broadway's 'Rocky Horror Show' revival is getting buzz not just for its performance, but for its "glittery" and "out-of-this-world" hair and makeup looks. [Read more](https://www.allure.com/story/rocky-horror-show-musical-backstage-beauty)
 
 ## 💪 Health & Wellness
-• Huge news: New research suggests GLP-1 drugs, like Ozempic, might significantly cut breast cancer risk. This is genuinely important and a potential game-changer for women's health. [Read more](https://www.healthline.com/health-news/glp-1-drugs-lower-breast-cancer-incidence)
-• A groundbreaking new pill has almost doubled survival rates for pancreatic cancer patients in trials. This is incredibly promising and offers much-needed hope. [Read more](https://www.healthline.com/health-news/pancreatic-cancer-drug-nearly-doubles-survival-rates)
-• Forget BMI; waist-to-hip ratio is emerging as a better indicator for obesity and overall health. Time to get out the measuring tape instead of just stepping on the scale. [Read more](https://www.healthline.com/health-news/bmi-may-underestimate-obesity-chronic-disease-risk)
+• Game-changer alert: New research suggests GLP-1 drugs (hello, Ozempic) could significantly reduce breast cancer risk – a massive potential win for preventative health. This is IMPORTANT. [Read more](https://www.healthline.com/health-news/glp-1-drugs-lower-breast-cancer-incidence)
+• The new Oura Ring 5 is here, promising even better health and fitness tracking in a sleeker package for those obsessed with their metrics. [Read more](https://www.healthline.com/health-news/oura-ring-5-new-health-fitness-features)
+• Big news in cancer research: An experimental drug, daraxonrasib, nearly doubled survival rates for pancreatic cancer patients, offering new hope against a notoriously aggressive disease. [Read more](https://www.healthline.com/health-news/pancreatic-cancer-drug-nearly-doubles-survival-rates)
 
 ## 🇮🇳 India
-• India’s government is defending recent LPG price hikes, claiming rates are still among the world's lowest despite a 46% global jump. We're feeling it in our wallets, regardless. [Read more](https://www.thehindu.com/news/national/lpg-price-hike-government-says-rates-in-india-among-worlds-lowest-despite-46-jump-in-global-benchmark/article71072406.ece)
-• A 'Cockroach' youth movement founder is in Delhi, protesting Modi. Sounds like things are heating up on the political front. [Read more](https://www.channelnewsasia.com/asia/india-cockroach-janta-party-abhijeet-dipke-protest-6166131)
-• The Supreme Court has backed curbs on online gaming, which is a major blow to gaming platforms battling GST levies. Your weekend gaming might just get more expensive. [Read more](https://www.thehindu.com/news/national/why-did-supreme-court-back-curbs-on-online-gaming-explained/article71070728.ece)
+• The BJP chief is warning against "negative politics" trying to sway India's youth, while simultaneously, a "Cockroach" youth movement founder arrived in Delhi to protest Modi. Sounds like interesting times for Indian politics. [ref:6, ref:7]
+• Modi, never one to miss a beat, went on the offensive, blasting Congress for "parasitic politics" and celebrating recent election results. Standard political rhetoric, but always good to know the current temperature. [Read more](https://indianexpress.com/article/cities/ahmedabad/pm-narendra-modi-surat-speech-congress-karnataka-cm-change-atmanirbhar-bharat-10726598/)
 
-TODAY'S TAKEAWAY: New medical breakthroughs are actually giving us real hope, while the rest of the world keeps doing its usual chaotic thing.
+TODAY'S TAKEAWAY: The Middle East is a powder keg, but major breakthroughs in health are offering real hope against deadly diseases.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:15 UAE time
+Generated at 06:29 UAE time
