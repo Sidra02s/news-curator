@@ -5,31 +5,27 @@
 
 
 ## 🌍 World & Politics
-• Zelenskyy reportedly met with Roman Abramovich in Kyiv, hinting at a quiet backchannel for negotiations with Putin – a rare glimpse into behind-the-scenes diplomacy. [Read more](https://www.theguardian.com/world/2026/jun/08/ukraine-war-briefing-zelenskyy-roman-abramovich-kyiv-meeting-putin-message)
-• The Middle East just got hotter: Israel struck Iran despite a reported plea from Trump, escalating an already tense situation with retaliatory attacks flying both ways. This is a big deal, keep an eye on it. [ref:9, ref:10, ref:11]
-• A strong earthquake rocked the southern Philippines, triggering tsunami warnings – a stark reminder of nature's power. [Read more](https://www.theguardian.com/world/2026/jun/08/philippines-earthquake-mindanao-tsunami-warnings)
+• Breathe easy (for now): Iran claims to have ended its attacks against Israel, with Trump chiming in that both sides want an "immediate ceasefire." Let's see how long that lasts. [Read more](https://www.theguardian.com/world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu)
+• The Middle East situation remains volatile, with previous reports of exchanged strikes threatening serious escalation. This 'ceasefire' is truly important if it holds. [Read more](https://www.theguardian.com/world/2026/jun/08/israel-netanyahu-airstrikes-iran-retaliation-defies-trump)
 
 ## 🤖 Tech & AI
-• Summer Game Fest 2026 wrapped up with some interesting reveals, hinting at the future of gaming in what's been a tough year for the industry. [Read more](https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories)
-• Xbox is doubling down on exclusivity, confirming that Gears of War: E-Day won't be gracing the PS5 – a clear play to keep gamers in their ecosystem. [Read more](https://www.theverge.com/entertainment/945269/gears-of-war-e-day-ps5-launch)
-
-## 💄 Fashion & Beauty
-• The Tony Awards red carpet was a spectacle, naturally, with all the usual glam and drama you'd expect from Broadway's big night. [Read more](https://www.vogue.com/slideshow/2026-tony-awards-red-carpet-hunter-abrams)
-• Broadway's 'Rocky Horror Show' revival is getting buzz not just for its performance, but for its "glittery" and "out-of-this-world" hair and makeup looks. [Read more](https://www.allure.com/story/rocky-horror-show-musical-backstage-beauty)
+• Get ready for robotaxis, London! Uber is prepping to roll out Wayve's autonomous vehicles, meaning your next black cab could be driverless. Hope it knows the shortest route. [Read more](https://www.theverge.com/transportation/945614/uber-wayve-robotaxi-interest-list-launch-london)
+• India plans to win in AI deployment, focusing on real-world problems like healthcare and banking, even if they're behind on advanced chip manufacturing. Smart move: practical application over flashy hardware. [Read more](https://economictimes.indiatimes.com/news/india/india-can-win-in-ai-deployment-despite-lagging-in-advanced-chips-neelkanth-mishra/articleshow/131567100.cms)
 
 ## 💪 Health & Wellness
-• Game-changer alert: New research suggests GLP-1 drugs (hello, Ozempic) could significantly reduce breast cancer risk – a massive potential win for preventative health. This is IMPORTANT. [Read more](https://www.healthline.com/health-news/glp-1-drugs-lower-breast-cancer-incidence)
-• The new Oura Ring 5 is here, promising even better health and fitness tracking in a sleeker package for those obsessed with their metrics. [Read more](https://www.healthline.com/health-news/oura-ring-5-new-health-fitness-features)
-• Big news in cancer research: An experimental drug, daraxonrasib, nearly doubled survival rates for pancreatic cancer patients, offering new hope against a notoriously aggressive disease. [Read more](https://www.healthline.com/health-news/pancreatic-cancer-drug-nearly-doubles-survival-rates)
+• This is HUGE: GLP-1 drugs like Ozempic may now also help lower breast cancer risk. It's like finding out your diet soda also cleans your house. A definite win for women's health. [Read more](https://www.healthline.com/health-news/glp-1-drugs-lower-breast-cancer-incidence)
+• Groundbreaking news for cancer treatment: A new experimental pill has nearly doubled pancreatic cancer survival rates. That's a massive leap forward and genuinely life-changing. [Read more](https://www.healthline.com/health-news/pancreatic-cancer-drug-nearly-doubles-survival-rates)
+• Your wrist is about to get smarter: The new Oura Ring 5 is here, smaller and with upgraded features for next-level health and fitness tracking. Time to geek out on your sleep scores. [Read more](https://www.healthline.com/health-news/oura-ring-5-new-health-fitness-features)
 
 ## 🇮🇳 India
-• The BJP chief is warning against "negative politics" trying to sway India's youth, while simultaneously, a "Cockroach" youth movement founder arrived in Delhi to protest Modi. Sounds like interesting times for Indian politics. [ref:6, ref:7]
-• Modi, never one to miss a beat, went on the offensive, blasting Congress for "parasitic politics" and celebrating recent election results. Standard political rhetoric, but always good to know the current temperature. [Read more](https://indianexpress.com/article/cities/ahmedabad/pm-narendra-modi-surat-speech-congress-karnataka-cm-change-atmanirbhar-bharat-10726598/)
+• Not a great start to the week for Air India: Three A320 aircraft were damaged at Delhi Airport thanks to strong winds. The DGCA is now investigating, as one does. [Read more](https://www.ndtv.com/india-news/3-air-india-a320-aircraft-damaged-at-delhi-airport-after-strong-winds-11607306#publisher=newsstand)
+• The political pot is stirring: The BJP is warning against "negative politics" targeting youth, while the 'Cockroach' youth movement founder has arrived in Delhi to protest Modi. The youth are definitely not staying silent. [ref:8, ref:9]
+• PM Modi is busy in Gujarat, lashing out at Congress for "parasitic politics" and cheering on recent election results. Standard political playbook, really. [Read more](https://indianexpress.com/article/cities/ahmedabad/pm-narendra-modi-surat-speech-congress-karnataka-cm-change-atmanirbhar-bharat-10726598/)
 
-TODAY'S TAKEAWAY: The Middle East is a powder keg, but major breakthroughs in health are offering real hope against deadly diseases.
+TODAY'S TAKEAWAY: While global tensions simmer, science is delivering some genuinely incredible breakthroughs.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:29 UAE time
+Generated at 12:56 UAE time
