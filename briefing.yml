@@ -1,8 +1,7 @@
 name: Daily News Briefing
 on:
   schedule:
-    - cron: '0 2 * * *'   # daily briefing — 2am UTC (6am UAE)
-    - cron: '0 3 * * 0'   # weekly retrain — Sundays 3am UTC
+    - cron: '0 2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -19,17 +18,16 @@ jobs:
       - name: Install dependencies
         run: |
           pip install requests feedparser scikit-learn python-telegram-bot python-dotenv groq rapidfuzz sentence-transformers google-genai
-
       - name: Initialize database
         run: python init_db.py
       - name: Run pipeline
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
           GUARDIAN_API_KEY: ${{ secrets.GUARDIAN_API_KEY }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python main.py
       - name: Save outputs to docs folder
         run: |
@@ -39,41 +37,27 @@ jobs:
           fi
           mkdir -p docs
           cp briefing.txt docs/briefing.txt
+      - name: Convert briefing to HTML for GitHub Pages
+        run: |
+          python3 - << 'PYEOF'
+import re
+from datetime import datetime
+try:
+    with open("briefing.txt", "r", encoding="utf-8") as f:
+        text = f.read()
+except FileNotFoundError:
+    text = "No briefing available."
+text = re.sub(r'\[([^\]]+)\]\((https?://[^\)]+)\)', r'<a href="\2" target="_blank" style="color:#60a5fa;">\1</a>', text)
+text = text.replace("\n", "<br>")
+date_str = datetime.now().strftime("%A, %B %d, %Y")
+html = "<!DOCTYPE html><html><head><meta charset='UTF-8'><title>Sidra Morning Briefing</title><style>body{font-family:-apple-system,sans-serif;line-height:1.8;color:#e0e0e0;background:#0f0f0f;max-width:800px;margin:40px auto;padding:20px;}a{color:#60a5fa;}</style></head><body><h1 style='text-align:center'>Sidra Morning Briefing</h1><p style='text-align:center;color:#888'>" + date_str + "</p><div>" + text + "</div></body></html>"
+with open("docs/index.html", "w", encoding="utf-8") as f:
+    f.write(html)
+PYEOF
       - name: Commit outputs to repo
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add docs/briefing.txt docs/dashboard.html
+          git add docs/briefing.txt docs/dashboard.html docs/index.html
           git diff --staged --quiet || git commit -m "Update daily briefing and dashboard"
-          git push
-
-  weekly-retrain:
-    runs-on: ubuntu-latest
-    if: github.event.schedule == '0 3 * * 0'
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - name: Install dependencies
-        run: |
-          pip install requests feedparser scikit-learn python-telegram-bot python-dotenv groq rapidfuzz sentence-transformers matplotlib seaborn
-      - name: Initialize database
-        run: python init_db.py
-      - name: Merge feedback votes into training data
-        run: python feedback_to_csv.py
-      - name: Run autolabel on new articles
-        env:
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-        run: python autolabel.py
-      - name: Retrain models
-        run: python train_models.py
-      - name: Commit updated classifier and dataset
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git add classifier.pkl labeled_headlines.csv model_comparison.json docs/confusion_matrix.png
-          git diff --staged --quiet || git commit -m "Weekly retrain — updated classifier and dataset"
           git push
