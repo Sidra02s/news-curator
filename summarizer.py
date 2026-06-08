@@ -42,7 +42,6 @@ Rules:
   💄 Fashion & Beauty
   💪 Health & Wellness
   🇮🇳 India
-  🎵 Music
 
 Format each section like this:
 ## [emoji] [Section Name]

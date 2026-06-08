@@ -53,7 +53,6 @@ TOPIC_CATEGORIES = {
     "health": ["PCOS endometriosis women health", "Women's Health"],
     "tech": ["artificial intelligence technology", "Tech", "AI"],
     "india": ["India politics Modi", "India"],
-    "music": ["new music album release", "Music"],
     "world": ["world", "lifeandstyle"],
     "beauty": ["skincare beauty makeup", "Skincare", "Beauty"],
 }

@@ -20,7 +20,6 @@ NEWSAPI_TOPICS = [
     "artificial intelligence technology",
     "PCOS endometriosis women health",
     "India politics Modi",
-    "new music album release",
 ]
 
 # ─── GUARDIAN SECTIONS ───────────────────────────────────────────
@@ -47,10 +46,6 @@ RSS_FEEDS = [
     # Indian Politics & News
     ("https://feeds.feedburner.com/ndtvnews-india-news", "India"),
     ("https://www.thehindu.com/news/national/feeder/default.rss", "India"),
-
-    # Music
-    ("https://pitchfork.com/rss/news/", "Music"),
-    ("https://www.rollingstone.com/music/music-news/feed/", "Music"),
 
     # Tech & AI
     ("https://techcrunch.com/feed/", "Tech"),
