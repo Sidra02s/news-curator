@@ -1,31 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Monday, June 08, 2026
+       Tuesday, June 09, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• The Pope dropped some Monday morning doom, warning of a global "spiritual and cultural crisis." Guess he's not a fan of our current vibes. [Read more](https://www.theguardian.com/world/2026/jun/08/pope-leo-xiv-spain-speech-global-spiritual-cultural-crisis)
-• The Middle East is still a powder keg: Iran claims it's done with attacks, but other reports suggest exchanges are still happening. Trump's weighing in, so take that for what it's worth. [ref:3, ref:15]
+• Donald Trump, ever the diplomat, claims Iran shot down a US military helicopter and insists America *must* retaliate. Buckle up, it's never dull when he's talking. [Read more](https://www.theguardian.com/world/live/2026/jun/09/middle-east-crisis-iran-israel-us-donald-trump-strait-of-hormuz-peace-deal-latest-news-updates)
 
 ## 🤖 Tech & AI
-• Uber wants Londoners to get ready for robotaxis. Imagine your black cab driver being an algorithm – the future is here, and it's probably going to complain about traffic just as much. [Read more](https://www.theverge.com/transportation/945614/uber-wayve-robotaxi-interest-list-launch-london)
-• The art world is officially in rebellion mode, creating "anti-slop" art to fight back against the AI onslaught. They're tired of AI being "rammed down their throats." [Read more](https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art)
-• India is focusing on AI deployment to solve real-world problems in healthcare and banking, proving you don't always need to build the chips to win the game. Smart move. [Read more](https://economictimes.indiatimes.com/news/india/india-can-win-in-ai-deployment-despite-lagging-in-advanced-chips-neelkanth-mishra/articleshow/131567100.cms)
+• Microsoft's AI chief is doing a quick backtrack, now saying AI *won't* actually take all those white-collar jobs. Guess the PR team got a hold of him before he scared everyone too much. [Read more](https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs)
+• Apple finally caught up to the AI party at its developer conference, promising a "revamped Siri AI" and other innovations. Let's see if it actually delivers or just offers more expensive emojis. [ref:5, ref:8]
+• Artists are fighting back against AI-generated "slop," creating "anti-slop" art to protest the automated invasion. It's a creative resistance movement against machines trying to steal their mojo. [Read more](https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art)
 
 ## 💪 Health & Wellness
-• Game-changer alert: New research suggests GLP-1 drugs, like Ozempic, might significantly lower breast cancer risk. This could be HUGE for preventative health. [Read more](https://www.healthline.com/health-news/glp-1-drugs-lower-breast-cancer-incidence)
-• Good news in the fight against a tough one: A new experimental pill has nearly doubled pancreatic cancer survival rates in trials. A much-needed ray of hope for patients. [Read more](https://www.healthline.com/health-news/pancreatic-cancer-drug-nearly-doubles-survival-rates)
-• The Oura Ring 5 is out, promising to elevate your health and fitness tracking game. For those who want data on every breath and blink. [Read more](https://www.healthline.com/health-news/oura-ring-5-new-health-fitness-features)
+• Good news if you're on a GLP-1 drug like Ozempic: new research suggests it might also significantly lower your breast cancer risk. Multitasking meds are always a win. [Read more](https://www.healthline.com/health-news/glp-1-drugs-lower-breast-cancer-incidence)
+• PCOS has officially been renamed, which could mean better and more comprehensive care for millions of women. About time we got clearer language for important health conditions. [Read more](https://www.mindbodygreen.com/articles/pcos-has-officially-been-renamed-heres-what-it-means-for-millions-of-women)
+• Doctors are sounding the alarm: measles and whooping cough are on the rise due to declining vaccination rates. Seriously, get your shots, Sidra. [Read more](https://www.healthline.com/health-news/infectious-diseases-rising-low-vaccination-rates)
 
 ## 🇮🇳 India
-• Air India had a rough landing (figuratively): Strong winds at Delhi Airport damaged three A320 aircraft. Mother Nature clearly wasn't feeling the airline today. [Read more](https://www.ndtv.com/india-news/3-air-india-a320-aircraft-damaged-at-delhi-airport-after-strong-winds-11607306#publisher=newsstand)
-• The political temperature in India is heating up, with Modi taking jabs at the Congress for "parasitic politics" and a "Cockroach" youth movement protesting in Delhi. Never a dull moment. [ref:9, ref:10, ref:11]
+• PM Modi is now India's longest-serving Prime Minister, a major milestone that has world leaders sending their congratulations. Love him or hate him, he's made history. [Read more](https://www.ndtv.com/india-news/world-leaders-praise-pm-modi-as-he-becomes-indias-longest-serving-prime-minister-11613691#publisher=newsstand)
+• Modi continues his election-style rhetoric, slamming the Congress party for "parasitic politics" and praising recent state election results. Old habits die hard, especially in politics. [Read more](https://indianexpress.com/article/cities/ahmedabad/pm-narendra-modi-surat-speech-congress-karnataka-cm-change-atmanirbhar-bharat-10726598/)
+• A new "Cockroach Janata Party" (yes, really) is making waves, with youth organizing protests against Modi's government in Delhi. The kids are getting feisty and creative with their dissent. [ref:7, ref:10]
 
-TODAY'S TAKEAWAY: Health breakthroughs are stealing the show, offering real hope amidst global political volatility and the ongoing AI vs. humanity tech saga.
+TODAY'S TAKEAWAY: India's political landscape is buzzing with Modi's historic run and a new generation finding its voice, while AI continues its complicated dance between promise and pushback.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 13:55 UAE time
+Generated at 17:57 UAE time
