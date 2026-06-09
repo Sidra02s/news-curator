@@ -1175,3 +1175,295 @@ weighted avg       0.53      0.44      0.38        45
 2026-06-06 14:56:37,454 [WARNING] Failed to answer callback: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=10)
 2026-06-06 14:57:01,381 [WARNING] Failed to answer callback: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
 2026-06-06 14:57:23,168 [INFO] Listener stopped.
+2026-06-09 00:22:01,342 [INFO] Starting ranker pipeline...
+2026-06-09 00:22:01,342 [INFO] Loaded 194 articles from raw_news.json
+2026-06-09 00:22:01,358 [INFO] Loaded 1120 labeled headlines
+2026-06-09 00:23:24,528 [INFO] Loaded classifier type: sentence_transformer
+2026-06-09 00:23:24,747 [WARNING] ML scoring failed for 'Is Ross Stores, Inc. (ROST) A Good Stock To Buy Now?': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:24,798 [WARNING] ML scoring failed for '‘Nothing is trying to reposition hardware as something expressive, not just a neutral container for software’: design experts on why Nothing's Charli XCX collaboration makes sense in the ‘boring’ age of smartphones': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:24,839 [WARNING] ML scoring failed for 'This new serum is the ‘next frontier in cellular skin rejuvenation,’ according to an expert': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:24,881 [WARNING] ML scoring failed for 'Here’s how to watch Knicks vs. Spurs for free in Game 2 of the 2026 NBA Finals': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:24,921 [WARNING] ML scoring failed for 'This ‘genius’ under-eye brightening duo deletes dark circles in seconds, according to 3,800+ reviews': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:24,963 [WARNING] ML scoring failed for 'For Gen Z diamonds are a personal style statement, not something they can tuck away': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,003 [WARNING] ML scoring failed for 'Inside Princesses Eugenie and Beatrice's royal residences - including candid family portraits and chic décor... as it's revealed Andrew's daughters have lived rent-free for YEARS': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,044 [WARNING] ML scoring failed for '13 Black Icons Who Outsmarted the Music Industry': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,085 [WARNING] ML scoring failed for 'Selena Gomez wore this not-so-basic white tank top in London, and it’s under $30 right now': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,134 [WARNING] ML scoring failed for '2026 K-Vibe Festival, ‘Glow and Taste’ held in Kathmandu': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,183 [WARNING] ML scoring failed for 'My 10 early Prime Day beauty deal picks hit better than a good hair day': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,231 [WARNING] ML scoring failed for 'Carmen Electra Reveals Prince’s Unexpected Beauty Request During Their Romance': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,288 [WARNING] ML scoring failed for 'StyleCraze Com Reviews: Beauty, Wellness, and Product Advice': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,345 [WARNING] ML scoring failed for 'BeautyBound – Track and optimize skincare, hair, makeup, and wellness in one app': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,393 [WARNING] ML scoring failed for 'Miranda Kerr steps out in unreleased Dior gown worn by Monica Bellucci's daughter as she attends Paris party with husband Evan Spiegel': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,443 [WARNING] ML scoring failed for 'CVS Beauty & Personal Care Last Chance Sale: 50% off + free shipping w/ $35': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,484 [WARNING] ML scoring failed for '‘Marilyn Monroe: Hollywood Icon’ Is Actually a Fashion Exhibition – a Really Good One': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,534 [WARNING] ML scoring failed for 'CVS Ad & Coupons: 6/7-6/20': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,567 [WARNING] ML scoring failed for 'The urgent need to secure U.S. elections': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,619 [WARNING] ML scoring failed for 'We hung out with around 100 robots – and here are the bizarre highlights': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,665 [WARNING] ML scoring failed for 'A little bit slow off the gate in quick commerce, says Amazon India head as company ramps up quick commerce push': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,714 [WARNING] ML scoring failed for 'AI and the reinvention of work: Why some sectors are hiring more, not less': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,762 [WARNING] ML scoring failed for '‘Access to education across different cultures and languages needs to be improved’: IEEE award winner’s best work came from identifying issues, and fixing them': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,804 [WARNING] ML scoring failed for 'AI’s Next Frontier Isn’t Intelligence, It’s Trust': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,845 [WARNING] ML scoring failed for 'As big tech heads Down Under, some fear Australia risks giving up control': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,886 [WARNING] ML scoring failed for 'Anthropic wants caution but the market wants more AI': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,919 [WARNING] ML scoring failed for 'Full transcript of "Face the Nation with Margaret Brennan," June 7, 2026': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:25,960 [WARNING] ML scoring failed for 'indie Semiconductor, Inc. (INDI) A Top Penny Stock to Buy on $40 Billion Image Sensor Opportunities': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,018 [WARNING] ML scoring failed for 'What is vaginismus? The little-known condition making sex unbearable for thousands... including some of the stars of Channel 4's Virgin Island': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,055 [WARNING] ML scoring failed for 'PCOS is now PMOS: What went behind renaming the common condition': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,093 [WARNING] ML scoring failed for 'Brianna Chickenfry reveals painful health scare that forced her to have emergency surgery with NO health insurance': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,134 [WARNING] ML scoring failed for 'Australia’s first women’s stroke clinic targets gender-based disparities in outcomes - Monash Health': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,175 [WARNING] ML scoring failed for 'Prescribed hormonal contraceptive use trends in the Estonian Biobank: A longitudinal observational study': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,216 [WARNING] ML scoring failed for 'After years of anxiety, I made one change to my workout to stress less – and it worked': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,258 [WARNING] ML scoring failed for '‘Unprecedented’ global effort gives new name to polycystic ovary syndrome – and new hope to millions of women': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,291 [WARNING] ML scoring failed for 'PCOS Has Officially Been Renamed — What It Means For Millions Of Women': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,324 [WARNING] ML scoring failed for 'No link between PCOS and higher rate of abnormal cysts: study': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,365 [WARNING] ML scoring failed for 'Shettima’s K-branded cap and burden of loyalty': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,406 [WARNING] ML scoring failed for 'Some forces trying to push country's youths towards 'negative politics': BJP chief Nitin Nabin': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,447 [WARNING] ML scoring failed for '‘I’m a cockroach’: Gen Z protest movement lands in Indian capital': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,506 [WARNING] ML scoring failed for 'Who is Dharmendra Pradhan? All about Education minister facing heat in CJP protest amid NEET, CBSE controversy': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,556 [WARNING] ML scoring failed for 'India's 'Cockroach' youth movement founder arrives in New Delhi to protest Modi': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,596 [WARNING] ML scoring failed for 'Mock political party for India's young 'cockroaches' set to hold first protest in New Delhi': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,645 [WARNING] ML scoring failed for 'PM Modi in Gujarat: Congress spread chaos, its parasitic politics won’t work': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,694 [WARNING] ML scoring failed for 'Ebola outbreak in Central Africa could reach 20,000 cases without strong public health measures': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,735 [WARNING] ML scoring failed for 'El Paso, Elsewhere 2 announced for Xbox Series, PC': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,784 [WARNING] ML scoring failed for 'Ariana Grande leaves fans breathless with death-defying stunt during first tour in seven years': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,842 [WARNING] ML scoring failed for 'Ariana Grande Makes Her Audience Wish ‘Sunshine’ Really Was Eternal in Bravura Oakland Tour Opener: Concert Review': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,883 [WARNING] ML scoring failed for 'Earth, Wind & Fire’s music is universal': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:26,950 [WARNING] ML scoring failed for 'Waiting for Madonna': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:27,000 [WARNING] ML scoring failed for 'Songs of Liberation': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:27,058 [WARNING] ML scoring failed for 'How The World Loved Sylvester’s Voice, But Weaponized His Identity': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:27,117 [WARNING] ML scoring failed for 'The Story of Sylvester: The Tragic Erasure of Disco’s Most Uncompromising Voice': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:27,174 [WARNING] ML scoring failed for 'Madonna is hung up on fans taking pictures at her concerts: ‘Put your f***ing phones down’': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:27,231 [WARNING] ML scoring failed for 'Fashion goals: World Cup’s style tournament has already kicked off': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:27,288 [WARNING] ML scoring failed for 'Jess Cartner-Morley on fashion: forget your go-to maxidress – less is more this summer': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:27,338 [WARNING] ML scoring failed for 'Sali Hughes on beauty: the best facial self-tans for summer': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:27,395 [WARNING] ML scoring failed for 'The Arsenal fans who brought style and swagger to the team’s victory parade: ‘Everyone supports the same thing but expresses it in their own way’': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:27,454 [WARNING] ML scoring failed for 'The return of the bridal suit: will Dua Lipa’s look change the face of weddings?': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:27,503 [WARNING] ML scoring failed for 'Tell us: did you decide to wear a suit rather than a dress to your wedding like Dua Lipa?': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:27,559 [WARNING] ML scoring failed for 'After my mum died, I couldn’t face tackling the clothes she left behind. But wearing them has helped me celebrate the woman she was': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:27,619 [WARNING] ML scoring failed for 'Botox at the dentist and fillers on your lunch break: how did cosmetic treatments become the new normal?': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:27,665 [WARNING] ML scoring failed for 'Mamdani made a play for fashion’s premier league in his custom-made Arsenal kurta': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:27,714 [WARNING] ML scoring failed for 'Fish prints and shapes have UK shoppers hooked this summer': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:27,751 [WARNING] ML scoring failed for 'Artists are making ‘anti-slop’ to rebel against AI: ‘It’s been rammed down our throats’': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:27,800 [WARNING] ML scoring failed for 'Starmer gives tech firms ultimatum to block explicit images on children’s phones': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:27,850 [WARNING] ML scoring failed for '‘A driver of political violence’: how the breakneck AI boom is fueling anti-tech extremism': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:27,903 [WARNING] ML scoring failed for 'Labour will make AI ‘work for the workers’, says Liz Kendall': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:27,966 [WARNING] ML scoring failed for 'New claimants seek to sue Elon Musk’s xAI after Labour MP’s test case': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:28,000 [WARNING] ML scoring failed for 'Microsoft to tighten human rights measures after inquiry into Israel’s use of its tech': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:28,053 [WARNING] ML scoring failed for 'Amazon expands ultra-fast deliveries in UK and adds same-day fruit and veg': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:28,107 [WARNING] ML scoring failed for 'I asked AI for help with DIY. It told me to build a subfloor on rotting stumps, but also taught me valuable lessons | Myke Bartlett': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:28,153 [WARNING] ML scoring failed for 'My year with the robots: how Joanna Stern let AI into her home, work – and heart': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:28,197 [WARNING] ML scoring failed for 'Colorado governor vetoes block on surveillance pricing as other states push for bans': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:28,234 [WARNING] ML scoring failed for 'Post your questions for David Byrne': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:28,284 [WARNING] ML scoring failed for '‘In prison, I made a little studio in my head. It kept me sane’: Ibrahim Alfa Jr, British techno’s great survivor': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:28,334 [WARNING] ML scoring failed for 'Aria music quiz: how well do you know the Australian charts?': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:28,384 [WARNING] ML scoring failed for 'Jesse Hector obituary': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:28,449 [WARNING] ML scoring failed for 'Manchester Camerata review – mental torments build up to a royal meltdown': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:28,500 [WARNING] ML scoring failed for 'The Marriage of Figaro review – Danielle de Niese’s deft direction weds finery with fun': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:28,546 [WARNING] ML scoring failed for 'Hilarious or a nightmare? Exhibition displays the worst album covers ever': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:28,592 [WARNING] ML scoring failed for '‘So rogue’: country superstar Shania Twain turns London pub into saloon': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:28,643 [WARNING] ML scoring failed for '‘At my funeral I want people dancing in the aisles to Madness’: David Gray’s honest playlist': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:28,696 [WARNING] ML scoring failed for 'Hello, goodbye: the Beatles’ chaotic, controversial final tour – as never seen before': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:28,753 [WARNING] ML scoring failed for 'The pet I’ll never forget: Chewy the dog, who loves gardening – and saving lives': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:28,809 [WARNING] ML scoring failed for 'Is it true that … sugar is ‘toxic’?': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:28,866 [WARNING] ML scoring failed for '‘My life is about beauty’: Julie Newmar at 92 on shocking the world as Catwoman – and caring for her son': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:28,925 [WARNING] ML scoring failed for 'The kindness of strangers: I was lost in the pouring rain – then a man came along with a big rainbow umbrella': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:28,966 [WARNING] ML scoring failed for 'Natalie Cassidy looks back: ‘EastEnders’ amazing matriarchs taught me everything about acting’': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,007 [WARNING] ML scoring failed for 'Experts say we should use passkeys, but can a smartphone PIN really be safer than a password?': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,062 [WARNING] ML scoring failed for 'Readers reply: If an alien asked you: ‘What is music?’ what would you play for them?': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,115 [WARNING] ML scoring failed for 'Dining across the divide: ‘I’m not a climate denier, but aiming for net zero by 2050 is unrealistic’': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,164 [WARNING] ML scoring failed for 'This is how we do it: ‘I joined a hook-up app for widowed people, and discovered the strongest chemistry I’ve ever felt’': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,213 [WARNING] ML scoring failed for '‘My partner's mum is cruel towards him and I worry how she’ll be with our future kids' | Annalisa Barbieri': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,253 [WARNING] ML scoring failed for 'Middle East crisis live: Lebanon’s president refuses to meet Netanyahu until war ends': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,295 [WARNING] ML scoring failed for 'Zelenskyy hopes Reform UK councils will allow Ukraine flags to be flown again': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,327 [WARNING] ML scoring failed for 'Israel and Iran step back from renewed conflict after Trump calls for halt': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,369 [WARNING] ML scoring failed for '‘Wasn’t even good’: US tourist says she was charged €44 for two ice creams in Rome': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,403 [WARNING] ML scoring failed for 'France and Germany abandon joint project to build European fighter jet': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,435 [WARNING] ML scoring failed for 'Iran war: who is fighting and why?': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,468 [WARNING] ML scoring failed for '‘Senior lieutenant’ in Kinahan criminal cartel jailed for 24 years by Dublin court': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,496 [WARNING] ML scoring failed for 'Will Iran give up on ceasefire talks as strait of Hormuz blockade continues?': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,533 [WARNING] ML scoring failed for 'Powerful earthquake in southern Philippines leaves at least 35 dead': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,564 [WARNING] ML scoring failed for 'Pope uses Spain speech to warn of global ‘spiritual and cultural crisis’': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,598 [WARNING] ML scoring failed for 'Even Celebrity Knicks Fans Have Game-Day Superstitions': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,622 [WARNING] ML scoring failed for 'Katie Holmes Delivers Two New Takes on One Hot Summer Trend': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,664 [WARNING] ML scoring failed for 'What to Wear to the World Cup—5 Outfits to Cheer Your Favorite Team': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,688 [WARNING] ML scoring failed for 'All the Highlights from the 79th Tony Awards': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,728 [WARNING] ML scoring failed for 'The Show Goes On! The Broadway Buzz Continued All Night at these Tony Awards After-Parties': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,762 [WARNING] ML scoring failed for 'How to Eat Your Skincare, With Green Chef': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,786 [WARNING] ML scoring failed for 'The Hair Mask That Stops Color Fade In Its Tracks': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,815 [WARNING] ML scoring failed for 'Is Kate Middleton’s Fashion Hinting at a US Visit This Summer?': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,851 [WARNING] ML scoring failed for 'TWP Resort 2027': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,885 [WARNING] ML scoring failed for 'Stephanie Hsu Put a Rocky Horror Easter Egg in Her 2026 Tony Awards Outfit': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,909 [WARNING] ML scoring failed for 'How to Pull Off a Headscarf': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,950 [WARNING] ML scoring failed for 'What Makeup Artists Think of the Top Readers’ Choice 2026 Makeup Winners': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:29,982 [WARNING] ML scoring failed for 'The Best Beauty Looks at the 2026 Tony Awards — See Photos': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,024 [WARNING] ML scoring failed for 'Kim Kardashian Brought This Throwback Hair Accessory to Monaco—See the Photos': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,048 [WARNING] ML scoring failed for 'Amazon Is Home to Our Favorite K-Beauty Products': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,087 [WARNING] ML scoring failed for '8 Best Hair Colors for Gray Hair, According to Colorists': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,122 [WARNING] ML scoring failed for 'Even Cindy Crawford Is Tempted to Get a Facelift': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,160 [WARNING] ML scoring failed for 'The Rocky Horror Show Has Electrified Broadway With a Glittery Spin on the Cult Classic': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,202 [WARNING] ML scoring failed for 'Emily Blunt Is Taking One of the Springiest Nail Colors Into Summer—See the Photos': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,235 [WARNING] ML scoring failed for 'Summer 2026’s Short Nail Designs Prove Natural Nails Don’t Have to Be Boring': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,268 [WARNING] ML scoring failed for 'Flavanol-Rich Fruits, Veggies May Be Best for Heart Health. Here's Why': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,309 [WARNING] ML scoring failed for 'An Avocado a Day May Keep Diabetes, Hypertension, and Obesity at Bay': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,342 [WARNING] ML scoring failed for 'Peptide Injections Touted as ‘Fountain of Youth.’ Spoiler Alert: They’re Not': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,382 [WARNING] ML scoring failed for 'Oura Ring 5: Upgraded Smart Ring Takes Your Health, Fitness to the Next Level': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,415 [WARNING] ML scoring failed for 'FIFA World Cup: Biggest Health Risks for Fans and How to Avoid Them': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,453 [WARNING] ML scoring failed for 'Measles, Whooping Cough Rising Due to Low Vaccination Rates, Doctors Say': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,486 [WARNING] ML scoring failed for 'Drinking Alcohol Can Raise Your Risk of These 20 Health Conditions': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,519 [WARNING] ML scoring failed for 'GLP-1s Like Ozempic May Help Lower Breast Cancer Risk. Here’s How': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,552 [WARNING] ML scoring failed for 'Just 2 Hours of Strength Training a Week May Help You Live Longer': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,585 [WARNING] ML scoring failed for 'Groundbreaking New Drug Nearly Doubles Pancreatic Cancer Survival': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,627 [WARNING] ML scoring failed for 'Dalit Teen Beaten To Death Over Inter-Caste Friendship In Uttarakhand: Cops': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,659 [WARNING] ML scoring failed for 'EU Delegation Arrives In Assam for 2-Day Visit To Boost Ties': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,692 [WARNING] ML scoring failed for 'Delhi-NCR Weather Highlights: Weather Office Predicts More Rain In Delhi-NCR': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,725 [WARNING] ML scoring failed for 'INDIA Bloc Meet Highlights: Congress Calls For "Spirit Of Unity", DMK, AAP Skip Meeting': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,767 [WARNING] ML scoring failed for 'India's Longest Road Tunnel Zojila Nears Finish, To Boost Army Mobility': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,808 [WARNING] ML scoring failed for 'Visa Expired, Abused By In-Laws: Bangladeshi Woman's Crisis In Bengal': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,841 [WARNING] ML scoring failed for '4 Migrant Workers From Bengal Caught With 35 Kg Marijuana In Kerala': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,874 [WARNING] ML scoring failed for 'Senior Lawyer Alleges Accessibility Lapses, Dress Code Row At Madras Club': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,916 [WARNING] ML scoring failed for 'Omar Abdullah Invites INDIA Bloc To Join J&K Statehood Protest': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,949 [WARNING] ML scoring failed for 'Bhagwant Mann Hands Over Appointment Letters To 355 Government Employees': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:30,990 [WARNING] ML scoring failed for 'Operation P-Hunt: 18 cases booked, two arrested in Ernakulam': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,039 [WARNING] ML scoring failed for 'Kadavanthra police to record actor Ansiba’s statement': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,088 [WARNING] ML scoring failed for 'Toofan gains momentum as police intensify anti-drug operations in Ernakulam': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,129 [WARNING] ML scoring failed for 'The trust deficit in India-Bangladesh ties': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,170 [WARNING] ML scoring failed for 'Seven Indians killed, nine hurt in Dubai road accident': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,211 [WARNING] ML scoring failed for 'MP reviews facilities at Dwaraka RTC Complex': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,253 [WARNING] ML scoring failed for 'INDIA bloc to take SIR complaints to CJI; seeks Pradhan’s immediate exit': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,302 [WARNING] ML scoring failed for 'Govt cuts subsidised LPG cylinders under Ujjwala from 9 to 4': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,343 [WARNING] ML scoring failed for 'Regional celebrations to mark govt.’s second anniversary on June 17': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,386 [WARNING] ML scoring failed for 'Not named NDA nominee for Bihar Council poll, RLM chief’s son set to lose Cabinet berth': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,419 [WARNING] ML scoring failed for 'Kelsey Lu Announces Fall Tour Dates': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,461 [WARNING] ML scoring failed for 'Kim Petras, horsegiirL, Skrillex, and More: This Week’s Pitchfork Selects Playlist': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,502 [WARNING] ML scoring failed for 'Beastie Boys’ Mike D Lines Up Debut Album': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,535 [WARNING] ML scoring failed for 'Pitchfork Festival London 2026 Announces Lineup': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,569 [WARNING] ML scoring failed for 'Charli XCX Invites You to the Music, Fashion, Film Tour': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,601 [WARNING] ML scoring failed for 'Musicians Union Sues Universal and Warner Over AI Use': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,634 [WARNING] ML scoring failed for 'Evilgiane Announces #HEAVENSGATE VOL. 2': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,669 [WARNING] ML scoring failed for 'Duffy Announces First Live Show in 15 Years': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,700 [WARNING] ML scoring failed for 'Watch Ariana Grande Launch Her First Tour Since 2019': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,734 [WARNING] ML scoring failed for 'Watch Olivia Rodrigo Debut a New Song With the Cure’s Robert Smith': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,767 [WARNING] ML scoring failed for 'DaBaby Lawsuit Over Bowling Alley Brawl Reaches Settlement': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,808 [WARNING] ML scoring failed for 'Talay Riley, Songwriter for Dua Lipa, Britney Spears, H.E.R., Dead at 35': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,841 [WARNING] ML scoring failed for 'Charli XCX Announces ‘Music, Fashion, Film’ Tour': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,874 [WARNING] ML scoring failed for '‘The Indigenous Setlist’ Podcast Will Spotlight Thriving Native and Indigenous Music Scene': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,915 [WARNING] ML scoring failed for 'Watch Megan Thee Stallion, Pink, Neil Patrick Harris Perform ‘Lady Marmalade’ at Tonys': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,956 [WARNING] ML scoring failed for 'Hear Bob Dylan Play ‘Basement Tapes’ Gem ‘You Ain’t Goin’ Nowhere’ for First Time in 14 Years': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:31,989 [WARNING] ML scoring failed for 'Trump Administration Lawsuit Against Kennedy Center Christmas Jazz Musician Dismissed': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,021 [WARNING] ML scoring failed for 'See Olivia Rodrigo Reunite With the Cure’s Robert Smith for New Song ‘What’s Wrong With Me’': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,062 [WARNING] ML scoring failed for 'See the Cure Unearth Deep Cuts at Primavera Sound Headlining Set': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,095 [WARNING] ML scoring failed for 'See Bruce Springsteen Play With Jon Bon Jovi, Public Enemy at Night Two of ‘Music America’': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,128 [WARNING] ML scoring failed for 'Microsoft’s open source tools were hacked to steal passwords of AI developers': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,162 [WARNING] ML scoring failed for 'WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,204 [WARNING] ML scoring failed for 'Pentagon says Alibaba, Baidu, BYD and Unitree support China’s military': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,238 [WARNING] ML scoring failed for 'Apple just taught your iPhone to finish your sentences, your photos, and your workflows': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,261 [WARNING] ML scoring failed for 'Apple will let you build workflows using AI in its new Shortcuts app': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,295 [WARNING] ML scoring failed for 'Apple’s Image Playground doesn’t suck anymore': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,336 [WARNING] ML scoring failed for 'Apple’s Photos app is getting new AI editing features': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,361 [WARNING] ML scoring failed for 'Apple gives Siri its own dedicated app': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,394 [WARNING] ML scoring failed for 'Apple is fixing the headache of splitting the bill with its new Siri in Camera feature': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,427 [WARNING] ML scoring failed for 'Apple puts parents back in control of kids’ iPhone use': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,460 [WARNING] ML scoring failed for 'The Verge’s Father’s Day 2026 gift guide': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,494 [WARNING] ML scoring failed for 'NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,527 [WARNING] ML scoring failed for 'WWDC 2026: All the news from Apple’s developers conference': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,560 [WARNING] ML scoring failed for 'Eero’s Pro 6E routers are down to their cheapest price yet in 2026': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,593 [WARNING] ML scoring failed for 'Hackers likely hijacked over 20,000 Instagram accounts with Meta’s AI chatbot': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,626 [WARNING] ML scoring failed for 'Microsoft’s AI chief says superintelligence is near, but won’t take your job': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,659 [WARNING] ML scoring failed for 'Nintendo’s next Direct showcase is on June 9th': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,695 [WARNING] ML scoring failed for 'Xbox exclusives are back and more complicated than ever': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,725 [WARNING] ML scoring failed for 'Uber tells London to get ready for robotaxis': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,758 [WARNING] ML scoring failed for 'WWDC 2026: How to watch and what to expect': X has 384 features, but LogisticRegression is expecting 385 features as input.
+2026-06-09 00:23:32,758 [INFO] Top 20 after diversity filter:
+2026-06-09 00:23:32,758 [INFO]   health: 5 articles
+2026-06-09 00:23:32,758 [INFO]   world: 5 articles
+2026-06-09 00:23:32,758 [INFO]   tech: 3 articles
+2026-06-09 00:23:32,758 [INFO]   india: 5 articles
+2026-06-09 00:23:32,758 [INFO]   fashion: 2 articles
+2026-06-09 00:23:32,769 [INFO] Ranked 194 articles in 91.42 seconds
+2026-06-09 00:23:32,769 [INFO] Top 20 (diverse) saved to ranked_news.json
+2026-06-09 00:23:32,799 [INFO] Updated priorities in database for 194 articles
+2026-06-09 00:27:07,417 [INFO] Starting summarizer...
+2026-06-09 00:27:07,417 [INFO] Loaded 20 ranked articles
+2026-06-09 00:27:07,417 [INFO] Using top 15 articles for briefing
+2026-06-09 00:27:07,417 [INFO] Sending 15 articles to Groq...
+2026-06-09 00:27:07,417 [INFO] AFC is enabled with max remote calls: 10.
+2026-06-09 00:27:16,911 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-06-09 00:27:16,914 [INFO] Briefing generated successfully
+2026-06-09 00:27:16,917 [INFO] Briefing saved to briefing.txt in 9.50 seconds
+2026-06-09 00:28:18,188 [INFO] Starting delivery...
+2026-06-09 00:28:18,188 [INFO] Loaded briefing (3452 characters)
+2026-06-09 00:28:18,188 [INFO] Loaded 15 articles for feedback buttons
+2026-06-09 00:28:18,200 [INFO] Saved article map with 15 entries
+2026-06-09 00:28:20,127 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:28:20,143 [INFO] Briefing text delivered successfully
+2026-06-09 00:28:20,348 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:28:20,606 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:28:20,828 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:28:21,085 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:28:21,341 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:28:21,549 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:28:21,790 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:28:22,647 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:28:22,840 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:28:23,052 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:28:23,285 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:28:23,663 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:28:23,853 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:28:24,027 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:28:24,300 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:28:24,301 [INFO] Sent 15 articles with feedback buttons
+2026-06-09 00:28:24,312 [INFO] Delivery complete
+2026-06-09 00:30:41,822 [INFO] Feedback listener started — waiting for button taps...
+2026-06-09 00:31:23,713 [WARNING] Failed to answer callback: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=10)
+2026-06-09 00:34:05,942 [INFO] Listener stopped.
+2026-06-09 00:37:45,354 [INFO] ==================================================
+2026-06-09 00:37:45,354 [INFO] SIDRA'S BRIEFING PIPELINE STARTING
+2026-06-09 00:37:45,354 [INFO] ==================================================
+2026-06-09 00:38:10,707 [INFO] Starting ranker pipeline...
+2026-06-09 00:38:10,709 [INFO] Loaded 195 articles from raw_news.json
+2026-06-09 00:38:10,713 [INFO] Loaded 1274 labeled headlines
+2026-06-09 00:38:10,720 [INFO] Loaded classifier type: logistic_regression
+2026-06-09 00:38:10,852 [INFO] Top 20 after diversity filter:
+2026-06-09 00:38:10,852 [INFO]   tech: 5 articles
+2026-06-09 00:38:10,852 [INFO]   world: 4 articles
+2026-06-09 00:38:10,854 [INFO]   india: 5 articles
+2026-06-09 00:38:10,854 [INFO]   health: 3 articles
+2026-06-09 00:38:10,854 [INFO]   fashion: 2 articles
+2026-06-09 00:38:10,854 [INFO]   music: 1 articles
+2026-06-09 00:38:10,856 [INFO] Ranked 195 articles in 0.15 seconds
+2026-06-09 00:38:10,857 [INFO] Top 20 (diverse) saved to ranked_news.json
+2026-06-09 00:38:10,867 [INFO] Updated priorities in database for 195 articles
+2026-06-09 00:38:10,869 [INFO] Starting summarizer...
+2026-06-09 00:38:10,873 [INFO] Loaded 20 ranked articles
+2026-06-09 00:38:10,873 [INFO] Using top 15 articles for briefing
+2026-06-09 00:38:10,873 [INFO] Sending 15 articles to Groq...
+2026-06-09 00:38:10,873 [INFO] AFC is enabled with max remote calls: 10.
+2026-06-09 00:38:22,109 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-06-09 00:38:22,109 [INFO] Briefing generated successfully
+2026-06-09 00:38:22,117 [INFO] Briefing saved to briefing.txt in 11.25 seconds
+2026-06-09 00:38:22,124 [INFO] Starting delivery...
+2026-06-09 00:38:22,124 [INFO] Loaded briefing (3144 characters)
+2026-06-09 00:38:22,124 [INFO] Loaded 15 articles for feedback buttons
+2026-06-09 00:38:22,130 [INFO] Saved article map with 15 entries
+2026-06-09 00:38:24,032 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:38:24,043 [INFO] Briefing text delivered successfully
+2026-06-09 00:38:24,258 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:38:24,566 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:38:24,977 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:38:25,226 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:38:25,479 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:38:25,720 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:38:26,066 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:38:26,307 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:38:26,544 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:38:26,821 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:38:27,062 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:38:27,404 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:38:27,626 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:38:27,962 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:38:28,247 [INFO] HTTP Request: POST https://api.telegram.org/bot8728335888:AAE77hlLHZFHaezr0UbXlYYZp3sskPegnPE/sendMessage "HTTP/1.1 200 OK"
+2026-06-09 00:38:28,247 [INFO] Sent 15 articles with feedback buttons
+2026-06-09 00:38:28,258 [INFO] Delivery complete
+2026-06-09 00:38:28,313 [INFO] ==================================================
+2026-06-09 00:38:28,313 [INFO] PIPELINE COMPLETE in 42.91 seconds
+2026-06-09 00:38:28,313 [INFO] ==================================================

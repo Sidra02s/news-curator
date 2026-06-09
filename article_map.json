@@ -1,21 +1,81 @@
 {
-  "6e45384d": {
-    "url": "https://www.healthline.com/health-news/glp-1-drugs-lower-breast-cancer-incidence",
-    "title": "GLP-1s Like Ozempic May Help Lower Breast Cancer Risk. Here\u2019s How",
-    "topic": "Women's Health",
-    "category": "health"
-  },
-  "acbdf022": {
-    "url": "https://bitcoinfoundation.org/news/ai-news/ai-new-risks/",
-    "title": "AI Has Already Eliminated More US Jobs in 2026 Than in All of 2025. Anthropic Warns of New AI Risks",
-    "topic": "artificial intelligence technology",
+  "70b06dd5": {
+    "url": "https://www.theverge.com/tech/944129/apple-visionos-updates-wwdc-2026",
+    "title": "Apple announces visionOS 27 with Siri AI",
+    "topic": "Tech",
     "category": "tech"
   },
-  "d5186575": {
-    "url": "https://www.healthline.com/health-news/oura-ring-5-new-health-fitness-features",
-    "title": "Oura Ring 5: Upgraded Smart Ring Takes Your Health, Fitness to the Next Level",
-    "topic": "Women's Health",
-    "category": "health"
+  "7a8d00d6": {
+    "url": "https://www.theguardian.com/world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu",
+    "title": "Middle East crisis live: Lebanon\u2019s president refuses to meet Netanyahu until war ends",
+    "topic": "world",
+    "category": "world"
+  },
+  "6f89ab7c": {
+    "url": "https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026",
+    "title": "Apple announces watchOS 27, now with Siri AI",
+    "topic": "Tech",
+    "category": "tech"
+  },
+  "754b4582": {
+    "url": "https://www.theguardian.com/world/2026/jun/08/why-did-israel-and-iran-trade-fire-and-how-does-it-affect-wider-peace-efforts",
+    "title": "Iran war: who is fighting and why?",
+    "topic": "world",
+    "category": "world"
+  },
+  "671e1459": {
+    "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+    "topic": "Tech",
+    "category": "tech"
+  },
+  "ee02dbaa": {
+    "url": "https://indianexpress.com/article/cities/ahmedabad/pm-narendra-modi-surat-speech-congress-karnataka-cm-change-atmanirbhar-bharat-10726598/",
+    "title": "PM Modi in Gujarat: Congress spread chaos, its parasitic politics won\u2019t work",
+    "topic": "India politics Modi",
+    "category": "india"
+  },
+  "2ee1f13f": {
+    "url": "https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art",
+    "title": "Artists are making \u2018anti-slop\u2019 to rebel against AI: \u2018It\u2019s been rammed down our throats\u2019",
+    "topic": "technology",
+    "category": "tech"
+  },
+  "be374c85": {
+    "url": "https://abcnews.com/International/wireStory/mock-political-party-indias-young-cockroaches-set-hold-133640888",
+    "title": "Mock political party for India's young 'cockroaches' set to hold first protest in New Delhi",
+    "topic": "India politics Modi",
+    "category": "india"
+  },
+  "308fe6cd": {
+    "url": "https://economictimes.indiatimes.com/news/politics-and-nation/some-forces-trying-to-push-countrys-youths-towards-negative-politics-bjp-chief-nitin-nabin/articleshow/131554734.cms",
+    "title": "Some forces trying to push country's youths towards 'negative politics': BJP chief Nitin Nabin",
+    "topic": "India politics Modi",
+    "category": "india"
+  },
+  "5533caab": {
+    "url": "https://www.theguardian.com/world/2026/jun/08/iran-ceasefire-talks-us-israel-strait-of-hormuz-blockade-houthis-yemen",
+    "title": "Will Iran give up on ceasefire talks as strait of Hormuz blockade continues?",
+    "topic": "world",
+    "category": "world"
+  },
+  "1ae0ab07": {
+    "url": "https://www.channelnewsasia.com/asia/india-cockroach-janta-party-abhijeet-dipke-protest-6166131",
+    "title": "India's 'Cockroach' youth movement founder arrives in New Delhi to protest Modi",
+    "topic": "India politics Modi",
+    "category": "india"
+  },
+  "5223b977": {
+    "url": "https://www.theverge.com/tech/946032/apple-home-ai-camera-descriptions-search-4k",
+    "title": "Cameras get an Apple Intelligence boost in Apple Home",
+    "topic": "Tech",
+    "category": "tech"
+  },
+  "f33f753f": {
+    "url": "https://www.ndtv.com/india-news/india-bloc-meet-live-updates-congress-tmc-dmk-aap-delhi-rahul-gandhi-mamata-banerjee-vijay-tvk-stalin-opposition-11605019#publisher=newsstand",
+    "title": "INDIA Bloc Meet Highlights: Congress Calls For \"Spirit Of Unity\", DMK, AAP Skip Meeting",
+    "topic": "India",
+    "category": "india"
   },
   "3c7915d9": {
     "url": "https://www.healthline.com/health-news/pancreatic-cancer-drug-nearly-doubles-survival-rates",
@@ -23,70 +83,10 @@
     "topic": "Women's Health",
     "category": "health"
   },
-  "c363da40": {
-    "url": "https://www.ndtv.com/india-news/pm-narendra-modi-chairs-key-economic-advisory-council-meeting-amid-iran-war-11599537#publisher=newsstand",
-    "title": "PM Modi Chairs Key Economic Advisory Council Meeting Amid Iran War",
-    "topic": "India",
-    "category": "india"
-  },
-  "c2b57e6b": {
-    "url": "https://www.theguardian.com/world/2026/jun/06/industrial-farming-denmark-pig-election",
-    "title": "How campaigners beat industrial farming in Denmark\u2019s \u2018pig election\u2019",
-    "topic": "world",
-    "category": "world"
-  },
-  "312d5a32": {
-    "url": "https://www.theguardian.com/world/2026/jun/06/ukraine-war-briefing-putin-says-no-point-meeting-zelenskyy-insists-russia-will-win-the-war",
-    "title": "Ukraine war briefing: Putin says \u2018no point\u2019 meeting Zelenskyy, insists Russia will win the war",
-    "topic": "world",
-    "category": "world"
-  },
-  "8edc1a3a": {
-    "url": "https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel",
-    "title": "More than a decade later, the team behind N++ is back with a multiplayer sequel",
-    "topic": "Tech",
-    "category": "tech"
-  },
-  "7dff4676": {
-    "url": "https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest",
-    "title": "Grand Theft Auto VI is warping the video game release calendar",
-    "topic": "Tech",
-    "category": "tech"
-  },
-  "3f3c2e1f": {
-    "url": "https://www.theguardian.com/world/2026/jun/06/us-says-iran-radar-sites-struck-and-drones-intercepted-in-latest-threat-to-fragile-ceasefire",
-    "title": "Kuwait and Bahrain targeted by Iran after exchange of fire with US",
-    "topic": "world",
-    "category": "world"
-  },
-  "a79749bf": {
-    "url": "https://www.vogue.com/article/art-partner-unveils-the-2026-earth-partner-prize",
-    "title": "Art Partner unveils the 2026 Earth Partner Prize",
-    "topic": "Fashion",
-    "category": "fashion"
-  },
-  "6a887356": {
-    "url": "https://www.vogue.com/slideshow/zimmermann-antibes-summer-2026",
-    "title": "The Aussies Take Antibes: Inside Zimmermann\u2019s Summer Escape to the C\u00f4te d\u2019Azur",
-    "topic": "Fashion",
-    "category": "fashion"
-  },
-  "c6d5a6fb": {
-    "url": "https://www.allure.com/story/rocky-horror-show-musical-backstage-beauty",
-    "title": "The Rocky Horror Show Has Electrified Broadway With a Glittery Spin on the Cult Classic",
-    "topic": "Beauty",
-    "category": "fashion"
-  },
-  "12ffaa11": {
-    "url": "https://indianexpress.com/article/explained/old-ties-new-kathmandu-what-india-now-needs-to-negotiate-with-nepal-10724634/",
-    "title": "Old ties, new Kathmandu: What India now needs to negotiate with Nepal",
-    "topic": "India politics Modi",
-    "category": "india"
-  },
-  "b18f7c0b": {
-    "url": "https://indianexpress.com/article/political-pulse/why-congress-ups-ante-in-karnataka-bets-big-on-dks-as-siddaramaiah-remains-in-the-game-10724618/",
-    "title": "Why Congress ups ante in Karnataka, bets big on DKS as Siddaramaiah remains in the game",
-    "topic": "India politics Modi",
-    "category": "india"
+  "6e45384d": {
+    "url": "https://www.healthline.com/health-news/glp-1-drugs-lower-breast-cancer-incidence",
+    "title": "GLP-1s Like Ozempic May Help Lower Breast Cancer Risk. Here\u2019s How",
+    "topic": "Women's Health",
+    "category": "health"
   }
 }
