@@ -1,31 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Tuesday, June 09, 2026
+       Wednesday, June 10, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Donald Trump, ever the diplomat, claims Iran shot down a US military helicopter and insists America *must* retaliate. Buckle up, it's never dull when he's talking. [Read more](https://www.theguardian.com/world/live/2026/jun/09/middle-east-crisis-iran-israel-us-donald-trump-strait-of-hormuz-peace-deal-latest-news-updates)
+• Iran launched broad retaliatory attacks after US strikes, escalating tensions further and making Wednesday morning feel extra heavy. Keep an eye on this – it's a big deal. [Read more](https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live)
+• Reports claim a Moscow car bomb killed a Russian ammunition chief, suggesting more shadowy internal conflict within Russia's war efforts. Pretty wild way to start the day. [Read more](https://www.theguardian.com/world/2026/jun/10/ukraine-war-briefing-moscow-car-bomb-kills-russian-ammunition-chief-reports)
 
 ## 🤖 Tech & AI
-• Microsoft's AI chief is doing a quick backtrack, now saying AI *won't* actually take all those white-collar jobs. Guess the PR team got a hold of him before he scared everyone too much. [Read more](https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs)
-• Apple finally caught up to the AI party at its developer conference, promising a "revamped Siri AI" and other innovations. Let's see if it actually delivers or just offers more expensive emojis. [ref:5, ref:8]
-• Artists are fighting back against AI-generated "slop," creating "anti-slop" art to protest the automated invasion. It's a creative resistance movement against machines trying to steal their mojo. [Read more](https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art)
+• Apple finally tried to make Siri useful by stuffing it with AI, promising a smarter assistant and iOS 27 updates at WWDC. Let's see if "Apple Intelligence" actually delivers or if it's just more marketing jargon. [ref:1, ref:8]
+• Artists are fighting back against AI-generated "slop" with their own "anti-slop" movement, because frankly, nobody asked for more mediocre AI art rammed down their throats. Good for them. [Read more](https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art)
+• Microsoft's AI chief is calling out Anthropic for suggesting their Claude AI might be conscious, which is a "really, really dangerous" path to go down. Someone needs to keep these AI folks grounded. [Read more](https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious)
 
 ## 💪 Health & Wellness
-• Good news if you're on a GLP-1 drug like Ozempic: new research suggests it might also significantly lower your breast cancer risk. Multitasking meds are always a win. [Read more](https://www.healthline.com/health-news/glp-1-drugs-lower-breast-cancer-incidence)
-• PCOS has officially been renamed, which could mean better and more comprehensive care for millions of women. About time we got clearer language for important health conditions. [Read more](https://www.mindbodygreen.com/articles/pcos-has-officially-been-renamed-heres-what-it-means-for-millions-of-women)
-• Doctors are sounding the alarm: measles and whooping cough are on the rise due to declining vaccination rates. Seriously, get your shots, Sidra. [Read more](https://www.healthline.com/health-news/infectious-diseases-rising-low-vaccination-rates)
+• Those GLP-1 drugs (hello, Ozempic) might do more than just weight loss – new research suggests they could also lower breast cancer risk. Multi-tasking queen of meds, much? [Read more](https://www.healthline.com/health-news/glp-1-drugs-lower-breast-cancer-incidence)
+• Measles and whooping cough are making unwelcome comebacks due to falling vaccination rates. Some things really shouldn't be trending again. [Read more](https://www.healthline.com/health-news/infectious-diseases-rising-low-vaccination-rates)
 
 ## 🇮🇳 India
-• PM Modi is now India's longest-serving Prime Minister, a major milestone that has world leaders sending their congratulations. Love him or hate him, he's made history. [Read more](https://www.ndtv.com/india-news/world-leaders-praise-pm-modi-as-he-becomes-indias-longest-serving-prime-minister-11613691#publisher=newsstand)
-• Modi continues his election-style rhetoric, slamming the Congress party for "parasitic politics" and praising recent state election results. Old habits die hard, especially in politics. [Read more](https://indianexpress.com/article/cities/ahmedabad/pm-narendra-modi-surat-speech-congress-karnataka-cm-change-atmanirbhar-bharat-10726598/)
-• A new "Cockroach Janata Party" (yes, really) is making waves, with youth organizing protests against Modi's government in Delhi. The kids are getting feisty and creative with their dissent. [ref:7, ref:10]
+• India's youth-led "Cockroach Janata Party" is holding its first protest in New Delhi today against Modi, proving Gen Z isn't afraid to get political, even if it means embracing a slightly questionable mascot. [ref:4, ref:7]
+• A Rajya Sabha candidate's nomination was rejected in Madhya Pradesh, with the opposition crying foul and saying democratic values are being "killed under pressure." Classic political drama. [Read more](https://www.thehindu.com/news/national/gujarat/madhya-pradesh-rajya-sabha-row-democratic-values-being-killed-under-pressure-says-amit-chavda/article71083667.ece)
+• The ruling BJP is conveniently warning against "negative politics" trying to steer India's youth away from nation-building. Seems like a direct jab at the aforementioned cockroaches. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/some-forces-trying-to-push-countrys-youths-towards-negative-politics-bjp-chief-nitin-nabin/articleshow/131554734.cms)
 
-TODAY'S TAKEAWAY: India's political landscape is buzzing with Modi's historic run and a new generation finding its voice, while AI continues its complicated dance between promise and pushback.
+TODAY'S TAKEAWAY: Looks like AI is still trying to get its act together while global tensions simmer and India's youth finds a unique voice against the establishment.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 17:57 UAE time
+Generated at 06:18 UAE time
