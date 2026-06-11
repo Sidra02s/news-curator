@@ -1,31 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Wednesday, June 10, 2026
+       Thursday, June 11, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Iran launched broad retaliatory attacks after US strikes, escalating tensions further and making Wednesday morning feel extra heavy. Keep an eye on this – it's a big deal. [Read more](https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live)
-• Reports claim a Moscow car bomb killed a Russian ammunition chief, suggesting more shadowy internal conflict within Russia's war efforts. Pretty wild way to start the day. [Read more](https://www.theguardian.com/world/2026/jun/10/ukraine-war-briefing-moscow-car-bomb-kills-russian-ammunition-chief-reports)
+• The US and Iran are trading strikes again, heating up the Middle East after Trump's threats. This isn't just a skirmish; it's a dangerous escalation you need to watch. [Read more](https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis)
+• The Ukraine war continues to evolve with Ukraine hitting far-flung Russian targets using 'Flamingo missiles' – sounds exotic, but it just means more destruction. [Read more](https://www.theguardian.com/world/2026/jun/11/ukraine-war-briefing-flamingo-missiles-hit-more-far-flung-russian-targets)
 
 ## 🤖 Tech & AI
-• Apple finally tried to make Siri useful by stuffing it with AI, promising a smarter assistant and iOS 27 updates at WWDC. Let's see if "Apple Intelligence" actually delivers or if it's just more marketing jargon. [ref:1, ref:8]
-• Artists are fighting back against AI-generated "slop" with their own "anti-slop" movement, because frankly, nobody asked for more mediocre AI art rammed down their throats. Good for them. [Read more](https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art)
-• Microsoft's AI chief is calling out Anthropic for suggesting their Claude AI might be conscious, which is a "really, really dangerous" path to go down. Someone needs to keep these AI folks grounded. [Read more](https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious)
+• Even the 'Godfather of AI,' Geoffrey Hinton, is now rethinking military AI applications after watching the Ukraine war unfold. If he's spooked, maybe we all should be. [Read more](https://www.businessinsider.com/geoffrey-hinton-russia-ukraine-war-changed-view-military-ai-2026-6)
+• Apple's new Siri AI is finally here and apparently, it knows when to shut up – a true blessing for anyone tired of overly chatty assistants. [Read more](https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality)
+• Artists are fighting back against the AI art invasion, creating 'anti-slop' to push against what they feel has been "rammed down our throats." Good for them, the rebellion starts now. [Read more](https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art)
 
 ## 💪 Health & Wellness
-• Those GLP-1 drugs (hello, Ozempic) might do more than just weight loss – new research suggests they could also lower breast cancer risk. Multi-tasking queen of meds, much? [Read more](https://www.healthline.com/health-news/glp-1-drugs-lower-breast-cancer-incidence)
-• Measles and whooping cough are making unwelcome comebacks due to falling vaccination rates. Some things really shouldn't be trending again. [Read more](https://www.healthline.com/health-news/infectious-diseases-rising-low-vaccination-rates)
+• Major news for women's health: PCOS has officially been renamed. Let's hope this leads to better understanding and care, because a name change is only step one. [Read more](https://www.mindbodygreen.com/articles/pcos-has-officially-been-renamed-heres-what-it-means-for-millions-of-women)
+• Vaccination rates are dropping and it's causing a rise in measles and whooping cough. Seriously, get your shots; nobody wants to relive the 1800s. [Read more](https://www.healthline.com/health-news/infectious-diseases-rising-low-vaccination-rates)
+• Australia just opened its first women's stroke clinic, a critical step to address gender-based disparities in outcomes. About time we tailored healthcare more specifically. [Read more](https://monashhealth.org/news/australias-first-womens-stroke-clinic-targets-gender-based-disparities-in-outcomes/)
 
 ## 🇮🇳 India
-• India's youth-led "Cockroach Janata Party" is holding its first protest in New Delhi today against Modi, proving Gen Z isn't afraid to get political, even if it means embracing a slightly questionable mascot. [ref:4, ref:7]
-• A Rajya Sabha candidate's nomination was rejected in Madhya Pradesh, with the opposition crying foul and saying democratic values are being "killed under pressure." Classic political drama. [Read more](https://www.thehindu.com/news/national/gujarat/madhya-pradesh-rajya-sabha-row-democratic-values-being-killed-under-pressure-says-amit-chavda/article71083667.ece)
-• The ruling BJP is conveniently warning against "negative politics" trying to steer India's youth away from nation-building. Seems like a direct jab at the aforementioned cockroaches. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/some-forces-trying-to-push-countrys-youths-towards-negative-politics-bjp-chief-nitin-nabin/articleshow/131554734.cms)
+• PM Modi is now India's longest-serving elected Prime Minister, attracting praise from world leaders and comparisons to Nehru. Say what you will, he's certainly leaving his mark. [Read more](https://economictimes.indiatimes.com/news/india/pm-modi-gets-wishes-from-world-leaders-on-becoming-indias-longest-serving-elected-prime-minister/articleshow/131613479.cms) [Read more](https://economictimes.indiatimes.com/opinion/et-commentary/nehru-and-modi-two-leaders-two-centuries-one-shared-ambition-to-transform-india/articleshow/131617635.cms)
+• The BJP chief is warning against "negative politics" trying to sway India's youth, which sounds like standard political finger-pointing but might signal deeper societal divides. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/some-forces-trying-to-push-countrys-youths-towards-negative-politics-bjp-chief-nitin-nabin/articleshow/131554734.cms)
+• Modi's ability to handle contradictions is being highlighted, from pushing a growth model without subsidies as CM to launching massive food security as PM. He’s a master of the political pivot. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/view-pm-modi-has-transformed-the-grammar-of-politics/articleshow/131619439.cms)
 
-TODAY'S TAKEAWAY: Looks like AI is still trying to get its act together while global tensions simmer and India's youth finds a unique voice against the establishment.
+TODAY'S TAKEAWAY: The world is caught between escalating global conflicts and a rapidly evolving AI landscape, reminding us that even the 'godfathers' of tech are having second thoughts about what's next.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:18 UAE time
+Generated at 09:07 UAE time
