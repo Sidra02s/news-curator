@@ -1,32 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Thursday, June 11, 2026
+       Friday, June 12, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• The US and Iran are trading strikes again, heating up the Middle East after Trump's threats. This isn't just a skirmish; it's a dangerous escalation you need to watch. [Read more](https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis)
-• The Ukraine war continues to evolve with Ukraine hitting far-flung Russian targets using 'Flamingo missiles' – sounds exotic, but it just means more destruction. [Read more](https://www.theguardian.com/world/2026/jun/11/ukraine-war-briefing-flamingo-missiles-hit-more-far-flung-russian-targets)
+• Iran just poured cold water on Trump's claims of an imminent peace deal, so don't expect any quick fixes in the Middle East anytime soon. [Read more](https://www.theguardian.com/world/live/2026/jun/12/middle-east-crisis-live-us-iran-israel-lebanon-trump-hormuz-oil-peace-deal-doubt-latest-news-updates)
+• European powers (France, Germany, UK) are making a concerted push in Moscow for Ukraine peace talks, signaling a significant diplomatic effort to cool things down. [Read more](https://www.theguardian.com/world/2026/jun/12/ukraine-war-briefing-france-germany-and-uk-make-push-in-moscow-for-peace-talks)
+• Oil prices dipped after Trump announced he was canceling some "strikes" – the markets are clearly still on a hair-trigger from his pronouncements. [Read more](https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis)
 
 ## 🤖 Tech & AI
-• Even the 'Godfather of AI,' Geoffrey Hinton, is now rethinking military AI applications after watching the Ukraine war unfold. If he's spooked, maybe we all should be. [Read more](https://www.businessinsider.com/geoffrey-hinton-russia-ukraine-war-changed-view-military-ai-2026-6)
-• Apple's new Siri AI is finally here and apparently, it knows when to shut up – a true blessing for anyone tired of overly chatty assistants. [Read more](https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality)
-• Artists are fighting back against the AI art invasion, creating 'anti-slop' to push against what they feel has been "rammed down our throats." Good for them, the rebellion starts now. [Read more](https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art)
+• OpenAI is pointing fingers at China for an influence campaign aimed at shaping US AI perceptions, which is a serious escalation in the geopolitical AI battle. This is important because it highlights the strategic fight for AI dominance. [Read more](https://slashdot.org/submission/17348072/openai-says-china-launched-influence-campaign-to-shape-us-attitudes-on-ai)
+• Apple's revamped Siri AI is here, and thankfully, it won't be your overly chatty, clingy virtual friend; it knows when to keep quiet. [ref:4, ref:12]
+• Artists are hitting back at "AI slop" with their own "anti-slop" movement, because apparently, having AI rammed down your throat isn't everyone's idea of progress. [Read more](https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art)
 
 ## 💪 Health & Wellness
-• Major news for women's health: PCOS has officially been renamed. Let's hope this leads to better understanding and care, because a name change is only step one. [Read more](https://www.mindbodygreen.com/articles/pcos-has-officially-been-renamed-heres-what-it-means-for-millions-of-women)
-• Vaccination rates are dropping and it's causing a rise in measles and whooping cough. Seriously, get your shots; nobody wants to relive the 1800s. [Read more](https://www.healthline.com/health-news/infectious-diseases-rising-low-vaccination-rates)
-• Australia just opened its first women's stroke clinic, a critical step to address gender-based disparities in outcomes. About time we tailored healthcare more specifically. [Read more](https://monashhealth.org/news/australias-first-womens-stroke-clinic-targets-gender-based-disparities-in-outcomes/)
+• An AI-designed vaccine, the first of its kind, has safely passed human trials and could protect against a wide range of coronaviruses, which is a massive leap for public health and AI's practical applications. [Read more](https://www.healthline.com/health-news/first-vaccine-designed-artificial-intelligence-tested-humans)
+• Australia just launched its first stroke clinic specifically for women, addressing long-standing gender disparities in health outcomes – a welcome and overdue move. [Read more](https://monashhealth.org/news/australias-first-womens-stroke-clinic-targets-gender-based-disparities-in-outcomes/)
 
 ## 🇮🇳 India
-• PM Modi is now India's longest-serving elected Prime Minister, attracting praise from world leaders and comparisons to Nehru. Say what you will, he's certainly leaving his mark. [Read more](https://economictimes.indiatimes.com/news/india/pm-modi-gets-wishes-from-world-leaders-on-becoming-indias-longest-serving-elected-prime-minister/articleshow/131613479.cms) [Read more](https://economictimes.indiatimes.com/opinion/et-commentary/nehru-and-modi-two-leaders-two-centuries-one-shared-ambition-to-transform-india/articleshow/131617635.cms)
-• The BJP chief is warning against "negative politics" trying to sway India's youth, which sounds like standard political finger-pointing but might signal deeper societal divides. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/some-forces-trying-to-push-countrys-youths-towards-negative-politics-bjp-chief-nitin-nabin/articleshow/131554734.cms)
-• Modi's ability to handle contradictions is being highlighted, from pushing a growth model without subsidies as CM to launching massive food security as PM. He’s a master of the political pivot. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/view-pm-modi-has-transformed-the-grammar-of-politics/articleshow/131619439.cms)
+• PM Modi has completed 12 years at the helm, being hailed for transformative reforms like GST and reshaping India's economic landscape, for better or worse. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/narendra-modi-12-years-achievements-india-reforms-gst-upi-article370-ram-mandir/articleshow/131634003.cms)
+• Modi is now India's longest-serving elected prime minister, a milestone that has world leaders sending congratulations and validating his strong hold on power. [ref:8, ref:10]
+• Observers note Modi's unique ability to handle political contradictions, pushing both growth models and large-scale welfare programs with apparent ease. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/view-pm-modi-has-transformed-the-grammar-of-politics/articleshow/131619439.cms)
 
-TODAY'S TAKEAWAY: The world is caught between escalating global conflicts and a rapidly evolving AI landscape, reminding us that even the 'godfathers' of tech are having second thoughts about what's next.
+TODAY'S TAKEAWAY: The global AI battle is heating up, with China accused of influence campaigns, while AI itself is making groundbreaking strides in health and facing an artistic backlash.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 09:07 UAE time
+Generated at 07:19 UAE time
