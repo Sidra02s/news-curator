@@ -5,29 +5,30 @@
 
 
 ## 🌍 World & Politics
-• Zelenskyy is desperately boosting army wages and seeking foreign recruits in Ukraine, signaling their manpower shortage is getting dire. This is a critical indicator of the war's trajectory. [Read more](https://www.theguardian.com/world/2026/jun/13/ukraine-war-briefing-zelenskyy-boosts-army-wages-foreign-seeks-foreign-recruits)
-• US-Iran peace talks are still stuck in a blame game between Trump and Tehran, proving some things never change. Expect continued low-level friction. [Read more](https://www.theguardian.com/world/2026/jun/12/us-iran-peace-deal-remains-elusive-as-trump-and-tehran-trade-conflicting-claims)
+• Trump is making huge waves (again), claiming an Iran peace deal is imminent and the Strait of Hormuz will open by Sunday. Let's see if this actually materializes, but it's a bold claim even for him. [Read more](https://www.theguardian.com/world/2026/jun/13/preliminary-peace-deal-could-be-signed-within-days-says-us-iran-and-mediators)
+• Ukraine is facing a serious manpower crisis, forcing Zelenskyy to raise army wages and actively seek foreign recruits. The struggle is real on the ground. [Read more](https://www.theguardian.com/world/2026/jun/13/ukraine-war-briefing-zelenskyy-boosts-army-wages-foreign-seeks-foreign-recruits)
 
 ## 🤖 Tech & AI
-• Anthropic's dire warnings about its own AI backfired spectacularly: the government yanked their most powerful model, proving that sometimes, you can be too honest. This is a huge setback for AI deployment. [Read more](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/)
-• A new vaccine, designed by AI, is now being safety tested on humans, targeting a broad range of coronaviruses. This is a massive leap for medical tech and AI's real-world impact. [Read more](https://www.healthline.com/health-news/first-vaccine-designed-artificial-intelligence-tested-humans)
-• In a slightly dystopian turn, it turns out Pokémon Go data was used to train AI for military drones. Because nothing says future war like Pikachu-powered surveillance. [Read more](https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones)
+• Anthropic's grand plans hit a snag: their most powerful AI model was pulled by the government due to a "narrow potential jailbreak" after their own safety warnings, which is peak irony. [Read more](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/)
+• Not content with just building AI, Anthropic is now rolling out industry-specific tools, threatening the very companies who use their base models. Classic tech move: become your own competitor. [Read more](https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-vertical-software-rollout-threatens-enterprise-ai-builders/)
+• Google is suing a Chinese cybercrime ring that used AI to scam hundreds of thousands of people, sending millions of fraudulent texts. This is a stark reminder that AI isn't just for good. [Read more](https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/)
 
 ## 💄 Fashion & Beauty
-• The 'I ❤️ T-shirt' is suddenly trendy again, thanks to Gen Z repurposing it for anti-Trump sentiment. Proving that fashion is cyclical, and sometimes, a political statement is the best accessory. [Read more](https://www.theguardian.com/fashion/2026/jun/11/how-the-i-t-shirt-became-trendy-again-thanks-to-gen-z-and-anti-trump-sentiment)
+• The iconic "I ❤️ T-shirt" is back in vogue, thanks to Gen Z repurposing it with an anti-Trump twist. Proof that fashion is always political, even when it's just a tee. [Read more](https://www.theguardian.com/fashion/2026/jun/11/how-the-i-t-shirt-became-trendy-again-thanks-to-gen-z-and-anti-trump-sentiment)
 
 ## 💪 Health & Wellness
-• Australia just launched its first women's stroke clinic, a vital step to address gender-based disparities in stroke outcomes. It's about time we recognized that women's health isn't just 'small man's health'. [Read more](https://monashhealth.org/news/australias-first-womens-stroke-clinic-targets-gender-based-disparities-in-outcomes/)
+• A new vaccine designed by AI has successfully entered human safety trials, potentially offering protection against various coronaviruses. This is a massive leap for AI in medicine, and genuinely important. [Read more](https://www.healthline.com/health-news/first-vaccine-designed-artificial-intelligence-tested-humans)
+• Australia just opened its first women's stroke clinic, specifically targeting gender-based disparities in stroke outcomes. It's about time we addressed these overlooked health gaps. [Read more](https://monashhealth.org/news/australias-first-womens-stroke-clinic-targets-gender-based-disparities-in-outcomes/)
 
 ## 🇮🇳 India
-• PM Modi just hit his 12-year mark, making him India's longest-serving elected PM, with world leaders showering him with praise for his "transformative journey." Love him or hate him, that's a serious legacy. [Read more](https://economictimes.indiatimes.com/news/india/pm-modi-gets-wishes-from-world-leaders-on-becoming-indias-longest-serving-elected-prime-minister/articleshow/131613479.cms)
-• His tenure has been marked by "bold reforms" and a knack for handling political contradictions, basically rewriting India's political playbook. Think GST and then massive food security programs – quite the tightrope walk. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/view-pm-modi-has-transformed-the-grammar-of-politics/articleshow/131619439.cms)
-• On a more controversial note, India's deportations from West Bengal are causing human rights concerns and straining ties with Bangladesh. Fulfilling a promise, but at what cost? [Read more](https://www.dw.com/en/india-west-bengal-deportations-raise-human-rights-concerns/a-77505192)
+• PM Modi just hit the 12-year mark, becoming India's longest-serving elected leader, receiving congratulations from world leaders and regional allies like Bhutan. It's a significant political milestone. [ref:8, ref:9]
+• Modi's tenure is being praised for transformative reforms like GST, and a unique political style that can handle apparent contradictions. He really has reshaped India's political grammar. [ref:2, ref:3]
+• However, Modi's government is facing human rights concerns over deportations in West Bengal, straining ties with Bangladesh. Every legacy has its complexities. [Read more](https://www.dw.com/en/india-west-bengal-deportations-raise-human-rights-concerns/a-77505192)
 
-TODAY'S TAKEAWAY: AI just got a big reality check and a major health win, proving it's the wildcard of our decade.
+TODAY'S TAKEAWAY: AI is simultaneously hitting a government-imposed wall, building groundbreaking vaccines, and being used for massive scams — quite the contradictory tech day.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:12 UAE time
+Generated at 19:06 UAE time
