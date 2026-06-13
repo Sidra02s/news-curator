@@ -1,13 +1,11 @@
-name: Daily News Briefing
+﻿name: Daily News Briefing
 on:
   schedule:
     - cron: '0 2 * * *'
   workflow_dispatch:
-
 jobs:
   run-briefing:
     runs-on: ubuntu-latest
-    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '0 2 * * *'
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -17,7 +15,7 @@ jobs:
           python-version: '3.11'
       - name: Install dependencies
         run: |
-          pip install requests feedparser scikit-learn python-telegram-bot python-dotenv groq rapidfuzz sentence-transformers google-genai
+          pip install requests feedparser scikit-learn python-telegram-bot python-dotenv groq rapidfuzz sentence-transformers google-genai || pip install requests feedparser scikit-learn python-telegram-bot python-dotenv groq rapidfuzz sentence-transformers google-genai
       - name: Initialize database
         run: python init_db.py
       - name: Run pipeline
@@ -28,7 +26,12 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python main.py
+        run: |
+          for i in 1 2 3; do
+            python main.py && break
+            echo "Attempt $i failed, retrying in 5 minutes..."
+            sleep 300
+          done
       - name: Save outputs to docs folder
         run: |
           if [ ! -f briefing.txt ]; then
