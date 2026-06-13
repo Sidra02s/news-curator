@@ -1,32 +1,33 @@
 
        SIDRA'S MORNING BRIEFING
-       Friday, June 12, 2026
+       Saturday, June 13, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Iran just poured cold water on Trump's claims of an imminent peace deal, so don't expect any quick fixes in the Middle East anytime soon. [Read more](https://www.theguardian.com/world/live/2026/jun/12/middle-east-crisis-live-us-iran-israel-lebanon-trump-hormuz-oil-peace-deal-doubt-latest-news-updates)
-• European powers (France, Germany, UK) are making a concerted push in Moscow for Ukraine peace talks, signaling a significant diplomatic effort to cool things down. [Read more](https://www.theguardian.com/world/2026/jun/12/ukraine-war-briefing-france-germany-and-uk-make-push-in-moscow-for-peace-talks)
-• Oil prices dipped after Trump announced he was canceling some "strikes" – the markets are clearly still on a hair-trigger from his pronouncements. [Read more](https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis)
+• Zelenskyy is desperately boosting army wages and seeking foreign recruits in Ukraine, signaling their manpower shortage is getting dire. This is a critical indicator of the war's trajectory. [Read more](https://www.theguardian.com/world/2026/jun/13/ukraine-war-briefing-zelenskyy-boosts-army-wages-foreign-seeks-foreign-recruits)
+• US-Iran peace talks are still stuck in a blame game between Trump and Tehran, proving some things never change. Expect continued low-level friction. [Read more](https://www.theguardian.com/world/2026/jun/12/us-iran-peace-deal-remains-elusive-as-trump-and-tehran-trade-conflicting-claims)
 
 ## 🤖 Tech & AI
-• OpenAI is pointing fingers at China for an influence campaign aimed at shaping US AI perceptions, which is a serious escalation in the geopolitical AI battle. This is important because it highlights the strategic fight for AI dominance. [Read more](https://slashdot.org/submission/17348072/openai-says-china-launched-influence-campaign-to-shape-us-attitudes-on-ai)
-• Apple's revamped Siri AI is here, and thankfully, it won't be your overly chatty, clingy virtual friend; it knows when to keep quiet. [ref:4, ref:12]
-• Artists are hitting back at "AI slop" with their own "anti-slop" movement, because apparently, having AI rammed down your throat isn't everyone's idea of progress. [Read more](https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art)
+• Anthropic's dire warnings about its own AI backfired spectacularly: the government yanked their most powerful model, proving that sometimes, you can be too honest. This is a huge setback for AI deployment. [Read more](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/)
+• A new vaccine, designed by AI, is now being safety tested on humans, targeting a broad range of coronaviruses. This is a massive leap for medical tech and AI's real-world impact. [Read more](https://www.healthline.com/health-news/first-vaccine-designed-artificial-intelligence-tested-humans)
+• In a slightly dystopian turn, it turns out Pokémon Go data was used to train AI for military drones. Because nothing says future war like Pikachu-powered surveillance. [Read more](https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones)
+
+## 💄 Fashion & Beauty
+• The 'I ❤️ T-shirt' is suddenly trendy again, thanks to Gen Z repurposing it for anti-Trump sentiment. Proving that fashion is cyclical, and sometimes, a political statement is the best accessory. [Read more](https://www.theguardian.com/fashion/2026/jun/11/how-the-i-t-shirt-became-trendy-again-thanks-to-gen-z-and-anti-trump-sentiment)
 
 ## 💪 Health & Wellness
-• An AI-designed vaccine, the first of its kind, has safely passed human trials and could protect against a wide range of coronaviruses, which is a massive leap for public health and AI's practical applications. [Read more](https://www.healthline.com/health-news/first-vaccine-designed-artificial-intelligence-tested-humans)
-• Australia just launched its first stroke clinic specifically for women, addressing long-standing gender disparities in health outcomes – a welcome and overdue move. [Read more](https://monashhealth.org/news/australias-first-womens-stroke-clinic-targets-gender-based-disparities-in-outcomes/)
+• Australia just launched its first women's stroke clinic, a vital step to address gender-based disparities in stroke outcomes. It's about time we recognized that women's health isn't just 'small man's health'. [Read more](https://monashhealth.org/news/australias-first-womens-stroke-clinic-targets-gender-based-disparities-in-outcomes/)
 
 ## 🇮🇳 India
-• PM Modi has completed 12 years at the helm, being hailed for transformative reforms like GST and reshaping India's economic landscape, for better or worse. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/narendra-modi-12-years-achievements-india-reforms-gst-upi-article370-ram-mandir/articleshow/131634003.cms)
-• Modi is now India's longest-serving elected prime minister, a milestone that has world leaders sending congratulations and validating his strong hold on power. [ref:8, ref:10]
-• Observers note Modi's unique ability to handle political contradictions, pushing both growth models and large-scale welfare programs with apparent ease. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/view-pm-modi-has-transformed-the-grammar-of-politics/articleshow/131619439.cms)
+• PM Modi just hit his 12-year mark, making him India's longest-serving elected PM, with world leaders showering him with praise for his "transformative journey." Love him or hate him, that's a serious legacy. [Read more](https://economictimes.indiatimes.com/news/india/pm-modi-gets-wishes-from-world-leaders-on-becoming-indias-longest-serving-elected-prime-minister/articleshow/131613479.cms)
+• His tenure has been marked by "bold reforms" and a knack for handling political contradictions, basically rewriting India's political playbook. Think GST and then massive food security programs – quite the tightrope walk. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/view-pm-modi-has-transformed-the-grammar-of-politics/articleshow/131619439.cms)
+• On a more controversial note, India's deportations from West Bengal are causing human rights concerns and straining ties with Bangladesh. Fulfilling a promise, but at what cost? [Read more](https://www.dw.com/en/india-west-bengal-deportations-raise-human-rights-concerns/a-77505192)
 
-TODAY'S TAKEAWAY: The global AI battle is heating up, with China accused of influence campaigns, while AI itself is making groundbreaking strides in health and facing an artistic backlash.
+TODAY'S TAKEAWAY: AI just got a big reality check and a major health win, proving it's the wildcard of our decade.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 07:19 UAE time
+Generated at 06:12 UAE time
