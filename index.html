@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sidra's Morning Briefing</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    body {
+      font-family: 'Georgia', serif;
+      background: #0a0a0a;
+      color: #e8e8e8;
+      min-height: 100vh;
+      padding: 40px 20px;
+    }
+
+    .container {
+      max-width: 750px;
+      margin: 0 auto;
+    }
+
+    .header {
+      border-bottom: 1px solid #333;
+      padding-bottom: 24px;
+      margin-bottom: 32px;
+    }
+
+    .header h1 {
+      font-size: 28px;
+      font-weight: normal;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: #ffffff;
+    }
+
+    .header .date {
+      font-size: 13px;
+      color: #888;
+      margin-top: 6px;
+      letter-spacing: 1px;
+    }
+
+    .header .tagline {
+      font-size: 13px;
+      color: #555;
+      margin-top: 4px;
+      font-style: italic;
+    }
+
+    .briefing-content {
+      line-height: 1.9;
+      font-size: 15px;
+      color: #d0d0d0;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+
+    .footer {
+      margin-top: 48px;
+      padding-top: 24px;
+      border-top: 1px solid #222;
+      font-size: 12px;
+      color: #444;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .footer a {
+      color: #666;
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      color: #999;
+    }
+
+    .status {
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      background: #2d9e4f;
+      border-radius: 50%;
+      margin-right: 6px;
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.4; }
+    }
+
+    .loading {
+      color: #444;
+      font-style: italic;
+      font-size: 14px;
+    }
+
+    .error {
+      color: #666;
+      font-style: italic;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Sidra's Morning Briefing</h1>
+      <div class="date" id="current-date">Loading...</div>
+      <div class="tagline">Automated · Daily · Personal</div>
+    </div>
+
+    <div class="briefing-content" id="briefing-text">
+      <span class="loading">Loading today's briefing...</span>
+    </div>
+
+    <div class="footer">
+      <div>
+        <span class="status"></span>
+        Pipeline runs daily at 6AM UAE time
+      </div>
+      <div>
+        <a href="https://github.com/YOURUSERNAME/news-curator" target="_blank">View on GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Set current date
+    const date = new Date();
+    const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+    document.getElementById('current-date').textContent = date.toLocaleDateString('en-US', options).toUpperCase();
+
+    // Fetch briefing
+    fetch('https://raw.githubusercontent.com/Sidra02s/news-curator/main/docs/briefing.txt')
+      .then(response => {
+        if (!response.ok) throw new Error('Briefing not found');
+        return response.text();
+      })
+      .then(text => {
+        document.getElementById('briefing-text').innerHTML = text.replace(/\[Read more\]\((https?:\/\/[^\)]+)\)/g, '<a href="$1" target="_blank" style="color:#60a5fa;text-decoration:none;">Read more</a>');
+      })
+      .catch(error => {
+        document.getElementById('briefing-text').innerHTML = 
+          '<span class="error">Today\'s briefing is being generated. Check back shortly.</span>';
+      });
+  </script>
+</body>
+</html>
