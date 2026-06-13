@@ -101,7 +101,7 @@ def generate_briefing(articles):
         log.error("No articles to summarize")
         return None
 
-    log.info(f"Sending {len(articles)} articles to Groq...")
+    log.info(f"Sending {len(articles)} articles to Gemini...")
 
     try:
         prompt = build_prompt(articles)
@@ -119,7 +119,7 @@ def generate_briefing(articles):
         return briefing
 
     except Exception as e:
-        log.error(f"Groq API error: {e}")
+        log.error(f"Gemini API error: {e}")
         return None
 
 # ─── MAIN ────────────────────────────────────────────────────────

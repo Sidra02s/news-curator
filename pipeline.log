@@ -1467,3 +1467,27 @@ weighted avg       0.53      0.44      0.38        45
 2026-06-09 00:38:28,313 [INFO] ==================================================
 2026-06-09 00:38:28,313 [INFO] PIPELINE COMPLETE in 42.91 seconds
 2026-06-09 00:38:28,313 [INFO] ==================================================
+2026-06-09 19:38:36,986 [INFO] Starting ranker pipeline...
+2026-06-09 19:38:36,988 [INFO] Loaded 165 articles from raw_news.json
+2026-06-09 19:38:36,988 [INFO] Loaded 1274 labeled headlines
+2026-06-09 19:38:37,021 [INFO] Loaded classifier type: logistic_regression
+2026-06-09 19:38:37,122 [INFO] Top 20 after diversity filter:
+2026-06-09 19:38:37,122 [INFO]   tech: 5 articles
+2026-06-09 19:38:37,122 [INFO]   india: 5 articles
+2026-06-09 19:38:37,122 [INFO]   world: 3 articles
+2026-06-09 19:38:37,122 [INFO]   health: 5 articles
+2026-06-09 19:38:37,122 [INFO]   fashion: 2 articles
+2026-06-09 19:38:37,129 [INFO] Ranked 165 articles in 0.14 seconds
+2026-06-09 19:38:37,131 [INFO] Top 20 (diverse) saved to ranked_news.json
+2026-06-09 19:38:37,151 [INFO] Updated priorities in database for 165 articles
+2026-06-09 19:38:55,560 [INFO] Starting summarizer...
+2026-06-09 19:38:55,560 [INFO] Loaded 20 ranked articles
+2026-06-09 19:38:55,560 [INFO] Using top 15 articles for briefing
+2026-06-09 19:38:55,560 [INFO] Sending 15 articles to Gemini...
+2026-06-09 19:38:55,560 [INFO] AFC is enabled with max remote calls: 10.
+2026-06-09 19:39:10,217 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-06-09 19:39:10,237 [INFO] Briefing generated successfully
+2026-06-09 19:39:10,239 [INFO] Briefing saved to briefing.txt in 14.68 seconds
+2026-06-12 11:40:10,614 [INFO] Feedback listener started — waiting for button taps...
+2026-06-12 11:43:07,321 [ERROR] Failed to get updates: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=35)
+2026-06-12 11:44:07,454 [INFO] Listener stopped.
