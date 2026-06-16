@@ -1,34 +1,34 @@
 
        SIDRA'S MORNING BRIEFING
-       Sunday, June 14, 2026
+       Tuesday, June 16, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Trump's skipping a G7 bilateral with Zelenskyy, which means Ukraine isn't high on his priority list. Not exactly a surprise, but still a cold shoulder. [Read more](https://www.theguardian.com/world/2026/jun/14/ukraine-war-briefing-trump-g7-zelenskyy)
-• Speaking of Trump, he's claiming an Iran peace deal could be signed today, which would magically open the Strait of Hormuz. Big if true, but mostly sounds like classic Trump hype. [Read more](https://www.theguardian.com/world/2026/jun/13/preliminary-peace-deal-could-be-signed-within-days-says-us-iran-and-mediators)
+• The 'tentative' Iran war deal is actually "very general" with many details still to negotiate, so don't believe the hype just yet despite Trump's big claims. [ref:1, ref:6]
+• Stock markets cheered and oil prices dipped simply at the *news* of a potential Iran war deal, showing just how desperate the world is for calm in the Middle East. [Read more](https://japantoday.com/category/business/deal-on-ending-the-iran-war-sends-stocks-soaring-while-oil-prices-fall)
+• Meanwhile, G7 leaders are pushing for peace in Ukraine, because apparently, fixing global conflicts is suddenly fashionable again. [Read more](https://www.theguardian.com/world/2026/jun/16/ukraine-war-briefing-kyivs-allies-push-for-peace-at-g7-summit-in-france)
 
 ## 🤖 Tech & AI
-• Anthropic just had its powerful AI model, Fable 5, pulled by the government after they themselves raised safety warnings. Talk about self-sabotage, or maybe just a wake-up call for everyone. [Read more](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/)
-• Turns out, telling your staff to go "all-in" on AI to boost productivity can actually backfire, cutting efficiency instead. Humans 1, AI 0. [Read more](https://www.rte.ie/news/business/2026/0613/1578184-token-maxxing-ai/)
-• And for a laugh: KPMG had to pull an AI usage report because the AI doing the reporting started hallucinating. Even AI can't make sense of itself. [Read more](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/)
+• The US government, under Trump, just forced Anthropic to pull its most powerful AI models offline globally, sparking a massive debate about who truly controls AI. [ref:9, ref:10]
+• Unsurprisingly, Indian techies are already sharing 'jugaad' solutions to bypass these new US AI restrictions, proving innovation always finds a way around a wall. [Read more](https://economictimes.indiatimes.com/news/new-updates/claude-fable-5-mythos-banned-indian-techie-shares-several-indian-jugaads-techies-can-use-to-bypass-restrictions-to-access-ai-tools/articleshow/131734540.cms)
+• Big Tech is making a final push for preemptive federal AI regulation in Washington, hoping to get a single, friendly law before states start carving up the industry. [Read more](https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress)
 
 ## 💄 Fashion & Beauty
-• The "I ❤️ T-shirt" is making a comeback, apparently thanks to Gen Z and, hilariously, anti-Trump sentiment. Fashion as political statement – love to see it. [Read more](https://www.theguardian.com/fashion/2026/jun/11/how-the-i-t-shirt-became-trendy-again-thanks-to-gen-z-and-anti-trump-sentiment)
+• The "I ❤️ T-shirt" is back in vogue, thanks to Gen Z and their anti-Trump sentiments, proving that sometimes, fashion is just a billboard for your politics. [Read more](https://www.theguardian.com/fashion/2026/jun/11/how-the-i-t-shirt-became-trendy-again-thanks-to-gen-z-and-anti-trump-sentiment)
 
 ## 💪 Health & Wellness
-• Good news for once: an AI-designed vaccine, the first of its kind, has been safety tested on humans and might protect against a bunch of coronaviruses. AI for good! [Read more](https://www.healthline.com/health-news/first-vaccine-designed-artificial-intelligence-tested-humans)
-• Australia just opened its first women's stroke clinic, specifically targeting the gender disparities in stroke outcomes. Finally, healthcare catching up to biological differences. [Read more](https://monashhealth.org/news/australias-first-womens-stroke-clinic-targets-gender-based-disparities-in-outcomes/)
+• Big news: The first AI-designed vaccine has successfully completed human safety trials, potentially offering broad protection against various coronaviruses. This is genuinely important. [Read more](https://www.healthline.com/health-news/first-vaccine-designed-artificial-intelligence-tested-humans)
 
 ## 🇮🇳 India
-• PM Modi marks 12 years in office as India’s longest-serving elected leader, getting props from world leaders and media for his "transformative journey." [ref:4, ref:10]
-• His government is pushing ahead with controversial deportations from West Bengal, fulfilling a key promise, but it’s creating some serious human rights and diplomatic headaches with Bangladesh. [Read more](https://www.dw.com/en/india-west-bengal-deportations-raise-human-rights-concerns/a-77505192)
-• India's trying to pivot towards AI self-reliance after Anthropic's model takedown, realizing relying solely on foreign tech might not be the smartest long-term play. [ref:2, ref:11]
+• PM Modi is celebrating 12 years of "bold reforms" and "decisive decisions" that have, undeniably, transformed India's political and economic landscape. [ref:2, ref:4]
+• However, the Opposition's frustration is at a peak, with Sanjay Raut calling Modi an "aghori" and Ashok Gehlot demanding a "Modi Vs Rahul" showdown. [ref:3, ref:7]
+• India's deportation of thousands from West Bengal is fulfilling a key Modi promise but is also raising human rights concerns and straining ties with Bangladesh. [Read more](https://www.dw.com/en/india-west-bengal-deportations-raise-human-rights-concerns/a-77505192)
 
-TODAY'S TAKEAWAY: AI is simultaneously saving lives, making up facts, and causing countries to rethink their tech future, while Modi solidifies his power at home.
+TODAY'S TAKEAWAY: The US just dropped the hammer on global AI, while India's political arena remains a full-contact sport.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:29 UAE time
+Generated at 07:21 UAE time
