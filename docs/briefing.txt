@@ -1,34 +1,30 @@
 
        SIDRA'S MORNING BRIEFING
-       Tuesday, June 16, 2026
+       Thursday, June 18, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• The 'tentative' Iran war deal is actually "very general" with many details still to negotiate, so don't believe the hype just yet despite Trump's big claims. [ref:1, ref:6]
-• Stock markets cheered and oil prices dipped simply at the *news* of a potential Iran war deal, showing just how desperate the world is for calm in the Middle East. [Read more](https://japantoday.com/category/business/deal-on-ending-the-iran-war-sends-stocks-soaring-while-oil-prices-fall)
-• Meanwhile, G7 leaders are pushing for peace in Ukraine, because apparently, fixing global conflicts is suddenly fashionable again. [Read more](https://www.theguardian.com/world/2026/jun/16/ukraine-war-briefing-kyivs-allies-push-for-peace-at-g7-summit-in-france)
+• The US and Iran signed a "peace deal," which sounds great until you hear Tehran is still threatening to charge ships in the Strait of Hormuz. So, peace, but with a side of potential maritime shakedown. [Read more](https://www.theguardian.com/world/live/2026/jun/18/middle-east-crisis-live-us-iran-presidents-sign-peace-deal-mou-trump-tehran-strait-of-hormuz-toll-lebanon-israel)
+• The situation in Ukraine remains tense, with Kyiv shoring up its northern borders, fearing Belarus might get dragged deeper into the conflict. Meanwhile, allies are giving Ukraine the green light to reproduce their air-defense missiles. It’s not over yet. [ref:10, ref:15]
 
 ## 🤖 Tech & AI
-• The US government, under Trump, just forced Anthropic to pull its most powerful AI models offline globally, sparking a massive debate about who truly controls AI. [ref:9, ref:10]
-• Unsurprisingly, Indian techies are already sharing 'jugaad' solutions to bypass these new US AI restrictions, proving innovation always finds a way around a wall. [Read more](https://economictimes.indiatimes.com/news/new-updates/claude-fable-5-mythos-banned-indian-techie-shares-several-indian-jugaads-techies-can-use-to-bypass-restrictions-to-access-ai-tools/articleshow/131734540.cms)
-• Big Tech is making a final push for preemptive federal AI regulation in Washington, hoping to get a single, friendly law before states start carving up the industry. [Read more](https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress)
+• Elon Musk's Grok AI was reportedly used by the US government in strikes against Iran, specifically to fire 2,000 missiles. This is a big deal, Sidra, because AI isn't just for chatbots anymore; it's literally shaping geopolitics and warfare. [ref:4, ref:8]
+• On the enterprise front, companies are still scratching their heads trying to figure out if all that AI "tokenmaxxing" is actually worth the hefty bill. Turns out, ROI isn't as quick as the hype. [Read more](https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/)
+• Good news for your health and sanity: The first AI-designed vaccine has been safely tested on humans, aiming to protect against a range of coronaviruses. AI might just save us all, instead of just making us fight wars. [Read more](https://www.healthline.com/health-news/first-vaccine-designed-artificial-intelligence-tested-humans)
 
 ## 💄 Fashion & Beauty
-• The "I ❤️ T-shirt" is back in vogue, thanks to Gen Z and their anti-Trump sentiments, proving that sometimes, fashion is just a billboard for your politics. [Read more](https://www.theguardian.com/fashion/2026/jun/11/how-the-i-t-shirt-became-trendy-again-thanks-to-gen-z-and-anti-trump-sentiment)
-
-## 💪 Health & Wellness
-• Big news: The first AI-designed vaccine has successfully completed human safety trials, potentially offering broad protection against various coronaviruses. This is genuinely important. [Read more](https://www.healthline.com/health-news/first-vaccine-designed-artificial-intelligence-tested-humans)
+• The "I ❤️ T-shirt" is apparently back in style, thanks to Gen Z and a dash of anti-Trump sentiment. Who knew political vibes could dictate your wardrobe? [Read more](https://www.theguardian.com/fashion/2026/jun/11/how-the-i-t-shirt-became-trendy-again-thanks-to-gen-z-and-anti-trump-sentiment)
 
 ## 🇮🇳 India
-• PM Modi is celebrating 12 years of "bold reforms" and "decisive decisions" that have, undeniably, transformed India's political and economic landscape. [ref:2, ref:4]
-• However, the Opposition's frustration is at a peak, with Sanjay Raut calling Modi an "aghori" and Ashok Gehlot demanding a "Modi Vs Rahul" showdown. [ref:3, ref:7]
-• India's deportation of thousands from West Bengal is fulfilling a key Modi promise but is also raising human rights concerns and straining ties with Bangladesh. [Read more](https://www.dw.com/en/india-west-bengal-deportations-raise-human-rights-concerns/a-77505192)
+• India's political landscape is shifting, with the Trinamool Congress in West Bengal reportedly collapsing under the BJP's pressure. Modi's party is systematically weakening regional powerhouses, which means a stronger center. [Read more](https://thediplomat.com/2026/06/indias-strongest-regional-party-collapses-thanks-to-modis-bjp/)
+• The opposition is really making headlines with their frustration, as Shiv Sena's Sanjay Raut called PM Modi an "aghori," sparking a sharp reaction from the BJP. More political theatrics than substance, but it shows the temperature is rising. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/oppositions-frustration-has-reached-new-levels-bjp-after-sanjay-raut-calls-pm-modi-aghori/articleshow/131701572.cms)
+• Ashok Gehlot wants a clear "Modi Vs Rahul" fight for the INDIA bloc, but the opposition is still struggling to convert public discontent into actual votes. They need a better strategy than just complaining. [ref:7, ref:12]
 
-TODAY'S TAKEAWAY: The US just dropped the hammer on global AI, while India's political arena remains a full-contact sport.
+TODAY'S TAKEAWAY: AI just went from corporate buzzword to battlefield reality, so pay attention.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 07:21 UAE time
+Generated at 06:48 UAE time
