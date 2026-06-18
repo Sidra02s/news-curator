@@ -142,7 +142,7 @@
         return response.text();
       })
       .then(text => {
-        document.getElementById('briefing-text').textContent = text;
+        document.getElementById('briefing-text').innerHTML = text.replace(/\[Read more\]\((https?:\/\/[^)]+)\)/g, '<a href="$1" target="_blank" style="color:#60a5fa;text-decoration:none;">Read more</a>');
       })
       .catch(error => {
         document.getElementById('briefing-text').innerHTML = 
