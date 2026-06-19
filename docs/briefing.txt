@@ -1,30 +1,33 @@
 
        SIDRA'S MORNING BRIEFING
-       Thursday, June 18, 2026
+       Friday, June 19, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• The US and Iran signed a "peace deal," which sounds great until you hear Tehran is still threatening to charge ships in the Strait of Hormuz. So, peace, but with a side of potential maritime shakedown. [Read more](https://www.theguardian.com/world/live/2026/jun/18/middle-east-crisis-live-us-iran-presidents-sign-peace-deal-mou-trump-tehran-strait-of-hormuz-toll-lebanon-israel)
-• The situation in Ukraine remains tense, with Kyiv shoring up its northern borders, fearing Belarus might get dragged deeper into the conflict. Meanwhile, allies are giving Ukraine the green light to reproduce their air-defense missiles. It’s not over yet. [ref:10, ref:15]
+• The Middle East is a mess: Israel just hit targets in Lebanon, and US-Iran talks have completely fallen apart in Switzerland. Trump, ever the diplomat, is now calling for a "complete ceasefire" across the region. [ref:4, 7, 12]
+• Another Putin critic has met an untimely end, with a suspect in the killing potentially tied to Russian intelligence. Some things, it seems, never change in that part of the world. [Read more](https://www.theguardian.com/world/2026/jun/19/ukraine-war-briefing-suspect-arrested-putin-critic-killing-robert-kuzokov-)
 
 ## 🤖 Tech & AI
-• Elon Musk's Grok AI was reportedly used by the US government in strikes against Iran, specifically to fire 2,000 missiles. This is a big deal, Sidra, because AI isn't just for chatbots anymore; it's literally shaping geopolitics and warfare. [ref:4, ref:8]
-• On the enterprise front, companies are still scratching their heads trying to figure out if all that AI "tokenmaxxing" is actually worth the hefty bill. Turns out, ROI isn't as quick as the hype. [Read more](https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/)
-• Good news for your health and sanity: The first AI-designed vaccine has been safely tested on humans, aiming to protect against a range of coronaviruses. AI might just save us all, instead of just making us fight wars. [Read more](https://www.healthline.com/health-news/first-vaccine-designed-artificial-intelligence-tested-humans)
+• OpenAI is making serious power plays, poaching Noam Shazeer, co-lead of Google's Gemini, in a massive talent grab. This is a big win for them in the never-ending AI arms race. [Read more](https://www.newsdrum.in/business/openai-lands-gemini-co-lead-noam-shazeer-from-google-in-major-ai-talent-coup-12049952)
+• Nearly half of US singles are giving AI in dating a big thumbs down. While some are okay with AI helping with profile tweaks, it seems genuine connection still beats algorithmic charm. [Read more](https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/)
+• Greece is finally looking beyond basic digitalization and wants to dive headfirst into AI research and public services. Better late than never, I suppose. [Read more](https://www.naftemporiki.gr/english/2125774/mits-daskalakis-urges-greece-to-move-beyond-digitization-and-embrace-ai/)
 
 ## 💄 Fashion & Beauty
-• The "I ❤️ T-shirt" is apparently back in style, thanks to Gen Z and a dash of anti-Trump sentiment. Who knew political vibes could dictate your wardrobe? [Read more](https://www.theguardian.com/fashion/2026/jun/11/how-the-i-t-shirt-became-trendy-again-thanks-to-gen-z-and-anti-trump-sentiment)
+• The I Love T-shirt is apparently back in vogue, thanks to Gen Z and, hilariously, anti-Trump sentiment. Who knew political frustration could be such a style statement? [Read more](https://www.theguardian.com/fashion/2026/jun/11/how-the-i-t-shirt-became-trendy-again-thanks-to-gen-z-and-anti-trump-sentiment)
+
+## 💪 Health & Wellness
+• Here's a wild one: GLP-1 drugs like Ozempic and Wegovy might do more than just help with weight loss; a new study links them to a surprising drop in violent behavior. Could be a game changer, or just a really interesting side effect. [Read more](https://www.healthline.com/health-news/glp-1s-reduce-impulsivity-violent-behavior)
 
 ## 🇮🇳 India
-• India's political landscape is shifting, with the Trinamool Congress in West Bengal reportedly collapsing under the BJP's pressure. Modi's party is systematically weakening regional powerhouses, which means a stronger center. [Read more](https://thediplomat.com/2026/06/indias-strongest-regional-party-collapses-thanks-to-modis-bjp/)
-• The opposition is really making headlines with their frustration, as Shiv Sena's Sanjay Raut called PM Modi an "aghori," sparking a sharp reaction from the BJP. More political theatrics than substance, but it shows the temperature is rising. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/oppositions-frustration-has-reached-new-levels-bjp-after-sanjay-raut-calls-pm-modi-aghori/articleshow/131701572.cms)
-• Ashok Gehlot wants a clear "Modi Vs Rahul" fight for the INDIA bloc, but the opposition is still struggling to convert public discontent into actual votes. They need a better strategy than just complaining. [ref:7, ref:12]
+• Trump is back to showering praise on Modi, calling him "tough" and claiming a US-India trade deal is "very close." Good for show, but let's see if anything actually materializes. [Read more](https://biztoc.com/x/6566de5fbc9d4f49)
+• Modi’s BJP is on a roll, effectively collapsing West Bengal’s strongest regional party. This isn't just a local win; it's a significant power play cementing BJP's dominance. [Read more](https://thediplomat.com/2026/06/indias-strongest-regional-party-collapses-thanks-to-modis-bjp/)
+• Water wars are brewing again: Tamil Nadu’s assembly has unanimously rejected Karnataka’s Mekedatu dam proposal. This regional dispute will likely get louder before it gets resolved. [Read more](https://www.thehindu.com/news/national/tamil-nadu/tn-assembly-unanimously-adopts-resolution-against-karnataka-governments-mekedatu-dam-proposal/article71121084.ece)
 
-TODAY'S TAKEAWAY: AI just went from corporate buzzword to battlefield reality, so pay attention.
+TODAY'S TAKEAWAY: Geopolitical tensions are simmering globally, while India's political landscape continues to shift dramatically under Modi's watch.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:48 UAE time
+Generated at 07:00 UAE time
