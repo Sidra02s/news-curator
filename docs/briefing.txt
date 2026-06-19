@@ -5,29 +5,27 @@
 
 
 ## 🌍 World & Politics
-• The Middle East is a mess: Israel just hit targets in Lebanon, and US-Iran talks have completely fallen apart in Switzerland. Trump, ever the diplomat, is now calling for a "complete ceasefire" across the region. [ref:4, 7, 12]
-• Another Putin critic has met an untimely end, with a suspect in the killing potentially tied to Russian intelligence. Some things, it seems, never change in that part of the world. [Read more](https://www.theguardian.com/world/2026/jun/19/ukraine-war-briefing-suspect-arrested-putin-critic-killing-robert-kuzokov-)
+• A US official says Israel and Hezbollah have finally agreed to a ceasefire, which is great news, assuming everyone actually sticks to it. [Read more](https://www.theguardian.com/world/live/2026/jun/19/middle-east-crisis-live-israel-strikes-targets-in-lebanon-as-us-iran-talks-in-switzerland-called-off)
+• But don't pop the champagne yet: US-Iran talks were promptly called off after deadly attacks between Israel and Hezbollah, reminding us how volatile that region remains. [Read more](https://www.theguardian.com/world/2026/jun/19/us-iran-talks-in-switzerland-cancelled)
+• Trump, ever the showman, is busy shaping his legacy with a new Iran deal and apparently astonished Italy's PM Meloni by claiming she "begged" for a photo. Never a dull moment. [ref:10, ref:13]
 
 ## 🤖 Tech & AI
-• OpenAI is making serious power plays, poaching Noam Shazeer, co-lead of Google's Gemini, in a massive talent grab. This is a big win for them in the never-ending AI arms race. [Read more](https://www.newsdrum.in/business/openai-lands-gemini-co-lead-noam-shazeer-from-google-in-major-ai-talent-coup-12049952)
-• Nearly half of US singles are giving AI in dating a big thumbs down. While some are okay with AI helping with profile tweaks, it seems genuine connection still beats algorithmic charm. [Read more](https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/)
-• Greece is finally looking beyond basic digitalization and wants to dive headfirst into AI research and public services. Better late than never, I suppose. [Read more](https://www.naftemporiki.gr/english/2125774/mits-daskalakis-urges-greece-to-move-beyond-digitization-and-embrace-ai/)
-
-## 💄 Fashion & Beauty
-• The I Love T-shirt is apparently back in vogue, thanks to Gen Z and, hilariously, anti-Trump sentiment. Who knew political frustration could be such a style statement? [Read more](https://www.theguardian.com/fashion/2026/jun/11/how-the-i-t-shirt-became-trendy-again-thanks-to-gen-z-and-anti-trump-sentiment)
+• India is making AI a public good, not just a profit machine, aiming to use it at the grassroots level. Smart play to ensure it actually helps people. [Read more](https://www.rt.com/india/641777-democratizing-ai-nara-lokesh/)
+• Billionaire Ambani is going all-in, planning to weave AI into literally every Reliance service and 500 million homes. Get ready for an AI-powered India. [Read more](https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/)
+• In the ongoing chip wars, the US suspects ASML’s top tools are in China, but ASML is playing innocent. The tech world's geopolitical drama heats up. [Read more](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/)
 
 ## 💪 Health & Wellness
-• Here's a wild one: GLP-1 drugs like Ozempic and Wegovy might do more than just help with weight loss; a new study links them to a surprising drop in violent behavior. Could be a game changer, or just a really interesting side effect. [Read more](https://www.healthline.com/health-news/glp-1s-reduce-impulsivity-violent-behavior)
+• This is wild: new studies suggest GLP-1 drugs like Ozempic and Wegovy might do more than just help with weight loss—they could actually reduce violent behavior and impulsivity. Mind. Blown. [Read more](https://www.healthline.com/health-news/glp-1s-reduce-impulsivity-violent-behavior)
 
 ## 🇮🇳 India
-• Trump is back to showering praise on Modi, calling him "tough" and claiming a US-India trade deal is "very close." Good for show, but let's see if anything actually materializes. [Read more](https://biztoc.com/x/6566de5fbc9d4f49)
-• Modi’s BJP is on a roll, effectively collapsing West Bengal’s strongest regional party. This isn't just a local win; it's a significant power play cementing BJP's dominance. [Read more](https://thediplomat.com/2026/06/indias-strongest-regional-party-collapses-thanks-to-modis-bjp/)
-• Water wars are brewing again: Tamil Nadu’s assembly has unanimously rejected Karnataka’s Mekedatu dam proposal. This regional dispute will likely get louder before it gets resolved. [Read more](https://www.thehindu.com/news/national/tamil-nadu/tn-assembly-unanimously-adopts-resolution-against-karnataka-governments-mekedatu-dam-proposal/article71121084.ece)
+• Trump says a US-India trade deal is "very close," calling Modi "tough." This could be a game-changer for both economies, if it ever crosses the finish line. [Read more](https://biztoc.com/x/6566de5fbc9d4f49)
+• Despite the buzz, Modi's G7 appearance had some critics scratching their heads; they felt he was unusually quiet, perhaps a bit too respectful of American power. [ref:5, ref:9]
+• On a vital domestic note, President Murmu is pushing hard to eradicate sickle cell anaemia by 2047, a huge health initiative focused on tribal communities. [Read more](https://www.thehindu.com/news/national/india-to-eradicate-sickle-cell-anaemia-before-2047-target-president-murmu/article71123039.ece)
 
-TODAY'S TAKEAWAY: Geopolitical tensions are simmering globally, while India's political landscape continues to shift dramatically under Modi's watch.
+TODAY'S TAKEAWAY: The global stage is a whirlwind of fragile peace deals and power plays, but India is clearly stepping up its game, both domestically and internationally.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 07:00 UAE time
+Generated at 16:48 UAE time
