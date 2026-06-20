@@ -1,31 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Friday, June 19, 2026
+       Saturday, June 20, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• A US official says Israel and Hezbollah have finally agreed to a ceasefire, which is great news, assuming everyone actually sticks to it. [Read more](https://www.theguardian.com/world/live/2026/jun/19/middle-east-crisis-live-israel-strikes-targets-in-lebanon-as-us-iran-talks-in-switzerland-called-off)
-• But don't pop the champagne yet: US-Iran talks were promptly called off after deadly attacks between Israel and Hezbollah, reminding us how volatile that region remains. [Read more](https://www.theguardian.com/world/2026/jun/19/us-iran-talks-in-switzerland-cancelled)
-• Trump, ever the showman, is busy shaping his legacy with a new Iran deal and apparently astonished Italy's PM Meloni by claiming she "begged" for a photo. Never a dull moment. [ref:10, ref:13]
+• Trump is at it again, claiming he told Israel to "calm down" and agree to a ceasefire with Hezbollah. He also managed to annoy Italy's PM by suggesting she "begged" for a photo. Vintage Trump, always stirring the pot. [ref:15, ref:13]
+• A ceasefire between Israel and Hezbollah has been renewed after a disruptive flare-up. Here's hoping it actually holds this time around. [Read more](https://www.theguardian.com/world/2026/jun/19/israel-hezbollah-renew-ceasefire-lebanon-us-iran-agreement)
 
 ## 🤖 Tech & AI
-• India is making AI a public good, not just a profit machine, aiming to use it at the grassroots level. Smart play to ensure it actually helps people. [Read more](https://www.rt.com/india/641777-democratizing-ai-nara-lokesh/)
-• Billionaire Ambani is going all-in, planning to weave AI into literally every Reliance service and 500 million homes. Get ready for an AI-powered India. [Read more](https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/)
-• In the ongoing chip wars, the US suspects ASML’s top tools are in China, but ASML is playing innocent. The tech world's geopolitical drama heats up. [Read more](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/)
+• Shanghai's film festival is launching "AI BACKLOT," an initiative to integrate artificial intelligence into filmmaking. Brace yourself for some truly next-level visuals, or maybe just more uncanny valley. [Read more](https://www.prnewswire.com/news-releases/siff-launches-ai-backlot-a-new-frontier-in-ai-film-collaboration-302805212.html)
+• India's billionaire Ambani is pushing to weave AI into every call, app, and home for over 500 million people. This is a huge move that will redefine daily tech use across the country. [Read more](https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/)
+• Despite the hype, market warnings suggest that current AI investment euphoria is unsustainable and deeper risks are being ignored. Keep an eye on your portfolio. [Read more](https://economictimes.indiatimes.com/markets/us-stocks/news/ai-euphoria-fed-signals-and-oil-politics-david-roche-warns-markets-may-be-ignoring-bigger-risks/articleshow/131848506.cms)
 
 ## 💪 Health & Wellness
-• This is wild: new studies suggest GLP-1 drugs like Ozempic and Wegovy might do more than just help with weight loss—they could actually reduce violent behavior and impulsivity. Mind. Blown. [Read more](https://www.healthline.com/health-news/glp-1s-reduce-impulsivity-violent-behavior)
+• In a wild twist, GLP-1 drugs like Ozempic and Wegovy are being linked to a surprising drop in violent behavior. Could a weight-loss shot be the secret to world peace? Probably not, but it's an interesting finding. [Read more](https://www.healthline.com/health-news/glp-1s-reduce-impulsivity-violent-behavior)
+• Australia has launched its first women's stroke clinic, a much-needed move to address gender-based disparities in stroke outcomes. It's about time healthcare got more tailored. [Read more](https://monashhealth.org/news/australias-first-womens-stroke-clinic-targets-gender-based-disparities-in-outcomes/)
 
 ## 🇮🇳 India
-• Trump says a US-India trade deal is "very close," calling Modi "tough." This could be a game-changer for both economies, if it ever crosses the finish line. [Read more](https://biztoc.com/x/6566de5fbc9d4f49)
-• Despite the buzz, Modi's G7 appearance had some critics scratching their heads; they felt he was unusually quiet, perhaps a bit too respectful of American power. [ref:5, ref:9]
-• On a vital domestic note, President Murmu is pushing hard to eradicate sickle cell anaemia by 2047, a huge health initiative focused on tribal communities. [Read more](https://www.thehindu.com/news/national/india-to-eradicate-sickle-cell-anaemia-before-2047-target-president-murmu/article71123039.ece)
+• The Modi government is making a huge push to reverse India's brain drain by actively wooing back Indian talent from overseas. This is a critical move for the nation's future growth and innovation. [Read more](https://www.ndtv.com/india-news/modi-government-initiative-to-reverse-india-brain-drain-by-attracting-global-researchers-11660596#publisher=newsstand)
+• Trump says a US-India trade deal is "very close" and praised Modi as "tough." While potentially good for business, "very close" in Trump-speak can mean anything from tomorrow to never. [Read more](https://biztoc.com/x/6566de5fbc9d4f49)
+• The G7 meeting showed Modi potentially holding back on "moral clarity" when confronting American power. His strategic silence is definitely something to observe. [Read more](https://thediplomat.com/2026/06/no-reset-at-g7-trump-was-trump-modi-was-not-modi/)
 
-TODAY'S TAKEAWAY: The global stage is a whirlwind of fragile peace deals and power plays, but India is clearly stepping up its game, both domestically and internationally.
+TODAY'S TAKEAWAY: India is making a massive play for its future by trying to bring back talent and secure a major trade deal, while the world watches Trump continue his unique brand of diplomacy.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 16:48 UAE time
+Generated at 06:15 UAE time
