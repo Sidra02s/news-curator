@@ -1,32 +1,33 @@
 
        SIDRA'S MORNING BRIEFING
-       Sunday, June 21, 2026
+       Monday, June 22, 2026
 -----------------------------
 
 
+Good morning, Sidra. Let's get you sharp.
+
 ## 🌍 World & Politics
-• Iran is playing a dangerous game, threatening to close the Strait of Hormuz in response to Israeli strikes in Lebanon; this is a major geopolitical flashpoint that could seriously impact global oil supply. [Read more](https://www.theguardian.com/world/2026/jun/20/israeli-strikes-southern-lebanon-reports-renewed-ceasefire)
-• Ukraine claims its drones hit a Russian oil refinery 2,000km away, showing their expanding reach and escalating the conflict significantly. [Read more](https://www.theguardian.com/world/2026/jun/21/ukraine-war-briefing-drones-strike-russia-tyumen-oil-refinery-2000km-away-says-zelenskyy)
-• At the recent G7, Modi apparently wasn't his usual assertive self, leading to questions about India's willingness to challenge American power, even under Trump. [Read more](https://thediplomat.com/2026/06/no-reset-at-g7-trump-was-trump-modi-was-not-modi/)
+• Trump's ego just strained US-Iran talks, causing an Iranian walkout at a critical moment for global stability. Predictable, but still problematic. [Read more](https://www.theguardian.com/world/2026/jun/21/us-iran-talks-jd-vance-switzerland-strait-of-hormuz-lebanon)
+• Just when you thought Eastern Europe couldn't get messier, a historical dispute over a WWII army unit threatens to pit Poland against Ukraine. Great. [Read more](https://www.theguardian.com/world/2026/jun/22/ukraine-war-briefing-poland-dispute-second-world-war-army-unit)
 
 ## 🤖 Tech & AI
-• Signal's CEO is warning everyone that AI chatbots are "not your friends" or sentient beings, a much-needed dose of reality amidst all the hype. [Read more](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/)
-• Apple's AI strategy, dubbed Siri AI, is finally coming, but it's playing catch-up in its famously walled garden, which might actually be a good thing for quality control. [Read more](https://www.livemint.com/opinion/columns/apple-ai-artificial-intelligence-siri-apple-intelligence-wwdc-chatgpt-gemini-privacy-consumer-trust-ai-fatigue-11781671789853.html)
-• The Atlantic just launched a searchable database of music used to train AI, a vital move for artists worried about copyright infringement and a win for transparency. [Read more](https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data)
+• Reminder from Signal's chief: AI chatbots are not your friends or conscious beings, so stop having deep chats with your code. Good reality check. [Read more](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/)
+• Apple's iOS 27 is finally bringing genuinely useful AI features to your iPhone beyond just Siri, so maybe your phone will actually be smarter now. [Read more](https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/)
+• The Trump administration is cracking down on Anthropic, which could shift the entire AI ecosystem – keep an eye on who benefits from this power play. [Read more](https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/)
 
 ## 💪 Health & Wellness
-• Ozempic and Wegovy might do more than just help with weight loss; new research suggests these GLP-1 drugs could surprisingly reduce violent behavior. [Read more](https://www.healthline.com/health-news/glp-1s-reduce-impulsivity-violent-behavior)
-• Australia just opened its first women's stroke clinic to address the specific disparities women face in stroke outcomes – a smart, targeted approach. [Read more](https://monashhealth.org/news/australias-first-womens-stroke-clinic-targets-gender-based-disparities-in-outcomes/)
+• Mind-blowing study alert: GLP-1 drugs like Ozempic and Wegovy are now linked to a surprising drop in violent behavior. So, thinner and calmer? Win-win. [Read more](https://www.healthline.com/health-news/glp-1s-reduce-impulsivity-violent-behavior)
+• Australia just launched its first women's stroke clinic, finally addressing gender-based disparities in health outcomes. About damn time we get tailored care. [Read more](https://monashhealth.org/news/australias-first-womens-stroke-clinic-targets-gender-based-disparities-in-outcomes/)
 
 ## 🇮🇳 India
-• HUGE news: India is now the world’s fourth largest economy at $4.18 trillion, surpassing Japan and eyeing Germany next – a massive economic milestone. [Read more](https://www.thehindu.com/business/Economy/india-is-now-fourth-largest-economy-says-govt/article70454619.ece)
-• India flexed its defense muscles, commissioning three new homegrown warships, showcasing a major leap in naval strength and self-reliance. [Read more](https://www.ndtv.com/india-news/indian-navy-gets-3-new-warships-pm-narendra-modi-commissions-indigenously-built-dunagiri-sanshodhak-agray-11665880#publisher=newsstand)
-• Shashi Tharoor is once again stirring the pot, catching flak from Congress for comments interpreted as admiring Modi, proving that old rivalries never truly fade. [Read more](https://www.thehindu.com/news/national/congress-slams-tharoor-for-showing-admiration-for-modi-mp-says-statement-given-partisan-twist/article71127126.ece)
+• Modi pulled a 'not Modi' at the G7, apparently going soft on Trump and revealing the limits of India’s moral clarity on the world stage. Not India's finest moment. [Read more](https://thediplomat.com/2026/06/no-reset-at-g7-trump-was-trump-modi-was-not-modi/)
+• PM Modi is touting 'double-engine' development in West Bengal, while the state’s budget promises 1 lakh government jobs amidst a whopping ₹7.5 lakh crore debt. Make it make sense. [ref:3, ref:13]
+• In classic Indian politics news, Congress is furious with Shashi Tharoor for praising Modi. Some rivalries are just eternal. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/his-admiration-for-pm-appears-to-have-transcended-physical-world-congress-slams-tharoor/articleshow/131878235.cms)
 
-TODAY'S TAKEAWAY: The global stage is a tinderbox with Iran, while India is quietly but rapidly ascending as a major economic and military power.
+TODAY'S TAKEAWAY: Global politics are a mess, AI is getting both smarter and more regulated, and India's balancing global soft power with domestic political theatrics.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:47 UAE time
+Generated at 07:16 UAE time
