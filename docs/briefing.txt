@@ -1,33 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Monday, June 22, 2026
+       Wednesday, June 24, 2026
 -----------------------------
 
 
-Good morning, Sidra. Let's get you sharp.
-
 ## 🌍 World & Politics
-• Trump's ego just strained US-Iran talks, causing an Iranian walkout at a critical moment for global stability. Predictable, but still problematic. [Read more](https://www.theguardian.com/world/2026/jun/21/us-iran-talks-jd-vance-switzerland-strait-of-hormuz-lebanon)
-• Just when you thought Eastern Europe couldn't get messier, a historical dispute over a WWII army unit threatens to pit Poland against Ukraine. Great. [Read more](https://www.theguardian.com/world/2026/jun/22/ukraine-war-briefing-poland-dispute-second-world-war-army-unit)
+• Ukraine is really ramping up its drone game, hitting Crimea hard, and even Putin admits they're facing a "huge stream" of attacks. This is a significant escalation from Kyiv. [Read more](https://www.theguardian.com/world/2026/jun/24/ukraine-war-briefing-crimea-locks-down-as-putin-acknowledges-huge-stream-of-ukrainian-drones)
+• Dettol somehow managed to spark a major backlash in China over an ad about "toxic men." Brands still struggle to translate messaging, clearly. [Read more](https://www.theguardian.com/world/2026/jun/24/dettol-apologises-toxic-men-advert-backlash-china)
+• Senator Rubio is making noise about the Strait of Hormuz being "toll-free" ahead of a Gulf meeting. Geopolitics: always keeping things interesting, or at least complicated. [Read more](https://www.theguardian.com/world/2026/jun/23/marco-rubio-gulf-allies-us-iran-ceasefire-deal)
 
 ## 🤖 Tech & AI
-• Reminder from Signal's chief: AI chatbots are not your friends or conscious beings, so stop having deep chats with your code. Good reality check. [Read more](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/)
-• Apple's iOS 27 is finally bringing genuinely useful AI features to your iPhone beyond just Siri, so maybe your phone will actually be smarter now. [Read more](https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/)
-• The Trump administration is cracking down on Anthropic, which could shift the entire AI ecosystem – keep an eye on who benefits from this power play. [Read more](https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/)
+• Your marketing emails are about to get *way* more personal: India's MoEngage just bought tech that assigns AI agents to individual customers. Good luck escaping tailored ads. [Read more](https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/)
+• In the ongoing battle against AI-generated content, Superhuman just snapped up GPTZero. Everyone wants a piece of the AI detection pie right now. [Read more](https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/)
+• Even Hollywood is bowing down to AI: a biographical drama about OpenAI's CEO couldn't find a buyer. This is a massive signal that AI's influence over creative industries is only growing. [Read more](https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt)
 
 ## 💪 Health & Wellness
-• Mind-blowing study alert: GLP-1 drugs like Ozempic and Wegovy are now linked to a surprising drop in violent behavior. So, thinner and calmer? Win-win. [Read more](https://www.healthline.com/health-news/glp-1s-reduce-impulsivity-violent-behavior)
-• Australia just launched its first women's stroke clinic, finally addressing gender-based disparities in health outcomes. About damn time we get tailored care. [Read more](https://monashhealth.org/news/australias-first-womens-stroke-clinic-targets-gender-based-disparities-in-outcomes/)
+• Hold up – GLP-1 drugs like Ozempic might do more than just help with weight loss; new studies link them to a drop in violent behavior and impulsivity. Consider us intrigued. [Read more](https://www.healthline.com/health-news/glp-1s-reduce-impulsivity-violent-behavior)
+• Australia is finally opening its first stroke clinic dedicated to women, aiming to tackle gender-based disparities. It's about time healthcare caught up to biological realities. [Read more](https://monashhealth.org/news/australias-first-womens-stroke-clinic-targets-gender-based-disparities-in-outcomes/)
 
 ## 🇮🇳 India
-• Modi pulled a 'not Modi' at the G7, apparently going soft on Trump and revealing the limits of India’s moral clarity on the world stage. Not India's finest moment. [Read more](https://thediplomat.com/2026/06/no-reset-at-g7-trump-was-trump-modi-was-not-modi/)
-• PM Modi is touting 'double-engine' development in West Bengal, while the state’s budget promises 1 lakh government jobs amidst a whopping ₹7.5 lakh crore debt. Make it make sense. [ref:3, ref:13]
-• In classic Indian politics news, Congress is furious with Shashi Tharoor for praising Modi. Some rivalries are just eternal. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/his-admiration-for-pm-appears-to-have-transcended-physical-world-congress-slams-tharoor/articleshow/131878235.cms)
+• PM Modi is talking up a storm in West Bengal, claiming the state is on a "fast development track" under his government. Expect the opposition to have a field day with that one. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/pm-modi-says-bengal-on-fast-development-track-under-ndas-double-engine-government/articleshow/131881942.cms)
+• Congress is absolutely fuming at Shashi Tharoor for praising Modi, accusing him of inventing reasons to do so. The political drama never takes a day off, does it? [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/his-admiration-for-pm-appears-to-have-transcended-physical-world-congress-slams-tharoor/articleshow/131878235.cms)
+• India firmly shut down Pakistan at the UNSC over "unwarranted remarks" about J&K, reiterating it's a strictly internal matter. Some things, it seems, are eternal. [Read more](https://www.thehindu.com/news/national/india-slams-pakistan-for-unwarranted-remarks-on-jk-at-unscs-arria-formula-meeting/article71140773.ece)
 
-TODAY'S TAKEAWAY: Global politics are a mess, AI is getting both smarter and more regulated, and India's balancing global soft power with domestic political theatrics.
+TODAY'S TAKEAWAY: Ukraine's drone war in Crimea is heating up while AI continues its unstoppable march into everything, from personalized marketing to Hollywood's choices.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 07:16 UAE time
+Generated at 07:48 UAE time
