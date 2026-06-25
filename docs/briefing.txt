@@ -1,32 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Wednesday, June 24, 2026
+       Thursday, June 25, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Ukraine is really ramping up its drone game, hitting Crimea hard, and even Putin admits they're facing a "huge stream" of attacks. This is a significant escalation from Kyiv. [Read more](https://www.theguardian.com/world/2026/jun/24/ukraine-war-briefing-crimea-locks-down-as-putin-acknowledges-huge-stream-of-ukrainian-drones)
-• Dettol somehow managed to spark a major backlash in China over an ad about "toxic men." Brands still struggle to translate messaging, clearly. [Read more](https://www.theguardian.com/world/2026/jun/24/dettol-apologises-toxic-men-advert-backlash-china)
-• Senator Rubio is making noise about the Strait of Hormuz being "toll-free" ahead of a Gulf meeting. Geopolitics: always keeping things interesting, or at least complicated. [Read more](https://www.theguardian.com/world/2026/jun/23/marco-rubio-gulf-allies-us-iran-ceasefire-deal)
+• Trump says Zelenskyy is doing "pretty well" against Russia, which is exactly the kind of nuanced geopolitical analysis you expect from him. [Read more](https://www.theguardian.com/world/2026/jun/25/ukraine-war-briefing-zelenskyy-doing-pretty-well-against-russia-declares-trump)
+• The US has temporarily lifted oil sanctions on Iran as peace talks continue. Let's see if this actually sticks. [Read more](https://www.npr.org/2026/06/23/g-s1-129603/up-first-newsletter-iran-oil-sanctions-trump-economy-minnesota-subpoenas-save-voter-info)
+• China is reportedly developing "SpaceSail" to rival Elon Musk's Starlink. The space race just got another contender. [Read more](https://www.theguardian.com/world/2026/jun/25/china-spacesail-rival-elon-musk-starlink-space-satelites-low-earth-orbit)
 
 ## 🤖 Tech & AI
-• Your marketing emails are about to get *way* more personal: India's MoEngage just bought tech that assigns AI agents to individual customers. Good luck escaping tailored ads. [Read more](https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/)
-• In the ongoing battle against AI-generated content, Superhuman just snapped up GPTZero. Everyone wants a piece of the AI detection pie right now. [Read more](https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/)
-• Even Hollywood is bowing down to AI: a biographical drama about OpenAI's CEO couldn't find a buyer. This is a massive signal that AI's influence over creative industries is only growing. [Read more](https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt)
+• Google's top AI talent continues to bail for rivals like Anthropic. Not a great look when you're trying to win the AI arms race; this is important because it signals internal struggles at a major AI player. [Read more](https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/)
+• Europe is getting fed up with Washington's "chip war" tactics, arguing they're hurting European interests. Turns out everyone has opinions on microchips now. [Read more](https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/)
+• Meta brought back its Creator Studio as an AI companion app. Maybe this version will actually be useful, or it'll just gather dust in your app drawer. [Read more](https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch)
 
 ## 💪 Health & Wellness
-• Hold up – GLP-1 drugs like Ozempic might do more than just help with weight loss; new studies link them to a drop in violent behavior and impulsivity. Consider us intrigued. [Read more](https://www.healthline.com/health-news/glp-1s-reduce-impulsivity-violent-behavior)
-• Australia is finally opening its first stroke clinic dedicated to women, aiming to tackle gender-based disparities. It's about time healthcare caught up to biological realities. [Read more](https://monashhealth.org/news/australias-first-womens-stroke-clinic-targets-gender-based-disparities-in-outcomes/)
+• Ozempic and Wegovy might do more than just help with weight loss; new studies suggest they could also reduce violent behavior. The plot thickens for these miracle drugs. [Read more](https://www.healthline.com/health-news/glp-1s-reduce-impulsivity-violent-behavior)
+• Australia just launched its first dedicated women's stroke clinic, finally addressing gender disparities in healthcare outcomes. Long overdue, honestly. [Read more](https://monashhealth.org/news/australias-first-womens-stroke-clinic-targets-gender-based-disparities-in-outcomes/)
 
 ## 🇮🇳 India
-• PM Modi is talking up a storm in West Bengal, claiming the state is on a "fast development track" under his government. Expect the opposition to have a field day with that one. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/pm-modi-says-bengal-on-fast-development-track-under-ndas-double-engine-government/articleshow/131881942.cms)
-• Congress is absolutely fuming at Shashi Tharoor for praising Modi, accusing him of inventing reasons to do so. The political drama never takes a day off, does it? [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/his-admiration-for-pm-appears-to-have-transcended-physical-world-congress-slams-tharoor/articleshow/131878235.cms)
-• India firmly shut down Pakistan at the UNSC over "unwarranted remarks" about J&K, reiterating it's a strictly internal matter. Some things, it seems, are eternal. [Read more](https://www.thehindu.com/news/national/india-slams-pakistan-for-unwarranted-remarks-on-jk-at-unscs-arria-formula-meeting/article71140773.ece)
+• Amazon is injecting another massive $13 billion into India for cloud and AI, promising millions of jobs by 2030. This is huge for India's tech future and economic growth. [Read more](https://www.thehindu.com/business/Industry/amazon-ceo-andy-jassy-meets-pm-modi-investments-2030-india-ai-cloud/article71145559.ece)
+• PM Modi is touring West Bengal, claiming the state is on a fast development track under his "double-engine" government. Expect plenty more political jabs in the coming days. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/pm-modi-says-bengal-on-fast-development-track-under-ndas-double-engine-government/articleshow/131881942.cms)
+• The Union Government plans a major desilting effort for dams across India. Less glamorous than AI, but essential for the nation's water infrastructure. [Read more](https://www.thehindu.com/news/national/karnataka/union-government-to-roll-out-major-desilting-plan-for-dams-across-india-says-jal-shakti-minister-c-r-patil/article71145568.ece)
 
-TODAY'S TAKEAWAY: Ukraine's drone war in Crimea is heating up while AI continues its unstoppable march into everything, from personalized marketing to Hollywood's choices.
+TODAY'S TAKEAWAY: India is seeing a massive tech investment boom while global AI talent struggles and geopolitical chip wars heat up.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 07:48 UAE time
+Generated at 11:28 UAE time
