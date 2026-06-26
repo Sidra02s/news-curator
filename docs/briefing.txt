@@ -1,32 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Thursday, June 25, 2026
+       Friday, June 26, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Trump says Zelenskyy is doing "pretty well" against Russia, which is exactly the kind of nuanced geopolitical analysis you expect from him. [Read more](https://www.theguardian.com/world/2026/jun/25/ukraine-war-briefing-zelenskyy-doing-pretty-well-against-russia-declares-trump)
-• The US has temporarily lifted oil sanctions on Iran as peace talks continue. Let's see if this actually sticks. [Read more](https://www.npr.org/2026/06/23/g-s1-129603/up-first-newsletter-iran-oil-sanctions-trump-economy-minnesota-subpoenas-save-voter-info)
-• China is reportedly developing "SpaceSail" to rival Elon Musk's Starlink. The space race just got another contender. [Read more](https://www.theguardian.com/world/2026/jun/25/china-spacesail-rival-elon-musk-starlink-space-satelites-low-earth-orbit)
+• Today's question: how do LGBTQ+ communities redefine Pride amidst increasing global hostility? It's a critical conversation about resilience and visibility. [Read more](https://www.theguardian.com/world/2026/jun/26/friday-briefing-can-lgbtq-communities-rethink-pride-in-a-hostile-landscape)
 
 ## 🤖 Tech & AI
-• Google's top AI talent continues to bail for rivals like Anthropic. Not a great look when you're trying to win the AI arms race; this is important because it signals internal struggles at a major AI player. [Read more](https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/)
-• Europe is getting fed up with Washington's "chip war" tactics, arguing they're hurting European interests. Turns out everyone has opinions on microchips now. [Read more](https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/)
-• Meta brought back its Creator Studio as an AI companion app. Maybe this version will actually be useful, or it'll just gather dust in your app drawer. [Read more](https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch)
+• Trump just hit pause on your new AI toy: OpenAI is delaying GPT-5.6 at the administration's request, citing security concerns. Guess we're not getting superhuman AI *this* month. [Read more](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request)
+• Your shiny new Apple gear just got pricier: iPads and MacBooks saw a price hike, with Apple blaming the rising cost of chips due to the AI boom. Budget accordingly. [Read more](https://www.theguardian.com/technology/2026/jun/25/apple-price-hike)
+• AI is now fighting rats in Hong Kong, but experts say it's a monitoring tool, not a magic bullet. Proof that AI still needs human help, even against rodents. [Read more](https://www.channelnewsasia.com/east-asia/hong-kong-rats-infestation-ai-thermal-imaging-cameras-challenges-6209216)
 
 ## 💪 Health & Wellness
-• Ozempic and Wegovy might do more than just help with weight loss; new studies suggest they could also reduce violent behavior. The plot thickens for these miracle drugs. [Read more](https://www.healthline.com/health-news/glp-1s-reduce-impulsivity-violent-behavior)
-• Australia just launched its first dedicated women's stroke clinic, finally addressing gender disparities in healthcare outcomes. Long overdue, honestly. [Read more](https://monashhealth.org/news/australias-first-womens-stroke-clinic-targets-gender-based-disparities-in-outcomes/)
+• Big news for Medicare recipients: 14 million could soon get GLP-1 weight-loss drugs like Wegovy for just $50 a month, making them far more accessible. This is a game-changer for many. [Read more](https://www.healthline.com/health-news/low-cost-wegovy-zepbound-medicare-glp-1-pilot-program)
+• PCOS is officially getting a new name: PMOS (Polycystic Metabolic Ovarian Syndrome), a subtle but significant shift reflecting a broader understanding of the condition. [Read more](https://www.scientificamerican.com/podcast/episode/pcos-is-now-pmos-what-went-behind-renaming-the-common-condition/)
+• HHS is requesting clearer warning labels for testosterone therapy products, an update that will affect discussions around prostate cancer and hypogonadism. Always good to have better info. [Read more](https://www.healthline.com/health-news/hhs-updates-testosterone-therapy-warning-labels)
 
 ## 🇮🇳 India
-• Amazon is injecting another massive $13 billion into India for cloud and AI, promising millions of jobs by 2030. This is huge for India's tech future and economic growth. [Read more](https://www.thehindu.com/business/Industry/amazon-ceo-andy-jassy-meets-pm-modi-investments-2030-india-ai-cloud/article71145559.ece)
-• PM Modi is touring West Bengal, claiming the state is on a fast development track under his "double-engine" government. Expect plenty more political jabs in the coming days. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/pm-modi-says-bengal-on-fast-development-track-under-ndas-double-engine-government/articleshow/131881942.cms)
-• The Union Government plans a major desilting effort for dams across India. Less glamorous than AI, but essential for the nation's water infrastructure. [Read more](https://www.thehindu.com/news/national/karnataka/union-government-to-roll-out-major-desilting-plan-for-dams-across-india-says-jal-shakti-minister-c-r-patil/article71145568.ece)
+• Modi is back on the campaign trail, touting West Bengal's 'double-engine' development and contrasting it with decades of "misrule." Standard political rhetoric, but keeps the state in focus. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/pm-modi-says-bengal-on-fast-development-track-under-ndas-double-engine-government/articleshow/131881942.cms)
+• India's economy is facing a new worry: a weak monsoon, which directly impacts food prices, rural demand, and overall economic output. Not the kind of rain anyone wants. [Read more](https://www.ndtv.com/india-news/after-oil-weak-monsoon-emerges-as-indias-next-economic-worry-11689580#publisher=newsstand)
+• Shashi Tharoor is taking heat from Congress for praising Modi's handling of an issue with Trump, fueling internal party drama. Some things never change. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/his-admiration-for-pm-appears-to-have-transcended-physical-world-congress-slams-tharoor/articleshow/131878235.cms)
 
-TODAY'S TAKEAWAY: India is seeing a massive tech investment boom while global AI talent struggles and geopolitical chip wars heat up.
+TODAY'S TAKEAWAY: AI is simultaneously getting more expensive, paused by governments, and being deployed against rats — showing its complex, if occasionally absurd, reality.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 11:28 UAE time
+Generated at 06:05 UAE time
