@@ -1,31 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Friday, June 26, 2026
+       Saturday, June 27, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Today's question: how do LGBTQ+ communities redefine Pride amidst increasing global hostility? It's a critical conversation about resilience and visibility. [Read more](https://www.theguardian.com/world/2026/jun/26/friday-briefing-can-lgbtq-communities-rethink-pride-in-a-hostile-landscape)
+• The US decided to strike Iranian targets after a cargo ship incident in the Strait of Hormuz, escalating tensions in an already volatile region. [Read more](https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz)
+• Russia-occupied Crimea is in an emergency state as Ukrainian forces ramp up attacks – it's clear the war is far from over. [Read more](https://www.theguardian.com/world/2026/jun/27/ukraine-war-briefing-russian-occupied-crimea-declares-emergency-as-zelenskyys-forces-step-up-attacks)
+• Canada's PM residence is so dilapidated they're holding a contest to fix it; even world leaders deal with landlord issues, apparently. [Read more](https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence)
 
 ## 🤖 Tech & AI
-• Trump just hit pause on your new AI toy: OpenAI is delaying GPT-5.6 at the administration's request, citing security concerns. Guess we're not getting superhuman AI *this* month. [Read more](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request)
-• Your shiny new Apple gear just got pricier: iPads and MacBooks saw a price hike, with Apple blaming the rising cost of chips due to the AI boom. Budget accordingly. [Read more](https://www.theguardian.com/technology/2026/jun/25/apple-price-hike)
-• AI is now fighting rats in Hong Kong, but experts say it's a monitoring tool, not a magic bullet. Proof that AI still needs human help, even against rodents. [Read more](https://www.channelnewsasia.com/east-asia/hong-kong-rats-infestation-ai-thermal-imaging-cameras-challenges-6209216)
+• OpenAI is making serious moves into India, poaching Uber's India chief to lead its biggest market outside the US. This is a big play for global AI dominance. [Read more](https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/)
+• Your new favorite AI tool might be delayed: OpenAI staggered its GPT-5.6 rollout after government requests, signaling increasing external control over AI development. They're not thrilled about it, and neither should you be. [ref:2, ref:3]
+• Apple hiked prices on iPads and MacBooks, blaming the cost of chips amplified by the AI boom; prepare for AI to empty your wallet in more ways than one. [Read more](https://www.theguardian.com/technology/2026/jun/25/apple-price-hike)
 
 ## 💪 Health & Wellness
-• Big news for Medicare recipients: 14 million could soon get GLP-1 weight-loss drugs like Wegovy for just $50 a month, making them far more accessible. This is a game-changer for many. [Read more](https://www.healthline.com/health-news/low-cost-wegovy-zepbound-medicare-glp-1-pilot-program)
-• PCOS is officially getting a new name: PMOS (Polycystic Metabolic Ovarian Syndrome), a subtle but significant shift reflecting a broader understanding of the condition. [Read more](https://www.scientificamerican.com/podcast/episode/pcos-is-now-pmos-what-went-behind-renaming-the-common-condition/)
-• HHS is requesting clearer warning labels for testosterone therapy products, an update that will affect discussions around prostate cancer and hypogonadism. Always good to have better info. [Read more](https://www.healthline.com/health-news/hhs-updates-testosterone-therapy-warning-labels)
+• Big news for your health budget: millions on Medicare Part D could soon get popular GLP-1 drugs like Wegovy for just $50 a month, making essential meds way more accessible. [Read more](https://www.healthline.com/health-news/low-cost-wegovy-zepbound-medicare-glp-1-pilot-program)
+• HHS is updating testosterone therapy labels, which is a sensible move to ensure proper usage and address health concerns. [Read more](https://www.healthline.com/health-news/hhs-updates-testosterone-therapy-warning-labels)
 
 ## 🇮🇳 India
-• Modi is back on the campaign trail, touting West Bengal's 'double-engine' development and contrasting it with decades of "misrule." Standard political rhetoric, but keeps the state in focus. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/pm-modi-says-bengal-on-fast-development-track-under-ndas-double-engine-government/articleshow/131881942.cms)
-• India's economy is facing a new worry: a weak monsoon, which directly impacts food prices, rural demand, and overall economic output. Not the kind of rain anyone wants. [Read more](https://www.ndtv.com/india-news/after-oil-weak-monsoon-emerges-as-indias-next-economic-worry-11689580#publisher=newsstand)
-• Shashi Tharoor is taking heat from Congress for praising Modi's handling of an issue with Trump, fueling internal party drama. Some things never change. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/his-admiration-for-pm-appears-to-have-transcended-physical-world-congress-slams-tharoor/articleshow/131878235.cms)
+• A Sixties spiritual utopia in India, founded on peace and harmony, is now reportedly under threat in Modi's India, which sounds like a sad end to a noble experiment. [Read more](https://www.yahoo.com/news/world/articles/beloved-spiritual-utopia-under-threat-020900843.html)
+• Union Minister Giriraj Singh is echoing Modi's strong rhetoric, claiming West Bengal was "destroyed" by TMC and hinting at a 'second independence' under BJP. That's some serious election-year fire. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/tmcs-destruction-of-bengal-giriraj-singh-declares-bjps-second-independence-under-modi/articleshow/131902272.cms)
+• PM Modi is off to Seychelles for their National Day jubilee, doing the diplomatic dance and focusing on regional security – always working, that one. [Read more](https://www.thehindu.com/news/national/pm-modis-visit-to-seychelles-on-national-day/article71153405.ece)
 
-TODAY'S TAKEAWAY: AI is simultaneously getting more expensive, paused by governments, and being deployed against rats — showing its complex, if occasionally absurd, reality.
+TODAY'S TAKEAWAY: OpenAI is wrestling with government oversight while making big global moves, setting the stage for AI's future power struggles.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:05 UAE time
+Generated at 05:49 UAE time
