@@ -1,33 +1,35 @@
 
        SIDRA'S MORNING BRIEFING
-       Sunday, June 28, 2026
+       Monday, June 29, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Ukraine is taking a brutal hit with ballistic missile attacks on Kyiv, while Russia is also seeing civilian casualties from drone strikes. This war is far from over and continues to escalate in intensity. [Read more](https://www.theguardian.com/world/2026/jun/28/ukraine-war-briefing-ballistic-missile-attack-in-kyiv-forces-residents-into-shelters)
+• Putin's making some bold moves, expecting US negotiators in Moscow as Siberia deals with fuel rationing. This shows the Ukraine war is biting deep into Russia, and negotiations are likely becoming critical. [Read more](https://www.theguardian.com/world/2026/jun/29/ukraine-war-briefing-putin-expects-us-negotiators-moscow-fuel-rationing-siberia)
+• Trump's threatening to "annihilate Iran" after new hostilities flared up in the Gulf. This isn't just rhetoric; it’s a terrifying escalation that could lead to a major conflict we absolutely don't need. [ref:14, ref:15]
+• The concept that "all politics is reducible to the friend-enemy distinction" feels incredibly relevant right now, especially with US-Iran tensions. It's a stark reminder that peace is fragile when leaders are flexing. [Read more](https://www.juancole.com/2026/06/autocracy-iran-available.html)
 
 ## 🤖 Tech & AI
-• OpenAI's latest model release got stalled because the Trump administration wanted a peek first – classic government intervention slowing down innovation. [Read more](https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos)
-• Apple just dropped iOS 27 Beta 2, apparently "supercharging" Siri's AI. Let's see if she finally stops pretending she didn't hear you. [Read more](https://www.geeky-gadgets.com/ios-beta-9/)
-• Speaking of Apple, they're hiking iPad and MacBook prices, blaming the rising cost of chips due to the whole AI boom. Your gadgets just got pricier, thanks to the robots. [Read more](https://www.theguardian.com/technology/2026/jun/25/apple-price-hike)
+• OpenAI just delayed a major AI model release because the Trump administration asked them to. This signals governments are finally flexing serious muscle in the AI space, which could mean big changes for development. [Read more](https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos)
+• Apple's decided to hike prices on iPads and MacBooks, blaming rising chip costs driven by the AI boom. Brace your wallet, Sidra, everything's getting pricier in the name of progress. [Read more](https://www.theguardian.com/technology/2026/jun/25/apple-price-hike)
+• China's Z.ai is boldly claiming its new model can match the big dogs in cybersecurity. This tech arms race is truly global, and you can bet national security will be the next frontier. [Read more](https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity)
 
 ## 💄 Fashion & Beauty
-• Good news for your wallet: drugstore skincare brands are now beating luxury houses in AI search rankings. Turns out, efficacy and clean science are winning over fancy packaging. [Read more](https://www.prnewswire.com/news-releases/drugstore-skincare-outranks-the-luxury-houses-in-ai-search-302776490.html)
+• Here's a shocker: drugstore skincare is apparently outranking luxury brands in AI searches. Turns out, efficacy and transparent science are winning over fancy marketing – your wallet will thank you. [Read more](https://www.prnewswire.com/news-releases/drugstore-skincare-outranks-the-luxury-houses-in-ai-search-302776490.html)
 
 ## 💪 Health & Wellness
-• Ladies, put down the cardio and pick up some weights: just two hours of strength training a week can significantly lower your risk of heart disease. Get lifting! [Read more](https://www.healthline.com/health-news/strength-training-may-help-lower-heart-disease-risk-women)
-• Good news for 14 million Medicare recipients: GLP-1 weight-loss drugs like Wegovy and Zepbound might soon be available for just $50 a month. Finally, some affordable access. [Read more](https://www.healthline.com/health-news/low-cost-wegovy-zepbound-medicare-glp-1-pilot-program)
+• Good news for your heart: just two hours of strength training a week could significantly lower heart disease risk for women. Time to hit those weights, even if it's just a quick session. [Read more](https://www.healthline.com/health-news/strength-training-may-help-lower-heart-disease-risk-women)
+• Millions of Medicare recipients could soon get GLP-1s (like Wegovy) for just $50 a month. This is a massive shift in making these game-changing weight management drugs accessible to a wider population. [Read more](https://www.healthline.com/health-news/low-cost-wegovy-zepbound-medicare-glp-1-pilot-program)
 
 ## 🇮🇳 India
-• Modi's India is making moves on a famed Sixties spiritual utopia, founded on peace and no money. Seems like some things just don't fit into the "New India" vision. [Read more](https://www.yahoo.com/news/world/articles/beloved-spiritual-utopia-under-threat-020900843.html)
-• Union Minister Giriraj Singh is echoing Modi, claiming a "second independence" under BJP rule, accusing Congress of historical appeasement. It's high-stakes political messaging as always. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/tmcs-destruction-of-bengal-giriraj-singh-declares-bjps-second-independence-under-modi/articleshow/131902272.cms)
-• Congress leader Jairam Ramesh insists the INDIA bloc is united and ready for national elections, brushing off Amit Shah's attempts to split the opposition. The political drama continues. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/india-janbandhan-for-national-polls-will-overcome-shahs-challenge-of-splitting-parties-ramesh/articleshow/131993602.cms)
+• A revered Sixties spiritual utopia, designed for peace and harmony, is now actively threatened in Modi's India. This is a concerning sign of how quickly even long-standing, unique communities can face political pressure. [Read more](https://www.yahoo.com/news/world/articles/beloved-spiritual-utopia-under-threat-020900843.html)
+• The BJP is accusing Congress of "vote bank politics" when challenged on India's Gaza policy. It's a classic move: divert, attack, and avoid substantive discussion. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/indias-gaza-policy-balanced-congress-doing-vote-bank-politics-bjp/articleshow/132031124.cms)
+• Italian PM Giorgia Meloni’s new book includes a charming anecdote about joking she’d win "a million votes" if she ran in New Delhi. It’s a light moment showing India’s diplomatic allure. [Read more](https://economictimes.indiatimes.com/news/india/if-you-ran-in-new-delhi-youd-win-a-million-votes-italian-pm-giorgia-meloni-recalls-2023-india-visit/articleshow/131989837.cms)
 
-TODAY'S TAKEAWAY: AI's rapid ascent is hitting your wallet and drawing the government's eye, whether it's ready or not.
+TODAY'S TAKEAWAY: The world is on a knife-edge with escalating global conflicts, while the AI future just got a big dose of government control.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:11 UAE time
+Generated at 06:40 UAE time
