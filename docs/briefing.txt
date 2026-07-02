@@ -1,33 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Wednesday, July 01, 2026
+       Thursday, July 02, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• The US and Iran are back at the table to discuss $6 billion in frozen Iranian assets. Don't hold your breath for a quick resolution. [Read more](https://www.theguardian.com/world/2026/jun/30/us-iran-talks-6bn-iranian-assets-restart)
-• Immigrants are fleeing South Africa amidst brutal anti-foreigner violence. A tragic reminder that some conflicts are far from the headlines but no less devastating. [Read more](https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests)
-• Sweden is sending 16 fighter jets to Kyiv, a move that significantly escalates Ukraine's defensive capabilities. This war just got a serious upgrade. [Read more](https://www.theguardian.com/world/2026/jul/01/ukraine-war-briefing-swedish-defence-maker-saab-signs-deal-to-deliver-16-fighter-jets-to-kyiv)
+• Grim news from Ukraine: a new study estimates over 2 million military casualties from Russia’s invasion. A stark reminder of the ongoing human cost. [Read more](https://www.theguardian.com/world/2026/jul/02/ukraine-war-briefing-more-than-2-million-military-casualties-caused-by-russias-invasion-study-finds)
 
 ## 🤖 Tech & AI
-• OpenAI is playing favorites, restricting its new GPT-5.6 model to *only* Trump-approved partners during a government review. Because nothing says unbiased AI like political vetting. [Read more](https://www.naturalnews.com/2026-06-30-openai-restricts-ai-model-trump-approved-partners.html)
-• A new poll suggests frequent AI chatbot users are more prone to believing anti-vaccine myths. Your AI buddy might be giving you more than just facts. [Read more](https://www.theguardian.com/technology/2026/jun/30/ai-chatbot-use-anti-vaccine-myths-poll)
-• Netflix is using an AI-generated Gene Wilder voice for its new Willy Wonka reality show. A bit nostalgic, or just plain creepy? [Read more](https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder)
+• Good news for the bottom line: Adira Finance slashed operational costs by implementing AI. Smart move, showing AI's immediate financial impact. [Read more](https://en.antaranews.com/news/421023/adira-finance-ai-rudder-successfully-reduce-operational-costs-through-ai-implementation)
+• Anthropic’s Fable and Mythos AI models got a green light from the US after security concerns were addressed. Expect more advanced AI making waves soon. [Read more](https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted)
+• Heads up: a poll suggests frequent AI chatbot users are more prone to believing anti-vaccine myths. The AI misinformation problem is real, Sidra, and it's getting worse. This is genuinely important. [Read more](https://www.theguardian.com/technology/2026/jun/30/ai-chatbot-use-anti-vaccine-myths-poll)
 
 ## 💪 Health & Wellness
-• Great news: the FDA cleared an AI tool to detect cardiovascular disease risk *before* symptoms appear. Proactive health just got a major tech boost. [Read more](https://www.healthline.com/health-news/fda-clears-ai-tool-cardiovascular-disease-early-detection)
-• Ladies, just two hours of strength training a week can significantly lower your risk of heart disease. Time to hit the weights! [Read more](https://www.healthline.com/health-news/strength-training-may-help-lower-heart-disease-risk-women)
-• Those GLP-1 drugs, like Ozempic, aren't just for weight loss anymore; new data links them to reduced stroke and heart risks. They're basically wonder drugs now. [Read more](https://www.healthline.com/health-news/glp-1-drugs-help-lower-cardiovascular-risks)
+• The FDA just cleared an AI tool that can spot cardiovascular disease risk before symptoms even show up. This is a game-changer for preventative health. [Read more](https://www.healthline.com/health-news/fda-clears-ai-tool-cardiovascular-disease-early-detection)
+• Ladies, hit the weights: just two hours of strength training per week could significantly lower your risk of heart disease. Get those reps in. [Read more](https://www.healthline.com/health-news/strength-training-may-help-lower-heart-disease-risk-women)
+• GLP-1 drugs, like Ozempic, are proving to be more than just weight loss aids; they're now linked to reduced stroke and heart risks. A powerful combo. [Read more](https://www.healthline.com/health-news/glp-1-drugs-help-lower-cardiovascular-risks)
 
 ## 🇮🇳 India
-• A beloved spiritual utopia in India is reportedly under threat from Modi's administration. Turns out, even harmony has its political limits. [Read more](https://www.yahoo.com/news/world/articles/beloved-spiritual-utopia-under-threat-020900843.html)
-• India is firmly defending the global terror financing watchdog FATF, basically telling critics if you're questioning it, you're hiding something. A strong message on transparency. [Read more](https://economictimes.indiatimes.com/news/india/fear-of-scrutiny-india-says-those-questioning-the-global-terror-financing-watchdog-have-something-to-hide/articleshow/132085394.cms)
-• Italian PM Giorgia Meloni joked she'd win "a million votes" if she ran in New Delhi during her 2023 visit. Clearly, her charm offensive worked wonders. [Read more](https://economictimes.indiatimes.com/news/india/if-you-ran-in-new-delhi-youd-win-a-million-votes-italian-pm-giorgia-meloni-recalls-2023-india-visit/articleshow/131989837.cms)
+• Modi’s government is facing serious heat over a grand plan for Great Nicobar, with critics warning of an "environmental disaster." This project is a huge deal for India's ecological future. [Read more](https://www.thehindu.com/news/national/pm-modi-marching-to-environmental-disaster-in-great-nicobar-congress/article71173123.ece)
+• The spiritual utopia of Auroville, founded on peace and harmony, is reportedly under threat in Modi’s India. A sad sign if true. [Read more](https://www.yahoo.com/news/world/articles/beloved-spiritual-utopia-under-threat-020900843.html)
+• The INDIA bloc is asserting its unity for national elections, promising to overcome Amit Shah’s attempts to split the opposition. Get ready for some political fireworks. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/india-janbandhan-for-national-polls-will-overcome-shahs-challenge-of-splitting-parties-ramesh/articleshow/131993602.cms)
 
-TODAY'S TAKEAWAY: The future of AI is getting uncomfortably intertwined with politics, and you should probably lift some weights.
+TODAY'S TAKEAWAY: As AI advances at warp speed, the debate isn't just about innovation, it's about managing its societal side effects and ensuring it serves us, not misleads us.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:20 UAE time
+Generated at 05:54 UAE time
