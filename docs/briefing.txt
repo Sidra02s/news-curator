@@ -1,31 +1,34 @@
 
        SIDRA'S MORNING BRIEFING
-       Thursday, July 02, 2026
+       Friday, July 03, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Grim news from Ukraine: a new study estimates over 2 million military casualties from Russia’s invasion. A stark reminder of the ongoing human cost. [Read more](https://www.theguardian.com/world/2026/jul/02/ukraine-war-briefing-more-than-2-million-military-casualties-caused-by-russias-invasion-study-finds)
+• Ukraine is heating up again; both sides are vowing to escalate fighting after Russia launched a deadly barrage on Kyiv. This isn't just noise, it's a serious warning sign of what's to come. [Read more](https://www.theguardian.com/world/2026/jul/03/ukraine-war-briefing-both-sides-vow-to-escalate-fighting-after-russias-deadly-kyiv-barrage)
 
 ## 🤖 Tech & AI
-• Good news for the bottom line: Adira Finance slashed operational costs by implementing AI. Smart move, showing AI's immediate financial impact. [Read more](https://en.antaranews.com/news/421023/adira-finance-ai-rudder-successfully-reduce-operational-costs-through-ai-implementation)
-• Anthropic’s Fable and Mythos AI models got a green light from the US after security concerns were addressed. Expect more advanced AI making waves soon. [Read more](https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted)
-• Heads up: a poll suggests frequent AI chatbot users are more prone to believing anti-vaccine myths. The AI misinformation problem is real, Sidra, and it's getting worse. This is genuinely important. [Read more](https://www.theguardian.com/technology/2026/jun/30/ai-chatbot-use-anti-vaccine-myths-poll)
+• The CEO of Digitas North America just called it: AI won't save advertising, which honestly sounds about right for the industry. [Read more](https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators)
+• Brace yourself: a new poll shows frequent AI chatbot users are more likely to believe anti-vaccine myths. Maybe double-check your sources, Sidra, and tell your friends to. [Read more](https://www.theguardian.com/technology/2026/jun/30/ai-chatbot-use-anti-vaccine-myths-poll)
+• Musicians are begging Australia's PM to protect their work from AI companies. The fight over AI's impact on creativity is only just beginning. [Read more](https://www.theguardian.com/music/2026/jul/03/dont-kill-music-anthony-albaneses-favourite-bands-beg-pm-to-stop-ai-companies-from-stealing-their-work)
+
+## 💄 Fashion & Beauty
+• Forget AI-generated looks – there's a festival celebrating pure hair artistry where haircutting is a competitive spectator sport. Refreshing to see real creativity without a screen. [Read more](https://www.theguardian.com/fashion/ng-interactive/2026/jul/02/sydney-hair-festival-in-pictures)
 
 ## 💪 Health & Wellness
-• The FDA just cleared an AI tool that can spot cardiovascular disease risk before symptoms even show up. This is a game-changer for preventative health. [Read more](https://www.healthline.com/health-news/fda-clears-ai-tool-cardiovascular-disease-early-detection)
-• Ladies, hit the weights: just two hours of strength training per week could significantly lower your risk of heart disease. Get those reps in. [Read more](https://www.healthline.com/health-news/strength-training-may-help-lower-heart-disease-risk-women)
-• GLP-1 drugs, like Ozempic, are proving to be more than just weight loss aids; they're now linked to reduced stroke and heart risks. A powerful combo. [Read more](https://www.healthline.com/health-news/glp-1-drugs-help-lower-cardiovascular-risks)
+• A concerning study indicates young adults are aging faster, potentially explaining the rise in early-onset cancers. Something to pay attention to for our own health strategies. [Read more](https://www.healthline.com/health-news/young-adults-faster-aging-early-onset-cancer-rates)
+• Good news: The FDA cleared a new AI tool to spot cardiovascular disease risk *before* symptoms even appear, which could be a game-changer for preventative health. [Read more](https://www.healthline.com/health-news/fda-clears-ai-tool-cardiovascular-disease-early-detection)
+• Those GLP-1 drugs, like Ozempic, are proving to be more than just weight loss aids; new evidence links them to significantly reduced stroke and heart risks. [Read more](https://www.healthline.com/health-news/glp-1-drugs-help-lower-cardiovascular-risks)
 
 ## 🇮🇳 India
-• Modi’s government is facing serious heat over a grand plan for Great Nicobar, with critics warning of an "environmental disaster." This project is a huge deal for India's ecological future. [Read more](https://www.thehindu.com/news/national/pm-modi-marching-to-environmental-disaster-in-great-nicobar-congress/article71173123.ece)
-• The spiritual utopia of Auroville, founded on peace and harmony, is reportedly under threat in Modi’s India. A sad sign if true. [Read more](https://www.yahoo.com/news/world/articles/beloved-spiritual-utopia-under-threat-020900843.html)
-• The INDIA bloc is asserting its unity for national elections, promising to overcome Amit Shah’s attempts to split the opposition. Get ready for some political fireworks. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/india-janbandhan-for-national-polls-will-overcome-shahs-challenge-of-splitting-parties-ramesh/articleshow/131993602.cms)
+• Congress MP Manish Tewari has sent letters to PM Modi and Pakistan's Shehbaz Sharif, asking about the "cost" of current policies. This is political drama brewing. [Read more](https://www.ndtv.com/india-news/manish-tewari-ndtv-interview-117-eminent-personalities-write-to-pm-modi-shahbaz-sharif-india-pakistan-peace-dialogue-at-what-cost-11720762#publisher=newsstand)
+• A spiritual utopia founded in the Sixties is reportedly under threat in Modi's India, raising questions about harmony and development priorities. [Read more](https://www.yahoo.com/news/world/articles/beloved-spiritual-utopia-under-threat-020900843.html)
+• Japan's PM Takaichi is in India, focusing on economic security and strategic investment, highlighting India's growing importance on the global stage. [Read more](https://newsonjapan.com/article/149843.php)
 
-TODAY'S TAKEAWAY: As AI advances at warp speed, the debate isn't just about innovation, it's about managing its societal side effects and ensuring it serves us, not misleads us.
+TODAY'S TAKEAWAY: AI is still the biggest wild card, creating both medical breakthroughs and new avenues for misinformation, so stay sharp.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 05:54 UAE time
+Generated at 05:48 UAE time
