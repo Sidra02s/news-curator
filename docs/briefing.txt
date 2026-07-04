@@ -1,34 +1,36 @@
 
        SIDRA'S MORNING BRIEFING
-       Friday, July 03, 2026
+       Saturday, July 04, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Ukraine is heating up again; both sides are vowing to escalate fighting after Russia launched a deadly barrage on Kyiv. This isn't just noise, it's a serious warning sign of what's to come. [Read more](https://www.theguardian.com/world/2026/jul/03/ukraine-war-briefing-both-sides-vow-to-escalate-fighting-after-russias-deadly-kyiv-barrage)
+• Germany is seriously disturbed by reports of Russian soldiers training in China; this adds a concerning new layer to the Ukraine conflict and global power dynamics. [Read more](https://www.theguardian.com/world/2026/jul/04/ukraine-war-briefing-germany-calls-reports-russian-soldiers-are-being-trained-in-china-deeply-disturbing)
+• India and Japan are getting extra cozy: PM Modi called Japan's PM Takaichi "younger sister" as they deepen strategic ties in energy, tech, and defense. This is a significant geopolitical alignment. [ref:2, ref:11]
+• India is strategically opting out of mediating the Iran crisis, with its envoy stating it's an "already crowded" field where their involvement wouldn't add value. Smart move to pick your battles. [Read more](https://www.thehindu.com/news/national/no-need-for-india-to-take-a-leaf-out-of-pakistans-iran-mediation-book-says-envoy/article71181813.ece)
 
 ## 🤖 Tech & AI
-• The CEO of Digitas North America just called it: AI won't save advertising, which honestly sounds about right for the industry. [Read more](https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators)
-• Brace yourself: a new poll shows frequent AI chatbot users are more likely to believe anti-vaccine myths. Maybe double-check your sources, Sidra, and tell your friends to. [Read more](https://www.theguardian.com/technology/2026/jun/30/ai-chatbot-use-anti-vaccine-myths-poll)
-• Musicians are begging Australia's PM to protect their work from AI companies. The fight over AI's impact on creativity is only just beginning. [Read more](https://www.theguardian.com/music/2026/jul/03/dont-kill-music-anthony-albaneses-favourite-bands-beg-pm-to-stop-ai-companies-from-stealing-their-work)
+• Prepare for robot doctors: Hippocratic AI just raised a whopping $141M to put clinical AI agents in hospitals, meaning AI is officially taking over healthcare operations. [Read more](https://blogdoandroid.com/a16z-generative-ai-2/)
+• The US lifted export controls on Anthropic’s powerful Fable and Mythos AI models, so brace yourself for even more rapid AI development and its implications. [Read more](https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted)
+• Important, but concerning: a new poll shows frequent AI chatbot users are more likely to believe anti-vaccine myths, highlighting the urgent need for AI literacy. [Read more](https://www.theguardian.com/technology/2026/jun/30/ai-chatbot-use-anti-vaccine-myths-poll)
 
 ## 💄 Fashion & Beauty
-• Forget AI-generated looks – there's a festival celebrating pure hair artistry where haircutting is a competitive spectator sport. Refreshing to see real creativity without a screen. [Read more](https://www.theguardian.com/fashion/ng-interactive/2026/jul/02/sydney-hair-festival-in-pictures)
+• Forget your typical fashion shows: there's a festival making haircutting a literal spectator sport, celebrating pure hair creativity without Photoshop or AI. [Read more](https://www.theguardian.com/fashion/ng-interactive/2026/jul/02/sydney-hair-festival-in-pictures)
+• Your favorite beauty brands like The Ordinary and Charlotte Tilbury are now ranked by how often AI chatbots cite them, proving bots are the new, influential beauty gurus. [Read more](https://www.prnewswire.com/news-releases/the-ordinary-cerave-and-charlotte-tilbury-dominate-beautys-new-shelf-the-ai-chatbox-302817367.html)
 
 ## 💪 Health & Wellness
-• A concerning study indicates young adults are aging faster, potentially explaining the rise in early-onset cancers. Something to pay attention to for our own health strategies. [Read more](https://www.healthline.com/health-news/young-adults-faster-aging-early-onset-cancer-rates)
-• Good news: The FDA cleared a new AI tool to spot cardiovascular disease risk *before* symptoms even appear, which could be a game-changer for preventative health. [Read more](https://www.healthline.com/health-news/fda-clears-ai-tool-cardiovascular-disease-early-detection)
-• Those GLP-1 drugs, like Ozempic, are proving to be more than just weight loss aids; new evidence links them to significantly reduced stroke and heart risks. [Read more](https://www.healthline.com/health-news/glp-1-drugs-help-lower-cardiovascular-risks)
+• This is a big one: young adults are aging faster than previous generations, potentially explaining the alarming rise in early-onset cancer rates. Time to really focus on health. [Read more](https://www.healthline.com/health-news/young-adults-faster-aging-early-onset-cancer-rates)
+• Good news: the FDA has cleared a new AI tool that can detect cardiovascular disease risk before symptoms even appear, a massive step forward for preventative health. [Read more](https://www.healthline.com/health-news/fda-clears-ai-tool-cardiovascular-disease-early-detection)
 
 ## 🇮🇳 India
-• Congress MP Manish Tewari has sent letters to PM Modi and Pakistan's Shehbaz Sharif, asking about the "cost" of current policies. This is political drama brewing. [Read more](https://www.ndtv.com/india-news/manish-tewari-ndtv-interview-117-eminent-personalities-write-to-pm-modi-shahbaz-sharif-india-pakistan-peace-dialogue-at-what-cost-11720762#publisher=newsstand)
-• A spiritual utopia founded in the Sixties is reportedly under threat in Modi's India, raising questions about harmony and development priorities. [Read more](https://www.yahoo.com/news/world/articles/beloved-spiritual-utopia-under-threat-020900843.html)
-• Japan's PM Takaichi is in India, focusing on economic security and strategic investment, highlighting India's growing importance on the global stage. [Read more](https://newsonjapan.com/article/149843.php)
+• India and Japan are practically besties, deepening ties in critical sectors like energy and defense; PM Modi’s warm welcome to Takaichi solidifies a key strategic alliance. [ref:2, ref:11]
+• India's AI job market is booming: AI hiring shot up 16% in June while overall IT jobs declined, clearly signaling where the smart money and career opportunities are headed. [Read more](https://www.thehindu.com/sci-tech/technology/ai-hiring-outpaces-overall-it-recruitment-in-india-report-shows/article71181709.ece)
+• India's ruling BJP is fiercely defending its "balanced" Gaza policy against Congress's accusations of "vote bank politics," showing the intense political tussle over foreign policy. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/indias-gaza-policy-balanced-congress-doing-vote-bank-politics-bjp/articleshow/132031124.cms)
 
-TODAY'S TAKEAWAY: AI is still the biggest wild card, creating both medical breakthroughs and new avenues for misinformation, so stay sharp.
+TODAY'S TAKEAWAY: The AI race is accelerating, pushing boundaries from healthcare to beauty, but we're also starting to see its tricky side effects.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 05:48 UAE time
+Generated at 05:41 UAE time
