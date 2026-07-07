@@ -1,36 +1,34 @@
 
        SIDRA'S MORNING BRIEFING
-       Sunday, July 05, 2026
+       Tuesday, July 07, 2026
 -----------------------------
 
 
-🌍 World & Politics
-• Japan's PM Takaichi is cozying up to Modi, deepening strategic ties in tech and defense. This is a significant geopolitical alignment to watch. [Read more](https://biztoc.com/x/b6dc110b5c8463d0)
-• Turns out, Takaichi's India visit might also be a power move to boost her domestic standing amidst political tensions at home. Savvy. [Read more](https://newsonjapan.com/article/149843.php)
-• A heavy thought for your Sunday: some political theories argue conflict, like the 'Iran War', is just the inevitable result of inherent friend-enemy distinctions. Dark, but makes you think. [Read more](https://www.juancole.com/2026/06/autocracy-iran-available.html)
+## 🌍 World & Politics
+• Ukraine's drones are now reaching deep into Siberia, hitting Russian oil refineries, with Zelenskyy warning that more of Russia is "within reach." This is a significant escalation of the conflict, hinting at wider economic impact. [Read more](https://www.theguardian.com/world/2026/jul/07/ukraine-war-briefing-drones-strike-russia-oil-refinery-in-siberia-as-zelenskyy-warns-region-now-within-reach)
+• Meanwhile, Russia itself is feeling the squeeze, with widespread fuel shortages hitting its cities. The war's economic fallout is clearly impacting everyday Russians. [Read more](https://www.theguardian.com/world/2026/jul/07/russia-cities-feel-pinch-amid-worsening-fuel-shortages)
 
-🤖 Tech & AI
-• The fanfiction world is in chaos, fighting over AI-generated content and using questionable tactics to sniff it out. Pop culture drama, but signals deeper unease with AI. [Read more](https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector)
-• AI is stepping into serious roles: staffing hospitals and even being imagined as a co-author for historical documents like the Declaration of Independence. The applications are getting wild. [ref:2, ref:4]
-• Keep an eye on Mistral AI, the heavily funded "OpenAI competitor" aiming to democratize advanced AI. Competition is heating up. [Read more](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)
+## 🤖 Tech & AI
+• Surprise, surprise: Google is now quietly using your personal data – including images, audio, and video – to train its AI. Make sure you check your privacy settings; you can actually opt out. [Read more](https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/)
+• The "first" AI-run ransomware attack made headlines, but it turns out humans were still pulling the strings, choosing victims and setting up the infrastructure. AI is a powerful tool, not yet a rogue mastermind. [Read more](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/)
+• On a slightly less dystopian note, Apple has finally gotten its act together and brought back card payments for Apple Account purchases in India after a four-year absence. Convenience, finally. [Read more](https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/)
 
-💄 Fashion & Beauty
-• Haircutting is officially a spectator sport at a festival celebrating "pure hair creativity" – no AI or Photoshop allowed. A refreshing analog break from the digital noise. [Read more](https://www.theguardian.com/fashion/ng-interactive/2026/jul/02/sydney-hair-festival-in-pictures)
-• Your favorite beauty brands, like The Ordinary and Charlotte Tilbury, are now duking it out for visibility inside AI chatboxes. Welcome to beauty's new digital shelf. [Read more](https://www.prnewswire.com/news-releases/the-ordinary-cerave-and-charlotte-tilbury-dominate-beautys-new-shelf-the-ai-chatbox-302817367.html)
+## 💄 Fashion & Beauty
+• Take a break from all the AI talk: there's a festival where haircutting is a spectator sport, celebrating "pure hair creativity" with no photoshopping or AI. Sometimes, real human skill is just cooler. [Read more](https://www.theguardian.com/fashion/ng-interactive/2026/jul/02/sydney-hair-festival-in-pictures)
 
-💪 Health & Wellness
-• Scary news: young adults are aging faster than previous generations, which might be a factor in rising early-onset cancer rates. Time for a check-in. [Read more](https://www.healthline.com/health-news/young-adults-faster-aging-early-onset-cancer-rates)
-• Sitting too much is still bad for you, boosting cancer risk, but even short bursts of activity can help counteract it. Get up, move around! [Read more](https://www.healthline.com/health-news/sitting-too-much-may-increase-cancer-death-risk)
-• Heart failure has a new definition emphasizing earlier detection, which experts hope will transform care. A good step towards better outcomes. [Read more](https://www.healthline.com/health-news/new-heart-failure-definition-will-improve-diagnosis-treatment)
+## 💪 Health & Wellness
+• A bit of a wake-up call: young adults appear to be aging faster than previous generations, a trend that researchers are linking to rising early-onset cancer rates. Might be time to reassess some habits. [Read more](https://www.healthline.com/health-news/young-adults-faster-aging-early-onset-cancer-rates)
+• Good news on the pharma front: cheaper generic versions of popular GLP-1 drugs like Mounjaro and Zepbound might be on their way. This could be a game-changer for accessibility and affordability in the weight loss and diabetes space. [Read more](https://www.healthline.com/health-news/generic-mounjaro-zepbound-application-review)
 
-🇮🇳 India
-• PM Modi and Japan's Sanae Takaichi are calling each other "younger sister" and deepening economic and defense ties. India's global footprint keeps expanding. [Read more](https://biztoc.com/x/b6dc110b5c8463d0)
-• The BJP is firing back at Congress, slamming their criticism of India's Gaza policy as pure "vote bank politics." Nothing new, but keeps the domestic political pot boiling. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/indias-gaza-policy-balanced-congress-doing-vote-bank-politics-bjp/articleshow/132031124.cms)
+## 🇮🇳 India
+• PM Modi is making big moves in Indonesia, being conferred their highest civilian honor and potentially setting up a "BrahMos belt" of missile deals across Southeast Asia. This is India subtly countering China in its own backyard. [ref:1, ref:6]
+• Modi's visit isn't just about accolades; Indonesia is crucial for India’s maritime trade, guarding the Strait of Malacca. This diplomatic push is about solidifying strategic choke points. [Read more](https://www.thehindu.com/videos/watch-explained-why-pm-modis-indonesia-visit-matters-for-india/article71192113.ece)
+• Closer to home, Modi used the 125th birth anniversary of Dr. Syama Prasad Mookerjee to reinforce his government's nationalist narrative, citing the abrogation of Article 370 as Mookerjee's ultimate tribute. Political messaging, loud and clear. [ref:3, ref:5]
 
-TODAY'S TAKEAWAY: AI's pervasive reach is undeniable, reshaping everything from creative communities to critical healthcare and global politics.
+TODAY'S TAKEAWAY: India's flexing its geopolitical muscles in Southeast Asia while at home, Google's flexing its data-collection muscles, so check your privacy settings.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 05:59 UAE time
+Generated at 06:02 UAE time
