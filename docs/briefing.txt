@@ -1,34 +1,33 @@
 
        SIDRA'S MORNING BRIEFING
-       Tuesday, July 07, 2026
+       Wednesday, July 08, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Ukraine's drones are now reaching deep into Siberia, hitting Russian oil refineries, with Zelenskyy warning that more of Russia is "within reach." This is a significant escalation of the conflict, hinting at wider economic impact. [Read more](https://www.theguardian.com/world/2026/jul/07/ukraine-war-briefing-drones-strike-russia-oil-refinery-in-siberia-as-zelenskyy-warns-region-now-within-reach)
-• Meanwhile, Russia itself is feeling the squeeze, with widespread fuel shortages hitting its cities. The war's economic fallout is clearly impacting everyday Russians. [Read more](https://www.theguardian.com/world/2026/jul/07/russia-cities-feel-pinch-amid-worsening-fuel-shortages)
+• The Middle East is heating up again: US strikes in the Strait of Hormuz have pushed Iran to retaliate, targeting Bahrain and Kuwait. This fragile truce just got a lot more fragile. [ref:5, ref:10, ref:12]
+• Meanwhile, Ukraine is busy trying to hit Russia's 'shadow' oil tankers, a move that could disrupt Moscow's war funding. The war might be old news, but the tactics are evolving. [Read more](https://www.theguardian.com/world/2026/jul/08/ukraine-war-briefing-kyiv-targets-kremlin-shadow-tankers-as-russian-strikes-continue-in-capital)
 
 ## 🤖 Tech & AI
-• Surprise, surprise: Google is now quietly using your personal data – including images, audio, and video – to train its AI. Make sure you check your privacy settings; you can actually opt out. [Read more](https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/)
-• The "first" AI-run ransomware attack made headlines, but it turns out humans were still pulling the strings, choosing victims and setting up the infrastructure. AI is a powerful tool, not yet a rogue mastermind. [Read more](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/)
-• On a slightly less dystopian note, Apple has finally gotten its act together and brought back card payments for Apple Account purchases in India after a four-year absence. Convenience, finally. [Read more](https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/)
+• Good news for AI frontier labs: Open-source AI isn't eating their lunch just yet; they seem to be co-existing by capturing different phases of the AI lifecycle. Phew. [Read more](https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/)
+• Meta's new AI image generator, Muse Image, is already facing user backlash over privacy concerns and photo usage. Classic Meta, launching something without fully thinking through the user optics. [Read more](https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/)
+• Discord had an AI moderation oopsie, wrongfully banning hundreds of users since May for 'harmless images'. Another reminder that AI needs human oversight, pronto. [Read more](https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/)
 
 ## 💄 Fashion & Beauty
-• Take a break from all the AI talk: there's a festival where haircutting is a spectator sport, celebrating "pure hair creativity" with no photoshopping or AI. Sometimes, real human skill is just cooler. [Read more](https://www.theguardian.com/fashion/ng-interactive/2026/jul/02/sydney-hair-festival-in-pictures)
+• Forget Photoshop and AI filters, a hair-cutting festival is making waves by celebrating pure, unadulterated hair creativity. Honestly, a refreshing break from all the digital fakery. [Read more](https://www.theguardian.com/fashion/ng-interactive/2026/jul/02/sydney-hair-festival-in-pictures)
 
 ## 💪 Health & Wellness
-• A bit of a wake-up call: young adults appear to be aging faster than previous generations, a trend that researchers are linking to rising early-onset cancer rates. Might be time to reassess some habits. [Read more](https://www.healthline.com/health-news/young-adults-faster-aging-early-onset-cancer-rates)
-• Good news on the pharma front: cheaper generic versions of popular GLP-1 drugs like Mounjaro and Zepbound might be on their way. This could be a game-changer for accessibility and affordability in the weight loss and diabetes space. [Read more](https://www.healthline.com/health-news/generic-mounjaro-zepbound-application-review)
+• This is a bit grim: Young adults are reportedly aging faster than previous generations, potentially explaining the uptick in early-onset cancer rates. Time to double down on those wellness routines. [Read more](https://www.healthline.com/health-news/young-adults-faster-aging-early-onset-cancer-rates)
 
 ## 🇮🇳 India
-• PM Modi is making big moves in Indonesia, being conferred their highest civilian honor and potentially setting up a "BrahMos belt" of missile deals across Southeast Asia. This is India subtly countering China in its own backyard. [ref:1, ref:6]
-• Modi's visit isn't just about accolades; Indonesia is crucial for India’s maritime trade, guarding the Strait of Malacca. This diplomatic push is about solidifying strategic choke points. [Read more](https://www.thehindu.com/videos/watch-explained-why-pm-modis-indonesia-visit-matters-for-india/article71192113.ece)
-• Closer to home, Modi used the 125th birth anniversary of Dr. Syama Prasad Mookerjee to reinforce his government's nationalist narrative, citing the abrogation of Article 370 as Mookerjee's ultimate tribute. Political messaging, loud and clear. [ref:3, ref:5]
+• PM Modi is busy commemorating Dr. Syama Prasad Mookerjee's 125th birth anniversary, hailing him as the champion of India's indivisibility and justifying the Article 370 revocation as a tribute. Important if you follow Indian politics. [ref:1, ref:2, ref:9]
+• Speaking of Indian politics, the RSS, the BJP's parent organization, remains stubbornly unregistered after a century. They claim to be a "body of individuals" to avoid taxes and scrutiny, which is... convenient. [Read more](https://thediplomat.com/2026/07/why-is-the-rss-the-parent-organization-of-indias-ruling-bjp-still-unregistered/)
+• US-India ties are "thawing," with a trade deal almost in the bag, but a few sticking points remain. Will be interesting to see if these two powers can truly align. [Read more](http://foreignpolicy.com/2026/07/06/us-india-trade-deal-thaw-trump-modi/)
 
-TODAY'S TAKEAWAY: India's flexing its geopolitical muscles in Southeast Asia while at home, Google's flexing its data-collection muscles, so check your privacy settings.
+TODAY'S TAKEAWAY: The Middle East is on edge again, and India's political narrative continues to be shaped by historical figures, for better or worse.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:02 UAE time
+Generated at 05:16 UAE time
