@@ -1,33 +1,26 @@
 
        SIDRA'S MORNING BRIEFING
-       Wednesday, July 08, 2026
+       Thursday, July 09, 2026
 -----------------------------
 
 
+## 🇮🇳 India
+• Modi's Down Under charm offensive continues: He's branding India and Australia as "natural and trusted partners" while also hitting up investors for India's 500 GW renewable energy goals. Smart move for future-proofing. [ref:1, 3]
+• In a blast from the past, Modi used Syama Prasad Mookerjee's 125th birth anniversary to double down on the Article 370 revocation, calling it the "most fitting tribute." Convenient timing to reinforce a key government stance. [ref:4, 5]
+
 ## 🌍 World & Politics
-• The Middle East is heating up again: US strikes in the Strait of Hormuz have pushed Iran to retaliate, targeting Bahrain and Kuwait. This fragile truce just got a lot more fragile. [ref:5, ref:10, ref:12]
-• Meanwhile, Ukraine is busy trying to hit Russia's 'shadow' oil tankers, a move that could disrupt Moscow's war funding. The war might be old news, but the tactics are evolving. [Read more](https://www.theguardian.com/world/2026/jul/08/ukraine-war-briefing-kyiv-targets-kremlin-shadow-tankers-as-russian-strikes-continue-in-capital)
+• Grab your popcorn, the US-Iran situation is heating up again: Trump declared the truce "over" and the US launched strikes on Iran for a second day. This is a major escalation, so watch this space. [ref:7, 8, 9]
+• Meanwhile, Russia just banned diesel exports after refinery attacks, which means more gas shortages and price hikes. Expect global ripple effects on fuel costs. [Read more](https://www.theguardian.com/world/2026/jul/09/ukraine-war-briefing-russia-bans-diesel-exports-as-refinery-attacks-trigger-gas-shortages-and-price-spikes)
 
 ## 🤖 Tech & AI
-• Good news for AI frontier labs: Open-source AI isn't eating their lunch just yet; they seem to be co-existing by capturing different phases of the AI lifecycle. Phew. [Read more](https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/)
-• Meta's new AI image generator, Muse Image, is already facing user backlash over privacy concerns and photo usage. Classic Meta, launching something without fully thinking through the user optics. [Read more](https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/)
-• Discord had an AI moderation oopsie, wrongfully banning hundreds of users since May for 'harmless images'. Another reminder that AI needs human oversight, pronto. [Read more](https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/)
+• Big news in AI: OpenAI is finally launching its powerful new model, GPT-5.6, to the public today. Get ready for some serious upgrades (and probably more existential dread). This is genuinely important for everyone. [Read more](https://www.straitstimes.com/business/companies-markets/openai-says-powerful-new-model-to-launch-publicly-on-july-9)
+• India's Truecaller is locked in a spat with the telecom regulator over anti-spam rules, claiming users are just ignoring business calls now. The irony is palpable. [Read more](https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/)
+• On the hardware front, global AI ambitions are hitting a wall as stymied datacentre projects threaten to slow down the entire revolution. Apparently, even AI needs a proper home. [Read more](https://www.theguardian.com/technology/2026/jul/07/stymied-datacentre-projects-threaten-global-ai-revolution)
 
-## 💄 Fashion & Beauty
-• Forget Photoshop and AI filters, a hair-cutting festival is making waves by celebrating pure, unadulterated hair creativity. Honestly, a refreshing break from all the digital fakery. [Read more](https://www.theguardian.com/fashion/ng-interactive/2026/jul/02/sydney-hair-festival-in-pictures)
-
-## 💪 Health & Wellness
-• This is a bit grim: Young adults are reportedly aging faster than previous generations, potentially explaining the uptick in early-onset cancer rates. Time to double down on those wellness routines. [Read more](https://www.healthline.com/health-news/young-adults-faster-aging-early-onset-cancer-rates)
-
-## 🇮🇳 India
-• PM Modi is busy commemorating Dr. Syama Prasad Mookerjee's 125th birth anniversary, hailing him as the champion of India's indivisibility and justifying the Article 370 revocation as a tribute. Important if you follow Indian politics. [ref:1, ref:2, ref:9]
-• Speaking of Indian politics, the RSS, the BJP's parent organization, remains stubbornly unregistered after a century. They claim to be a "body of individuals" to avoid taxes and scrutiny, which is... convenient. [Read more](https://thediplomat.com/2026/07/why-is-the-rss-the-parent-organization-of-indias-ruling-bjp-still-unregistered/)
-• US-India ties are "thawing," with a trade deal almost in the bag, but a few sticking points remain. Will be interesting to see if these two powers can truly align. [Read more](http://foreignpolicy.com/2026/07/06/us-india-trade-deal-thaw-trump-modi/)
-
-TODAY'S TAKEAWAY: The Middle East is on edge again, and India's political narrative continues to be shaped by historical figures, for better or worse.
+TODAY'S TAKEAWAY: The US-Iran situation is escalating dangerously, but at least OpenAI is dropping new tech to distract us from the impending doom.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 05:16 UAE time
+Generated at 05:59 UAE time
