@@ -1,33 +1,30 @@
 
        SIDRA'S MORNING BRIEFING
-       Friday, July 10, 2026
+       Saturday, July 11, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Iran and Israel are still trading blows, with Tehran launching more strikes and Israel threatening "even greater force." This ongoing escalation is a tinderbox, so keep an eye on it [Read more](https://www.theguardian.com/world/live/2026/jul/09/iran-us-middle-east-strikes-centcom-bahrain-kuwait-qatar-strait-of-hormuz-latest-news-updates).
-• In Nigeria, there's a wild story about a fake federal agency operating right out of government HQ – sounds like a plot from a spy novel, honestly [Read more](https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm).
+• Ukraine's Zelenskyy is getting serious about hitting Russia where it hurts, setting up a new command for long-range strikes on their energy sector. Brace for more fireworks. [Read more](https://www.theguardian.com/world/2026/jul/11/ukraine-war-briefing-zelenskyy-long-range-impact-command-russian-energy-strikes)
+• Europe is quietly debating charging fees for navigation through the Strait of Hormuz, a move that could seriously shake up global oil flows and regional tensions. Keep an eye on this one. [Read more](https://www.theguardian.com/world/2026/jul/11/europe-considers-proposals-navigational-fees-strait-of-hormuz-iran-us)
 
 ## 🤖 Tech & AI
-• OpenAI is really busy: they're shutting down their Atlas browser but pushing agentic features elsewhere, while also rolling out GPT-5.6 for Microsoft Copilot and launching 'ChatGPT Work' after getting the green light from the Trump admin [ref:2, ref:6, ref:9]. Clearly, they're everywhere.
-• The eternal question of AI ROI is back, but this time with a $3 trillion price tag, and everyone's debating if it's worth the hype or if the consequences are about to hit hard [Read more](https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/).
-• This confirms OpenAI is tightening its grip on the enterprise AI game, making sure you can't escape them at work.
+• Apple is suing OpenAI, accusing them of stealing trade secrets related to hardware plans – looks like the gloves are officially off in the AI arms race. This is big, it's Apple coming after the reigning AI champ. [Read more](https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets)
+• Meta, true to form, had to backtrack on a super creepy Instagram AI feature that let users deepfake public accounts, after, shocker, everyone freaked out about privacy. Good riddance. [Read more](https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes)
 
 ## 💪 Health & Wellness
-• Good news for your wallet: cheaper generic versions of Mounjaro and Zepbound (those weight-loss drugs everyone's obsessed with) might be on the horizon, which could shake up the market big time [Read more](https://www.healthline.com/health-news/generic-mounjaro-zepbound-application-review).
-• Also, your coffee addiction might just be a health hack; new research suggests 5 cups a day could slash your liver disease and cancer risk by nearly half [Read more](https://www.healthline.com/health-news/coffee-daily-lower-risk-liver-disease-cancer).
-• On the less pleasant side, an "explosive diarrhea parasite" is spreading across 17 US states, with a major cluster in Michigan – maybe hold off on raw oysters for a bit [Read more](https://www.healthline.com/health-news/cdc-warns-explosive-diarrhea-parasite-protect-yourself).
+• Hold onto your wallets: Cheaper, generic versions of the popular weight-loss drugs Mounjaro and Zepbound (GLP-1s) might be hitting the market soon, making them more accessible. This is a game-changer for many. [Read more](https://www.healthline.com/health-news/generic-mounjaro-zepbound-application-review)
+• The CDC is sounding the alarm about a 'Diarrhea Parasite' spreading across 17 states, so maybe skip the communal punch bowl this weekend. Seriously, wash your hands. [Read more](https://www.healthline.com/health-news/cdc-warns-explosive-diarrhea-parasite-protect-yourself)
 
 ## 🇮🇳 India
-• India's ties with Indonesia are cozying up, with President Prabowo using ancient Ramayana reliefs as a symbol of unity and underscoring the "close friendship" [ref:3, ref:7]. Expect more cultural diplomacy.
-• The country is grappling with its usual monsoon woes – severe waterlogging is a recurring nightmare, highlighting a dire need for better infrastructure and civic sense [Read more](https://www.ndtv.com/india-news/concrete-jungles-clogged-drains-decoding-indias-waterlogging-crisis-amid-monsoon-rain-11752214#publisher=newsstand).
-• Politically, Congress is trying to fact-check the BJP, reminding everyone that Australia's uranium sales to India were approved way back in 2011, not just under Modi's "breakthrough" [Read more](https://www.thehindu.com/news/national/not-a-modi-breakthrough-australias-ruling-party-approved-uranium-sales-to-india-in-2011-congress/article71205370.ece). Seems like election season never truly ends.
-• Meanwhile, US-India trade talks are nearing a deal, but a few sticky points remain, so don't pop the champagne just yet [Read more](http://foreignpolicy.com/2026/07/06/us-india-trade-deal-thaw-trump-modi/). And on the manufacturing front, Vivo is getting in on the "Made in India" action with a new joint venture, following Apple's lead [Read more](https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/).
+• PM Modi just wrapped up his three-nation tour in New Zealand, elevating ties to a strategic partnership and securing more tariff-free exports for them. He's certainly collecting those diplomatic wins. [ref:1, ref:5]
+• Indonesian President Prabowo is practically singing odes to India, highlighting Ramayana reliefs as a symbol of unity and reinforcing strong bilateral ties. Seems Modi's charm offensive is working wonders. [ref:2, ref:4]
+• Speaking of Modi, Al Jazeera is noting his growing collection of foreign awards, jokingly calling his diplomatic game "double cross, first class." Say what you will, he's a master at global networking. [Read more](https://www.aljazeera.com/news/2026/7/9/double-cross-first-class-why-indias-modi-wins-so-many-foreign-awards)
 
-TODAY'S TAKEAWAY: OpenAI isn't just an AI company anymore; they're trying to be the AI operating system for your entire life, whether you like it or not.
+TODAY'S TAKEAWAY: Apple's lawsuit against OpenAI is the tech drama you absolutely need to watch, while Modi continues his diplomatic victory lap.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 05:58 UAE time
+Generated at 04:59 UAE time
