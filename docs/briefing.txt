@@ -1,30 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Saturday, July 11, 2026
+       Sunday, July 12, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Ukraine's Zelenskyy is getting serious about hitting Russia where it hurts, setting up a new command for long-range strikes on their energy sector. Brace for more fireworks. [Read more](https://www.theguardian.com/world/2026/jul/11/ukraine-war-briefing-zelenskyy-long-range-impact-command-russian-energy-strikes)
-• Europe is quietly debating charging fees for navigation through the Strait of Hormuz, a move that could seriously shake up global oil flows and regional tensions. Keep an eye on this one. [Read more](https://www.theguardian.com/world/2026/jul/11/europe-considers-proposals-navigational-fees-strait-of-hormuz-iran-us)
+• The US and Iran are trading blows, with Tehran again threatening to close the Strait of Hormuz. This is a big deal, potentially spiking oil prices and escalating regional tensions. [Read more](https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed)
+• In Ukraine, Zelenskyy is furious after a Russian strike on a civilian area where he claims weapons were housed, killing ten. The war slogs on, tragically. [Read more](https://www.theguardian.com/world/2026/jul/12/ukraine-war-briefing-zelenskyy-decries-housing-of-weapons-in-civilian-area-kyiv-russian-strike-deaths)
+• A US Congressman claims he was detained by armed Israeli settlers in the West Bank, adding more fuel to the already explosive situation in the region. [Read more](https://www.theguardian.com/world/2026/jul/11/ro-khanna-congressman-detained-israel-settlers-west-bank)
 
 ## 🤖 Tech & AI
-• Apple is suing OpenAI, accusing them of stealing trade secrets related to hardware plans – looks like the gloves are officially off in the AI arms race. This is big, it's Apple coming after the reigning AI champ. [Read more](https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets)
-• Meta, true to form, had to backtrack on a super creepy Instagram AI feature that let users deepfake public accounts, after, shocker, everyone freaked out about privacy. Good riddance. [Read more](https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes)
+• Apple is taking OpenAI to court, alleging the AI giant stole confidential hardware trade secrets via former Apple employees. Juicy drama between the tech titans, and a reminder that talent poaching is real. [ref:4, 9, 10]
+• Good news for the chip world: Altera is seeing serious growth thanks to soaring demand in AI and robotics. The AI boom is powering more than just chatbots. [Read more](https://economictimes.indiatimes.com/tech/artificial-intelligence/altera-returns-to-growth-as-ai-robotics-fuel-demand-ceo-says/articleshow/132323767.cms)
+• OpenAI is apparently making a big push into your living room, hiring a product manager to build ChatGPT for families and caregivers. Get ready for AI to help with your grocery list, Sidra. [Read more](https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/)
 
 ## 💪 Health & Wellness
-• Hold onto your wallets: Cheaper, generic versions of the popular weight-loss drugs Mounjaro and Zepbound (GLP-1s) might be hitting the market soon, making them more accessible. This is a game-changer for many. [Read more](https://www.healthline.com/health-news/generic-mounjaro-zepbound-application-review)
-• The CDC is sounding the alarm about a 'Diarrhea Parasite' spreading across 17 states, so maybe skip the communal punch bowl this weekend. Seriously, wash your hands. [Read more](https://www.healthline.com/health-news/cdc-warns-explosive-diarrhea-parasite-protect-yourself)
+• Big news for anyone tracking weight-loss drugs: Cheaper, generic versions of Mounjaro and Zepbound are potentially on the horizon. This could finally make these game-changing medications more accessible. [Read more](https://www.healthline.com/health-news/generic-mounjaro-zepbound-application-review)
 
 ## 🇮🇳 India
-• PM Modi just wrapped up his three-nation tour in New Zealand, elevating ties to a strategic partnership and securing more tariff-free exports for them. He's certainly collecting those diplomatic wins. [ref:1, ref:5]
-• Indonesian President Prabowo is practically singing odes to India, highlighting Ramayana reliefs as a symbol of unity and reinforcing strong bilateral ties. Seems Modi's charm offensive is working wonders. [ref:2, ref:4]
-• Speaking of Modi, Al Jazeera is noting his growing collection of foreign awards, jokingly calling his diplomatic game "double cross, first class." Say what you will, he's a master at global networking. [Read more](https://www.aljazeera.com/news/2026/7/9/double-cross-first-class-why-indias-modi-wins-so-many-foreign-awards)
+• It's all about diplomacy: Modi is cementing India's partnership with New Zealand, getting credit for an FTA, while Congress harks back to Indira and Rajiv Gandhi's good old days with NZ. History lesson, courtesy of current events. [ref:1, 6]
+• Indonesian President Prabowo Subianto is showering India with praise, calling Ramayana reliefs a unifying force and reaffirming strong ties. Modi's diplomatic charm offensive seems to be working overtime. [ref:2, 5]
+• Speaking of Modi, he just picked up another foreign award in Seychelles, adding to his rapidly growing collection. The man loves a trophy, and countries love giving them. [Read more](https://www.aljazeera.com/news/2026/7/9/double-cross-first-class-why-indias-modi-wins-so-many-foreign-awards)
 
-TODAY'S TAKEAWAY: Apple's lawsuit against OpenAI is the tech drama you absolutely need to watch, while Modi continues his diplomatic victory lap.
+TODAY'S TAKEAWAY: The AI world is litigating while geopolitical tensions simmer, but India's diplomatic game is stronger than ever.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 04:59 UAE time
+Generated at 05:22 UAE time
