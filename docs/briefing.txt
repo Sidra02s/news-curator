@@ -1,31 +1,30 @@
 
        SIDRA'S MORNING BRIEFING
-       Sunday, July 12, 2026
+       Monday, July 13, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• The US and Iran are trading blows, with Tehran again threatening to close the Strait of Hormuz. This is a big deal, potentially spiking oil prices and escalating regional tensions. [Read more](https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed)
-• In Ukraine, Zelenskyy is furious after a Russian strike on a civilian area where he claims weapons were housed, killing ten. The war slogs on, tragically. [Read more](https://www.theguardian.com/world/2026/jul/12/ukraine-war-briefing-zelenskyy-decries-housing-of-weapons-in-civilian-area-kyiv-russian-strike-deaths)
-• A US Congressman claims he was detained by armed Israeli settlers in the West Bank, adding more fuel to the already explosive situation in the region. [Read more](https://www.theguardian.com/world/2026/jul/11/ro-khanna-congressman-detained-israel-settlers-west-bank)
+• Ukraine's Zelenskyy just sacked his PM and is shaking up law enforcement – a clear sign things are getting desperate and he's cleaning house. [Read more](https://www.theguardian.com/world/2026/jul/13/ukraine-war-briefing-zelenskyy-replaces-pm-and-flags-law-enforcement-overhaul)
+• Trump is dismissing Iran's chest-thumping about closing the Strait of Hormuz; seems like the usual sabre-rattling with both sides digging in. [Read more](https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed)
 
 ## 🤖 Tech & AI
-• Apple is taking OpenAI to court, alleging the AI giant stole confidential hardware trade secrets via former Apple employees. Juicy drama between the tech titans, and a reminder that talent poaching is real. [ref:4, 9, 10]
-• Good news for the chip world: Altera is seeing serious growth thanks to soaring demand in AI and robotics. The AI boom is powering more than just chatbots. [Read more](https://economictimes.indiatimes.com/tech/artificial-intelligence/altera-returns-to-growth-as-ai-robotics-fuel-demand-ceo-says/articleshow/132323767.cms)
-• OpenAI is apparently making a big push into your living room, hiring a product manager to build ChatGPT for families and caregivers. Get ready for AI to help with your grocery list, Sidra. [Read more](https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/)
+• Lorde called AI glasses "not sexy" during a festival set – she's not wrong, who wants to look like a cyborg while trying to be cool? [Read more](https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy)
+• Apple is reportedly suing OpenAI for trade secret theft; the AI playground just got a lot more litigious, and it's going to be a fascinating fight. [Read more](https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets)
+• Instagram’s AI image generator is already alarming privacy experts, so maybe think twice before you let it turn your dog into a unicorn. [Read more](https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy)
 
 ## 💪 Health & Wellness
-• Big news for anyone tracking weight-loss drugs: Cheaper, generic versions of Mounjaro and Zepbound are potentially on the horizon. This could finally make these game-changing medications more accessible. [Read more](https://www.healthline.com/health-news/generic-mounjaro-zepbound-application-review)
+• Good news for your wallet (and your waistline): cheaper generic versions of Mounjaro and Zepbound, those popular weight-loss drugs, might be on the way. [Read more](https://www.healthline.com/health-news/generic-mounjaro-zepbound-application-review)
 
 ## 🇮🇳 India
-• It's all about diplomacy: Modi is cementing India's partnership with New Zealand, getting credit for an FTA, while Congress harks back to Indira and Rajiv Gandhi's good old days with NZ. History lesson, courtesy of current events. [ref:1, 6]
-• Indonesian President Prabowo Subianto is showering India with praise, calling Ramayana reliefs a unifying force and reaffirming strong ties. Modi's diplomatic charm offensive seems to be working overtime. [ref:2, 5]
-• Speaking of Modi, he just picked up another foreign award in Seychelles, adding to his rapidly growing collection. The man loves a trophy, and countries love giving them. [Read more](https://www.aljazeera.com/news/2026/7/9/double-cross-first-class-why-indias-modi-wins-so-many-foreign-awards)
+• Indonesian President Prabowo is really playing up the cultural ties, using Ramayana reliefs and community receptions to deepen bonds with India. [ref:2, ref:3]
+• PM Modi's global charm offensive continues, racking up foreign awards and sealing new deals, like a promising FTA with New Zealand. [ref:6, ref:8]
+• India is now the top destination for Nepali students, showing its growing influence as a regional education hub. [Read more](https://www.ndtv.com/education/nepal-sends-highest-number-of-students-to-india-says-aishe-report-11763230#publisher=newsstand)
 
-TODAY'S TAKEAWAY: The AI world is litigating while geopolitical tensions simmer, but India's diplomatic game is stronger than ever.
+TODAY'S TAKEAWAY: The AI giants are officially in a slugfest, while geopolitical tensions keep everyone guessing.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 05:22 UAE time
+Generated at 05:32 UAE time
