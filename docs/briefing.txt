@@ -1,24 +1,27 @@
 
        SIDRA'S MORNING BRIEFING
-       Tuesday, July 14, 2026
+       Wednesday, July 15, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• The Middle East is a mess, Sidra. The US just hit Iran for the third night in a row, while Trump's back on his "blockade Hormuz" BS, claiming Iran hit tankers. This is genuinely important because escalating tensions in the Gulf affect global stability and oil prices. [ref:1, ref:6, ref:11, ref:15]
-• Meanwhile, Ukraine's Zelenskyy is still begging for air defense, specifically 300 Patriot systems, to survive another winter. It's a sobering reminder that some conflicts just grind on. [Read more](https://www.theguardian.com/world/2026/jul/14/ukraine-war-briefing-zelenskyy-seeks-300-patriots-to-get-through-winter)
+• Trump's back at it, threatening to bomb Iran's power plants and bridges if a deal isn't made. This is a serious escalation in the Middle East, Sidra. [ref:5, ref:6]
+• In return, Iran claims it targeted the US Fifth Fleet in Bahrain, which means those tensions are definitely not one-sided. Keep an eye on the Strait of Hormuz. [Read more](https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news)
+• The grim reality of the Ukraine war continues with reports of "hundreds" of alleged PoW executions by Russia. The brutality just keeps coming. [Read more](https://www.theguardian.com/world/2026/jul/15/ukraine-war-briefing-spotlight-on-hundreds-of-alleged-pow-executions-by-russia)
 
 ## 🤖 Tech & AI
-• Your iPhone and Apple Watch might finally get smart: the iOS 27 public beta just dropped, promising Siri AI that actually makes your devices feel like they're living in this century. Prepare for less frustration, hopefully. [ref:3, ref:8]
-• Apple is suing OpenAI, claiming they stole trade secrets, with allegations ranging from casual employee jokes to asking job candidates to bring Apple hardware to interviews. This is a big deal, signaling a deepening war in the AI space. [ref:9, ref:10]
-• Instagram's new AI image generator is raising eyebrows among privacy experts. Because if there's one thing we need, it's more ways for our data to be "creatively" used. [Read more](https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy)
+• Even Lorde thinks AI glasses are "not sexy," echoing a wider discomfort with how AI blurs the lines of reality. We don't all want to look like cyborgs, apparently. [Read more](https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/)
+• Meanwhile, an OpenAI researcher is launching an AI drug discovery startup already valued at $2 billion. It seems everyone's betting on AI to fix our health. [Read more](https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/)
+• Google is facing another big lawsuit, with major publishers claiming the tech giant trained its AI on copyrighted works without permission. The battle over who owns the internet's content is far from over. [Read more](https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/)
+
+## 💪 Health & Wellness
+• Good news for your brain: Experts say nearly half of dementia cases could be prevented by tackling 14 key risk factors. Time for a wellness check, Sidra. [Read more](https://www.healthline.com/health-news/dementia-factors-increase-risk)
 
 ## 🇮🇳 India
-• Modi's globetrotting continues, charming crowds in Australia and cementing trade ties with New Zealand, while collecting another foreign award in Seychelles. He really knows how to work a room (and a continent). [ref:5, ref:7, ref:12]
-• Indonesia's President Prabowo dropped a cultural nod, linking India and Indonesia via the Ramayana reliefs at Prambanan Temple. A nice touch amidst the usual political noise. [Read more](https://en.antaranews.com/news/421900/prabowo-says-prambanans-ramayana-reliefs-unite-indonesia-india)
-• Closer to home, Karnataka's Minister is already declaring Siddaramaiah will lead the charge for the 2028 elections. Looks like some things never change in state politics. [Read more](https://www.thehindu.com/news/national/karnataka/we-will-face-the-2028-elections-under-the-leadership-of-former-cm-siddaramaiah-says-minister/article71219793.ece)
+• PM Modi is on a diplomatic roll, recently securing an FTA with New Zealand and collecting another foreign award in Seychelles. His global charm offensive is definitely working. [ref:7, ref:8]
+• He also drew a massive crowd in Melbourne, rallying the diaspora with a vision of India aiming to "grow more, achieve more." Classic Modi, playing to the crowds. [Read more](https://www.abc.net.au/news/2026-07-10/modi-addresses-thousands-in-melbourne/106899120)
 
-TODAY'S TAKEAWAY: The Middle East is a powder keg with the US and Iran trading blows, reminding us that global stability is always just a bad decision away.
+TODAY'S TAKEAWAY: While AI is making big (and legally contentious) moves, Trump's saber-rattling with Iran feels like the most immediate powder keg.
 
 -----------------------------
 
