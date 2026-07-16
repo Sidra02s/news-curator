@@ -1,30 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Wednesday, July 15, 2026
+       Thursday, July 16, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Trump's back at it, threatening to bomb Iran's power plants and bridges if a deal isn't made. This is a serious escalation in the Middle East, Sidra. [ref:5, ref:6]
-• In return, Iran claims it targeted the US Fifth Fleet in Bahrain, which means those tensions are definitely not one-sided. Keep an eye on the Strait of Hormuz. [Read more](https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news)
-• The grim reality of the Ukraine war continues with reports of "hundreds" of alleged PoW executions by Russia. The brutality just keeps coming. [Read more](https://www.theguardian.com/world/2026/jul/15/ukraine-war-briefing-spotlight-on-hundreds-of-alleged-pow-executions-by-russia)
+• The US is playing geopolitical chess, giving the UAE top-tier AI chips after they helped with Iran ops, effectively shifting regional power and potentially putting Iran on notice. [Read more](https://cryptobriefing.com/uae-gains-top-tier-us-ai-chip-access-after-aiding-in-iran-operations/)
+• Tensions are high in the Middle East as the US just completed a series of attacks on Iran, including striking an oil tanker in the Strait of Hormuz. Expect things to stay spicy. [ref:13, ref:15]
+• Ukraine continues to receive critical support, with Sheffield steel now being shipped out for artillery barrels – a tangible boost to Kyiv's ongoing defense. [Read more](https://www.theguardian.com/world/2026/jul/16/ukraine-war-briefing-sheffield-steel-for-kyivs-guns-as-artillery-barrels-ship-out)
 
 ## 🤖 Tech & AI
-• Even Lorde thinks AI glasses are "not sexy," echoing a wider discomfort with how AI blurs the lines of reality. We don't all want to look like cyborgs, apparently. [Read more](https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/)
-• Meanwhile, an OpenAI researcher is launching an AI drug discovery startup already valued at $2 billion. It seems everyone's betting on AI to fix our health. [Read more](https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/)
-• Google is facing another big lawsuit, with major publishers claiming the tech giant trained its AI on copyrighted works without permission. The battle over who owns the internet's content is far from over. [Read more](https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/)
+• Microsoft is reportedly training its salespeople to trash-talk OpenAI and Anthropic, pushing its own in-house AI models as 'more efficient' and cost-effective. Awkward. [Read more](https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/)
+• The Bank of England governor is sounding the alarm, stating that global cooperation is essential to tackle the growing threats posed by AI. No kidding, but good to hear it from the top. [Read more](https://www.theguardian.com/technology/2026/jul/14/global-cooperation-needed-to-tackle-ai-threats-says-bank-of-england-governor)
+• OpenAI just dropped a $230 keyboard for its coding app, Codex, while simultaneously battling Apple over hardware theft allegations – talk about multitasking, or perhaps just a bad look. [Read more](https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/)
 
 ## 💪 Health & Wellness
-• Good news for your brain: Experts say nearly half of dementia cases could be prevented by tackling 14 key risk factors. Time for a wellness check, Sidra. [Read more](https://www.healthline.com/health-news/dementia-factors-increase-risk)
+• Heads up: A new study links certain hormonal contraceptives, especially those high in progestogen like Depo-Provera, to an increased risk of brain tumors. This is genuinely important for anyone on birth control. [Read more](https://www.healthline.com/health-news/depo-provera-hormonal-contraceptives-noncancerous-brain-tumors)
+• On a brighter note for women's health, a young tech entrepreneur is tackling issues like PCOS and endometriosis with new tech solutions. Keep an eye on this space. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
 
 ## 🇮🇳 India
-• PM Modi is on a diplomatic roll, recently securing an FTA with New Zealand and collecting another foreign award in Seychelles. His global charm offensive is definitely working. [ref:7, ref:8]
-• He also drew a massive crowd in Melbourne, rallying the diaspora with a vision of India aiming to "grow more, achieve more." Classic Modi, playing to the crowds. [Read more](https://www.abc.net.au/news/2026-07-10/modi-addresses-thousands-in-melbourne/106899120)
+• Modi is on a global charm offensive, recently receiving another foreign award in Seychelles and rallying huge crowds in Australia, emphasizing India's ambition to "grow more, achieve more." He's clearly playing to the international gallery. [ref:5, ref:9]
+• India and Australia are strengthening their ties, forming new strategic coalitions to boost both nations – a smart move in the current geopolitical landscape. [Read more](https://thediplomat.com/2026/07/modis-visit-australia-india-seek-to-gain-strength-from-each-other/)
+• Back home, Modi's cabinet just approved a massive Rs 25,000 crore project to transform Kashi with new Ganga and Varuna corridors, promising a major mobility boost for Varanasi. Big plans, big money. [Read more](https://www.ndtv.com/india-news/cabinet-okay-ganga-varuna-corridor-pm-modi-varanasi-kashi-infrastructure-11774386#publisher=newsstand)
 
-TODAY'S TAKEAWAY: While AI is making big (and legally contentious) moves, Trump's saber-rattling with Iran feels like the most immediate powder keg.
+TODAY'S TAKEAWAY: US-Iran tensions are escalating, while India's Modi is busy making big moves both globally and domestically, asserting India's growing influence.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 04:45 UAE time
+Generated at 04:56 UAE time
