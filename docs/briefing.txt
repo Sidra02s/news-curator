@@ -1,32 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Thursday, July 16, 2026
+       Friday, July 17, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• The US is playing geopolitical chess, giving the UAE top-tier AI chips after they helped with Iran ops, effectively shifting regional power and potentially putting Iran on notice. [Read more](https://cryptobriefing.com/uae-gains-top-tier-us-ai-chip-access-after-aiding-in-iran-operations/)
-• Tensions are high in the Middle East as the US just completed a series of attacks on Iran, including striking an oil tanker in the Strait of Hormuz. Expect things to stay spicy. [ref:13, ref:15]
-• Ukraine continues to receive critical support, with Sheffield steel now being shipped out for artillery barrels – a tangible boost to Kyiv's ongoing defense. [Read more](https://www.theguardian.com/world/2026/jul/16/ukraine-war-briefing-sheffield-steel-for-kyivs-guns-as-artillery-barrels-ship-out)
+• Ukraine is having a moment, and not the good kind. Zelenskyy is defending his decision to sack the defense minister amidst a brewing political crisis. Not exactly a strong look for wartime leadership. [Read more](https://www.theguardian.com/world/2026/jul/17/zelenskyy-defends-sacking-ukraine-defence-minister-mykhailo-fedorov)
+• The US is turning up the heat on Iran, with Tehran firing back at Gulf states. This tit-for-tat feels less like diplomacy and more like a playground fight with nuclear potential. Keep an eye on the Middle East, it's never quiet for long. [Read more](https://www.theguardian.com/world/2026/jul/16/us-intensifies-attacks-on-iran-as-tehran-hits-back-at-gulf-states)
 
 ## 🤖 Tech & AI
-• Microsoft is reportedly training its salespeople to trash-talk OpenAI and Anthropic, pushing its own in-house AI models as 'more efficient' and cost-effective. Awkward. [Read more](https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/)
-• The Bank of England governor is sounding the alarm, stating that global cooperation is essential to tackle the growing threats posed by AI. No kidding, but good to hear it from the top. [Read more](https://www.theguardian.com/technology/2026/jul/14/global-cooperation-needed-to-tackle-ai-threats-says-bank-of-england-governor)
-• OpenAI just dropped a $230 keyboard for its coding app, Codex, while simultaneously battling Apple over hardware theft allegations – talk about multitasking, or perhaps just a bad look. [Read more](https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/)
+• The EU just dropped the hammer on Google, demanding they open up Android to rival AI companies. This is huge, meaning Google can't just hog all the AI goodness for itself anymore. About time someone told them to share. [Read more](https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai)
+• Netflix, queen of content, is quietly churning out shows with AI — nearly 300 titles, mostly in post-production. Don't be surprised if your next binge-watch had a little help from the robots. [Read more](https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings)
+• Google employees are rightfully sweating, petitioning their CEO for layoff protections as AI takes over. While we cheer for AI innovation, someone’s gotta remember the humans behind the keyboards. [Read more](https://www.theguardian.com/technology/2026/jul/16/google-workers-layoff-protections-ai)
 
 ## 💪 Health & Wellness
-• Heads up: A new study links certain hormonal contraceptives, especially those high in progestogen like Depo-Provera, to an increased risk of brain tumors. This is genuinely important for anyone on birth control. [Read more](https://www.healthline.com/health-news/depo-provera-hormonal-contraceptives-noncancerous-brain-tumors)
-• On a brighter note for women's health, a young tech entrepreneur is tackling issues like PCOS and endometriosis with new tech solutions. Keep an eye on this space. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
+• Here’s a genuinely important one: new research links certain hormonal contraceptives, like Depo-Provera, to an increased risk of brain tumors. If you’re on the pill, definitely worth a chat with your doctor. [Read more](https://www.healthline.com/health-news/depo-provera-hormonal-contraceptives-noncancerous-brain-tumors)
+• Good news for your brain: almost half of all dementia cases could be prevented by addressing 14 modifiable risk factors. Time to double-check those habits! [Read more](https://www.healthline.com/health-news/dementia-factors-increase-risk)
+• A young tech entrepreneur is tackling women's health issues like PCOS and endometriosis. It's about time tech started focusing on things that actually matter to us. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
 
 ## 🇮🇳 India
-• Modi is on a global charm offensive, recently receiving another foreign award in Seychelles and rallying huge crowds in Australia, emphasizing India's ambition to "grow more, achieve more." He's clearly playing to the international gallery. [ref:5, ref:9]
-• India and Australia are strengthening their ties, forming new strategic coalitions to boost both nations – a smart move in the current geopolitical landscape. [Read more](https://thediplomat.com/2026/07/modis-visit-australia-india-seek-to-gain-strength-from-each-other/)
-• Back home, Modi's cabinet just approved a massive Rs 25,000 crore project to transform Kashi with new Ganga and Varuna corridors, promising a major mobility boost for Varanasi. Big plans, big money. [Read more](https://www.ndtv.com/india-news/cabinet-okay-ganga-varuna-corridor-pm-modi-varanasi-kashi-infrastructure-11774386#publisher=newsstand)
+• Modi's got a new export: people. India is signing labor mobility deals globally, shipping its vast workforce to countries turning against immigration. It's a bold play to leverage India's population surplus on the world stage. [Read more](https://www.cnbc.com/2026/07/15/modi-export-india-workforce-anti-immigration.html)
+• Looks like Modi’s charm offensive is working. India and Australia are cosying up, forming new strategic alliances. It’s all about gaining strength from each other in an increasingly complex world. [Read more](https://thediplomat.com/2026/07/modis-visit-australia-india-seek-to-gain-strength-from-each-other/)
+• Ever wonder why Bollywood feels a bit... different lately? Modi’s government has apparently brought the industry to heel, with films like 'Punjab ’95' facing censorship. It's a subtle but significant power play, and Hollywood should take note. [Read more](https://www.vox.com/politics/495507/modi-india-censorship-cinema-satluj-hollywood)
 
-TODAY'S TAKEAWAY: US-Iran tensions are escalating, while India's Modi is busy making big moves both globally and domestically, asserting India's growing influence.
+TODAY'S TAKEAWAY: As AI shakes up everything from your content to your job, Modi is busy reshaping India's global footprint, literally.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 04:56 UAE time
+Generated at 04:59 UAE time
