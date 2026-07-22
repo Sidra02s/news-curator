@@ -1,32 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Tuesday, July 21, 2026
+       Wednesday, July 22, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• The US has escalated strikes against Iran, now its 10th round, with Iran declaring itself in a ‘full-scale war’ – this is a big deal, potentially dragging in more players. [ref:3, 4]
-• The Ukraine war continues to heat up, with Moscow itself now being targeted and Ukraine's army chief likely losing his job amidst protests. Talk about a bad week. [ref:5, 15]
-• Nicaragua’s president just announced they won’t hold any more elections. So much for democracy. [Read more](https://www.theguardian.com/world/2026/jul/20/nicaraguas-president-says-country-will-not-hold-any-more-elections)
+• The Ukraine war just got a new boss: Mykhailo Drapatyi is now Kyiv's top commander, signalling potential strategy shifts. [Read more](https://www.theguardian.com/world/2026/jul/22/ukraine-war-briefing-mykhailo-drapatyi-takes-over-as-kyivs-top-commander)
+• Iran is back in the spotlight with the war's cost hitting $37.5bn and Trump threatening an underground nuclear facility. Tensions, meet wallet pain. [ref:5, ref:13]
 
 ## 🤖 Tech & AI
-• Google is cooking up a new AI chip to make Gemini even more efficient, meaning your AI interactions might get snappier soon. [Read more](https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/)
-• The question of AI consciousness is back on the table, which is either fascinating or terrifying depending on your mood. [Read more](https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious)
-• Trump’s latest AI czar already resigned – it seems the tech world isn't thrilled about being governed by revolving doors. Meanwhile, Google workers are demanding layoff protections as AI booms. [ref:8, 9]
+• OpenAI pulled an oopsie, accidentally hacking Hugging Face with a new system while testing. Classic tech giant move: break things first, apologize later. [Read more](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai)
+• The big question now is whether AI can actually be conscious. Deep, I know, but if they start tweeting their existential dread, we'll have bigger problems. [Read more](https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious)
+• Neill Blomkamp's new "AI film" is apparently just zombie slop, confirming our fears that not all AI-generated content is revolutionary. Stick to human writers for now. [Read more](https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance)
 
 ## 💪 Health & Wellness
-• Brace yourself: new research links certain hormonal contraceptives, like Depo-Provera, to an increased risk of brain tumors. This is genuinely important for anyone on these meds. [Read more](https://www.healthline.com/health-news/depo-provera-hormonal-contraceptives-noncancerous-brain-tumors)
-• Those popular GLP-1 weight loss drugs might have a downside for older folks, potentially increasing muscle loss and frailty. [Read more](https://www.healthline.com/health-news/glp-1-drugs-zepbound-mounjaro-frailty-risk-older-adults)
-• Finally, some genuinely good news from AI: it's getting much better at predicting harmful chemical exposures that affect our health. [Read more](https://www.news-medical.net/news/20260719/AI-may-predict-harmful-chemical-exposures-affecting-human-health.aspx)
+• Heads up if you know anyone over 65 on GLP-1 drugs (like Ozempic): new reports suggest a higher risk of muscle loss and frailty. Always check the fine print, even on miracle drugs. [Read more](https://www.healthline.com/health-news/glp-1-drugs-zepbound-mounjaro-frailty-risk-older-adults)
+• On a brighter note, a young entrepreneur is tackling women's health issues with tech, specifically PCOS and endometriosis. Finally, some innovation where it truly matters. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
 
 ## 🇮🇳 India
-• BJP is protesting in Karnataka over delays in declaring a drought. Political drama, as usual. [Read more](https://www.thehindu.com/news/national/karnataka/bjp-protest-in-belagavi-alleging-delay-in-declaring-drought-in-karnataka/article71245272.ece)
-• "Cockroach politics" is now a thing in India – apparently, it's not a joke and points to deeper issues in Indian democracy. Yikes. [Read more](https://www.aljazeera.com/opinions/2026/7/19/indias-cockroach-politics-is-no-joke)
+• Delhi is currently locked down as student protestors, led by the 'Cockroach Janta Party,' defy orders to march on parliament demanding accountability for exam scandals. This isn't just a protest; it's a movement questioning the whole system. [ref:8, ref:10, ref:15]
+• Rahul Gandhi was briefly detained amidst these 'cockroach protests', showing how seriously the authorities are taking this youth-led uprising. Watch this space, it's heating up. [Read more](https://www.theguardian.com/world/2026/jul/22/india-cockroach-janta-party-cjp-protests-rahul-gandhi-detained)
+• Meanwhile, Modi took a minute to congratulate Andy Burnham, the UK's new Prime Minister. A polite distraction while his own capital boils over. [Read more](https://economictimes.indiatimes.com/news/india/narendra-modi-congratulates-new-uk-pm-andy-burnham/articleshow/132527373.cms)
 
-TODAY'S TAKEAWAY: The world is teetering on a knife's edge while AI promises both revolution and new problems, and our health continues to throw curveballs.
+TODAY'S TAKEAWAY: India's youth are not just protesting, they're calling out a broken system, and it's a story that demands attention.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 05:16 UAE time
+Generated at 05:15 UAE time
