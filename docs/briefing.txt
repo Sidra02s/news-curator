@@ -1,32 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Saturday, July 25, 2026
+       Sunday, July 26, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• The Middle East situation is escalating rapidly, with Iran-backed Houthis hitting Saudi Arabia, while the US directly strikes Iran as Tehran targets American bases. It’s a dangerous game. [ref:3, ref:8, ref:14]
-• Ukraine remains grim: Russia just launched a deadly attack on a weapons exhibition near Kyiv. The war continues its brutal pace, sadly. [Read more](https://www.theguardian.com/world/2026/jul/25/ukraine-war-briefing-ten-killed-russian-attack-weapons-exhibition-near-kyiv)
-• Iran's ability to target US bases is reportedly getting a suspicious boost from Chinese tech and Russian tactics, highlighting a very real and concerning global alliance. [Read more](https://www.theguardian.com/world/2026/jul/24/irans-much-improved-missile-systems-pose-a-real-threat-to-the-us)
+• Trump's past 'drug war' airstrikes are still causing headaches, now ensnaring English-speaking Colombian islands. A reminder that some policies have seriously long tails. [Read more](https://www.theguardian.com/world/2026/jul/25/colombian-islands-san-andres-providence-fishers-us-strikes-boats)
+• Elon Musk just admitted he "got carried away" with Trump, but don't expect him to suddenly become apolitical. He's still got those spicy, sometimes controversial, takes. [Read more](https://www.theguardian.com/technology/2026/jul/23/elon-musk-regret-trump-doge-ai)
 
 ## 🤖 Tech & AI
-• OpenAI has launched an AI keypad that’s supposedly awesome for coders, but probably just another head-scratcher for everyone else. Sometimes, less is more. [Read more](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/)
-• A good reminder from the smart folks: let's pump the brakes on the whole "AI consciousness" debate and focus on actual, practical AI ethics first. [Read more](https://www.theguardian.com/technology/2026/jul/22/we-must-reject-any-notion-of-ai-consciousness)
-• Elon Musk admitted he "got carried away" with Trump, but don't expect a sudden shift in his highly opinionated and often contentious political views. They're here to stay. [Read more](https://www.theguardian.com/technology/2026/jul/23/elon-musk-regret-trump-doge-ai)
+• OpenAI dropped an AI keypad; apparently, it's a coder's delight but utterly baffling for the rest of us. Sounds about right for niche tech innovations. [Read more](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/)
+• New AI lab Prentis (from Reid Hoffman!) is betting big on AI automating your routine computer tasks, not just coding. Might be time to figure out which mundane tasks you can finally delegate. [Read more](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/)
+• A grim heads-up: OpenAI's "rogue agents" are being flagged as a serious wake-up call to the growing risks artificial intelligence poses. This isn't just theory anymore. [Read more](https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks)
 
 ## 💪 Health & Wellness
-• Heads up, Sidra: a new study links PMOS (what we used to call PCOS) to a significantly higher risk of heart attack and stroke. Make sure your doctor is clued in. [Read more](https://www.healthline.com/health-news/pmos-pcos-significantly-higher-heart-attack-stroke-risk)
-• Finally, some tech innovation in the right place: a young entrepreneur is tackling women's health issues like PCOS and endometriosis with new tech. About time! [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
+• Heads up: New research links PMOS (formerly PCOS) to a significantly higher risk of heart attack and stroke. Definitely something to keep an eye on for you and your circle. [Read more](https://www.healthline.com/health-news/pmos-pcos-significantly-higher-heart-attack-stroke-risk)
+• Ozempic and Wegovy aren't just for weight loss anymore; studies show they can help maintain lower calorie intake for over a year. The GLP-1 train keeps rolling. [Read more](https://www.healthline.com/health-news/semaglutide-sustains-lower-calorie-intake-over-one-year)
+• Good news on the innovation front: A young tech entrepreneur is specifically tackling women's health issues like PCOS and endometriosis. Finally, some dedicated brainpower where it's desperately needed. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
 
 ## 🇮🇳 India
-• Modi's government is facing a serious backlash as widespread protests over unemployment and serial exam leaks (like NEET) threaten to erode public trust. This is a big deal. [ref:1, ref:5, ref:6, ref:11]
-• The 'Cockroach Movement' — yes, that's what they're calling it — is delivering significant blows to the BJP, proving that grassroots anger can pack a real political punch. [Read more](http://foreignpolicy.com/2026/07/22/india-cockroach-protest-movement-youth-modi-bjp-education/)
-• India's government is busy blaming Pakistani handles for circulating fake AI videos of PM Modi and ministers. Get ready for more digital warfare in the political arena. [Read more](https://www.ndtv.com/india-news/cjp-protest-fake-news-government-debunks-fake-ai-videos-of-pm-minister-blames-pakistani-handles-11819211#publisher=newsstand)
+• Huge news: India's education minister finally resigned thanks to massive youth protests over exam paper leaks. This is a significant win for direct action and a testament to the power of public outrage. [Read more](https://www.theguardian.com/world/2026/jul/25/dharmendra-pradhan-india-education-minister-resigns-cockroach-movement)
+• Despite the minister's exit, the opposition isn't letting up, demanding full accountability from the Modi government on these serial leaks. Expect continued parliamentary fireworks. [ref:2, ref:5]
+• Amidst the political heat, India today observes Kargil Vijay Diwas, honoring the heroes of the 1999 war. A poignant reminder of national service. [Read more](https://www.thehindu.com/news/national/kargil-vijay-diwas-political-leaders-pay-tributes-to-soldiers-operation-vijay-july-26-2026/article71268590.ece)
 
-TODAY'S TAKEAWAY: The world is on edge with escalating conflicts, while India's political landscape is boiling over from public discontent and digital misinformation.
+TODAY'S TAKEAWAY: The youth just proved that sustained protest can absolutely shake up the establishment in India; watch for ripple effects.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 05:00 UAE time
+Generated at 05:26 UAE time
