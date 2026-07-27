@@ -1,32 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Sunday, July 26, 2026
+       Monday, July 27, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Trump's past 'drug war' airstrikes are still causing headaches, now ensnaring English-speaking Colombian islands. A reminder that some policies have seriously long tails. [Read more](https://www.theguardian.com/world/2026/jul/25/colombian-islands-san-andres-providence-fishers-us-strikes-boats)
-• Elon Musk just admitted he "got carried away" with Trump, but don't expect him to suddenly become apolitical. He's still got those spicy, sometimes controversial, takes. [Read more](https://www.theguardian.com/technology/2026/jul/23/elon-musk-regret-trump-doge-ai)
+• Ukraine ceasefire talks are on the table ahead of a Trump-Zelenskyy meeting, which could be a major turning point or just more political theater. Fingers crossed for actual progress. [Read more](https://www.theguardian.com/world/2026/jul/27/ukraine-war-briefing-air-ceasefire-talk-ahead-of-trump-zelenskyy-meeting)
+• The US paused Iran attacks for a second night, reportedly after Trump was advised against further bombing. It's a tense, fragile dance in the Middle East right now. [Read more](https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz)
+• Spain's PM is publicly acknowledging the climate crisis as wildfires rage in France. A stark reminder that the planet is definitely not okay, Sidra. [Read more](https://www.theguardian.com/world/2026/jul/26/firefighters-in-france-battle-to-prevent-huge-blaze-from-approaching-bordeaux)
 
 ## 🤖 Tech & AI
-• OpenAI dropped an AI keypad; apparently, it's a coder's delight but utterly baffling for the rest of us. Sounds about right for niche tech innovations. [Read more](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/)
-• New AI lab Prentis (from Reid Hoffman!) is betting big on AI automating your routine computer tasks, not just coding. Might be time to figure out which mundane tasks you can finally delegate. [Read more](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/)
-• A grim heads-up: OpenAI's "rogue agents" are being flagged as a serious wake-up call to the growing risks artificial intelligence poses. This isn't just theory anymore. [Read more](https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks)
+• Forget YouTube videos—AI models are apparently moving into mind-reading territory, with brain wave data being eyed for training physical AI. Creepy or genius? You decide. [Read more](https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/)
+• Chinese AI models are quietly making huge inroads in the US, offering cheaper and smarter alternatives. The AI race just got a whole lot more competitive. [Read more](https://economictimes.indiatimes.com/tech/artificial-intelligence/cheaper-open-and-intelligent-chinese-ai-models-gain-ground-as-they-make-inroads-in-the-us/articleshow/132636291.cms)
+• Elon Musk admitted he "got carried away" with Trump but is still sticking to his "contentious political views." Because, of course, he is. [Read more](https://www.theguardian.com/technology/2026/jul/23/elon-musk-regret-trump-doge-ai)
 
 ## 💪 Health & Wellness
-• Heads up: New research links PMOS (formerly PCOS) to a significantly higher risk of heart attack and stroke. Definitely something to keep an eye on for you and your circle. [Read more](https://www.healthline.com/health-news/pmos-pcos-significantly-higher-heart-attack-stroke-risk)
-• Ozempic and Wegovy aren't just for weight loss anymore; studies show they can help maintain lower calorie intake for over a year. The GLP-1 train keeps rolling. [Read more](https://www.healthline.com/health-news/semaglutide-sustains-lower-calorie-intake-over-one-year)
-• Good news on the innovation front: A young tech entrepreneur is specifically tackling women's health issues like PCOS and endometriosis. Finally, some dedicated brainpower where it's desperately needed. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
+• This is important: new research links PMOS (what we used to call PCOS) to significantly higher risks for heart attacks and strokes. Keep an eye on your heart, ladies. [Read more](https://www.healthline.com/health-news/pmos-pcos-significantly-higher-heart-attack-stroke-risk)
+• Good news on the innovation front: a young tech entrepreneur is making waves specifically to improve women's health. Finally, some tech focus where it's desperately needed. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
 
 ## 🇮🇳 India
-• Huge news: India's education minister finally resigned thanks to massive youth protests over exam paper leaks. This is a significant win for direct action and a testament to the power of public outrage. [Read more](https://www.theguardian.com/world/2026/jul/25/dharmendra-pradhan-india-education-minister-resigns-cockroach-movement)
-• Despite the minister's exit, the opposition isn't letting up, demanding full accountability from the Modi government on these serial leaks. Expect continued parliamentary fireworks. [ref:2, ref:5]
-• Amidst the political heat, India today observes Kargil Vijay Diwas, honoring the heroes of the 1999 war. A poignant reminder of national service. [Read more](https://www.thehindu.com/news/national/kargil-vijay-diwas-political-leaders-pay-tributes-to-soldiers-operation-vijay-july-26-2026/article71268590.ece)
+• Massive news: India's 'Cockroach Janatha Pakshaya' protest movement actually worked! The Education Minister resigned and key demands were met—a huge win for youth activism and a big shake-up for Modi's government. [ref:13, ref:14, ref:15]
+• Congress is already calling Modi's new exam reform panel a diversion, claiming his government has a track record of "bungled examinations." Some things never change. [Read more](https://www.thehindu.com/news/national/congress-says-exam-reform-panel-announced-by-pm-to-divert-attention/article71271485.ece)
+• Former Karnataka CM Siddaramaiah is stepping away from electoral politics, citing age and "polluted" politics. Another veteran politician calling it quits on the ugly side of the game. [Read more](https://www.thehindu.com/news/national/karnataka/former-karnataka-chief-minister-siddaramaiah-announces-retirement-from-electoral-politics-citing-age-and-polluted-politics/article71269306.ece)
 
-TODAY'S TAKEAWAY: The youth just proved that sustained protest can absolutely shake up the establishment in India; watch for ripple effects.
+TODAY'S TAKEAWAY: Young India just scored a massive political win, showing real power, while AI continues its march into your mind, literally.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 05:26 UAE time
+Generated at 05:44 UAE time
