@@ -1,32 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Monday, July 27, 2026
+       Tuesday, July 28, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Ukraine ceasefire talks are on the table ahead of a Trump-Zelenskyy meeting, which could be a major turning point or just more political theater. Fingers crossed for actual progress. [Read more](https://www.theguardian.com/world/2026/jul/27/ukraine-war-briefing-air-ceasefire-talk-ahead-of-trump-zelenskyy-meeting)
-• The US paused Iran attacks for a second night, reportedly after Trump was advised against further bombing. It's a tense, fragile dance in the Middle East right now. [Read more](https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz)
-• Spain's PM is publicly acknowledging the climate crisis as wildfires rage in France. A stark reminder that the planet is definitely not okay, Sidra. [Read more](https://www.theguardian.com/world/2026/jul/26/firefighters-in-france-battle-to-prevent-huge-blaze-from-approaching-bordeaux)
+• Trump's back at it, warning Iran of "strong military action" if diplomacy tanks. Brace yourself. [Read more](https://www.theguardian.com/world/2026/jul/27/trump-warns-return-strong-military-action-iran-diplomacy-fails)
+• Russia and North Korea are cozying up with a new road crossing, sparking worries it's a new supply line for the Ukraine war. Predictably ominous. [Read more](https://www.theguardian.com/world/2026/jul/28/russia-north-korea-road-bridge)
+• Meanwhile, Ukraine's war woes continue, with a drone expo organizer facing court in Kyiv over a "disastrous" event. Talk about adding insult to injury. [Read more](https://www.theguardian.com/world/2026/jul/28/ukraine-war-briefing-disastrous-drone-expos-organiser-appears-in-kyiv-court)
 
 ## 🤖 Tech & AI
-• Forget YouTube videos—AI models are apparently moving into mind-reading territory, with brain wave data being eyed for training physical AI. Creepy or genius? You decide. [Read more](https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/)
-• Chinese AI models are quietly making huge inroads in the US, offering cheaper and smarter alternatives. The AI race just got a whole lot more competitive. [Read more](https://economictimes.indiatimes.com/tech/artificial-intelligence/cheaper-open-and-intelligent-chinese-ai-models-gain-ground-as-they-make-inroads-in-the-us/articleshow/132636291.cms)
-• Elon Musk admitted he "got carried away" with Trump but is still sticking to his "contentious political views." Because, of course, he is. [Read more](https://www.theguardian.com/technology/2026/jul/23/elon-musk-regret-trump-doge-ai)
+• Satya Nadella drops some wisdom: relying on a single AI model for everything is a death wish for companies. Diversify or disappear, apparently. [Read more](https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/)
+• Anthropic's CEO is less concerned about open-source AI and more about China's growing AI prowess. Geopolitics in your algorithms, Sidra. [Read more](https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/)
+• On the scary side, 'misleading AI-generated doctors' pose a huge danger to public safety. Don't trust medical advice from a bot, seriously. [Read more](https://www.theguardian.com/technology/2026/jul/27/misleading-ai-generated-doctors-public-safety-danger-tiktok)
 
 ## 💪 Health & Wellness
-• This is important: new research links PMOS (what we used to call PCOS) to significantly higher risks for heart attacks and strokes. Keep an eye on your heart, ladies. [Read more](https://www.healthline.com/health-news/pmos-pcos-significantly-higher-heart-attack-stroke-risk)
-• Good news on the innovation front: a young tech entrepreneur is making waves specifically to improve women's health. Finally, some tech focus where it's desperately needed. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
+• Heads up, Sidra: The condition formerly known as PCOS (now PMOS) is linked to significantly higher heart attack and stroke risks. Good to know. [Read more](https://www.healthline.com/health-news/pmos-pcos-significantly-higher-heart-attack-stroke-risk)
+• On a brighter note, a young tech entrepreneur is tackling women's health issues like PCOS and endometriosis using technology. More power to her! [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
 
 ## 🇮🇳 India
-• Massive news: India's 'Cockroach Janatha Pakshaya' protest movement actually worked! The Education Minister resigned and key demands were met—a huge win for youth activism and a big shake-up for Modi's government. [ref:13, ref:14, ref:15]
-• Congress is already calling Modi's new exam reform panel a diversion, claiming his government has a track record of "bungled examinations." Some things never change. [Read more](https://www.thehindu.com/news/national/congress-says-exam-reform-panel-announced-by-pm-to-divert-attention/article71271485.ece)
-• Former Karnataka CM Siddaramaiah is stepping away from electoral politics, citing age and "polluted" politics. Another veteran politician calling it quits on the ugly side of the game. [Read more](https://www.thehindu.com/news/national/karnataka/former-karnataka-chief-minister-siddaramaiah-announces-retirement-from-electoral-politics-citing-age-and-polluted-politics/article71269306.ece)
+• PM Modi has tapped Nandan Nilekani, the Aadhaar guru, to lead high-powered exam reforms. This is a massive task. [Read more](https://economictimes.indiatimes.com/news/india/from-aadhaar-to-exams-who-is-nandan-nilekani-the-infosys-co-founder-pm-modi-has-entrusted-with-exam-reforms/articleshow/132642603.cms)
+• Big international play: US and India are expanding cooperation in defence, civil nuclear, and even trusted AI tech. Huge implications for both nations. [Read more](https://www.thehindu.com/news/national/us-india-expanding-cooperation-in-defence-civil-nuclear-sector/article71275449.ece)
+• Meanwhile, Maharashtra CM Devendra Fadnavis squashed rumors of a national political shift, saying he's staying focused on the state. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/devendra-fadnavis-dismisses-buzz-about-shift-to-national-politics-says-he-is-very-much-in-maharashtra/articleshow/132639004.cms)
 
-TODAY'S TAKEAWAY: Young India just scored a massive political win, showing real power, while AI continues its march into your mind, literally.
+TODAY'S TAKEAWAY: AI's global impact is undeniable, from business strategy to public safety, while India makes significant moves on both internal reform and international alliances.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 05:44 UAE time
+Generated at 04:59 UAE time
