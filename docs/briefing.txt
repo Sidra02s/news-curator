@@ -1,32 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Tuesday, July 28, 2026
+       Wednesday, July 29, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Trump's back at it, warning Iran of "strong military action" if diplomacy tanks. Brace yourself. [Read more](https://www.theguardian.com/world/2026/jul/27/trump-warns-return-strong-military-action-iran-diplomacy-fails)
-• Russia and North Korea are cozying up with a new road crossing, sparking worries it's a new supply line for the Ukraine war. Predictably ominous. [Read more](https://www.theguardian.com/world/2026/jul/28/russia-north-korea-road-bridge)
-• Meanwhile, Ukraine's war woes continue, with a drone expo organizer facing court in Kyiv over a "disastrous" event. Talk about adding insult to injury. [Read more](https://www.theguardian.com/world/2026/jul/28/ukraine-war-briefing-disastrous-drone-expos-organiser-appears-in-kyiv-court)
+• India is facing a deadly heat crisis, with rising death tolls showing climate change isn't just a future problem, it's killing people now. [Read more](https://www.theguardian.com/world/2026/jul/29/extreme-heat-deaths-india-climate-crisis-environment)
+• The Ukraine war is hitting Russia where it hurts – their economy – with attacks now disrupting major companies like Wildberries. [Read more](https://www.theguardian.com/world/2026/jul/29/ukraine-war-briefing-wildberries-attacks-shake-russian-economy-and-banking)
+• Even Trump pausing attacks on Iran suggests military might alone isn't always the answer, proving some diplomatic restraint is still in vogue. [Read more](https://www.theguardian.com/world/2026/jul/29/trump-iran-attacks-us-military-power)
 
 ## 🤖 Tech & AI
-• Satya Nadella drops some wisdom: relying on a single AI model for everything is a death wish for companies. Diversify or disappear, apparently. [Read more](https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/)
-• Anthropic's CEO is less concerned about open-source AI and more about China's growing AI prowess. Geopolitics in your algorithms, Sidra. [Read more](https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/)
-• On the scary side, 'misleading AI-generated doctors' pose a huge danger to public safety. Don't trust medical advice from a bot, seriously. [Read more](https://www.theguardian.com/technology/2026/jul/27/misleading-ai-generated-doctors-public-safety-danger-tiktok)
+• The big brains behind AI, including OpenAI and Google, are suddenly asking the government to *slow down* AI development because they're actually worried about what they're unleashing. Talk about an awkward self-correction. [Read more](https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta)
+• Elon Musk's xAI chatbot is in hot water for allegedly generating fake abusive content, leading a Labour MP to sue — proving that not all AI advancements are, well, advanced. [Read more](https://www.theguardian.com/technology/2026/jul/28/jess-asato-labour-mp-sue-elon-musk-xai-chatbot-abusive-content)
+• Apple just hit a staggering $5 trillion valuation while investors are pulling back from AI stocks, which tells you everything you need to know about where the real, stable money is right now. [Read more](https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks)
 
 ## 💪 Health & Wellness
-• Heads up, Sidra: The condition formerly known as PCOS (now PMOS) is linked to significantly higher heart attack and stroke risks. Good to know. [Read more](https://www.healthline.com/health-news/pmos-pcos-significantly-higher-heart-attack-stroke-risk)
-• On a brighter note, a young tech entrepreneur is tackling women's health issues like PCOS and endometriosis using technology. More power to her! [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
+• A new study reveals that PMOS (formerly PCOS) is linked to a significantly higher risk of heart attacks and strokes, which is critical information for anyone affected. [Read more](https://www.healthline.com/health-news/pmos-pcos-significantly-higher-heart-attack-stroke-risk)
+• It's great to see a young tech entrepreneur tackling women's health issues, finally bringing some much-needed innovation and attention to often-ignored areas. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
 
 ## 🇮🇳 India
-• PM Modi has tapped Nandan Nilekani, the Aadhaar guru, to lead high-powered exam reforms. This is a massive task. [Read more](https://economictimes.indiatimes.com/news/india/from-aadhaar-to-exams-who-is-nandan-nilekani-the-infosys-co-founder-pm-modi-has-entrusted-with-exam-reforms/articleshow/132642603.cms)
-• Big international play: US and India are expanding cooperation in defence, civil nuclear, and even trusted AI tech. Huge implications for both nations. [Read more](https://www.thehindu.com/news/national/us-india-expanding-cooperation-in-defence-civil-nuclear-sector/article71275449.ece)
-• Meanwhile, Maharashtra CM Devendra Fadnavis squashed rumors of a national political shift, saying he's staying focused on the state. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/devendra-fadnavis-dismisses-buzz-about-shift-to-national-politics-says-he-is-very-much-in-maharashtra/articleshow/132639004.cms)
+• India's Gen Z just pulled off a stunning upset, using humor and social media to force out a minister over an exam scandal – never underestimate the power of "Cockroach" protests. [Read more](https://www.dw.com/en/indian-youth-score-a-win-over-modi-with-humor-and-grit/a-78132308)
+• In classic fashion, Delhi Police are now slapping notices on X accounts for "abusive posts" against PM Modi during those very youth protests. Free speech, anyone? [Read more](https://www.ndtv.com/india-news/cjp-protest-delhi-police-notice-to-x-accounts-over-abusive-posts-on-pm-modi-during-protests-11835978#publisher=newsstand)
+• The BJP leadership, blindsided by the youth movement, is now scrambling to engage with Gen Z. Seems they learned the hard way that ignoring the youth comes at a price. [Read more](https://www.ndtv.com/india-news/gen-z-protest-took-us-by-surprise-delhi-bjp-steps-up-youth-outreach-after-cjp-protests-11835934#publisher=newsstand)
 
-TODAY'S TAKEAWAY: AI's global impact is undeniable, from business strategy to public safety, while India makes significant moves on both internal reform and international alliances.
+TODAY'S TAKEAWAY: The youth of India just showed the world that wit and social media can shake up established power, proving real change still comes from the ground up.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 04:59 UAE time
+Generated at 05:16 UAE time
