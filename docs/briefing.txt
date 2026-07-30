@@ -1,32 +1,33 @@
 
        SIDRA'S MORNING BRIEFING
-       Wednesday, July 29, 2026
+       Thursday, July 30, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• India is facing a deadly heat crisis, with rising death tolls showing climate change isn't just a future problem, it's killing people now. [Read more](https://www.theguardian.com/world/2026/jul/29/extreme-heat-deaths-india-climate-crisis-environment)
-• The Ukraine war is hitting Russia where it hurts – their economy – with attacks now disrupting major companies like Wildberries. [Read more](https://www.theguardian.com/world/2026/jul/29/ukraine-war-briefing-wildberries-attacks-shake-russian-economy-and-banking)
-• Even Trump pausing attacks on Iran suggests military might alone isn't always the answer, proving some diplomatic restraint is still in vogue. [Read more](https://www.theguardian.com/world/2026/jul/29/trump-iran-attacks-us-military-power)
+• The US just hit Iran with a "heavy wave of strikes" after a brief quiet period, escalating tensions in the Middle East. This is a big deal, keep an eye on how the region responds. [Read more](https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news)
+• Ukraine is reeling from "deadly strikes" after Zelenskyy warned of a "massive" Russian attack; sounds like the war is heating up again. [Read more](https://www.theguardian.com/world/2026/jul/30/ukraine-russia-missile-strikes-attack-kyiv)
+• Global markets are flashing red thanks to high oil prices, AI worries, and debt risks – basically, the world economy is having a bad day. [Read more](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-warning-signals-flash-red-as-oil-ai-concerns-and-debt-risks-rattle-investors/articleshow/132700977.cms)
 
 ## 🤖 Tech & AI
-• The big brains behind AI, including OpenAI and Google, are suddenly asking the government to *slow down* AI development because they're actually worried about what they're unleashing. Talk about an awkward self-correction. [Read more](https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta)
-• Elon Musk's xAI chatbot is in hot water for allegedly generating fake abusive content, leading a Labour MP to sue — proving that not all AI advancements are, well, advanced. [Read more](https://www.theguardian.com/technology/2026/jul/28/jess-asato-labour-mp-sue-elon-musk-xai-chatbot-abusive-content)
-• Apple just hit a staggering $5 trillion valuation while investors are pulling back from AI stocks, which tells you everything you need to know about where the real, stable money is right now. [Read more](https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks)
+• Microsoft is basically telling OpenAI to hold its beer, pitching its own AI models and tools directly to Wall Street. Looks like they're ready to eat their partners' lunch. [Read more](https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/)
+• Mark Zuckerberg is seeing dollar signs in enterprise AI, claiming Meta's opportunity goes way beyond just AI agents. Everyone wants a slice of that sweet AI pie. [Read more](https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/)
+• A UK Labour MP is suing Elon Musk's xAI because their chatbot apparently made up abusive content. Peak AI drama, and a reminder that these things can still go wildly off the rails. [Read more](https://www.theguardian.com/technology/2026/jul/28/jess-asato-labour-mp-sue-elon-musk-xai-chatbot-abusive-content)
 
 ## 💪 Health & Wellness
-• A new study reveals that PMOS (formerly PCOS) is linked to a significantly higher risk of heart attacks and strokes, which is critical information for anyone affected. [Read more](https://www.healthline.com/health-news/pmos-pcos-significantly-higher-heart-attack-stroke-risk)
-• It's great to see a young tech entrepreneur tackling women's health issues, finally bringing some much-needed innovation and attention to often-ignored areas. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
+• Important one: new research links PMOS (what we used to call PCOS) to a significantly higher risk of heart attack and stroke. If you or someone you know deals with this, it's a critical heads-up. [Read more](https://www.healthline.com/health-news/pmos-pcos-significantly-higher-heart-attack-stroke-risk)
+• Those GLP-1 drugs like Ozempic and Wegovy aren't just for short-term fixes; a new study shows they can help maintain lower calorie intake for over a year. The weight loss trend isn't going anywhere. [Read more](https://www.healthline.com/health-news/semaglutide-sustains-lower-calorie-intake-over-one-year)
+• Good news for women's health innovation: a young entrepreneur is diving into tech to improve conditions like PCOS and endometriosis. Hopefully, this means more focused solutions are on the horizon. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
 
 ## 🇮🇳 India
-• India's Gen Z just pulled off a stunning upset, using humor and social media to force out a minister over an exam scandal – never underestimate the power of "Cockroach" protests. [Read more](https://www.dw.com/en/indian-youth-score-a-win-over-modi-with-humor-and-grit/a-78132308)
-• In classic fashion, Delhi Police are now slapping notices on X accounts for "abusive posts" against PM Modi during those very youth protests. Free speech, anyone? [Read more](https://www.ndtv.com/india-news/cjp-protest-delhi-police-notice-to-x-accounts-over-abusive-posts-on-pm-modi-during-protests-11835978#publisher=newsstand)
-• The BJP leadership, blindsided by the youth movement, is now scrambling to engage with Gen Z. Seems they learned the hard way that ignoring the youth comes at a price. [Read more](https://www.ndtv.com/india-news/gen-z-protest-took-us-by-surprise-delhi-bjp-steps-up-youth-outreach-after-cjp-protests-11835934#publisher=newsstand)
+• The youth of India just pulled off a stunning win against Modi's government, forcing the Education Minister's resignation over an exam scandal. Never underestimate the power of Gen-Z and social media. [Read more](https://www.dw.com/en/indian-youth-score-a-win-over-modi-with-humor-and-grit/a-78132308)
+• This "Cockroach" protest movement, fueled by humor and grit, has shifted India's political debate. It's proof that social satire can actually make a difference. [Read more](https://www.dw.com/en/how-indias-gen-z-protesters-shifted-the-political-debate/a-78130194)
+• Modi's BJP is now scrambling to connect with Gen Z on Instagram, trying to play catch-up after the youth-led protests. Talk about being out of touch, but at least they're trying. [Read more](https://www.thehindubusinessline.com/info-tech/social-media/bjp-leaders-step-up-instagram-activity-after-pms-call-for-digital-outreach/article71275999.ece)
 
-TODAY'S TAKEAWAY: The youth of India just showed the world that wit and social media can shake up established power, proving real change still comes from the ground up.
+TODAY'S TAKEAWAY: Young people flexing their power in India and global tensions flaring up mean it's a wild day everywhere, so stay sharp.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 05:16 UAE time
+Generated at 04:53 UAE time
