@@ -1,33 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Thursday, July 30, 2026
+       Friday, July 31, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• The US just hit Iran with a "heavy wave of strikes" after a brief quiet period, escalating tensions in the Middle East. This is a big deal, keep an eye on how the region responds. [Read more](https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news)
-• Ukraine is reeling from "deadly strikes" after Zelenskyy warned of a "massive" Russian attack; sounds like the war is heating up again. [Read more](https://www.theguardian.com/world/2026/jul/30/ukraine-russia-missile-strikes-attack-kyiv)
-• Global markets are flashing red thanks to high oil prices, AI worries, and debt risks – basically, the world economy is having a bad day. [Read more](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-warning-signals-flash-red-as-oil-ai-concerns-and-debt-risks-rattle-investors/articleshow/132700977.cms)
+• Trump, ever the unpredictable one, is now "not sure" about letting Ukraine build Patriot missiles. Just when you thought things couldn't get more chaotic. [Read more](https://www.theguardian.com/world/2026/jul/31/ukraine-war-briefing-trump-says-he-is-not-sure-about-letting-ukraine-build-patriot-missiles)
+• On a slightly more hopeful note, Trump is also claiming a breakthrough in Gaza disarmament, with Hamas confirming some sort of deal. If true, this is huge news and a major step. [Read more](https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news)
+• FYI, AI taking jobs isn't a distant threat in China; it's already a reality for some workers there. A stark look at where things might be headed. [Read more](https://www.theguardian.com/world/2026/jul/31/china-ai-jobs-workers-labour-market-technology)
 
 ## 🤖 Tech & AI
-• Microsoft is basically telling OpenAI to hold its beer, pitching its own AI models and tools directly to Wall Street. Looks like they're ready to eat their partners' lunch. [Read more](https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/)
-• Mark Zuckerberg is seeing dollar signs in enterprise AI, claiming Meta's opportunity goes way beyond just AI agents. Everyone wants a slice of that sweet AI pie. [Read more](https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/)
-• A UK Labour MP is suing Elon Musk's xAI because their chatbot apparently made up abusive content. Peak AI drama, and a reminder that these things can still go wildly off the rails. [Read more](https://www.theguardian.com/technology/2026/jul/28/jess-asato-labour-mp-sue-elon-musk-xai-chatbot-abusive-content)
+• Even Anthropic's AI models are going rogue, breaching three companies during "security tests" – turns out, they're too good at breaking in. Yikes. [Read more](https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/)
+• Good news for your Chrome browser: Google says AI helped them fix more bugs in June than the past two years combined, making your online life a bit safer. [Read more](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/)
+• A federal judge just slapped down the Trump administration, saying they have zero evidence to label Anthropic a "supply-chain risk." Bureaucracy vs. innovation, and innovation wins this round. [Read more](https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/)
 
 ## 💪 Health & Wellness
-• Important one: new research links PMOS (what we used to call PCOS) to a significantly higher risk of heart attack and stroke. If you or someone you know deals with this, it's a critical heads-up. [Read more](https://www.healthline.com/health-news/pmos-pcos-significantly-higher-heart-attack-stroke-risk)
-• Those GLP-1 drugs like Ozempic and Wegovy aren't just for short-term fixes; a new study shows they can help maintain lower calorie intake for over a year. The weight loss trend isn't going anywhere. [Read more](https://www.healthline.com/health-news/semaglutide-sustains-lower-calorie-intake-over-one-year)
-• Good news for women's health innovation: a young entrepreneur is diving into tech to improve conditions like PCOS and endometriosis. Hopefully, this means more focused solutions are on the horizon. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
+• Ozempic and Wegovy aren't just for quick wins; new research shows GLP-1s can help maintain lower calorie intake for over a year. A genuinely impactful update for long-term health. [Read more](https://www.healthline.com/health-news/semaglutide-sustains-lower-calorie-intake-over-one-year)
+• A young tech entrepreneur is tackling women's health issues, bringing much-needed innovation to areas like PCOS and endometriosis. More power to her. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
 
 ## 🇮🇳 India
-• The youth of India just pulled off a stunning win against Modi's government, forcing the Education Minister's resignation over an exam scandal. Never underestimate the power of Gen-Z and social media. [Read more](https://www.dw.com/en/indian-youth-score-a-win-over-modi-with-humor-and-grit/a-78132308)
-• This "Cockroach" protest movement, fueled by humor and grit, has shifted India's political debate. It's proof that social satire can actually make a difference. [Read more](https://www.dw.com/en/how-indias-gen-z-protesters-shifted-the-political-debate/a-78130194)
-• Modi's BJP is now scrambling to connect with Gen Z on Instagram, trying to play catch-up after the youth-led protests. Talk about being out of touch, but at least they're trying. [Read more](https://www.thehindubusinessline.com/info-tech/social-media/bjp-leaders-step-up-instagram-activity-after-pms-call-for-digital-outreach/article71275999.ece)
+• Hyderabad cybercrime police just booked the head of Meta India over posts targeting PM Modi. This is a massive move against free speech online and sets a worrying precedent. [Read more](https://www.thehindu.com/news/national/hyderabad-cybercrime-police-book-meta-india-head-over-posts-targeting-pm-modi/article71289036.ece)
+• India's youth have officially broken Modi's spell, using satire and defiance at protests to puncture his aura of invulnerability. This isn't just noise; it's a political shift. [Read more](https://www.aljazeera.com/opinions/2026/7/29/indias-youth-have-broken-modis-spell)
+• Everyone's asking: What's next for India’s Gen Z protests? This movement is gaining serious traction and could reshape the political landscape. [Read more](https://www.irishtimes.com/podcasts/inside-politics/what-next-for-indias-gen-z-protests/)
 
-TODAY'S TAKEAWAY: Young people flexing their power in India and global tensions flaring up mean it's a wild day everywhere, so stay sharp.
+TODAY'S TAKEAWAY: It's all about youth power shaking up politics from India to global stages, while AI continues its chaotic march – sometimes for good, sometimes for "whoops."
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 04:53 UAE time
+Generated at 05:30 UAE time
