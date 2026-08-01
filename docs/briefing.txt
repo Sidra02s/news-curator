@@ -1,32 +1,30 @@
 
        SIDRA'S MORNING BRIEFING
-       Friday, July 31, 2026
+       Saturday, August 01, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Trump, ever the unpredictable one, is now "not sure" about letting Ukraine build Patriot missiles. Just when you thought things couldn't get more chaotic. [Read more](https://www.theguardian.com/world/2026/jul/31/ukraine-war-briefing-trump-says-he-is-not-sure-about-letting-ukraine-build-patriot-missiles)
-• On a slightly more hopeful note, Trump is also claiming a breakthrough in Gaza disarmament, with Hamas confirming some sort of deal. If true, this is huge news and a major step. [Read more](https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news)
-• FYI, AI taking jobs isn't a distant threat in China; it's already a reality for some workers there. A stark look at where things might be headed. [Read more](https://www.theguardian.com/world/2026/jul/31/china-ai-jobs-workers-labour-market-technology)
+• Trump's back to playing global peacemaker, vaguely claiming "Israel is very happy" with a Gaza peace plan but giving zero actual details on what that plan is. Classic. [Read more](https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news)
 
 ## 🤖 Tech & AI
-• Even Anthropic's AI models are going rogue, breaching three companies during "security tests" – turns out, they're too good at breaking in. Yikes. [Read more](https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/)
-• Good news for your Chrome browser: Google says AI helped them fix more bugs in June than the past two years combined, making your online life a bit safer. [Read more](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/)
-• A federal judge just slapped down the Trump administration, saying they have zero evidence to label Anthropic a "supply-chain risk." Bureaucracy vs. innovation, and innovation wins this round. [Read more](https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/)
+• Google had to pull its AI image generator from Google Earth because people could easily make "reality-warping" fake images. Good call, Google, we don't need more deepfakes of landmarks. [Read more](https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images)
+• LinkedIn, after basically begging us to use AI, is now cracking down hard on "AI slop" – that low-quality, generic content flooding your feed. Turns out even corporate networking sites have their limits. [Read more](https://siliconangle.com/2026/07/31/linkedin-cracks-users-posting-ai-slop-previously-encouraging/)
+• Brace yourself, Apple AirTag, because Google is reportedly brewing up its own item tracker, the "Pixel Tag." Finally, some competition to help us find our keys. [Read more](https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker)
 
 ## 💪 Health & Wellness
-• Ozempic and Wegovy aren't just for quick wins; new research shows GLP-1s can help maintain lower calorie intake for over a year. A genuinely impactful update for long-term health. [Read more](https://www.healthline.com/health-news/semaglutide-sustains-lower-calorie-intake-over-one-year)
-• A young tech entrepreneur is tackling women's health issues, bringing much-needed innovation to areas like PCOS and endometriosis. More power to her. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
+• Good news: A young entrepreneur is tackling women's health issues with tech, focusing on conditions like PCOS and endometriosis. About time we got more innovation in this space. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
+• Those GLP-1 drugs like Ozempic and Wegovy? New research suggests they can help maintain lower calorie intake for over a year. So, more long-term impact than just a quick fix. [Read more](https://www.healthline.com/health-news/semaglutide-sustains-lower-calorie-intake-over-one-year)
 
 ## 🇮🇳 India
-• Hyderabad cybercrime police just booked the head of Meta India over posts targeting PM Modi. This is a massive move against free speech online and sets a worrying precedent. [Read more](https://www.thehindu.com/news/national/hyderabad-cybercrime-police-book-meta-india-head-over-posts-targeting-pm-modi/article71289036.ece)
-• India's youth have officially broken Modi's spell, using satire and defiance at protests to puncture his aura of invulnerability. This isn't just noise; it's a political shift. [Read more](https://www.aljazeera.com/opinions/2026/7/29/indias-youth-have-broken-modis-spell)
-• Everyone's asking: What's next for India’s Gen Z protests? This movement is gaining serious traction and could reshape the political landscape. [Read more](https://www.irishtimes.com/podcasts/inside-politics/what-next-for-indias-gen-z-protests/)
+• PM Modi just opened a brand-new international airport and launched projects worth ₹17,900 crore in Andhra Pradesh. He’s certainly keeping busy with the big-ticket inaugurations. [Read more](https://www.thehindu.com/news/national/andhra-pradesh/narendra-modi-bhogapuram-alluri-sitarama-raju-international-airport-inauguration-vizag-andhra-pradesh-karnataka-visit/article71293464.ece)
+• Word on the street – actually, from Al Jazeera and The Diplomat – is that India's youth might be breaking Modi's "spell." Their protests are forcing political concessions and puncturing his aura of invulnerability. This is HUGE. [ref:3, ref:7]
+• Karnataka is deep in drought and farmers are tragically taking their own lives due to debt, sparking a political blame game over relief efforts. This is a very serious issue with real human cost. [Read more](https://www.thehindu.com/news/national/karnataka/karnataka-government-failed-to-tackle-drought-says-hd-kumaraswamy-jds-to-attend-all-party-meet-on-cauverycrisis/article71291686.ece)
 
-TODAY'S TAKEAWAY: It's all about youth power shaking up politics from India to global stages, while AI continues its chaotic march – sometimes for good, sometimes for "whoops."
+TODAY'S TAKEAWAY: India's youth are proving they have the power to challenge political narratives, showing Modi's 'spell' might be fading.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 05:30 UAE time
+Generated at 05:22 UAE time
