@@ -1,30 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Sunday, August 02, 2026
+       Monday, August 03, 2026
 -----------------------------
 
 
-## 🌎 World & Politics
-• Ukraine keeps hammering Russia, hitting three oil refineries and a sanctioned ship – definitely not a sign of them slowing down. [Read more](https://www.theguardian.com/world/2026/aug/02/ukraine-war-briefing-strikes-on-three-russian-oil-refineries-and-sanctioned-ship)
-• Europe's migration headache continues: the EU is scrambling for an urgent meeting on the Ceuta crisis after Spain voiced frustration, showing this problem isn't going anywhere. [ref:7, 8]
-• A disturbing trend: anti-LGBTQ+ laws are on the rise across West Africa, which is a significant and worrying blow to human rights. [Read more](https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn)
+## 🌍 World & Politics
+• Trump's back in the diplomatic arena, with talks on Iran and the Strait of Hormuz kicking off today in Oman. Let's see if he can pull off another deal or just cause more drama. [Read more](https://www.theguardian.com/world/2026/aug/03/trump-us-iran-talks-strait-of-hormuz-nuclear-programme)
+• The Ukraine conflict continues its grim dance, with Kyiv hitting Russian targets again, proving neither side is backing down easily. [Read more](https://www.theguardian.com/world/2026/aug/03/ukraine-war-briefing-kyiv-hit-wildberries-again)
+• And just when you thought things couldn't get stranger, Trump is apparently trying to prop up Japan's currency. Expect the unexpected, always. [Read more](https://www.theguardian.com/world/2026/aug/03/trump-japan-currency-yen-explainer)
 
-## 🧠 Tech & AI
-• Even tech-guru Hank Green admitted his AI use was 'not healthy,' citing unhealthy dopamine hits from LLMs – a candid warning about our own digital habits. [Read more](https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/)
-• AI is about to totally reshape the insurance industry, pushing it towards scale and specialization. Translation: expect more AI-driven policies and less human interaction. [Read more](https://economictimes.indiatimes.com/industry/banking/finance/insure/ai-set-to-reshape-insurance-economics-push-industry-towards-scale-specialisation-report/articleshow/132781142.cms)
-• Get this: Australian booksellers are raising a huge red flag because rare books are being "horrifically" destroyed just to feed AI models. This feels like a plot for a dystopian novel. [Read more](https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain)
+## 🤖 Tech & AI
+• The AI ethics debate rages on: Companies are finally offering artists some cash, but the big question is whether it's enough to forgive past transgressions and earn future trust. Don't hold your breath. [Read more](https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties)
+• Even big-name YouTuber Hank Green admits his AI habit is "not healthy," highlighting the worrying mental toll these LLMs are taking on some users. Maybe step away from the chatbot, Sidra. [Read more](https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/)
+• Fender's CEO seems to think your bandmates are just "analog AI," which is either revolutionary or just a sign some execs are spending too much time in the metaverse. [Read more](https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music)
 
-## 🧘‍♀️ Health & Wellness
-• Here's a dose of good news: a young tech entrepreneur is tackling women's health issues head-on, focusing on conditions like PCOS and endometriosis. Power move. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
+## 💪 Health & Wellness
+• Good news alert: A young entrepreneur is stepping up to improve women's health tech, focusing on issues like PCOS and endometriosis. Finally, some innovation where it truly matters. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
 
 ## 🇮🇳 India
-• This is big: India's youth have finally broken PM Modi's aura of invulnerability, transforming online dissent into powerful, real-world protests. It's a game-changer. [ref:2, 4]
-• These Gen Z protestors aren't just complaining; they're using satire and defiance at places like Jantar Mantar to demand accountability and compel genuine political concessions. Watch closely. [Read more](https://www.irishtimes.com/podcasts/inside-politics/what-next-for-indias-gen-z-protests/)
+• Modi’s trying to play the gracious leader, "forgiving" students who called him out, even as his party's supporters are busy doxxing and abusing them. Talk about mixed signals. [Read more](https://www.aljazeera.com/news/2026/8/1/indias-modi-says-he-forgives-students-who-abused-him-in-cockroach-protests)
+• This is important: India's youth have truly broken Modi's spell, turning digital dissent into real-world accountability and forcing political concessions. [Read more](https://www.aljazeera.com/opinions/2026/7/29/indias-youth-have-broken-modis-spell)
+• The real fuel behind these Gen Z protests? A deep-seated jobs crisis, highlighted by recent exam leaks, is boiling over into widespread anger. This isn't just about exams. [Read more](https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html)
 
-TODAY'S TAKEAWAY: India's youth are officially disrupting the political landscape, proving that digital frustration can turn into powerful, real-world change.
+TODAY'S TAKEAWAY: Get ready for a week of Gen Z rage reshaping India's political landscape, all while AI tries to convince artists (and your bandmates) it's not actually the enemy.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 05:24 UAE time
+Generated at 05:36 UAE time
