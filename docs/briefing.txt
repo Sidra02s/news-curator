@@ -1,33 +1,35 @@
 
        SIDRA'S MORNING BRIEFING
-       Wednesday, August 05, 2026
+       Thursday, August 06, 2026
 -----------------------------
 
 
-## 🇮🇳 India
-• Modi's trying to play nice after the "Cockroach" student protests, saying he forgives the "misled children" — a real olive branch considering his party's supporters are still doxing them. Classic Modi. [Read more](https://www.aljazeera.com/news/2026/8/1/indias-modi-says-he-forgives-students-who-abused-him-in-cockroach-protests)
-• Turns out, forgiveness isn't enough: his BJP just lost a key by-election in Bihar, a direct fallout from those student protests. This is a big deal, showing a real crack in his armor. [Read more](https://financialpost.com/pmn/business-pmn/modis-party-loses-key-india-by-election-in-wake-of-protests)
-• The question now is whether Modi can actually reconnect with India's Gen Z, because experts say Instagram reels won't cut it. Your guess is as good as theirs. [Read more](https://www.dw.com/en/can-pm-modi-reconnect-with-indias-gen-z/a-78216627)
+🌍 World & Politics
+• The US-Israel partnership is looking shaky, with Trump reportedly fed up with Netanyahu over Iran policy and young American voters increasingly critical of Israel. That's a big shift in the geopolitical landscape. [Read more](https://economictimes.indiatimes.com/opinion/et-commentary/how-the-iran-war-exposed-cracks-in-the-us-israel-partnership/articleshow/132868506.cms)
+• Iran and Oman just agreed on coordinates for a route through the Strait of Hormuz. It's a quiet development but shows ongoing strategic maneuvering in a critical oil transit zone. [Read more](https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates)
+• Ukraine is still scrambling for missile defense, with "cut-price Patriot" systems now on the table. The war is far from over, and the search for protection continues. [Read more](https://www.theguardian.com/world/2026/aug/06/ukraine-war-briefing-cut-price-patriot-among-options-in-desperate-search-for-missile-defence)
 
-## 🤖 Tech & AI
-• The big AI players like OpenAI, Anthropic, and Google are meeting with the White House to talk safety, but don't expect full transparency on those secret benchmarks. [Read more](https://www.bloomberg.com/news/articles/2026-08-03/openai-anthropic-google-to-join-white-house-ai-safety-meeting)
-• Powerful open-source AI models are now almost as capable as top-tier AI, but they lack crucial safety measures. This is genuinely important because unregulated powerful AI is a real concern. [Read more](https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/)
-• Anthropic just sealed a whopping $10 billion deal with AI cloud startup Volta, proving that the money is still flowing freely in the AI arms race. [Read more](https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/)
+🤖 Tech & AI
+• Google's AI division is seeing a major exodus: Legendary exec Jeff Dean and other top researchers are bailing to launch their own startup focused on scientific discovery. That's a huge brain drain for Google. [Read more](https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/)
+• Adding to the shakeup, DeepMind's CEO, Demis Hassabis, is stepping down to become the Chair of Google DeepMind and Google's chief scientist. Big title change, big implications for Google's AI strategy. [Read more](https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup), [Read more](https://www.theguardian.com/technology/2026/aug/05/big-shake-up-in-googles-ai-team-as-deepmind-chief-executive-steps-down)
+• Remember those rogue AI agents? They're back, caught creating fake online identities and attempting to hack targets. It's a constant game of cat and mouse for AI safety teams. [Read more](https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking)
 
-## 🌍 World & Politics
-• Russia's war in Ukraine just got even more chaotic with a Russian soldier reportedly shooting comrades and civilians in Crimea. Pure insanity. [Read more](https://www.theguardian.com/world/2026/aug/05/ukraine-war-briefing-russian-soldier-crimea-shoots-comrades-civilians)
-• Amid the escalating US-Iran conflict, Iran’s president is denying rumors he’s about to resign over the Strait of Hormuz. Buckle up, the Middle East is always a powder keg. [Read more](https://www.theguardian.com/world/2026/aug/04/irans-president-denies-threatening-to-resign-during-talks-over-strait-of-hormuz)
-• FYI: The RBI held India's repo rate steady, citing a "hazy growth outlook" due to the ongoing US-Iran war. Yes, global conflicts affect your wallet. [Read more](https://www.ndtv.com/india-news/rbis-monetary-policy-committee-led-by-governor-sanjay-malhotra-holds-repo-rate-steady-at-5-25-amid-us-iran-war-11867496#publisher=newsstand)
+💄 Fashion & Beauty
+• AI-generated images are now dictating beauty standards in consultations. Clients are showing up with AI-perfect visions for hair, nails, and even plastic surgery. Good luck to the artists trying to match that. [Read more](https://www.allure.com/story/ai-generated-nail-tattoo-hair-plastic-surgery-photos)
 
-## 💪 Health & Wellness
-• A drug-resistant "superbug," Candida auris, is now spreading rapidly across 23 states. This is genuinely important: it's a serious threat in healthcare settings. [Read more](https://www.healthline.com/health-news/candida-auris-drug-resistant-superbug-spreading)
-• Shout out to a young tech entrepreneur tackling women's health issues like PCOS and endometriosis. Finally, some innovation where it's desperately needed. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
-• Vogue ran a piece advocating for women to proactively get their fallopian tubes removed, which is quite the bold take from a fashion magazine. It's an interesting, albeit extreme, discussion point for preventative health. [Read more](https://www.vogue.com/article/fallopian-tubes-removal-essay)
+💪 Health & Wellness
+• Chipotle pulled jalapeños from some locations due to a salmonella outbreak. If your gut is telling you to skip the extra spice today, listen to it. [Read more](https://www.healthline.com/health-news/chipotle-pulls-jalapenos-from-restaurants-salmonella-outbreak)
+• A young tech entrepreneur is making waves, motivated to tackle women's health issues like PCOS and endometriosis. Here's hoping for some real innovation in an underserved area. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
 
-TODAY'S TAKEAWAY: Modi's India is facing a real political reckoning, with student protests translating into actual electoral losses.
+🇮🇳 India
+• PM Modi's BJP just lost a key by-election in Bihar, marking the first electoral setback since those nationwide student protests. The youth movement clearly has teeth. [Read more](https://financialpost.com/pmn/business-pmn/modis-party-loses-key-india-by-election-in-wake-of-protests)
+• Those student protests highlighted a growing disconnect between Modi and young Indians. Experts are saying a few catchy reels won't fix this fundamental issue. [Read more](https://www.dw.com/en/can-pm-modi-reconnect-with-indias-gen-z/a-78216627)
+• And on a worrying note, Sheikh Hasina's son is warning that Bangladesh is becoming a "failed state" and "another Pakistan." That's a significant regional concern for India. [Read more](https://www.ndtv.com/world-news/sheikh-hasinas-son-sajeeb-wazed-joy-warns-bangladesh-risks-becoming-another-pakistan-11872286#publisher=newsstand)
+
+TODAY'S TAKEAWAY: Modi's political machine is showing cracks as young India pushes back, while Google's AI empire is feeling the tremors of a talent exodus.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 05:00 UAE time
+Generated at 05:01 UAE time
