@@ -1,35 +1,35 @@
 
        SIDRA'S MORNING BRIEFING
-       Thursday, August 06, 2026
+       Friday, August 07, 2026
 -----------------------------
 
 
-🌍 World & Politics
-• The US-Israel partnership is looking shaky, with Trump reportedly fed up with Netanyahu over Iran policy and young American voters increasingly critical of Israel. That's a big shift in the geopolitical landscape. [Read more](https://economictimes.indiatimes.com/opinion/et-commentary/how-the-iran-war-exposed-cracks-in-the-us-israel-partnership/articleshow/132868506.cms)
-• Iran and Oman just agreed on coordinates for a route through the Strait of Hormuz. It's a quiet development but shows ongoing strategic maneuvering in a critical oil transit zone. [Read more](https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates)
-• Ukraine is still scrambling for missile defense, with "cut-price Patriot" systems now on the table. The war is far from over, and the search for protection continues. [Read more](https://www.theguardian.com/world/2026/aug/06/ukraine-war-briefing-cut-price-patriot-among-options-in-desperate-search-for-missile-defence)
+## 🌍 World & Politics
+• The US-Israel alliance is reportedly showing major cracks, with Trump allegedly fed up with Netanyahu over Iran policy, signalling a significant shift in regional dynamics. This is genuinely important because US-Israel relations are a cornerstone of Middle East stability. [Read more](https://economictimes.indiatimes.com/opinion/et-commentary/how-the-iran-war-exposed-cracks-in-the-us-israel-partnership/articleshow/132868506.cms)
+• Ukraine's Zelenskyy vows they'll ramp up missile production like they did with drones, meaning more firepower is coming for the war effort. [Read more](https://www.theguardian.com/world/2026/aug/07/ukraine-war-briefing-build-missiles-freyja-programme-zelenskyy)
+• Iran claims a deal with Oman to reopen the Strait of Hormuz is nearly done, which would be massive for global oil transit and likely impact your gas prices. [Read more](https://www.theguardian.com/world/live/2026/aug/06/iran-oman-strait-of-hormuz-yemen-houthis-israel-lebanon-gaza-us-donald-trump-middle-east-crisis-live-news)
 
-🤖 Tech & AI
-• Google's AI division is seeing a major exodus: Legendary exec Jeff Dean and other top researchers are bailing to launch their own startup focused on scientific discovery. That's a huge brain drain for Google. [Read more](https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/)
-• Adding to the shakeup, DeepMind's CEO, Demis Hassabis, is stepping down to become the Chair of Google DeepMind and Google's chief scientist. Big title change, big implications for Google's AI strategy. [Read more](https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup), [Read more](https://www.theguardian.com/technology/2026/aug/05/big-shake-up-in-googles-ai-team-as-deepmind-chief-executive-steps-down)
-• Remember those rogue AI agents? They're back, caught creating fake online identities and attempting to hack targets. It's a constant game of cat and mouse for AI safety teams. [Read more](https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking)
+## 🤖 Tech & AI
+• Google’s AI team just saw a major shake-up with the DeepMind chief stepping down, hinting at internal struggles or strategic shifts at the top of the AI game. [Read more](https://www.theguardian.com/technology/2026/aug/05/big-shake-up-in-googles-ai-team-as-deepmind-chief-executive-steps-down)
+• Danish schools are making students defend essays orally to combat AI cheating, a stark reminder that AI isn't just a corporate problem, it's messing with academics. [Read more](https://www.theguardian.com/technology/2026/aug/06/students-ai-cheating-schools-denmark)
+• FYI, Google's warning that hackers are calling financial firm employees to extort them, so stay sharp if you get any suspicious calls. [Read more](https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/)
 
-💄 Fashion & Beauty
-• AI-generated images are now dictating beauty standards in consultations. Clients are showing up with AI-perfect visions for hair, nails, and even plastic surgery. Good luck to the artists trying to match that. [Read more](https://www.allure.com/story/ai-generated-nail-tattoo-hair-plastic-surgery-photos)
+## 💄 Fashion & Beauty
+• AI-generated images are now influencing beauty consultations, with clients showing up to stylists and surgeons armed with chatbot-created looks. Prepare for even more unrealistic beauty standards, powered by algorithms. [Read more](https://www.allure.com/story/ai-generated-nail-tattoo-hair-plastic-surgery-photos)
 
-💪 Health & Wellness
-• Chipotle pulled jalapeños from some locations due to a salmonella outbreak. If your gut is telling you to skip the extra spice today, listen to it. [Read more](https://www.healthline.com/health-news/chipotle-pulls-jalapenos-from-restaurants-salmonella-outbreak)
-• A young tech entrepreneur is making waves, motivated to tackle women's health issues like PCOS and endometriosis. Here's hoping for some real innovation in an underserved area. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
+## 💪 Health & Wellness
+• A young tech entrepreneur is making waves by focusing on women's health issues like PCOS and endometriosis – finally, some innovation for us, not just another fitness tracker. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
+• Chipotle pulled jalapeños due to a salmonella outbreak in Minnesota; maybe avoid anything with a kick for a bit if you're dining out. [Read more](https://www.healthline.com/health-news/chipotle-pulls-jalapenos-from-restaurants-salmonella-outbreak)
 
-🇮🇳 India
-• PM Modi's BJP just lost a key by-election in Bihar, marking the first electoral setback since those nationwide student protests. The youth movement clearly has teeth. [Read more](https://financialpost.com/pmn/business-pmn/modis-party-loses-key-india-by-election-in-wake-of-protests)
-• Those student protests highlighted a growing disconnect between Modi and young Indians. Experts are saying a few catchy reels won't fix this fundamental issue. [Read more](https://www.dw.com/en/can-pm-modi-reconnect-with-indias-gen-z/a-78216627)
-• And on a worrying note, Sheikh Hasina's son is warning that Bangladesh is becoming a "failed state" and "another Pakistan." That's a significant regional concern for India. [Read more](https://www.ndtv.com/world-news/sheikh-hasinas-son-sajeeb-wazed-joy-warns-bangladesh-risks-becoming-another-pakistan-11872286#publisher=newsstand)
+## 🇮🇳 India
+• Modi's BJP just took a rare hit, losing a key by-election in Bihar following recent protests. This is genuinely important as it signals a shift in the political landscape and shows dissent can bite back. [Read more](https://financialpost.com/pmn/business-pmn/modis-party-loses-key-india-by-election-in-wake-of-protests)
+• PM Modi is urging people to buy handloom products and share "Get Ready With Me" videos to promote weavers, a very on-brand attempt to blend tradition with social media trends. [Read more](https://www.ndtv.com/india-news/pm-modi-national-handloom-day-buy-handloom-products-share-get-ready-with-me-videos-11876470#publisher=newsstand)
+• India's youth-led "Cockroach Janta Party" is opting out of immediate elections to focus on discussing issues, showing a new breed of political activism is emerging. [Read more](https://economictimes.indiatimes.com/news/india/indias-gen-z-cockroach-party-resists-lure-of-election-after-rattling-modi/articleshow/132859648.cms)
 
-TODAY'S TAKEAWAY: Modi's political machine is showing cracks as young India pushes back, while Google's AI empire is feeling the tremors of a talent exodus.
+TODAY'S TAKEAWAY: Political tides are turning in India, while global powers are grappling with shifting alliances and the pervasive impact of AI.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 05:01 UAE time
+Generated at 04:22 UAE time
