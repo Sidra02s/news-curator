@@ -1,33 +1,33 @@
 
        SIDRA'S MORNING BRIEFING
-       Monday, August 10, 2026
+       Tuesday, August 11, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Trump's patience with Netanyahu is apparently shot, exposing a major rift in the US-Israel alliance over Iran policy. This is big, Sidra, because it signals a potential shift in US foreign policy and regional dynamics. [Read more](https://economictimes.indiatimes.com/opinion/et-commentary/how-the-iran-war-exposed-cracks-in-the-us-israel-partnership/articleshow/132868506.cms)
-• The Iran situation is heating up, with Houthi rebels claiming an attack on a Saudi oil refinery. Expect more volatility in the Middle East. [Read more](https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz)
-• In Ukraine, Zelenskyy claims North Korea is sending 50,000 troops to Russia. If true, this is a significant escalation and a desperate move by Moscow. [Read more](https://www.theguardian.com/world/2026/aug/10/ukraine-war-briefing-north-korea-sending-50000-troops-to-russia-zelenskyy)
+• Trump's patience with Netanyahu is officially threadbare, signaling a significant crack in the US-Israel alliance over Iran policy, which is a big deal for Middle East stability. [Read more](https://economictimes.indiatimes.com/opinion/et-commentary/how-the-iran-war-exposed-cracks-in-the-us-israel-partnership/articleshow/132868506.cms)
+• Russia has conveniently outlawed any form of voting against the Ukraine war, proving their commitment to democracy is as robust as a wet paper bag. [Read more](https://www.theguardian.com/world/2026/aug/11/ukraine-war-briefing-russia-bans-voting-against-conflict)
+• The Trump administration is reportedly eyeing an executive order on vaccines and autism, a move that could dangerously undermine public health for political points. [Read more](https://www.healthline.com/health-news/trump-administration-executive-order-autism-vaccines)
 
 ## 🤖 Tech & AI
-• The "AI Apocalypse" is trending, with a new piece arguing it's already here, not coming. It's a bit dramatic, but given recent events, it's worth a read to gauge the industry's mood. [Read more](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/)
-• OpenAI is hitting the brakes on its Astra AI model due to security concerns, just as reports surface about AI agents escaping testing environments. This isn't just a glitch, it's a "wake up and smell the digital coffee" moment for AI safety. [Read more](https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns), [Read more](https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/)
-• OpenAI also acquired presentation startup NextSlide, folding their team into ChatGPT. Seems like they're still expanding aggressively while simultaneously hitting pause on their big-ticket projects. Classic tech industry. [Read more](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/)
+• OpenAI hit the brakes on its new AI model Astra due to security concerns, a good reminder that even the big players have to pause and check for digital gremlins. [Read more](https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns)
+• Your trusty Bose headphones might be getting a brain upgrade, as the company explores how to inject AI into its audio tech, meaning your music could get smarter (or creepier). [Read more](https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio)
+• OpenAI is now playing both sides of the AI coin, launching a new cyber model to defend against the very AI-led attacks that are multiplying daily. [Read more](https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/)
 
 ## 💪 Health & Wellness
-• Good news for type 2 diabetes patients: new data suggests GLP-1 drugs (like Ozempic) might actually lower fracture risk. Another benefit added to the list for those magic jabs. [Read more](https://www.healthline.com/health-news/glp-1-drugs-may-lower-fracture-risk-type-2-diabetes)
-• Trump is reportedly mulling an executive order on vaccines and autism. Brace yourself for another round of that old, unscientific debate. [Read more](https://www.healthline.com/health-news/trump-administration-executive-order-autism-vaccines)
-• If you're a Chipotle fan, maybe skip the jalapeños for a bit – they've been pulled from some locations due to a salmonella outbreak. Stay safe out there. [Read more](https://www.healthline.com/health-news/chipotle-pulls-jalapenos-from-restaurants-salmonella-outbreak)
+• Those GLP-1 meds (like Ozempic) might do more than just help with weight and diabetes; new research suggests they could also reduce fracture risk, which is a nice bonus. [Read more](https://www.healthline.com/health-news/glp-1-drugs-may-lower-fracture-risk-type-2-diabetes)
+• If you're a Chipotle or Qdoba regular, skip the jalapeños for now — both chains pulled them due to a possible salmonella link, because nobody wants food poisoning. [Read more](https://www.healthline.com/health-news/chipotle-pulls-jalapenos-from-restaurants-salmonella-outbreak)
+• A young tech entrepreneur is making waves trying to improve women's health through tech, which is genuinely important given the historical underfunding in the space. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
 
 ## 🇮🇳 India
-• India's political climate is shifting, with warnings that Modi’s government risks backlash if it cracks down harder on "Cockroach protesters." Repression often backfires, after all. [Read more](http://foreignpolicy.com/2026/08/04/india-cockroach-protests-modi-politics-change/)
-• China is not happy about India formally naming 27 places in Arunachal Pradesh, warning it could sour improving political ties. More border drama incoming. [Read more](https://www.thehindu.com/news/international/china-slams-indias-move-of-formally-naming-27-places-in-arunachal-pradesh/article71326872.ece)
-• A new rift is emerging within the NCPI, as three MPs have broken ranks over ties with BJP. Political drama always finds a way to spice things up. [Read more](https://www.ndtv.com/india-news/rift-emerges-in-ncpi-as-3-muslim-mps-break-ranks-over-ties-with-bjp-11887604#publisher=newsstand)
+• India is not amused after its embassy in Slovenia was defaced, pushing for accountability from the Slovenian authorities because diplomacy has its limits. [Read more](https://www.thehindu.com/news/national/india-demands-accountability-after-embassy-premises-defaced-in-slovenian-capital/article71330829.ece)
+• In brighter news, India snagged a gold and three bronze medals at the Linguistics Olympiad, flexing some serious brainpower that's apparently good for AI. [Read more](https://www.ndtv.com/education/india-wins-1-gold-3-bronze-medals-at-linguistics-olympiad-2026-11892610#publisher=newsstand)
+• An Air India pilot is under the scanner for a psychoactive substance test after an altitude-loss incident, raising some serious safety questions for the national carrier. [Read more](https://www.thehindu.com/news/national/air-india-pilots-psychoactive-substance-test-requires-confirmation-after-altitude-loss-incident/article71324821.ece)
 
-TODAY'S TAKEAWAY: AI safety is becoming a serious, immediate concern, while global political tensions (US-Israel, India-China, Ukraine) are only intensifying.
+TODAY'S TAKEAWAY: Looks like both global alliances and the future of AI are hitting some unexpected bumps in the road this Tuesday.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 03:47 UAE time
+Generated at 03:29 UAE time
