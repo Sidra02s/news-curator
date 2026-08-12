@@ -1,33 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Tuesday, August 11, 2026
+       Wednesday, August 12, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Trump's patience with Netanyahu is officially threadbare, signaling a significant crack in the US-Israel alliance over Iran policy, which is a big deal for Middle East stability. [Read more](https://economictimes.indiatimes.com/opinion/et-commentary/how-the-iran-war-exposed-cracks-in-the-us-israel-partnership/articleshow/132868506.cms)
-• Russia has conveniently outlawed any form of voting against the Ukraine war, proving their commitment to democracy is as robust as a wet paper bag. [Read more](https://www.theguardian.com/world/2026/aug/11/ukraine-war-briefing-russia-bans-voting-against-conflict)
-• The Trump administration is reportedly eyeing an executive order on vaccines and autism, a move that could dangerously undermine public health for political points. [Read more](https://www.healthline.com/health-news/trump-administration-executive-order-autism-vaccines)
+• Ukraine's troubles continue as North Korean missiles reportedly struck Zaporizhzhia, adding a new, worrying dimension to the conflict. [Read more](https://www.theguardian.com/world/2026/aug/12/ukraine-war-briefing-north-korean-missiles-attack-zaporizhzhia)
+• Israeli firefighters are accusing their own military of deliberately starting wildfires in southern Lebanon. A hot mess, literally and figuratively. [Read more](https://www.theguardian.com/world/2026/aug/12/israel-deliberately-starting-wildfires-in-southern-lebanon-firefighters-say)
+• China's answer to Boeing and Airbus, the C919 jet, is prepping for its first international flight. Get ready for some serious aerospace competition. [Read more](https://www.theguardian.com/world/2026/aug/12/comac-c919-chinese-passenger-jet-china-plane-first-international-flight)
 
 ## 🤖 Tech & AI
-• OpenAI hit the brakes on its new AI model Astra due to security concerns, a good reminder that even the big players have to pause and check for digital gremlins. [Read more](https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns)
-• Your trusty Bose headphones might be getting a brain upgrade, as the company explores how to inject AI into its audio tech, meaning your music could get smarter (or creepier). [Read more](https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio)
-• OpenAI is now playing both sides of the AI coin, launching a new cyber model to defend against the very AI-led attacks that are multiplying daily. [Read more](https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/)
+• More internal drama at OpenAI: Brad Lightcap, a long-timer and former COO, is jumping ship. The revolving door just keeps spinning. [Read more](https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure)
+• Bernie Sanders is out here telling Silicon Valley to pump the brakes on AI development for humanity’s sake. Good luck with that, Bernie. [Read more](https://www.theguardian.com/technology/2026/aug/10/bernie-sanders-ai-development-pause-letter)
+• On the practical side, credit unions are leaning into AI for legwork while keeping human oversight, a smart play to manage risk and get things done. [Read more](https://www.pymnts.com/opinion/2026/credit-unions-give-ai-the-legwork-and-humans-the-last-word/)
 
 ## 💪 Health & Wellness
-• Those GLP-1 meds (like Ozempic) might do more than just help with weight and diabetes; new research suggests they could also reduce fracture risk, which is a nice bonus. [Read more](https://www.healthline.com/health-news/glp-1-drugs-may-lower-fracture-risk-type-2-diabetes)
-• If you're a Chipotle or Qdoba regular, skip the jalapeños for now — both chains pulled them due to a possible salmonella link, because nobody wants food poisoning. [Read more](https://www.healthline.com/health-news/chipotle-pulls-jalapenos-from-restaurants-salmonella-outbreak)
-• A young tech entrepreneur is making waves trying to improve women's health through tech, which is genuinely important given the historical underfunding in the space. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
+• This is big, Sidra: The Trump Administration, backed by RFK Jr., is actively considering and seemingly ordering changes to childhood vaccine schedules despite medical opposition, based on autism concerns. This is a genuinely important and concerning development for public health. [ref:7, ref:15]
+• Good news for those on GLP-1s like Ozempic: A new study suggests these meds might actually lower fracture risk in Type 2 diabetes patients. Another perk? [Read more](https://www.healthline.com/health-news/glp-1-drugs-may-lower-fracture-risk-type-2-diabetes)
+• Shout out to the young tech entrepreneur tackling women's health issues – proof that innovation for good is still out there. [Read more](https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/)
 
 ## 🇮🇳 India
-• India is not amused after its embassy in Slovenia was defaced, pushing for accountability from the Slovenian authorities because diplomacy has its limits. [Read more](https://www.thehindu.com/news/national/india-demands-accountability-after-embassy-premises-defaced-in-slovenian-capital/article71330829.ece)
-• In brighter news, India snagged a gold and three bronze medals at the Linguistics Olympiad, flexing some serious brainpower that's apparently good for AI. [Read more](https://www.ndtv.com/education/india-wins-1-gold-3-bronze-medals-at-linguistics-olympiad-2026-11892610#publisher=newsstand)
-• An Air India pilot is under the scanner for a psychoactive substance test after an altitude-loss incident, raising some serious safety questions for the national carrier. [Read more](https://www.thehindu.com/news/national/air-india-pilots-psychoactive-substance-test-requires-confirmation-after-altitude-loss-incident/article71324821.ece)
+• A tragic landslip in Mumbai killed six and injured four in the Ashok Nagar area. Mumbai monsoon woes hit hard again. [Read more](https://www.thehindu.com/news/cities/mumbai/kurla-mumbai-landslide-live-updates-ndrf-bmc-rescue-work-updates-mayor-ritu-tawade-bjp-ncp-congress-shivsena/article71334994.ece)
+• Parliament is heating up: Amit Shah says he's ready to answer any questions, but Rahul Gandhi and the Opposition seem more interested in protesting. Business as usual, then. [Read more](https://www.thehindu.com/news/national/amit-shah-ready-for-parliament-discussion-monsoon-session-opposition-protests-rahul-gandhi/article71335418.ece)
 
-TODAY'S TAKEAWAY: Looks like both global alliances and the future of AI are hitting some unexpected bumps in the road this Tuesday.
+TODAY'S TAKEAWAY: The Trump administration's move on vaccines is a massive, alarming signal for public health policy.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 03:29 UAE time
+Generated at 08:02 UAE time
