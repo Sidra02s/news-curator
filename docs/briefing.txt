@@ -1,31 +1,30 @@
 
        SIDRA'S MORNING BRIEFING
-       Friday, August 14, 2026
+       Saturday, August 15, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• A 'Ukrainian sub commander who defected' was reportedly killed by a bomb in Crimea. The war continues its deadly, murky path. [Read more](https://www.theguardian.com/world/2026/aug/14/ukraine-war-briefing-crimea-bomb-robert-shageyev-defected)
-• Israeli troops are forcefully displacing families in the West Bank amidst ongoing settler violence. The situation remains deeply volatile and heartbreaking. [Read more](https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank)
-• Trump, with Robert F. Kennedy Jr. as HHS Secretary, is pushing through changes to childhood vaccines, defying medical consensus. This is a big deal, especially for public health and parental peace of mind. [Read more](https://www.healthline.com/health-news/trump-executive-order-splitting-mmr-vaccine)
+• An emergency alert blanketed phones across England and Wales warning of significant wildfire risk; looks like summer is getting hotter and scarier across the globe. [Read more](https://www.theguardian.com/world/2026/aug/14/emergency-alert-warning-wildfire-risk-sent-phones-england-wales)
 
 ## 🤖 Tech & AI
-• Your future AI overlords are already fighting: Anthropic's AI agents started a turf war when given the same task, raising new safety questions. [Read more](https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/)
-• IBM is throwing its weight behind OpenAI, training thousands of consultants on their tech to seriously boost its enterprise AI game. Expect more AI everywhere. [Read more](https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/)
-• Apple will now send you push notifications if it detects government spyware on your iPhone. Take it seriously, because someone is trying to get into your digital life. [Read more](https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/)
+• Google's now letting users ditch those visible AI watermarks, but don't think you're getting away clean; the invisible tracking is still there. [Read more](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/)
+• Silicon Valley VCs are getting a reality check from Thrive’s Joshua Kushner, who warns that AI excitement shouldn't blind them to smart investment. Finally, some sense in the room. [Read more](https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/)
+• Taiwan got hit with an "abnormal" AI-assisted cyber-attack, proving AI isn't just for generating cute cat pics; it's a new weapon in digital warfare. [Read more](https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas)
 
 ## 💪 Health & Wellness
-• New research suggests using GLP-1s like Ozempic before bariatric surgery might not actually lead to more weight loss. Don't fall for every new hype. [Read more](https://www.healthline.com/health-news/glp1-ozempic-before-bariatric-surgery-may-not-boost-weight-loss)
+• Good news for your step count: new research says taking the stairs significantly lowers your risk of heart disease and early death. So, ditch the elevator, Sidra! [Read more](https://www.healthline.com/health-news/taking-stairs-lower-risk-death-cardiovascular-disease)
+• If you're considering GLP-1s like Ozempic before bariatric surgery, a new study suggests it might not actually boost your weight loss results. Don't believe all the hype. [Read more](https://www.healthline.com/health-news/glp1-ozempic-before-bariatric-surgery-may-not-boost-weight-loss)
 
 ## 🇮🇳 India
-• India's Gen Z is actively challenging their parents and Modi's government, demanding reforms and rejecting the politics of hate. This isn't just a political trend; it’s a generational shift in action. [Read more](https://www.aljazeera.com/news/2026/8/11/my-father-is-in-rss-indias-gen-z-confronts-modi-loving-parents-at-home)
-• In a seriously concerning near-miss, an Air India plane lost all flight controls for four seconds on its Phuket-Delhi route. Safety in the skies remains a crucial concern. [Read more](https://www.ndtv.com/india-news/air-india-phuket-delhi-flight-for-4-seconds-air-india-phuket-delhi-plane-had-no-flight-controls-exclusive-11907766#publisher=newsstand)
-• The BJP's attempts at Sikh outreach might be backfiring in Haryana, where campaign imagery of turbaned politicians is clashing with on-the-ground protest realities. [Read more](https://www.ndtv.com/india-news/nayab-singh-saini-turban-in-punjab-lathis-in-haryana-will-ambala-hurt-bjps-sikh-outreach-gursimran-singh-mand-2027-punjab-assembly-elections-11907854#publisher=newsstand)
+• On India's 80th Independence Day, PM Modi focused on developing India by 2047 and expressed solidarity with flood victims, keeping the usual nationalistic tone. [ref:1,4,6]
+• In a deeply controversial move, the national song 'Vande Mataram' will now precede the national anthem on Independence Day for the first time in 80 years; this is a big deal, changing a long-standing tradition. [Read more](https://thediplomat.com/2026/08/how-the-modi-government-is-downgrading-indias-national-anthem/)
+• The "Youth Cockroach Protests" are reportedly rattling Modi's government, signaling growing discontent and a potentially significant political challenge ahead. Keep an eye on this. [Read more](https://www.fairobserver.com/politics/fo-exclusive-indias-youth-cockroach-protests-rattle-prime-minister-narendra-modi/)
 
-TODAY'S TAKEAWAY: The future is now, and it’s messy: AI is getting too real, and our world's divisions are only deepening.
+TODAY'S TAKEAWAY: India's Independence Day celebrations are overshadowed by a controversial anthem change and simmering youth protests, hinting at deeper political shifts.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 04:00 UAE time
+Generated at 02:46 UAE time
