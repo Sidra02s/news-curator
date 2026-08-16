@@ -1,30 +1,30 @@
 
        SIDRA'S MORNING BRIEFING
-       Saturday, August 15, 2026
+       Sunday, August 16, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• An emergency alert blanketed phones across England and Wales warning of significant wildfire risk; looks like summer is getting hotter and scarier across the globe. [Read more](https://www.theguardian.com/world/2026/aug/14/emergency-alert-warning-wildfire-risk-sent-phones-england-wales)
+• Lula is eyeing a fourth term in Brazil, returning to his political roots to kick off his campaign. This shows serious staying power. [Read more](https://www.theguardian.com/world/2026/aug/15/brazil-president-lula-strikes-launch-fourth-term-campaign)
 
 ## 🤖 Tech & AI
-• Google's now letting users ditch those visible AI watermarks, but don't think you're getting away clean; the invisible tracking is still there. [Read more](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/)
-• Silicon Valley VCs are getting a reality check from Thrive’s Joshua Kushner, who warns that AI excitement shouldn't blind them to smart investment. Finally, some sense in the room. [Read more](https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/)
-• Taiwan got hit with an "abnormal" AI-assisted cyber-attack, proving AI isn't just for generating cute cat pics; it's a new weapon in digital warfare. [Read more](https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas)
+• Taiwan just got hit by an "abnormal" cyber-attack, and guess what? AI was apparently pulling some strings. This is a real-world warning shot for digital security. [Read more](https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas)
+• A US politician’s AI-generated attack on an opponent backfired spectacularly, reinforcing sexist stereotypes. Sometimes, AI is just a tool for poor judgment. [Read more](https://legalinsurrection.com/2026/08/scott-wieners-ai-attack-on-opponent-backfires-in-race-to-replace-pelosi/)
+• A VC bigwig is telling Silicon Valley to chill out on the AI hype, reminding everyone that investment discipline still matters. Preach. [Read more](https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/)
 
 ## 💪 Health & Wellness
-• Good news for your step count: new research says taking the stairs significantly lowers your risk of heart disease and early death. So, ditch the elevator, Sidra! [Read more](https://www.healthline.com/health-news/taking-stairs-lower-risk-death-cardiovascular-disease)
-• If you're considering GLP-1s like Ozempic before bariatric surgery, a new study suggests it might not actually boost your weight loss results. Don't believe all the hype. [Read more](https://www.healthline.com/health-news/glp1-ozempic-before-bariatric-surgery-may-not-boost-weight-loss)
+• Good news for your daily grind: new research says simply taking the stairs can seriously lower your risk of cardiovascular disease and early death. Ditch the elevator. [Read more](https://www.healthline.com/health-news/taking-stairs-lower-risk-death-cardiovascular-disease)
+• If you're considering bariatric surgery and GLP-1 meds like Ozempic, a new study suggests taking them beforehand might not actually boost your overall weight loss. Worth noting. [Read more](https://www.healthline.com/health-news/glp1-ozempic-before-bariatric-surgery-may-not-boost-weight-loss)
 
 ## 🇮🇳 India
-• On India's 80th Independence Day, PM Modi focused on developing India by 2047 and expressed solidarity with flood victims, keeping the usual nationalistic tone. [ref:1,4,6]
-• In a deeply controversial move, the national song 'Vande Mataram' will now precede the national anthem on Independence Day for the first time in 80 years; this is a big deal, changing a long-standing tradition. [Read more](https://thediplomat.com/2026/08/how-the-modi-government-is-downgrading-indias-national-anthem/)
-• The "Youth Cockroach Protests" are reportedly rattling Modi's government, signaling growing discontent and a potentially significant political challenge ahead. Keep an eye on this. [Read more](https://www.fairobserver.com/politics/fo-exclusive-indias-youth-cockroach-protests-rattle-prime-minister-narendra-modi/)
+• Modi’s government is stirring the pot by switching up Independence Day traditions, putting Vande Mataram before the national anthem for the first time in 80 years. It’s a subtle but significant cultural shift. [Read more](https://thediplomat.com/2026/08/how-the-modi-government-is-downgrading-indias-national-anthem/)
+• The "Cockroach Protests" are gaining serious traction, with India’s youth and the "Cockroach Janata Party" really rattling Modi’s government. This is a genuinely important movement to watch. [ref:5, ref:7, ref:9]
+• Modi reached out to inquire about Sukhbir Badal’s health after an attack, a rare gesture of political courtesy amidst the usual chaos. [Read more](https://www.saptashwatv.com/news/national-news/sukhbir-badal-injured-pm-modi-calls-wife-harsimrat-kaur-to-enquire-about-health-22875.html)
 
-TODAY'S TAKEAWAY: India's Independence Day celebrations are overshadowed by a controversial anthem change and simmering youth protests, hinting at deeper political shifts.
+TODAY'S TAKEAWAY: The "Cockroach Protests" in India are gaining significant momentum, proving that even small movements can seriously challenge established power.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 02:46 UAE time
+Generated at 02:55 UAE time
