@@ -1,27 +1,28 @@
 
        SIDRA'S MORNING BRIEFING
-       Sunday, August 16, 2026
+       Monday, August 17, 2026
 -----------------------------
 
 
-## 🌍 World & Politics
-• Lula is eyeing a fourth term in Brazil, returning to his political roots to kick off his campaign. This shows serious staying power. [Read more](https://www.theguardian.com/world/2026/aug/15/brazil-president-lula-strikes-launch-fourth-term-campaign)
+🌍 World & Politics
+• Russia claims a Ukrainian drone attack killed six, escalating an already tense situation that shows no signs of slowing down. [Read more](https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire)
+• Japan's defense minister is off to Australia for talks after some weird "melon-gate" drama. Hopefully, they're talking about actual defense, not fruit. [Read more](https://www.theguardian.com/world/2026/aug/16/japans-defence-minister-heads-to-australia-to-meet-marles-in-wake-of-melon-gate-controversy)
 
-## 🤖 Tech & AI
-• Taiwan just got hit by an "abnormal" cyber-attack, and guess what? AI was apparently pulling some strings. This is a real-world warning shot for digital security. [Read more](https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas)
-• A US politician’s AI-generated attack on an opponent backfired spectacularly, reinforcing sexist stereotypes. Sometimes, AI is just a tool for poor judgment. [Read more](https://legalinsurrection.com/2026/08/scott-wieners-ai-attack-on-opponent-backfires-in-race-to-replace-pelosi/)
-• A VC bigwig is telling Silicon Valley to chill out on the AI hype, reminding everyone that investment discipline still matters. Preach. [Read more](https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/)
+🤖 Tech & AI
+• The head of Anthropic is calling the current AI skepticism a "crisis of trust," which, frankly, sounds about right given how fast things are moving. [Read more](https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/)
+• Forget Hollywood; "rogue AI" is no longer just a movie plot, making those late-night AI safety talks suddenly feel a lot less theoretical. [Read more](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai)
+• On a lighter note, you can now roleplay as a soulless chatbot to mock AI's often-boring responses, which honestly, is pretty therapeutic. [Read more](https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot)
 
-## 💪 Health & Wellness
-• Good news for your daily grind: new research says simply taking the stairs can seriously lower your risk of cardiovascular disease and early death. Ditch the elevator. [Read more](https://www.healthline.com/health-news/taking-stairs-lower-risk-death-cardiovascular-disease)
-• If you're considering bariatric surgery and GLP-1 meds like Ozempic, a new study suggests taking them beforehand might not actually boost your overall weight loss. Worth noting. [Read more](https://www.healthline.com/health-news/glp1-ozempic-before-bariatric-surgery-may-not-boost-weight-loss)
+💪 Health & Wellness
+• Good news for your daily grind: opting for the stairs instead of the elevator could seriously cut your risk of dying from heart disease. [Read more](https://www.healthline.com/health-news/taking-stairs-lower-risk-death-cardiovascular-disease)
+• Turns out, pre-surgery GLP-1 use (think Ozempic) doesn't necessarily boost weight loss for bariatric patients, which is a key insight for those considering it. [Read more](https://www.healthline.com/health-news/glp1-ozempic-before-bariatric-surgery-may-not-boost-weight-loss)
 
-## 🇮🇳 India
-• Modi’s government is stirring the pot by switching up Independence Day traditions, putting Vande Mataram before the national anthem for the first time in 80 years. It’s a subtle but significant cultural shift. [Read more](https://thediplomat.com/2026/08/how-the-modi-government-is-downgrading-indias-national-anthem/)
-• The "Cockroach Protests" are gaining serious traction, with India’s youth and the "Cockroach Janata Party" really rattling Modi’s government. This is a genuinely important movement to watch. [ref:5, ref:7, ref:9]
-• Modi reached out to inquire about Sukhbir Badal’s health after an attack, a rare gesture of political courtesy amidst the usual chaos. [Read more](https://www.saptashwatv.com/news/national-news/sukhbir-badal-injured-pm-modi-calls-wife-harsimrat-kaur-to-enquire-about-health-22875.html)
+🇮🇳 India
+• PM Modi made a quick call to check on Sukhbir Badal after he was injured in an attack, showing a touch of political courtesy amidst the usual chaos. [Read more](https://www.saptashwatv.com/news/national-news/sukhbir-badal-injured-pm-modi-calls-wife-harsimrat-kaur-to-enquire-about-health-22875.html)
+• Brace yourself: the Modi government is shaking things up by reportedly having 'Vande Mataram' played before the national anthem on Independence Day, a move many see as controversial. [Read more](https://thediplomat.com/2026/08/how-the-modi-government-is-downgrading-indias-national-anthem/)
+• "Cockroach Protests" by India's youth are apparently rattling Modi, highlighting growing dissent and the evolving landscape of political activism. [ref:7, ref:11]
 
-TODAY'S TAKEAWAY: The "Cockroach Protests" in India are gaining significant momentum, proving that even small movements can seriously challenge established power.
+TODAY'S TAKEAWAY: AI's trust issues are real, India's youth are shaking things up, and taking the stairs still beats the elevator.
 
 -----------------------------
 
