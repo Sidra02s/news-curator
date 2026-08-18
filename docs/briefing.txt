@@ -1,31 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Monday, August 17, 2026
+       Tuesday, August 18, 2026
 -----------------------------
 
 
-🌍 World & Politics
-• Russia claims a Ukrainian drone attack killed six, escalating an already tense situation that shows no signs of slowing down. [Read more](https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire)
-• Japan's defense minister is off to Australia for talks after some weird "melon-gate" drama. Hopefully, they're talking about actual defense, not fruit. [Read more](https://www.theguardian.com/world/2026/aug/16/japans-defence-minister-heads-to-australia-to-meet-marles-in-wake-of-melon-gate-controversy)
+## 🌍 World & Politics
+• Russia is already prepping to "weaponize winter" in Ukraine, which sounds exactly as bleak as it is, likely targeting infrastructure again. [Read more](https://www.theguardian.com/world/2026/aug/18/ukraine-war-briefing-russian-campaign-to-weaponise-winter-under-way)
+• Gaza talks between Netanyahu and Kushner went nowhere, confirming our suspicions that progress there is currently a pipe dream. [Read more](https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace)
 
-🤖 Tech & AI
-• The head of Anthropic is calling the current AI skepticism a "crisis of trust," which, frankly, sounds about right given how fast things are moving. [Read more](https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/)
-• Forget Hollywood; "rogue AI" is no longer just a movie plot, making those late-night AI safety talks suddenly feel a lot less theoretical. [Read more](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai)
-• On a lighter note, you can now roleplay as a soulless chatbot to mock AI's often-boring responses, which honestly, is pretty therapeutic. [Read more](https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot)
+## 🤖 Tech & AI
+• Reddit is turning your text posts into AI-generated podcasts and videos; prepare for even more content overload, but now with AI voices. [Read more](https://www.theverge.com/tech/981289/reddit-ai-text-video-posts) This is a big move for content consumption.
+• Taiwan got hit with an "abnormal" AI-assisted cyber-attack, which is unsettling and hints at the escalating sophistication of digital warfare. [Read more](https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas)
+• Good news for some: AI automation startup Relay shut down, but their staff got scooped up by Google's Chrome team, so your browser might get smarter (or weirder) soon. [Read more](https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/)
 
-💪 Health & Wellness
-• Good news for your daily grind: opting for the stairs instead of the elevator could seriously cut your risk of dying from heart disease. [Read more](https://www.healthline.com/health-news/taking-stairs-lower-risk-death-cardiovascular-disease)
-• Turns out, pre-surgery GLP-1 use (think Ozempic) doesn't necessarily boost weight loss for bariatric patients, which is a key insight for those considering it. [Read more](https://www.healthline.com/health-news/glp1-ozempic-before-bariatric-surgery-may-not-boost-weight-loss)
+## 💪 Health & Wellness
+• Need a simple health hack? Apparently, taking the stairs more often could seriously cut your risk of dying from heart disease. [Read more](https://www.healthline.com/health-news/taking-stairs-lower-risk-death-cardiovascular-disease) Ditch the elevator, Sidra.
+• New research suggests using GLP-1s like Ozempic before bariatric surgery might not actually boost weight loss, which is a key insight for those considering both. [Read more](https://www.healthline.com/health-news/glp1-ozempic-before-bariatric-surgery-may-not-boost-weight-loss)
 
-🇮🇳 India
-• PM Modi made a quick call to check on Sukhbir Badal after he was injured in an attack, showing a touch of political courtesy amidst the usual chaos. [Read more](https://www.saptashwatv.com/news/national-news/sukhbir-badal-injured-pm-modi-calls-wife-harsimrat-kaur-to-enquire-about-health-22875.html)
-• Brace yourself: the Modi government is shaking things up by reportedly having 'Vande Mataram' played before the national anthem on Independence Day, a move many see as controversial. [Read more](https://thediplomat.com/2026/08/how-the-modi-government-is-downgrading-indias-national-anthem/)
-• "Cockroach Protests" by India's youth are apparently rattling Modi, highlighting growing dissent and the evolving landscape of political activism. [ref:7, ref:11]
+## 🇮🇳 India
+• Trump is still pushing for mandatory US voter ID, surprisingly citing India’s electoral system as a model. [Read more](https://www.ndtv.com/world-news/trumps-nod-to-indias-electoral-system-in-push-for-mandatory-us-voter-id-11923535#publisher=newsstand) It's an interesting nod, given the US's usual stance. This is important as it frames a US political debate with an Indian example.
+• Sixteen Indian sailors are stuck in a dangerous spot, with their company allegedly pressuring them to cross the high-risk Strait of Hormuz. [Read more](https://www.thehindu.com/news/national/indian-sailors-sos-company-asking-us-to-risk-lives-cross-strait-of-hormuz/article71357907.ece) This is a serious human rights and safety issue.
+• The meaning of "Azadi" (freedom) continues to be a contentious point in India, with its use in youth protests still leading to arrests. [Read more](https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests) It highlights ongoing tension around free speech.
 
-TODAY'S TAKEAWAY: AI's trust issues are real, India's youth are shaking things up, and taking the stairs still beats the elevator.
+TODAY'S TAKEAWAY: The AI invasion is officially a full-spectrum event, from your Reddit feed to cyberwarfare, while global political tensions simmer on.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 02:55 UAE time
+Generated at 02:50 UAE time
