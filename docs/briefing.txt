@@ -1,31 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Friday, August 21, 2026
+       Saturday, August 22, 2026
 -----------------------------
 
 
-## 🌍 World & Politics
-• Ukraine's political scene is getting spicy, with a Kyiv protest organizer publicly disowning calls for elections, suggesting internal disagreements are brewing even amid war. This is important because internal political rifts can weaken a nation's resolve. [Read more](https://www.theguardian.com/world/2026/aug/21/ukraine-war-briefing-kyiv-protest-organiser-disowns-mykhailo-fedorovs-call-for-elections)
-
 ## 🤖 Tech & AI
-• Google's making your Discover feed even more 'you' with AI-powered customization. Expect it to get freakishly good (or just freaky) at knowing what you want to see. [Read more](https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed)
-• OpenAI seems to have settled its internal power struggles with Greg Brockman reportedly taking the lead, all while they battle Anthropic for business users in a rapidly shifting enterprise AI market. [ref:8, ref:11]
-• Not all AI news is shiny: concerns about bias in generative models and discrimination lawsuits against AI hiring tools mean we're still grappling with the ethical fallout of this tech. [ref:1, ref:13]
+• Brazil is dropping $444M on AI and supercomputing, clearly aiming to make a statement and become a tech powerhouse on its own terms. Watch out, Silicon Valley. [Read more](https://cryptobriefing.com/brazil-invests-444m-ai-supercomputing/)
+• Berkeley Law is putting the brakes on AI in classrooms, essentially banning it by default, suggesting they want future lawyers to actually use their own brains for now. [Read more](https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/)
+• OpenAI is slowing down its development pace after a "rogue agent" hack; let's hope this isn't the beginning of the AI villain origin story. [Read more](https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack)
+
+## 💄 Fashion & Beauty
+• Martha Stewart is hyping a new cherry perfume, calling it "impossible to ignore." If Martha says it, it's probably already sold out. [Read more](https://pagesix.com/2026/08/20/style/martha-stewart-wears-this-beautiful-new-lancome-cherry-perfume/)
 
 ## 💪 Health & Wellness
-• Bad news for your sweet tooth: a daily sugary drink could more than double your risk of stomach cancer. Maybe switch to water, Sidra? [Read more](https://www.healthline.com/health-news/daily-sugary-drink-doubles-stomach-cancer-risk)
-• Good news for your heart: ditching the elevator for the stairs could significantly lower your risk of cardiovascular disease and early death. Your Fitbit will thank you. [Read more](https://www.healthline.com/health-news/taking-stairs-lower-risk-death-cardiovascular-disease)
-• Check your freezer ASAP: Publix organic frozen blueberries and mixed berries are under a Class I recall, the FDA's highest health risk level. Toss them, seriously. [Read more](https://www.healthline.com/health-news/fda-upgrades-publix-frozen-blueberry-recall-highest-risk-level)
+• Your daily sugary drink habit could more than double your risk of stomach cancer, so maybe rethink that soda – it’s a killer. [Read more](https://www.healthline.com/health-news/daily-sugary-drink-doubles-stomach-cancer-risk)
+• Good news for the movement-challenged: simply taking the stairs more often can significantly cut your risk of death from heart disease. It’s the small wins! [Read more](https://www.healthline.com/health-news/taking-stairs-lower-risk-death-cardiovascular-disease)
+• The FDA upgraded the Publix frozen blueberry recall to the highest health risk level, meaning it’s time to check your freezer, Sidra. Better safe than sorry. [Read more](https://www.healthline.com/health-news/fda-upgrades-publix-frozen-blueberry-recall-highest-risk-level)
 
 ## 🇮🇳 India
-• The 'Cockroach' movement is seriously challenging Modi's BJP, even taking their fight to schools and stirring up major controversy. This is a big deal for the political landscape. [ref:3, ref:6]
-• India is strategically shoring up international ties, with PM Modi meeting Japan's Defence Minister, while an ex-Army chief warns that China is India's real long-term competitor, not Pakistan. [ref:5, ref:10]
-• In Muzaffarnagar, a local philanthropist is working to empower Muslim youth through modern education integrated with theological values, aiming to foster social harmony. [Read more](https://www.thehindu.com/news/national/uttar-pradesh/manifesting-modis-mantra-in-muzaffarnagar/article71372011.ece)
+• PM Modi is busy proclaiming India's political stability and global growth status, which sounds great on paper but might be ignoring some ground realities. [Read more](https://www.ndtv.com/india-news/india-has-political-stability-world-sees-it-as-bright-spot-of-growth-pm-modi-11942756#publisher=newsstand)
+• Meanwhile, the 'Cockroach' movement is seriously challenging Modi's BJP, not just online but now even making schools the next battleground. This is a crucial shift in narrative control. [Read more](https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda), [Read more](https://www.aljazeera.com/features/2026/8/18/indias-cockroach-movement-makes-schools-next-battleground-against-modi)
+• Rahul Gandhi is making waves with a dharna protesting police inaction after a young man lost his eyesight to pellet guns. So much for "stability." [Read more](https://www.thehindu.com/news/national/delhi-police-fir-over-pellet-injuries-to-youth-during-july-20-protest/article71373663.ece)
 
-TODAY'S TAKEAWAY: AI isn't just a buzzword; it's rapidly reshaping everything from your news feed to your job application and who's really in charge.
+TODAY'S TAKEAWAY: The digital world is getting wild, but India's political ground is shaking even harder with new movements challenging the status quo.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 02:57 UAE time
+Generated at 02:48 UAE time
