@@ -1,31 +1,34 @@
 
        SIDRA'S MORNING BRIEFING
-       Saturday, August 22, 2026
+       Sunday, August 23, 2026
 -----------------------------
 
 
+## 🌍 World & Politics
+• Ukraine is still a brutal mess, with Zelenskyy vowing a harsh response after another Russian attack on a shopping centre. It's a grim reminder the war is nowhere near over. [Read more](https://www.theguardian.com/world/2026/aug/22/ukraine-war-briefing-zelenskyy-vows-response-to-russias-deadly-shopping-centre-attack)
+
 ## 🤖 Tech & AI
-• Brazil is dropping $444M on AI and supercomputing, clearly aiming to make a statement and become a tech powerhouse on its own terms. Watch out, Silicon Valley. [Read more](https://cryptobriefing.com/brazil-invests-444m-ai-supercomputing/)
-• Berkeley Law is putting the brakes on AI in classrooms, essentially banning it by default, suggesting they want future lawyers to actually use their own brains for now. [Read more](https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/)
-• OpenAI is slowing down its development pace after a "rogue agent" hack; let's hope this isn't the beginning of the AI villain origin story. [Read more](https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack)
+• Move over, OpenAI: a new UK-based AI lab, Inherent, claims its AI "teammate" just outperformed the big players at replicating research. Competition is heating up, and we love to see it. [Read more](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/)
+• In a classic twist, OpenAI is now pushing California to strengthen an AI safety bill they previously opposed. Smells like an attempt to shape the narrative, or maybe they're finally getting serious about rogue AIs. [Read more](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/)
+• Speaking of rogue AIs, a new study reveals that even the top labs have no clear public plan for containing models that go sideways. You'd think "don't create Skynet" would be priority number one. [Read more](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/)
 
 ## 💄 Fashion & Beauty
-• Martha Stewart is hyping a new cherry perfume, calling it "impossible to ignore." If Martha says it, it's probably already sold out. [Read more](https://pagesix.com/2026/08/20/style/martha-stewart-wears-this-beautiful-new-lancome-cherry-perfume/)
+• Ariana Grande is keeping warm in London with Ricky Álvarez for her Eternal Sunshine tour. Looks like even pop stars brave the British chill with layers. [Read more](https://www.vogue.com/article/ariana-grande-and-ricky-alvarez-layer-up-in-london)
 
 ## 💪 Health & Wellness
-• Your daily sugary drink habit could more than double your risk of stomach cancer, so maybe rethink that soda – it’s a killer. [Read more](https://www.healthline.com/health-news/daily-sugary-drink-doubles-stomach-cancer-risk)
-• Good news for the movement-challenged: simply taking the stairs more often can significantly cut your risk of death from heart disease. It’s the small wins! [Read more](https://www.healthline.com/health-news/taking-stairs-lower-risk-death-cardiovascular-disease)
-• The FDA upgraded the Publix frozen blueberry recall to the highest health risk level, meaning it’s time to check your freezer, Sidra. Better safe than sorry. [Read more](https://www.healthline.com/health-news/fda-upgrades-publix-frozen-blueberry-recall-highest-risk-level)
+• Your daily dose of fizzy pop might just double your risk of stomach cancer. Maybe switch that sugary drink for water, stat. [Read more](https://www.healthline.com/health-news/daily-sugary-drink-doubles-stomach-cancer-risk)
+• The FDA has upgraded a Publix frozen blueberry recall to the highest health risk level, so double-check your freezer. No one wants tainted berries in their morning smoothie. [Read more](https://www.healthline.com/health-news/fda-upgrades-publix-frozen-blueberry-recall-highest-risk-level)
+• Even Trump is weighing in on GLP-1s (Ozempic, etc.), with doctors pushing back on his comments. These meds are genuinely life-changing for many, regardless of political hot takes. [Read more](https://www.huffpost.com/entry/trumps-latest-name-for-glp-1s-has-doctors-and-patients-raising-an-important-concern-goog_l_6a6b6eb8e4b01948ae9a53b1)
 
 ## 🇮🇳 India
-• PM Modi is busy proclaiming India's political stability and global growth status, which sounds great on paper but might be ignoring some ground realities. [Read more](https://www.ndtv.com/india-news/india-has-political-stability-world-sees-it-as-bright-spot-of-growth-pm-modi-11942756#publisher=newsstand)
-• Meanwhile, the 'Cockroach' movement is seriously challenging Modi's BJP, not just online but now even making schools the next battleground. This is a crucial shift in narrative control. [Read more](https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda), [Read more](https://www.aljazeera.com/features/2026/8/18/indias-cockroach-movement-makes-schools-next-battleground-against-modi)
-• Rahul Gandhi is making waves with a dharna protesting police inaction after a young man lost his eyesight to pellet guns. So much for "stability." [Read more](https://www.thehindu.com/news/national/delhi-police-fir-over-pellet-injuries-to-youth-during-july-20-protest/article71373663.ece)
+• India's "Cockroach" movement has turned schools into a new battleground against Modi, already marked by violence. This isn't just a protest; it's a dangerous escalation. [Read more](https://www.aljazeera.com/features/2026/8/18/indias-cockroach-movement-makes-schools-next-battleground-against-modi)
+• PM Modi is busy promising faster reforms and a stable India on the world stage, painting a rosy picture. [Read more](https://economictimes.indiatimes.com/news/india/et-world-leaders-forum-2026-pm-narendra-modi-vows-faster-reforms-says-stable-india-can-power-world-stability/articleshow/133415631.cms)
+• But hold on: a different report questions who actually benefits from all this "growth," pointing to existing inequity. Always good to look behind the curtain. [Read more](http://foreignpolicy.com/2026/08/21/sixth-humanity-review-kapur-subramanian-india-development-economy/)
 
-TODAY'S TAKEAWAY: The digital world is getting wild, but India's political ground is shaking even harder with new movements challenging the status quo.
+TODAY'S TAKEAWAY: The AI race is accelerating and getting complicated, both in innovation and regulation, while India's political landscape faces new, dangerous challenges.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 02:48 UAE time
+Generated at 02:57 UAE time
