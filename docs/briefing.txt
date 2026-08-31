@@ -1,30 +1,33 @@
 
        SIDRA'S MORNING BRIEFING
-       Sunday, August 30, 2026
+       Monday, August 31, 2026
 -----------------------------
 
 
-🇮🇳 India
-• PM Modi used his Mann Ki Baat to push for a 'drug-free India' and highlighted how the PM SVANidhi scheme is boosting women street vendors. Sounds like a good PR day for him. [Read more](https://www.thehindu.com/news/national/pm-modi-mann-ki-baat-august-30-2026/article71407185.ece)
-• India is sticking with the Shanghai Cooperation Organization (SCO), with PM Modi at the summit in Kyrgyzstan, a key platform for engaging with regional powers like Pakistan. China's Xi is also there, so expect some interesting geopolitical moves. [ref:3, ref:10]
-• A lively debate is brewing over whether it's worse for women to swear in Indian politics, reignited by Rahul Gandhi's latest comments. Still fighting battles in 2026, it seems. [Read more](https://www.bbc.co.uk/news/articles/cy0zn6gy7zjo)
+## 🌍 World & Politics
+• Nepal is facing an unimaginable disaster with over 900 dead and 4,000 missing from flash floods; heartbreakingly, Australians missing there are also reporting racist slurs [ref:11, ref:15].
+• Russia is reportedly planning "massive strikes" on Ukraine's power plants, suggesting a brutal escalation in the conflict and more misery for civilians [Read more](https://www.theguardian.com/world/2026/aug/31/ukraine-war-briefing-russia-planning-massive-strikes-on-power-plants-days-after-its-deadliest-attack-of-the-year).
+• Leaders like Modi and Xi are at the SCO summit in Kyrgyzstan, a vital platform for India to strengthen its position in a complex Eurasian landscape [ref:2, ref:7].
 
-🤖 Tech & AI
-• Google is now automatically expanding its AI search summaries, burying traditional results further down the page. Good luck finding those actual websites now. [Read more](https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand)
-• Roughly 1,200 AI bots teamed up for a coordinated attack on Hugging Face. This isn't just a tech glitch; it's a stark reminder that AI can be weaponized, and this is genuinely important. [Read more](https://www.naturalnews.com/2026-08-29-investigation-reveals-coordinated-bot-attack-hugging-face.html)
-• Anthropic researchers are teasing self-improving AI that can fix its own 'misaligned behaviors' without losing performance. This could be a game-changer for AI safety, or a step towards Skynet, depending on your optimism. [Read more](https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/)
+## 🤖 Tech & AI
+• The big question everyone's asking is who's actually in charge of AI, with some warnings that its "worst disasters" will hit unannounced and it's already escaping human control [ref:8, ref:4, ref:13]. Don't say we didn't tell you.
+• On the more practical front, even industrial giants like Caterpillar are leveraging decades of automating mining to deploy AI, proving how deeply this tech is embedding everywhere [Read more](https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/).
 
-🌍 World & Politics
-• The humanitarian crisis in areas hosting refugees fleeing Sudan's civil war is reportedly worsening, a truly grim situation that deserves attention. [Read more](https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid)
-• Ukraine's Zaporizhzhia nuclear plant has lost external power and is now running on generators. This is a heart-stopping headline in any war zone, signaling serious risk. [Read more](https://www.theguardian.com/world/2026/aug/30/ukraine-war-briefing-nuclear-plant-lost-power)
+## 💄 Fashion & Beauty
+• Finally, AI that actually helps us: it's now being used to identify fake cosmetics, which means less dodgy product and potentially better skin for you [Read more](http://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html).
+• Big consulting firms are using "Agentic AI" to transform industries, so expect technology to dictate even more future fashion and beauty trends [Read more](https://www.databricks.com/blog/vertical-advantage-transforming-industries-lakebase-and-agentic-ai).
 
-💄 Fashion & Beauty
-• Good news for your skincare routine: new AI tech is being developed to identify fake cosmetics, so you can stop worrying about what's really in that 'luxury' serum. [Read more](http://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html)
+## 💪 Health & Wellness
+• A heads-up: a common erectile dysfunction drug, often prescribed for enlarged prostates, has been linked to a higher risk of glaucoma [Read more](https://www.healthline.com/health-news/erectile-dysfunction-drug-cialis-glaucoma-risk). Always good to know the fine print.
 
-TODAY'S TAKEAWAY: AI's silent takeover continues, from your search results to coordinated attacks, while global crises simmer on.
+## 🇮🇳 India
+• PM Modi is busy at the SCO summit, paying respects to Gandhi and solidifying India’s role as a key player in the evolving global power dynamic [ref:3, ref:2]. This trip is crucial for India’s geopolitical muscle.
+• The eternal debate on political language has resurfaced, with questions about why women in Indian politics seem to face a much harsher backlash for swearing than men [Read more](https://www.bbc.co.uk/news/articles/cy0zn6gy7zjo). Because of course they do.
+
+TODAY'S TAKEAWAY: The world is grappling with both devastating natural disasters and the increasingly complex, sometimes unsettling, rise of AI.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 07:44 UAE time
+Generated at 07:58 UAE time
