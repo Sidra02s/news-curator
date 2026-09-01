@@ -1,33 +1,33 @@
 
        SIDRA'S MORNING BRIEFING
-       Monday, August 31, 2026
+       Tuesday, September 01, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Nepal is facing an unimaginable disaster with over 900 dead and 4,000 missing from flash floods; heartbreakingly, Australians missing there are also reporting racist slurs [ref:11, ref:15].
-• Russia is reportedly planning "massive strikes" on Ukraine's power plants, suggesting a brutal escalation in the conflict and more misery for civilians [Read more](https://www.theguardian.com/world/2026/aug/31/ukraine-war-briefing-russia-planning-massive-strikes-on-power-plants-days-after-its-deadliest-attack-of-the-year).
-• Leaders like Modi and Xi are at the SCO summit in Kyrgyzstan, a vital platform for India to strengthen its position in a complex Eurasian landscape [ref:2, ref:7].
+• The Ukraine war grind continues, with economists emphasizing that pressure on Russia's economy isn't easing until the conflict ends. Status quo, unfortunately. [Read more](https://www.theguardian.com/world/2026/sep/01/ukraine-war-briefing-pressure-stays-on-russian-economy-until-war-is-over-says-bessent)
+• Trump’s back on the war path, threatening to "hit Iran hard" as tensions flare up again. Here we go again. [Read more](https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates)
+• Scotland made promises on tackling violence against women; now the world is watching to see if they actually deliver. Fingers crossed, but don't hold your breath. [Read more](https://www.theguardian.com/world/2026/sep/01/tuesday-briefing-scotland-has-promised-on-violence-against-women-now-it-needs-to-deliver)
 
 ## 🤖 Tech & AI
-• The big question everyone's asking is who's actually in charge of AI, with some warnings that its "worst disasters" will hit unannounced and it's already escaping human control [ref:8, ref:4, ref:13]. Don't say we didn't tell you.
-• On the more practical front, even industrial giants like Caterpillar are leveraging decades of automating mining to deploy AI, proving how deeply this tech is embedding everywhere [Read more](https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/).
-
-## 💄 Fashion & Beauty
-• Finally, AI that actually helps us: it's now being used to identify fake cosmetics, which means less dodgy product and potentially better skin for you [Read more](http://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html).
-• Big consulting firms are using "Agentic AI" to transform industries, so expect technology to dictate even more future fashion and beauty trends [Read more](https://www.databricks.com/blog/vertical-advantage-transforming-industries-lakebase-and-agentic-ai).
+• Bank of England’s governor is waving red flags, warning that advanced AI poses a serious threat to global financial stability through cyber-disruption. This is genuinely important because financial meltdowns affect everyone, everywhere. [Read more](https://biztoc.com/x/010bd2bcd4c6bfbf)
+• Influential economist Daron Acemoglu argues for prioritizing workers in AI development, and frankly, we should all listen instead of dismissing these concerns. [Read more](https://www.livemint.com/opinion/online-views/nobel-laureate-daron-acemoglu-ai-views-need-debate-artificial-intelligence-workers-jobs-11788089010714.html)
+• Instagram is finally cracking down on undisclosed AI profiles, limiting their reach. Maybe we'll see fewer uncanny valley 'influencers' soon. [Read more](https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/)
 
 ## 💪 Health & Wellness
-• A heads-up: a common erectile dysfunction drug, often prescribed for enlarged prostates, has been linked to a higher risk of glaucoma [Read more](https://www.healthline.com/health-news/erectile-dysfunction-drug-cialis-glaucoma-risk). Always good to know the fine print.
+• PCOS is getting a hopeful rebrand to PMOS, offering new hope for those who, like many, suffered through years for a diagnosis. It’s about time we get better language and understanding for women’s health. [Read more](https://www.healthline.com/health-news/pcos-diagnosis-took-five-years-name-change-pmos-gives-hope)
+• GLP-1s, those trendy weight-loss drugs, are now being explored for treating PMOS. It’s worth watching if this offers real solutions for women with the condition. [Read more](https://www.medicalnewstoday.com/articles/can-glp-1s-really-help-treat-pmos-experts-answer-3-key-questions)
+• Heads up: a common erectile dysfunction drug might be linked to glaucoma, so maybe tell the men in your life to check in with their doctors. [Read more](https://www.healthline.com/health-news/erectile-dysfunction-drug-cialis-glaucoma-risk)
 
 ## 🇮🇳 India
-• PM Modi is busy at the SCO summit, paying respects to Gandhi and solidifying India’s role as a key player in the evolving global power dynamic [ref:3, ref:2]. This trip is crucial for India’s geopolitical muscle.
-• The eternal debate on political language has resurfaced, with questions about why women in Indian politics seem to face a much harsher backlash for swearing than men [Read more](https://www.bbc.co.uk/news/articles/cy0zn6gy7zjo). Because of course they do.
+• PM Modi is off to the SCO summit, proving India is strategically cozying up to the multilateral platform for broader engagement, especially with China's Xi also attending. It's all about navigating that multipolar world. [Read more](https://www.rt.com/india/644778-multipolar-eurasia-sco-india/), [Read more](https://sinocism.com/p/disaster-at-tibet-nepal-border-xi)
+• Indian politics is in a fresh uproar, debating if women swearing is inherently worse than men. Seriously, this is still a conversation? [Read more](https://www.bbc.co.uk/news/articles/cy0zn6gy7zjo)
+• A new "Cockroach Youth Movement" is apparently surging in India. Sounds intriguing, let's see if it's actually impactful or just more noise. [Read more](https://lithub.com/aruni-kashyap-on-indias-cockroach-youth-movement/)
 
-TODAY'S TAKEAWAY: The world is grappling with both devastating natural disasters and the increasingly complex, sometimes unsettling, rise of AI.
+TODAY'S TAKEAWAY: AI risks are no longer abstract; they're hitting our wallets, our feeds, and potentially our stability.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 07:58 UAE time
+Generated at 07:04 UAE time
