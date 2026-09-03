@@ -1,33 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Wednesday, September 02, 2026
+       Thursday, September 03, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Modi is off to the SCO summit, hobnobbing with Xi and Putin to push that "multipolar world" narrative. Sounds like an exclusive club forming against the US, right? [ref:1, ref:8]
-• Ukraine's Zelenskyy is warning airlines that Russia's skies are now drone-infested and not safe. This isn't just a travel advisory; it's a stark reminder that the war is very much alive and kicking, potentially expanding its impact. [Read more](https://www.theguardian.com/world/2026/sep/02/ukraine-war-briefing-russian-sky-full-of-our-drones-and-not-safe-zelenskyy-warns-airlines)
-• The US and Iran are back to exchanging airstrikes, fueling fears of a wider conflict. Just what the world needed: more geopolitical drama in the Middle East. [Read more](https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch)
+• India’s Modi told Putin to cool it on the Ukraine war during a summit in Kyrgyzstan, a surprisingly direct diplomatic move from Delhi. [Read more](https://biztoc.com/x/641d50553e1636c0)
+• Modi, Putin, and Xi Jinping all met up at the Shanghai Cooperation Organization summit, clearly aiming to flex some counterweight muscle against Western global influence. [Read more](https://biztoc.com/x/a1c4de2316a0a5ea)
 
 ## 🤖 Tech & AI
-• Apple and Google have both officially renamed Lake Ontario to "Lake America" on their maps, bowing to a Trump executive order. Because mapping apps should absolutely be getting into political rebranding. [ref:2, ref:5]
-• Apple is accusing OpenAI of destroying evidence in their legal spat, pushing for "expedited discovery." It seems the tech giants' love-hate relationship is firmly in "hate" territory today. [Read more](https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit)
-• Anthropic, one of the 'safer' AI players, is admitting their AI isn't "perfectly aligned" with human values after recent hacking incidents. So, even the good guys are having trouble keeping the genie in the bottle. [Read more](https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values)
+• Google is bankrolling MrBeast’s next big adventure, stuffing his pockets with Gemini AI, Google Health, and Fitbit Air for prime-time product placement. [Read more](https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit)
+• OpenAI's new "recurrent depth" tech for its Astra model has AI safety experts seriously alarmed – because who doesn't love a potentially unpredictable AI? [Read more](https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/)
+• Even Anthropic admits its 'responsible' AI isn’t quite "perfectly aligned" with human values, which is less comforting than it sounds after recent security fails. [Read more](https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values)
 
 ## 💪 Health & Wellness
-• That tricky PCOS diagnosis is getting a rebrand to PMOS, and apparently, it's a big deal for hope and clarity for those affected. Finally, some medical progress that feels personal. [Read more](https://www.healthline.com/health-news/pcos-diagnosis-took-five-years-name-change-pmos-gives-hope)
-• GLP-1 drugs, those weight-loss superstars, might also be a treatment option for PMOS. Could this be another game-changer for women's health? [Read more](https://www.medicalnewstoday.com/articles/can-glp-1s-really-help-treat-pmos-experts-answer-3-key-questions)
-• Guys, a common ED drug for enlarged prostates is now linked to a higher glaucoma risk. Just when you thought you had one problem sorted, another pops up. [Read more](https://www.healthline.com/health-news/erectile-dysfunction-drug-cialis-glaucoma-risk)
+• Ditch the "diet" drinks: the artificial sweetener Xylitol is now linked to a higher risk of heart attack and stroke. Stick to water, Sidra. [Read more](https://www.healthline.com/health-news/common-sweetener-xylitol-higher-risk-heart-attack-stroke)
+• PCOS is officially getting a new name: PMOS (Polycystic Ovarian Syndrome with Metabolic Outcomes). It's a small change that could lead to much clearer diagnoses and treatments. [Read more](https://www.healthline.com/health-news/pcos-diagnosis-took-five-years-name-change-pmos-gives-hope)
+• Good news for some: Mounjaro just got FDA approval to reduce cardiovascular risks in type 2 diabetes patients, and GLP-1s might also be a game-changer for treating PMOS. [ref:11, ref:15]
 
 ## 🇮🇳 India
-• PM Modi is at the SCO summit with Xi and Putin, reiterating India's place on the global stage amidst complex power plays. It's about maintaining influence and strategic independence. [ref:1, ref:8]
-• The monsoon is seriously messing with Wayanad, facing a 37% rainfall deficit due to El Niño. This isn't just a weather report; it's a looming agricultural and economic crisis for the region. [Read more](https://www.thehindu.com/news/national/kerala/wayanad-monsoon-crisis-rainfall-deficit-hits-37-per-cent-amid-el-nino-impact/article71418193.ece)
-• Tribal communities are being championed as guardians of nature and ancient wisdom by Deputy CM Pawan Kalyan. A nice nod to preserving heritage, but let's see if it translates into real action. [Read more](https://www.thehindu.com/news/national/andhra-pradesh/tribal-communities-are-guardians-of-nature-and-ancient-wisdom-says-pawan-kalyan/article71324322.ece)
+• PM Modi’s candid urging of Putin to end the Ukraine war spotlights India’s growing confidence and its unique diplomatic position on the global stage. [Read more](https://biztoc.com/x/641d50553e1636c0)
+• Nvidia’s CEO Jensen Huang is buzzing about India building a strong "local AI economy," signaling a major tech boost and investment outlook for the country. [Read more](https://www.ndtv.com/india-news/excited-to-see-india-build-a-local-ai-economy-nvidia-ceo-jensen-huangs-message-11995665#publisher=newsstand)
+• Rahul Gandhi and Congress are back at it, protesting an FIR against him and accusing the BJP of "vindictive politics"—a familiar tune in the Indian political opera. [Read more](https://timesofindia.indiatimes.com/city/chandigarh/bjps-vindictive-politics-congress-sc-wing-protests-fir-against-rahul-gandhi/articleshow/133689137.cms)
 
-TODAY'S TAKEAWAY: The world's big players are meeting to redraw global alliances, while tech giants are busy fighting each other and renaming lakes.
+TODAY'S TAKEAWAY: The AI world is both expanding rapidly and raising serious red flags, while India steps up its diplomatic game.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:41 UAE time
+Generated at 06:51 UAE time
