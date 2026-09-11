@@ -1,33 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Thursday, September 10, 2026
+       Friday, September 11, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Ukraine just extended its strike reach deep into Russia's gas heartland, suggesting Kyiv isn't messing around and the war is escalating in unexpected directions. Keep an eye on energy markets. [Read more](https://www.theguardian.com/world/2026/sep/10/ukraine-war-briefing-arctic-missile-attack-russian-gas-siberia)
-• In a bizarre move, Uganda is pulling out of the Invictus Games "out of respect for King Charles." Because nothing says respect like... withdrawing from a veterans' sports event? The optics are certainly something. [Read more](https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles)
-• More sad news: baby orangutans were found trafficked in India, sparking an investigation. A stark reminder that even in global news, some stories are just heartbreaking. [Read more](https://www.theguardian.com/world/2026/sep/10/baby-orangutans-found-india-trafficking-investigation)
+• Violence has flared up in Yemen again, a grim reminder of how deeply connected global conflicts are, especially to the US-Iran rivalry. [Read more](https://www.theguardian.com/world/2026/sep/10/violence-erupts-in-yemen-again-why-it-matters-globally-and-how-it-is-linked-to-the-us-iran-war)
+• NATO claims they stopped Russia from sabotaging undersea cables. Talk about a geopolitical thriller playing out beneath the waves. [Read more](https://www.theguardian.com/world/2026/sep/11/ukraine-war-briefing-nato-foils-russian-undersea-cable-sabotage-drill)
+• The wealth tax debate is back, pitting public services against the risk of making billionaires flee. Pick your poison. [Read more](https://www.theguardian.com/world/2026/sep/11/friday-briefing-would-a-wealth-tax-save-our-public-services-or-be-billionaire-repellent)
 
 ## 🤖 Tech & AI
-• Get ready for more AI doomsday talk: Anthropic researchers are now warning AI could cause human extinction by 2030, which feels like a very aggressive timeline, even for them. [Read more](https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction)
-• OpenAI seems to be taking the extinction warnings seriously, adding a prominent "AI doomer" (Paul Christiano) to its board. So, the people building the future are also now debating if it'll end us. Fun! [Read more](https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/)
-• On a slightly less apocalyptic note, Apple's new foldable phone will use AI and 3D printing for its hinge. At least some AI is building cool gadgets instead of contemplating our demise. [Read more](https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/)
+• Anthropic researchers are screaming that AI could cause human extinction by 2030 and detailing how bad actors are trying to weaponize it for bioweapons. Sweet dreams. [ref:5, ref:10]
+• Meanwhile, Anthropic also alleges Chinese AI firms are practically stealing their tech with "distillation attacks." Corporate espionage, but make it AI. [Read more](https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/)
+• Meta’s new Muse AI promises to take the busywork off your plate, but honestly, it just sounds kinda creepy. [Read more](https://www.theverge.com/tech/993391/meta-muse-ai-hands-on)
 
 ## 💪 Health & Wellness
-• The science is clear: drinking alcohol raises your cancer risk. Healthline's asking if *any* amount is safe, which for those of us who enjoy a glass, is a bit of a buzzkill. [Read more](https://www.healthline.com/health-news/drinking-alcohol-raises-cancer-risk)
-• Good news for a tough diagnosis: the FDA approved Rasonque, a breakthrough drug for metastatic pancreatic cancer. This is genuinely important and offers a new glimmer of hope. [Read more](https://www.healthline.com/health-news/fda-approves-rasonque-metastatic-pancreatic-cancer)
-• GLP-1s might be the next big thing for PMOS treatment, expanding their use beyond weight loss. These drugs really are the Swiss Army knife of modern medicine. [Read more](https://www.medicalnewstoday.com/articles/can-glp-1s-really-help-treat-pmos-experts-answer-3-key-questions)
+• More bad news for your evening wine: new research confirms any amount of alcohol raises your cancer risk. Fun's officially over, folks. [Read more](https://www.healthline.com/health-news/drinking-alcohol-raises-cancer-risk)
+• Nearly a third of women in their 20s are skipping cervical screenings. Seriously, prioritize your health – it's non-negotiable. [Read more](https://www.healthline.com/health-news/nearly-one-in-three-women-in-20s-never-had-cervical-screening)
 
 ## 🇮🇳 India
-• PM Modi is feeling nostalgic, recalling 2013 when India was among the 'Fragile Five' economies, essentially saying, "Look how far we've come!" [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/pm-modi-recalls-2013-when-india-was-among-fragile-five-economies-amid-weak-growth/articleshow/133808898.cms)
-• He also charmingly called SRCC alumni the "OGs" of leadership at their centenary, which is a very Modi way to praise an institution. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/pm-modi-calls-srcc-alumni-ogs-felicitated-at-centenary-event-after-metro-ride/articleshow/133804981.cms)
-• On the less charming front, CPI(M) is accusing the Modi government of "political vendetta" with the ED's actions against Kerala CM Pinarayi Vijayan. Business as usual in Indian politics. [Read more](https://www.thehindu.com/news/national/kerala/pinarayi-vijayan/article71450495.ece)
+• PM Modi is still patting himself on the back, reminding everyone how bad things were in 2013 before he came to save us all. Humble, as always. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/pm-modi-recalls-2013-when-india-was-among-fragile-five-economies-amid-weak-growth/articleshow/133808898.cms)
+• India's hosting BRICS and juggling world leaders, but apparently managed to fumble the invite for Bangladesh's PM – a diplomatic oopsie that’s raising eyebrows. [ref:6, ref:8]
+• On the foreign policy front, some analysts argue India's actions in Sri Lanka might be creating the very instability it claims it needs to prevent. Food for thought. [Read more](https://www.sinhalanet.net/indias-sri-lanka-policy-may-be-creating-the-very-instability-india-claims-it-needs-to-prevent)
 
-TODAY'S TAKEAWAY: The AI overlords are coming, or at least the people building them are increasingly worried they might.
+TODAY'S TAKEAWAY: AI companies are simultaneously warning of existential doom, accusing each other of tech theft, and trying to make your life "easier" – what a ride.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:54 UAE time
+Generated at 06:53 UAE time
