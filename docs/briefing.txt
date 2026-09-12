@@ -1,32 +1,34 @@
 
        SIDRA'S MORNING BRIEFING
-       Friday, September 11, 2026
+       Saturday, September 12, 2026
 -----------------------------
 
 
-## 🌍 World & Politics
-• Violence has flared up in Yemen again, a grim reminder of how deeply connected global conflicts are, especially to the US-Iran rivalry. [Read more](https://www.theguardian.com/world/2026/sep/10/violence-erupts-in-yemen-again-why-it-matters-globally-and-how-it-is-linked-to-the-us-iran-war)
-• NATO claims they stopped Russia from sabotaging undersea cables. Talk about a geopolitical thriller playing out beneath the waves. [Read more](https://www.theguardian.com/world/2026/sep/11/ukraine-war-briefing-nato-foils-russian-undersea-cable-sabotage-drill)
-• The wealth tax debate is back, pitting public services against the risk of making billionaires flee. Pick your poison. [Read more](https://www.theguardian.com/world/2026/sep/11/friday-briefing-would-a-wealth-tax-save-our-public-services-or-be-billionaire-repellent)
+🌍 World & Politics
+• Russia's playing with fire, apparently using AI developed by its own devs for 'kamikaze' drones in Ukraine. Because we needed more reasons to worry about AI. [Read more](https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says)
 
-## 🤖 Tech & AI
-• Anthropic researchers are screaming that AI could cause human extinction by 2030 and detailing how bad actors are trying to weaponize it for bioweapons. Sweet dreams. [ref:5, ref:10]
-• Meanwhile, Anthropic also alleges Chinese AI firms are practically stealing their tech with "distillation attacks." Corporate espionage, but make it AI. [Read more](https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/)
-• Meta’s new Muse AI promises to take the busywork off your plate, but honestly, it just sounds kinda creepy. [Read more](https://www.theverge.com/tech/993391/meta-muse-ai-hands-on)
+🤖 Tech & AI
+• Congress is finally asking tough questions after OpenAI's security mess with Hugging Face, underscoring that AI's gone wild isn't just a movie plot. This is important: who's actually in charge of these things? [Read more](https://abcnews.com/Technology/wireStory/senators-parties-question-openai-breach-ai-startup-hugging-136351896)
+• China's Moonshot AI is aiming for a whopping $2 billion in annual revenue, proving that even as AI scares the pants off us, someone's still making bank. [Read more](https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/)
+• More Anthropic researchers are screaming about AI dangers, while Elon Musk rolls his eyes and calls it a "psyop." Pick your doomsday prophet, Sidra. [Read more](https://www.theguardian.com/technology/2026/sep/10/anthropic-researchers-warn-ai-musk)
 
-## 💪 Health & Wellness
-• More bad news for your evening wine: new research confirms any amount of alcohol raises your cancer risk. Fun's officially over, folks. [Read more](https://www.healthline.com/health-news/drinking-alcohol-raises-cancer-risk)
-• Nearly a third of women in their 20s are skipping cervical screenings. Seriously, prioritize your health – it's non-negotiable. [Read more](https://www.healthline.com/health-news/nearly-one-in-three-women-in-20s-never-had-cervical-screening)
+💄 Fashion & Beauty
+• Apparently, "hairy young women" are a thing now, with some even dyeing their armpit hair to make a statement. Time to lean into that natural vibe, or just keep shaving — your call. [Read more](https://www.theguardian.com/fashion/2026/sep/08/phoebe-bridgers-venice-festival-leg-armpit-hair-women-beauty-shaving)
 
-## 🇮🇳 India
-• PM Modi is still patting himself on the back, reminding everyone how bad things were in 2013 before he came to save us all. Humble, as always. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/pm-modi-recalls-2013-when-india-was-among-fragile-five-economies-amid-weak-growth/articleshow/133808898.cms)
-• India's hosting BRICS and juggling world leaders, but apparently managed to fumble the invite for Bangladesh's PM – a diplomatic oopsie that’s raising eyebrows. [ref:6, ref:8]
-• On the foreign policy front, some analysts argue India's actions in Sri Lanka might be creating the very instability it claims it needs to prevent. Food for thought. [Read more](https://www.sinhalanet.net/indias-sri-lanka-policy-may-be-creating-the-very-instability-india-claims-it-needs-to-prevent)
+💪 Health & Wellness
+• A concerning 1 in 3 women in their 20s have never had a cervical screening. Sidra, this is important: early detection is everything, so get yourself checked. [Read more](https://www.healthline.com/health-news/nearly-one-in-three-women-in-20s-never-had-cervical-screening)
+• Another day, another reason to rethink habits: drinking any amount of alcohol might raise your cancer risk. Also, super hot coffee could triple your esophageal cancer chances. Can we just live? [Read more](https://www.healthline.com/health-news/drinking-alcohol-raises-cancer-risk) [Read more](https://www.healthline.com/health-news/very-hot-drinks-may-damage-esophagus-raise-cancer-risk)
+• Even a dim light while you sleep might be thickening your heart walls, raising your risk of heart failure. Seriously, invest in blackout curtains. [Read more](https://www.healthline.com/health-news/nighttime-light-exposure-cardiovascular-disease-risk)
 
-TODAY'S TAKEAWAY: AI companies are simultaneously warning of existential doom, accusing each other of tech theft, and trying to make your life "easier" – what a ride.
+🇮🇳 India
+• PM Modi just told Putin to chill out and end the Ukraine war during their BRICS meeting, offering India's help for peace talks. Modi playing global peacemaker is a significant move. [Read more](https://www.thehindu.com/news/national/pm-modi-russia-putin-hold-high-stakes-talks-ahead-of-brics-summit/article71456100.ece)
+• Meanwhile, Chinese President Xi just landed in Delhi for the BRICS Summit, setting the stage for some serious geopolitical maneuvering. [Read more](https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece)
+• Word on the street is India's heavy-handed policy in Sri Lanka might be creating the very instability it claims to prevent. Classic 'trying too hard' scenario. [Read more](https://www.sinhalanet.net/indias-sri-lanka-policy-may-be-creating-the-very-instability-india-claims-it-needs-to-prevent)
+
+TODAY'S TAKEAWAY: AI is still the wild west, being weaponized and scrutinized, while India is stepping onto the global stage in a big way, both politically and economically.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:53 UAE time
+Generated at 06:45 UAE time
