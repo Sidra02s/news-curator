@@ -1,31 +1,33 @@
 
        SIDRA'S MORNING BRIEFING
-       Wednesday, September 16, 2026
+       Thursday, September 17, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• The US is throwing up its hands on the Iran War, now asking India, China, and Russia to step in and end it after tallying a $38 billion price tag. [ref:3, ref:10]
-• In Ukraine, new anti-drone tech is scoring hits, escalating the aerial arms race against incoming Shahed jets. [Read more](https://www.theguardian.com/world/2026/sep/16/ukraine-war-briefing-new-anti-drone-weapon-scores-hit-amid-race-against-shahed-jets)
-• Modi's pushing for global governance reform at BRICS, and apparently, the summit is also a handy place to dial down India-China tensions. [ref:12, ref:14]
+• Washington is admitting it needs its rivals — specifically India, China, and Russia — to step in and broker peace in the ongoing Iran War. Talk about a major power shift. [Read more](http://foreignpolicy.com/2026/09/15/only-china-india-and-russia-can-end-the-iran-war/)
+• Karma's a drone: A Russian commander, freshly decorated for a "fake victory," just got taken out by a Ukrainian drone. You love to see it. [Read more](https://www.theguardian.com/world/2026/sep/17/ukraine-war-briefing-drone-kills-russian-commander-just-decorated-after-fake-victory-claim)
+• Yemen’s long-running war is still a messy problem, now reigniting concerns over global oil supplies, because apparently the humanitarian crisis wasn't enough to get our attention. [Read more](https://www.theguardian.com/world/2026/sep/17/thursday-briefing-yemens-war-continues-to-threaten-oil-supplies-but-what-about-its-people)
 
 ## 🤖 Tech & AI
-• Tech CEOs and even an Anthropic co-founder are practically begging for AI regulation and "kill switches," but Washington and Trump are moving at a snail's pace. This is critical, Sidra, because it shapes our AI-driven future. [ref:2, ref:8]
-• Hilariously, AI agents now have a "Contact Hotline" to report bad behavior – because even robots need a HR department. [Read more](https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/)
-• There's a cynical take surfacing: maybe tech companies are fine with us fearing AI, as it distracts from the real regulatory gaps they'd rather avoid. [Read more](https://www.theguardian.com/world/2026/sep/16/wednesday-briefing-why-tech-companies-might-be-only-too-happy-for-us-to-believe-ai-will-kill-us-all)
+• Good news for anyone who dreads government paperwork: Indian Customs plans to use more AI to reduce face-to-face interactions with trusted taxpayers, making things smoother. [Read more](https://economictimes.indiatimes.com/news/economy/policy/customs-should-accelerate-ai-usage-to-reduce-cost-physical-interface-with-trusted-taxpayers-cbic-chief/articleshow/134280042.cms)
+• The US government is apparently "failing Americans on AI," which isn't exactly a shocker, but it's still worth noting how poorly they're keeping up with innovation. [Read more](https://www.theguardian.com/technology/2026/sep/16/us-government-failing-americans-ai)
+• Apple, sensing a gold rush, is reportedly getting back into the server game, possibly with Nvidia, to cash in on the ever-growing AI boom. Money talks, even for Apple. [Read more](https://www.theverge.com/tech/996321/apple-servers-ai-nvidia)
 
 ## 💪 Health & Wellness
-• A shocking one in three women in their 20s have never had a cervical screening – this is a vital reminder to prioritize your health, Sidra. [Read more](https://www.healthline.com/health-news/nearly-one-in-three-women-in-20s-never-had-cervical-screening)
-• Most men are still clueless about the link between dairy intake and prostate cancer risk. Pass it on. [Read more](https://www.healthline.com/health-news/most-men-unaware-dairy-may-increase-prostate-cancer-risk)
+• A survey reveals most men are still clueless about the link between dairy intake and prostate cancer risk. Guys, pay attention to your milk. [Read more](https://www.healthline.com/health-news/most-men-unaware-dairy-may-increase-prostate-cancer-risk)
+• Here's one for your agenda: Nearly one in three women in their twenties have never had a cervical screening. Sidra, this is seriously important – book that appointment if you haven't! [Read more](https://www.healthline.com/health-news/nearly-one-in-three-women-in-20s-never-had-cervical-screening)
+• Indian scientists are digging into the genetic roots of endometriosis in women and just stumbled upon a potential thyroid connection, which could be big for treating a disease affecting many. [Read more](https://thesouthfirst.com/health/scientists-chase-endometriosis-genes-in-indian-women-stumble-upon-a-thyroid-connection/)
 
 ## 🇮🇳 India
-• Amit Shah has declared BJP's intent to introduce the Uniform Civil Code by 2029 across all BJP-NDA ruled states, a huge domestic policy shift. [Read more](https://www.business-standard.com/politics/we-will-introduce-ucc-by-2029-in-all-bjp-nda-ruled-states-amit-shah-126091300621_1.html)
-• PM Modi is advocating for global governance reform, cementing India's place as a serious player on the international stage. [Read more](https://www.naturalnews.com/2026-09-15-modi-governance-reform-brics-adopts-new-delhi-declaration.html)
+• India is front and center on the global stage, with Washington looking to Delhi (alongside Beijing and Moscow) to help solve the Iran War. Our influence is definitely growing. [Read more](http://foreignpolicy.com/2026/09/15/only-china-india-and-russia-can-end-the-iran-war/)
+• In a refreshingly honest moment, Malaysian PM Anwar joked with PM Modi that politicians rarely keep their promises, admitting he took 40 years to fulfill one himself. At least someone's being real. [Read more](https://economictimes.indiatimes.com/news/new-updates/malaysian-pm-anwar-joked-to-pm-modi-that-politicians-dont-honour-their-promises-admitting-he-took-40-years-to-fulfill-an-old-commitment/articleshow/134251886.cms)
+• PM Modi, speaking at the BRICS summit, declared that "outdated institutions" can't steer our rapidly changing world, calling for major global governance reform. He's not wrong. [Read more](https://www.naturalnews.com/2026-09-15-modi-governance-reform-brics-adopts-new-delhi-declaration.html)
 
-TODAY'S TAKEAWAY: Political inaction on rapidly evolving AI tech is a looming problem, while India makes big moves both domestically and globally.
+TODAY'S TAKEAWAY: India is stepping up as a major global player, forcing a rethink on international power dynamics.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 07:03 UAE time
+Generated at 07:00 UAE time
