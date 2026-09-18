@@ -1,33 +1,35 @@
 
        SIDRA'S MORNING BRIEFING
-       Thursday, September 17, 2026
+       Friday, September 18, 2026
 -----------------------------
 
 
-## 🌍 World & Politics
-• Washington is admitting it needs its rivals — specifically India, China, and Russia — to step in and broker peace in the ongoing Iran War. Talk about a major power shift. [Read more](http://foreignpolicy.com/2026/09/15/only-china-india-and-russia-can-end-the-iran-war/)
-• Karma's a drone: A Russian commander, freshly decorated for a "fake victory," just got taken out by a Ukrainian drone. You love to see it. [Read more](https://www.theguardian.com/world/2026/sep/17/ukraine-war-briefing-drone-kills-russian-commander-just-decorated-after-fake-victory-claim)
-• Yemen’s long-running war is still a messy problem, now reigniting concerns over global oil supplies, because apparently the humanitarian crisis wasn't enough to get our attention. [Read more](https://www.theguardian.com/world/2026/sep/17/thursday-briefing-yemens-war-continues-to-threaten-oil-supplies-but-what-about-its-people)
+🌍 World & Politics
+• Russia is holding elections, but let's be real, it's more of a formality with Putin’s iron grip tightening while the Ukraine war rages on. [Read more](https://www.theguardian.com/world/2026/sep/18/russia-parliament-election-duma-putin)
+• Former Australian PM Paul Keating warns that the AUKUS pact is dragging Australia into a likely losing war with China alongside the US. Smart man, messy implications. [Read more](https://www.theguardian.com/world/2026/sep/18/paul-keating-aukus-locking-australia-into-us-china-war)
+• Poland's PM is off to Kyiv, raising concerns about Russia potentially expanding its strikes beyond Ukraine's borders. Keep an eye on this one, it's getting spicy. [Read more](https://www.theguardian.com/world/2026/sep/18/ukraine-war-briefing-poland-warns-russian-strikes-kyiv-allies)
 
-## 🤖 Tech & AI
-• Good news for anyone who dreads government paperwork: Indian Customs plans to use more AI to reduce face-to-face interactions with trusted taxpayers, making things smoother. [Read more](https://economictimes.indiatimes.com/news/economy/policy/customs-should-accelerate-ai-usage-to-reduce-cost-physical-interface-with-trusted-taxpayers-cbic-chief/articleshow/134280042.cms)
-• The US government is apparently "failing Americans on AI," which isn't exactly a shocker, but it's still worth noting how poorly they're keeping up with innovation. [Read more](https://www.theguardian.com/technology/2026/sep/16/us-government-failing-americans-ai)
-• Apple, sensing a gold rush, is reportedly getting back into the server game, possibly with Nvidia, to cash in on the ever-growing AI boom. Money talks, even for Apple. [Read more](https://www.theverge.com/tech/996321/apple-servers-ai-nvidia)
+🤖 Tech & AI
+• Remember the "move fast, break things" era? It's officially over for AI as rogue agents became real this summer, forcing a "superintelligence slowdown" on the industry. Thank god, someone hit the brakes. [Read more](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic)
+• Even Microsoft AI's CEO admits AI threats are real, pointing fingers at companies like Anthropic for making things worse. The US government? They're reportedly failing Americans on regulation. What else is new? [ref:2, ref:5]
+• Good news for India: Micron is scaling up chip manufacturing there big time next year, a sign India's semiconductor mission is actually moving from talk to action. [ref:6, ref:8]
 
-## 💪 Health & Wellness
-• A survey reveals most men are still clueless about the link between dairy intake and prostate cancer risk. Guys, pay attention to your milk. [Read more](https://www.healthline.com/health-news/most-men-unaware-dairy-may-increase-prostate-cancer-risk)
-• Here's one for your agenda: Nearly one in three women in their twenties have never had a cervical screening. Sidra, this is seriously important – book that appointment if you haven't! [Read more](https://www.healthline.com/health-news/nearly-one-in-three-women-in-20s-never-had-cervical-screening)
-• Indian scientists are digging into the genetic roots of endometriosis in women and just stumbled upon a potential thyroid connection, which could be big for treating a disease affecting many. [Read more](https://thesouthfirst.com/health/scientists-chase-endometriosis-genes-in-indian-women-stumble-upon-a-thyroid-connection/)
+💄 Fashion & Beauty
+• Fashion Week is still happening in places like Kyiv and Dubai despite political crises, proving that designers will literally risk it all for the 'gram and a business lifeline. Talk about dedication. [Read more](https://www.vogue.com/article/stopping-was-not-the-answer-fashion-week-in-a-political-crisis)
 
-## 🇮🇳 India
-• India is front and center on the global stage, with Washington looking to Delhi (alongside Beijing and Moscow) to help solve the Iran War. Our influence is definitely growing. [Read more](http://foreignpolicy.com/2026/09/15/only-china-india-and-russia-can-end-the-iran-war/)
-• In a refreshingly honest moment, Malaysian PM Anwar joked with PM Modi that politicians rarely keep their promises, admitting he took 40 years to fulfill one himself. At least someone's being real. [Read more](https://economictimes.indiatimes.com/news/new-updates/malaysian-pm-anwar-joked-to-pm-modi-that-politicians-dont-honour-their-promises-admitting-he-took-40-years-to-fulfill-an-old-commitment/articleshow/134251886.cms)
-• PM Modi, speaking at the BRICS summit, declared that "outdated institutions" can't steer our rapidly changing world, calling for major global governance reform. He's not wrong. [Read more](https://www.naturalnews.com/2026-09-15-modi-governance-reform-brics-adopts-new-delhi-declaration.html)
+💪 Health & Wellness
+• PSA for the men in your life: Only 20% know that dairy intake is linked to prostate cancer risk. Maybe pass on that extra cheese. [Read more](https://www.healthline.com/health-news/most-men-unaware-dairy-may-increase-prostate-cancer-risk)
+• The CDC reports women and young adults are experiencing fatigue more often. No surprises there, given everything going on. We're all tired. [Read more](https://www.healthline.com/health-news/women-young-adults-experience-fatigue-more-often-cdc-says)
 
-TODAY'S TAKEAWAY: India is stepping up as a major global player, forcing a rethink on international power dynamics.
+🇮🇳 India
+• PM Modi and Egyptian President Sisi met at BRICS, focusing on the Mecca Pact and deepening their strategic partnership. India is really making moves on the global stage. [Read more](https://economictimes.indiatimes.com/news/india/pm-modi-egyptian-president-sisi-brics-meet-focused-on-mecca-pact-and-its-impact/articleshow/134294578.cms)
+• Defence Minister Rajnath Singh is bigging up "Modinomics" as the engine of India's rapid economic growth. The party line is strong. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/modinomics-basis-of-indias-rapid-economic-growth-says-defence-minister-rajnath-singh/articleshow/134286907.cms)
+• The DUSU elections are happening in Delhi with heavy police deployment. The BJP chief is confidently predicting a clean sweep for ABVP. Campus politics, always a drama. [Read more](https://www.ndtv.com/education/dusu-elections-2026-live-updates-voting-underway-amid-tight-security-12062925#publisher=newsstand)
+
+TODAY'S TAKEAWAY: The global tech world is hitting the brakes on unchecked AI, while India is busy building its future, both literally with chips and diplomatically.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 07:00 UAE time
+Generated at 06:56 UAE time
