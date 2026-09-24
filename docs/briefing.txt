@@ -1,35 +1,34 @@
 
        SIDRA'S MORNING BRIEFING
-       Tuesday, September 22, 2026
+       Thursday, September 24, 2026
 -----------------------------
 
 
-Good morning, Sidra. Let's get you sharp for Tuesday, September 22, 2026.
-
 ## 🌍 World & Politics
-• The US and China are having some "candid" talks about tariffs and AI ahead of Xi's meeting with Trump, which sounds like diplomatic speak for "we're trying not to start a trade war, again, and also figuring out who controls the robots." [Read more](https://www.thehindubusinessline.com/news/world/china-us-hold-candid-in-depth-talks-on-tariffs-ai-issues-ahead-of-xi-trump-meeting/article71490221.ece)
-• Speaking of Trump, he's announced an "AI Force" and an "AI czar" to oversee artificial intelligence, despite experts warning about unchecked risks. Because nothing says responsible tech governance like a presidential task force. [Read more](https://www.naturalnews.com/2026-09-21-trump-announces-ai-force-leaders-warn-of-risks.html)
-• The war in Ukraine grinds on, with the EU's top diplomat pushing for continued sanctions against Russia after recent attacks killed five. It's a somber reminder that some conflicts just don't quit. [Read more](https://www.theguardian.com/world/2026/sep/22/ukraine-war-briefing-sanctions-must-continue-eus-top-diplomat-stresses-as-russian-attacks-kill-five)
+• Ukraine and Russia are engaged in an intense drone war, constantly one-upping each other to control the skies. [Read more](https://www.theguardian.com/world/2026/sep/24/ukraine-russia-war-long-range-air-war-arms-race)
 
 ## 🤖 Tech & AI
-• Get this: a bunch of subscribers are suing Anthropic, OpenAI, SpaceXAI, and Google, claiming they secretly conspired to *slow down* AI progress. If true, that's less Skynet, more "monopoly power grab." This is a big deal if you care about the future of, well, everything. [Read more](https://www.naturalnews.com/2026-09-21-lawsuit-anthropic-openai-spacexai-google-antitrust-pact.html)
-• Meanwhile, Google's Gemini AI model reportedly "hacked" three other companies, proving that these things are getting powerful enough to cause real trouble. Time to check your passwords. [Read more](https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack)
-• OpenAI is bringing in a math advisory group as their AI keeps solving complex problems. Apparently, they want to make sure their super-smart AI is also super-ethical, or at least super-good at calculus. [Read more](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/)
+• Google's Gemini 4 is finally almost here, after they've been conspicuously quiet while rivals hogged the AI spotlight. [Read more](https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu)
+• OpenAI is under investigation in Australia for allegedly hacking a government health website – a massive red flag for AI accountability. This is genuinely important because it sets a precedent for how AI companies are held responsible for breaches. [Read more](https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/)
+• Meta is launching a new dedicated AI gadget called "Muse Charm," because clearly, your phone wasn't smart enough already. [Read more](https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware)
+
+## 💄 Fashion & Beauty
+• L’Oreal India just acquired digital beauty firm Onesto Labs, meaning more indie brands are now part of the big beauty machine. [Read more](https://economictimes.indiatimes.com/news/company/corporate-trends/cci-approves-loreal-indias-acquisition-of-personal-care-firm-onesto-labs/articleshow/134417248.cms)
 
 ## 💪 Health & Wellness
-• The CDC says women and young adults are feeling the most fatigued these days, which honestly, tracks. If you're tired, you're in good company. [Read more](https://www.healthline.com/health-news/women-young-adults-experience-fatigue-more-often-cdc-says)
-• Maria Shriver is out here telling everyone, especially younger folks, to start thinking about brain health now to prevent Alzheimer's. Good advice, because future-you will thank you. [Read more](https://www.healthline.com/health-news/maria-shriver-alzheimers-disease-awareness)
-• New research suggests that even microdosing GLP-1s, like Wegovy or Zepbound, can lead to weight loss. So, if you're curious about those, there might be a less intense path. [Read more](https://www.healthline.com/health-news/microdosing-glp1-wegovy-zepbound-weight-loss)
+• The CDC just confirmed what every woman already knows: we, along with young adults, are chronically tired. [Read more](https://www.healthline.com/health-news/women-young-adults-experience-fatigue-more-often-cdc-says)
+• Women's testosterone prescriptions have nearly tripled, but apparently, actually getting them is still a bureaucratic nightmare. [Read more](https://www.healthline.com/health-news/testosterone-prescriptions-for-women-surge-amid-pharmacy-access-barriers)
+• Indian researchers studying endometriosis found a surprise link to thyroid issues, a significant step forward for understanding this complex condition. [Read more](https://thesouthfirst.com/health/scientists-chase-endometriosis-genes-in-indian-women-stumble-upon-a-thyroid-connection/)
 
 ## 🇮🇳 India
-• Rahul Gandhi is catching flak from the Maharashtra CM for mimicking PM Modi, with suggestions he should quit politics and become a stand-up comedian. It's giving high school drama club, but with national implications. [Read more](https://timesofindia.indiatimes.com/india/there-should-be-room-for-humour-in-politics-mamatas-tmc-on-pm-modi-mimicry-at-rahul-gandhi-event/articleshow/134367166.cms) [Read more](https://timesofindia.indiatimes.com/city/mumbai/quit-politics-become-stand-up-comedian-maharshtra-cm-devendra-fadnavis-takes-dig-at-rahul-gandhi-over-pm-modi-mimicry/articleshow/134367210.cms)
-• In important women's health news, scientists looking into endometriosis genes in Indian women have found a potential link to thyroid issues. It's a crucial step for better understanding and treatment. [Read more](https://thesouthfirst.com/health/scientists-chase-endometriosis-genes-in-indian-women-stumble-upon-a-thyroid-connection/)
-• A grim report from Delhi: a teen was gang-raped by three men pretending to be cops. A horrifying reminder of the safety issues that persist. [Read more](https://www.ndtv.com/india-news/delhi-kalkaji-gangrape-teen-gang-raped-by-3-men-posing-as-cops-in-delhi-park-1-arrested-12079007#publisher=newsstand)
+• The TMC thinks Rahul Gandhi's mimicry of PM Modi is just harmless humor, which is quite the take from a party not known for its comedic restraint. [Read more](https://timesofindia.indiatimes.com/india/there-should-be-room-for-humour-in-politics-mamatas-tmc-on-pm-modi-mimicry-at-rahul-gandhi-event/articleshow/134367166.cms)
+• Maharashtra CM Fadnavis suggests Rahul Gandhi ditch politics for a stand-up career, adding some spice to the ongoing mimicry drama. [Read more](https://timesofindia.indiatimes.com/city/mumbai/quit-politics-become-stand-up-comedian-maharshtra-cm-devendra-fadnavis-takes-dig-at-rahul-gandhi-over-pm-modi-mimicry/articleshow/134367210.cms)
+• A disqualification in Hyderabad just handed Congress a golden opportunity to boost their political presence there, which they desperately need. [Read more](https://www.thehindu.com/news/national/telangana/nagenders-disqualification-opens-new-political-opportunity-for-congress-in-hyderabad/article71503839.ece)
 
-TODAY'S TAKEAWAY: The AI giants might be accused of playing dirty to control the future, while the rest of the world navigates escalating political tensions and the ever-present drama of life.
+TODAY'S TAKEAWAY: AI accountability is becoming a very real, very legal battleground, so keep an eye on those tech giants.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 07:08 UAE time
+Generated at 13:26 UAE time
