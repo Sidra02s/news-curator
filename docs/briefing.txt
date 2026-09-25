@@ -1,34 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Thursday, September 24, 2026
+       Friday, September 25, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Ukraine and Russia are engaged in an intense drone war, constantly one-upping each other to control the skies. [Read more](https://www.theguardian.com/world/2026/sep/24/ukraine-russia-war-long-range-air-war-arms-race)
+• Iran is playing a high-stakes game, giving Trump six days to respond to their proposal about the Strait of Hormuz. Keep an eye on this; a critical shipping lane is involved, and things could get spicy. [Read more](https://www.theguardian.com/world/2026/sep/24/ed-miliband-meets-iran-foreign-minister-us-ultimatum-strait-hormuz)
+• Brazilian President Lula is accusing Trump of trying to "colonize" Brazil and meddle in their elections. It seems Trump's global reach, or interference, is still a major storyline. [ref:9, ref:12]
+• A surprising number of world leaders, including Xi and Putin, are skipping the UN General Assembly this year. It makes you wonder how much clout the UN still holds in an increasingly fractured world. [Read more](https://www.dw.com/en/who-is-skipping-the-un-general-assembly-and-why/a-79391652)
 
 ## 🤖 Tech & AI
-• Google's Gemini 4 is finally almost here, after they've been conspicuously quiet while rivals hogged the AI spotlight. [Read more](https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu)
-• OpenAI is under investigation in Australia for allegedly hacking a government health website – a massive red flag for AI accountability. This is genuinely important because it sets a precedent for how AI companies are held responsible for breaches. [Read more](https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/)
-• Meta is launching a new dedicated AI gadget called "Muse Charm," because clearly, your phone wasn't smart enough already. [Read more](https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware)
-
-## 💄 Fashion & Beauty
-• L’Oreal India just acquired digital beauty firm Onesto Labs, meaning more indie brands are now part of the big beauty machine. [Read more](https://economictimes.indiatimes.com/news/company/corporate-trends/cci-approves-loreal-indias-acquisition-of-personal-care-firm-onesto-labs/articleshow/134417248.cms)
+• Google just launched Gemini 3.8 Live with a "Live Avatar," meaning you can now chat with an AI that has a face and lip-syncs. It's either the future of interaction or a step closer to uncanny valley, you decide. [Read more](https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face)
+• Despite the previous AI doomsday hysteria, tech execs like Nick Clegg are now playing down fears of humanity's extermination. Good to know someone's still optimistic, even if it feels a little too convenient. [ref:6, ref:10]
+• Many are lamenting "old Google," feeling that AI is making search less about finding information and more about curated answers. It's a valid point – the internet feels different, and not always for the better. [Read more](https://www.theguardian.com/technology/2026/sep/23/google-readers-respond-ai-overview-internet-searches)
 
 ## 💪 Health & Wellness
-• The CDC just confirmed what every woman already knows: we, along with young adults, are chronically tired. [Read more](https://www.healthline.com/health-news/women-young-adults-experience-fatigue-more-often-cdc-says)
-• Women's testosterone prescriptions have nearly tripled, but apparently, actually getting them is still a bureaucratic nightmare. [Read more](https://www.healthline.com/health-news/testosterone-prescriptions-for-women-surge-amid-pharmacy-access-barriers)
-• Indian researchers studying endometriosis found a surprise link to thyroid issues, a significant step forward for understanding this complex condition. [Read more](https://thesouthfirst.com/health/scientists-chase-endometriosis-genes-in-indian-women-stumble-upon-a-thyroid-connection/)
+• The CDC just confirmed what many of us already knew: women and young adults are experiencing fatigue more often. Maybe they should focus on solutions instead of stating the obvious, but hey, at least it's official. [Read more](https://www.healthline.com/health-news/women-young-adults-experience-fatigue-more-often-cdc-says)
+• Testosterone prescriptions for women have nearly tripled, yet accessing them remains a struggle. This surge signals a significant trend in women's health, and the barriers are simply unacceptable. [Read more](https://www.healthline.com/health-news/testosterone-prescriptions-for-women-surge-amid-pharmacy-access-barriers)
 
 ## 🇮🇳 India
-• The TMC thinks Rahul Gandhi's mimicry of PM Modi is just harmless humor, which is quite the take from a party not known for its comedic restraint. [Read more](https://timesofindia.indiatimes.com/india/there-should-be-room-for-humour-in-politics-mamatas-tmc-on-pm-modi-mimicry-at-rahul-gandhi-event/articleshow/134367166.cms)
-• Maharashtra CM Fadnavis suggests Rahul Gandhi ditch politics for a stand-up career, adding some spice to the ongoing mimicry drama. [Read more](https://timesofindia.indiatimes.com/city/mumbai/quit-politics-become-stand-up-comedian-maharshtra-cm-devendra-fadnavis-takes-dig-at-rahul-gandhi-over-pm-modi-mimicry/articleshow/134367210.cms)
-• A disqualification in Hyderabad just handed Congress a golden opportunity to boost their political presence there, which they desperately need. [Read more](https://www.thehindu.com/news/national/telangana/nagenders-disqualification-opens-new-political-opportunity-for-congress-in-hyderabad/article71503839.ece)
+• In local news, Rahul Gandhi's mimicry of PM Modi at an event has sparked debate, with the TMC defending the "humor in politics." Just another dose of the usual political theatre to start your day. [Read more](https://timesofindia.indiatimes.com/india/there-should-be-room-for-humour-in-politics-mamatas-tmc-on-pm-modi-mimicry-at-rahul-gandhi-event/articleshow/134367166.cms)
+• IIT Delhi researchers have developed India's first Micro-Graphics Processing Unit, a major step towards tech self-reliance. This is genuinely big news for India's technological independence. [Read more](https://www.ndtv.com/education/iit-delhi-researchers-develop-indias-first-micro-graphics-processing-unit-12095506#publisher=newsstand)
+• Jammu & Kashmir's CM has moved a resolution for full statehood restoration, met with expected BJP protests. The push for autonomy continues to be a central, and contentious, issue. [Read more](https://www.thehindu.com/news/national/jammu-and-kashmir/jk-cm-moves-resolution-for-full-statehood-restoration-in-assembly-bjp-mlas-protest/article71507463.ece)
 
-TODAY'S TAKEAWAY: AI accountability is becoming a very real, very legal battleground, so keep an eye on those tech giants.
+TODAY'S TAKEAWAY: From political theatrics to AI faces and global power plays, the world is finding new ways to be interesting (and slightly exhausting) today.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 13:26 UAE time
+Generated at 06:57 UAE time
