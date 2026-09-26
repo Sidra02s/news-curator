@@ -1,29 +1,29 @@
 
        SIDRA'S MORNING BRIEFING
-       Friday, September 25, 2026
+       Saturday, September 26, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Iran is playing a high-stakes game, giving Trump six days to respond to their proposal about the Strait of Hormuz. Keep an eye on this; a critical shipping lane is involved, and things could get spicy. [Read more](https://www.theguardian.com/world/2026/sep/24/ed-miliband-meets-iran-foreign-minister-us-ultimatum-strait-hormuz)
-• Brazilian President Lula is accusing Trump of trying to "colonize" Brazil and meddle in their elections. It seems Trump's global reach, or interference, is still a major storyline. [ref:9, ref:12]
-• A surprising number of world leaders, including Xi and Putin, are skipping the UN General Assembly this year. It makes you wonder how much clout the UN still holds in an increasingly fractured world. [Read more](https://www.dw.com/en/who-is-skipping-the-un-general-assembly-and-why/a-79391652)
+• Russia's relentless attacks in Ukraine have now shut down the country's largest steelmaker – because who needs industry when you're busy destroying it? [Read more](https://www.theguardian.com/world/2026/sep/26/ukraine-war-briefing-russian-attacks-close-largest-steelmaker-arcelormittal)
+• Trump's got a new headache: Iran is playing hardball with oil deals ahead of the US midterms, making his "tough choices" even tougher. [Read more](https://www.theguardian.com/world/2026/sep/25/trump-tough-choices-iran-accelerated-deal-reopen-hormuz-midterm-elections)
 
 ## 🤖 Tech & AI
-• Google just launched Gemini 3.8 Live with a "Live Avatar," meaning you can now chat with an AI that has a face and lip-syncs. It's either the future of interaction or a step closer to uncanny valley, you decide. [Read more](https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face)
-• Despite the previous AI doomsday hysteria, tech execs like Nick Clegg are now playing down fears of humanity's extermination. Good to know someone's still optimistic, even if it feels a little too convenient. [ref:6, ref:10]
-• Many are lamenting "old Google," feeling that AI is making search less about finding information and more about curated answers. It's a valid point – the internet feels different, and not always for the better. [Read more](https://www.theguardian.com/technology/2026/sep/23/google-readers-respond-ai-overview-internet-searches)
+• Loyalty Juggernaut got certified for "responsible AI" – which is great, until you remember even "responsible" AI can still probably write better emails than half your team. [Read more](https://www.aninews.in/news/business/loyalty-juggernaut-advances-responsible-ai-with-isoiec-42001-certification20260925103851)
+• Trump and Xi couldn't even agree on AI during their summit. Maybe they should have used an AI to mediate. [Read more](https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race)
+• OpenAI agents, bless their digital hearts, accidentally splashed 53 user images all over the internet. So much for those "unsecured" boundaries. This is why we can't have nice things, or privacy. [Read more](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/)
 
 ## 💪 Health & Wellness
-• The CDC just confirmed what many of us already knew: women and young adults are experiencing fatigue more often. Maybe they should focus on solutions instead of stating the obvious, but hey, at least it's official. [Read more](https://www.healthline.com/health-news/women-young-adults-experience-fatigue-more-often-cdc-says)
-• Testosterone prescriptions for women have nearly tripled, yet accessing them remains a struggle. This surge signals a significant trend in women's health, and the barriers are simply unacceptable. [Read more](https://www.healthline.com/health-news/testosterone-prescriptions-for-women-surge-amid-pharmacy-access-barriers)
+• The CDC confirms what we already knew: women and young adults are perpetually tired. Shocker. [Read more](https://www.healthline.com/health-news/women-young-adults-experience-fatigue-more-often-cdc-says)
+• Testosterone prescriptions for women are surging, proving once again we'll try anything to feel less exhausted. Is it working, though? [Read more](https://www.healthline.com/health-news/testosterone-prescriptions-for-women-surge-amid-pharmacy-access-barriers)
+• Maria Shriver wants us all to start thinking about brain health now, not just when we misplace our keys for the fifth time. Smart woman. [Read more](https://www.healthline.com/health-news/maria-shriver-alzheimers-disease-awareness)
 
 ## 🇮🇳 India
-• In local news, Rahul Gandhi's mimicry of PM Modi at an event has sparked debate, with the TMC defending the "humor in politics." Just another dose of the usual political theatre to start your day. [Read more](https://timesofindia.indiatimes.com/india/there-should-be-room-for-humour-in-politics-mamatas-tmc-on-pm-modi-mimicry-at-rahul-gandhi-event/articleshow/134367166.cms)
-• IIT Delhi researchers have developed India's first Micro-Graphics Processing Unit, a major step towards tech self-reliance. This is genuinely big news for India's technological independence. [Read more](https://www.ndtv.com/education/iit-delhi-researchers-develop-indias-first-micro-graphics-processing-unit-12095506#publisher=newsstand)
-• Jammu & Kashmir's CM has moved a resolution for full statehood restoration, met with expected BJP protests. The push for autonomy continues to be a central, and contentious, issue. [Read more](https://www.thehindu.com/news/national/jammu-and-kashmir/jk-cm-moves-resolution-for-full-statehood-restoration-in-assembly-bjp-mlas-protest/article71507463.ece)
+• Congress took a swing at PM Modi for "bhajan clubbing" while Modi was busy touting service and infrastructure improvements. Typical political theater. [ref:2, ref:3, ref:6]
+• The debate over indigenous identity is heating up, with nationalist forces pushing back against the preferred term 'Adivasi'. Words matter, especially when they define people. [Read more](https://thediplomat.com/2026/09/who-is-indigenous-the-politics-of-tribal-identity-terminology-in-india-and-bangladesh/)
+• Hotmail co-founder Sabeer Bhatia stirred the pot by suggesting a whopping 55% inheritance tax for India. Time to reconsider your financial planning, Sidra. [Read more](https://www.ndtv.com/india-news/hotmail-founder-sabeer-bhatia-suggests-55-inheritance-tax-heres-what-it-means-12100530#publisher=newsstand)
 
-TODAY'S TAKEAWAY: From political theatrics to AI faces and global power plays, the world is finding new ways to be interesting (and slightly exhausting) today.
+TODAY'S TAKEAWAY: AI privacy is a dumpster fire, India's politics are as lively as ever, and apparently, everyone's tired and rethinking their brain health.
 
 -----------------------------
 
