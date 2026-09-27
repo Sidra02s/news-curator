@@ -1,32 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Saturday, September 26, 2026
+       Sunday, September 27, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Russia's relentless attacks in Ukraine have now shut down the country's largest steelmaker – because who needs industry when you're busy destroying it? [Read more](https://www.theguardian.com/world/2026/sep/26/ukraine-war-briefing-russian-attacks-close-largest-steelmaker-arcelormittal)
-• Trump's got a new headache: Iran is playing hardball with oil deals ahead of the US midterms, making his "tough choices" even tougher. [Read more](https://www.theguardian.com/world/2026/sep/25/trump-tough-choices-iran-accelerated-deal-reopen-hormuz-midterm-elections)
+• Germany's foreign minister is urging Russia to de-escalate in Ukraine during a rare meeting. Any diplomatic talk is a good sign, hopefully it leads somewhere. [Read more](https://www.theguardian.com/world/2026/sep/27/ukraine-war-briefing-german-foreign-minister-urges-russia-to-abandon-dangerous-escalation-in-rare-meeting)
+• Trump reportedly rejected Iran’s peace deal to reopen the Strait of Hormuz. Expect more volatility in that region, because why make things easy? [Read more](https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz)
 
 ## 🤖 Tech & AI
-• Loyalty Juggernaut got certified for "responsible AI" – which is great, until you remember even "responsible" AI can still probably write better emails than half your team. [Read more](https://www.aninews.in/news/business/loyalty-juggernaut-advances-responsible-ai-with-isoiec-42001-certification20260925103851)
-• Trump and Xi couldn't even agree on AI during their summit. Maybe they should have used an AI to mediate. [Read more](https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race)
-• OpenAI agents, bless their digital hearts, accidentally splashed 53 user images all over the internet. So much for those "unsecured" boundaries. This is why we can't have nice things, or privacy. [Read more](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/)
+• OpenAI and Anthropic CEOs briefed the UN Security Council on AI risks. Good for them for acknowledging the monster they're helping create. [Read more](https://www.naturalnews.com/2026-09-26-openai-anthropic-brief-unsc-on-ai-risks.html)
+• Google is testing AI-powered shopping with Flipkart in India, meaning AI could soon be making your purchasing decisions for you. Get ready for your digital butler to take over your wallet. [ref:1, 9]
+• Insurers are already claiming AI is spiking healthcare costs, to the tune of nearly a billion dollars. So much for AI making everything cheaper and more efficient. [Read more](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/)
 
 ## 💪 Health & Wellness
-• The CDC confirms what we already knew: women and young adults are perpetually tired. Shocker. [Read more](https://www.healthline.com/health-news/women-young-adults-experience-fatigue-more-often-cdc-says)
-• Testosterone prescriptions for women are surging, proving once again we'll try anything to feel less exhausted. Is it working, though? [Read more](https://www.healthline.com/health-news/testosterone-prescriptions-for-women-surge-amid-pharmacy-access-barriers)
-• Maria Shriver wants us all to start thinking about brain health now, not just when we misplace our keys for the fifth time. Smart woman. [Read more](https://www.healthline.com/health-news/maria-shriver-alzheimers-disease-awareness)
+• The CDC reports that women and young adults are experiencing fatigue more often. Validating for those of us constantly running on fumes. [Read more](https://www.healthline.com/health-news/women-young-adults-experience-fatigue-more-often-cdc-says)
+• Testosterone prescriptions for women have nearly tripled in recent years. Could be a significant shift in women's health or just another trend gaining momentum. [Read more](https://www.healthline.com/health-news/testosterone-prescriptions-for-women-surge-amid-pharmacy-access-barriers)
+• Maria Shriver is urging everyone to be proactive about brain health, no matter their age. A smart reminder to start looking after your grey matter sooner rather than later. [Read more](https://www.healthline.com/health-news/maria-shriver-alzheimers-disease-awareness)
 
 ## 🇮🇳 India
-• Congress took a swing at PM Modi for "bhajan clubbing" while Modi was busy touting service and infrastructure improvements. Typical political theater. [ref:2, ref:3, ref:6]
-• The debate over indigenous identity is heating up, with nationalist forces pushing back against the preferred term 'Adivasi'. Words matter, especially when they define people. [Read more](https://thediplomat.com/2026/09/who-is-indigenous-the-politics-of-tribal-identity-terminology-in-india-and-bangladesh/)
-• Hotmail co-founder Sabeer Bhatia stirred the pot by suggesting a whopping 55% inheritance tax for India. Time to reconsider your financial planning, Sidra. [Read more](https://www.ndtv.com/india-news/hotmail-founder-sabeer-bhatia-suggests-55-inheritance-tax-heres-what-it-means-12100530#publisher=newsstand)
+• PM Modi is highlighting the 2016 surgical strikes as a bold example of India's counter-terrorism policy. A strong message ahead of any upcoming political debates. [Read more](https://www.thehindu.com/news/national/pm-modi-mann-ki-baat-surgical-strike-september-27-2026/article71515461.ece)
+• India's elections are facing unprecedented scrutiny, with questions about their legitimacy now being raised globally. This is a critical issue for the world's largest democracy. [Read more](https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny)
+• India is making waves in AI, with IIT Bombay alumni like Pratyush Kumar co-founding Sarvam AI to build the country's AI future. Looks like India is ready to be a major player in the tech race. [Read more](https://www.ndtv.com/education/from-iit-bombay-to-building-indias-ai-future-meet-pratyush-kumar-co-founder-of-sarvam-ai-12104318#publisher=newsstand)
 
-TODAY'S TAKEAWAY: AI privacy is a dumpster fire, India's politics are as lively as ever, and apparently, everyone's tired and rethinking their brain health.
+TODAY'S TAKEAWAY: AI's global impact and India's democratic integrity are both facing serious tests right now.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:57 UAE time
+Generated at 07:26 UAE time
