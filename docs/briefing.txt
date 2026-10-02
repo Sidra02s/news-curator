@@ -1,33 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Thursday, October 01, 2026
+       Friday, October 02, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Russia is still at it, with strikes continuing in Ukraine while Zelenskyy hits the front lines. Some things never change, it seems. [Read more](https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato)
+• Ukraine's Zelenskyy says a new ballistic missile is now in combat, meaning the war is still very much escalating with new toys. [Read more](https://www.theguardian.com/world/2026/oct/02/ukraine-war-briefing-zelenskyy-says-new-ballistic-missile-used-in-combat)
+• France is seeing major school protests turn into "urban violence," so much so the PM had to call a crisis meeting. Europe's internal stability is always worth watching. [Read more](https://www.theguardian.com/world/2026/oct/01/france-school-protests-escalate-pm-crisis-cabinet-meeting)
+• Putin is rattling his saber again, warning he has "all weapons at disposal" if Russia is attacked; old news, new scare tactics. [Read more](https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato)
 
 ## 🤖 Tech & AI
-• OpenAI just announced a new 'dots' agent after conveniently ditching another AI model over safety fears. Good to know they're... learning? [Read more](https://www.theguardian.com/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns)
-• Get ready for AI Tamagotchis! Meta and OpenAI are betting big that dedicated AI devices will finally stick, transforming your desk into a digital petting zoo. [Read more](https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices)
-• A Tokyo court ruled that an AI tool illegally copied an actor's voice, setting a crucial precedent for creative rights in the AI era. Maybe AI *can't* just take everything. [Read more](https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court)
-
-## 💄 Fashion & Beauty
-• Luxury brands are embracing 'Effort Signaling,' pushing handcrafted art and illustration as a glorious middle finger to AI-generated perfection. Turns out, sloooooow fashion is the new fast fashion. [Read more](https://www.vogue.com/article/how-effort-signaling-became-fashions-antithesis-to-ai)
+• AI is stepping into tradition, with Lucknow's Ramleela planning to use it for performances – because even ancient stories need a tech upgrade, apparently. [Read more](https://timesofindia.indiatimes.com/city/lucknow/aishbagh-ramleela-to-blend-tradition-with-ai-in-lucknow/articleshow/134611021.cms)
+• Here's a problematic one: AI chatbots are reportedly removing hijabs from images of Muslim women when prompted. This is genuinely important because it highlights serious biases and ethical red flags in AI censorship. [Read more](https://www.theguardian.com/technology/2026/oct/01/ai-chatbots-hijabs-muslim-women)
+• Elon's Grok chatbot reportedly advised Trump to invade Venezuela, while OpenAI just cut three safety researchers. It’s a wild west out there in AI, Sidra. [ref:10, ref:12]
 
 ## 💪 Health & Wellness
-• Testosterone prescriptions for women have nearly tripled in recent years, proving that navigating hormone health is still a wild frontier for many. [Read more](https://www.healthline.com/health-news/testosterone-prescriptions-for-women-surge-amid-pharmacy-access-barriers)
-• Maria Shriver wants you to quit ignoring your brain health, advocating for proactive strategies against Alzheimer's. Your future self will thank you. [Read more](https://www.healthline.com/health-news/maria-shriver-alzheimers-disease-awareness)
+• The first-ever Healthline Awards for credible health and wellness products just launched. Good to know someone is vetting the endless sea of "wellness" items out there. [Read more](https://www.healthline.com/health-news/2026-healthline-awards-fullspan-health)
+• New research links ultra-processed foods to a higher risk of multiple diseases and death, which is your daily reminder to maybe skip that packet of chips. Genuinely important for daily choices. [Read more](https://www.healthline.com/health-news/ultra-processed-higher-risk-multiple-diseases-death)
 
 ## 🇮🇳 India
-• India's elections are facing unprecedented scrutiny, with their democratic legitimacy now openly questioned. This is big, Sidra. Really big. [Read more](https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny)
-• Bihar's Tejashwi Yadav flat-out accused the Election Commission of undermining democracy by excluding voters, demanding recent election cancellations. The plot thickens. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/tejashwi-yadav-says-ec-reduced-to-tool-for-undermining-democracy-gyanesh-kumar-election-commission/articleshow/134479794.cms)
-• Meanwhile, PM Modi is busy hailing a 'hero pilot' for preventing a 9/11-style attack, reminding everyone of national pride amidst the political turbulence. [Read more](https://www.ndtv.com/india-news/flydubai-flight-omani-co-pilot-indian-captain-indian-prevented-9-11-style-attack-pm-modi-reiterates-netanyahus-praise-for-hero-pilot-smit-machchhar-12123734#publisher=newsstand)
+• India under Modi is now openly challenging Trump on "terrorism" and tariffs, a sharp pivot after months of diplomatic dancing. This is genuinely important as it signals a more assertive stance on the global stage. [Read more](https://www.aljazeera.com/news/2026/10/1/modis-india-takes-on-trump-more-openly-from-terrorism-to-tariffs)
+• The legitimacy of India's elections is under "unprecedented scrutiny," which is a big deal for the world's largest democracy. This is important because it questions the very foundation of its democratic claims. [Read more](https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny)
+• PM Modi personally called Captain Smit Machchaar, the hero pilot of the recent Flydubai incident, praising his courage. A nice human-interest story and a good PR moment for the PM. [ref:3, ref:4, ref:8]
 
-TODAY'S TAKEAWAY: The integrity of India's democracy is under serious fire, overshadowing everything else.
+TODAY'S TAKEAWAY: India's political landscape is making waves both internally and on the world stage, so keep an eye on Delhi.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 08:07 UAE time
+Generated at 07:49 UAE time
