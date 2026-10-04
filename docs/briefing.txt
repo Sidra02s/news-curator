@@ -1,33 +1,33 @@
 
        SIDRA'S MORNING BRIEFING
-       Saturday, October 03, 2026
+       Sunday, October 04, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Russia's latest missile attacks have targeted Kyiv's bridges, creating widespread traffic chaos, which means getting around Ukraine's capital just got even harder. [Read more](https://www.theguardian.com/world/2026/oct/03/ukraine-war-briefing-russian-attacks-on-kyiv-bridges-cause-traffic-chaos)
-• India is starting to publicly push back against Trump's policies, showing a growing assertiveness on the global stage, which could make for some interesting headlines if he runs again. [Read more](https://www.aljazeera.com/news/2026/10/1/modis-india-takes-on-trump-more-openly-from-terrorism-to-tariffs)
+• Spain is on fire, literally, with tens of thousands protesting a severe housing crisis. Looks like the struggle for affordable living is universal. [Read more](https://www.theguardian.com/world/2026/oct/03/spain-housing-protest)
+• Russia's war in Ukraine just got even more insidious, with reports of them incinerating novels and destroying warehouses of Ukrainian books. It's a war on culture. [Read more](https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books)
+• Brace yourself for the usual online garbage: antisemitic conspiracy theories are buzzing, claiming Israel faked a recent Flydubai terror attack. Ignore it. [Read more](https://www.breitbart.com/middle-east/2026/10/02/antisemitic-conspiracy-theories-claim-israel-faked-flydubai-terror-attack/)
 
 ## 🤖 Tech & AI
-• Apple is getting serious about AI security, tightening Mac disk access because those clever AI agents are getting *too* clever and could snoop on your files. Better safe than sorry. [Read more](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents)
-• AI chatbots are apparently deleting hijabs from images of Muslim women when prompted, which is not just problematic but a glaring example of AI's cultural bias problem. Time for some serious ethical programming. [Read more](https://www.theguardian.com/technology/2026/oct/01/ai-chatbots-hijabs-muslim-women)
-• Tokyo Metro is using AI and floor projections to guide commuters to less crowded train cars, a smart, sci-fi solution to that daily crush we all dread. [Read more](https://newsonjapan.com/article/150928.php)
-
-## 💄 Fashion & Beauty
-• Heads up if you're on GLP-1 weight loss drugs: new data suggests a link to increased risk of nail detachment. Maybe just stick to the gym for now. [Read more](https://www.allure.com/story/glp-1-nail-detachment-new-study)
+• Apple is tightening security on Macs, limiting disk access because AI agents are apparently becoming a serious risk. Good, because we need less chaos, not more. [Read more](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents)
+• OpenAI is not having a great week: a safety leader just quit, blasting the company's "broken" culture, and they've disclosed another government hack in Australia. Not exactly inspiring confidence. [Read more](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken) [Read more](https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia)
+• Jack Dorsey's Bitchat has been unceremoniously yanked from Indian app stores thanks to a government order. Another app bites the dust. [Read more](https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/)
 
 ## 💪 Health & Wellness
-• A major new study confirms that piling on the ultra-processed foods significantly ups your risk for multiple diseases and even death. Seriously, put down that packet of chips. [Read more](https://www.healthline.com/health-news/ultra-processed-higher-risk-multiple-diseases-death)
-• Indian scientists are finally diving into the genetic links for endometriosis in Indian women, even stumbling upon a potential thyroid connection – huge for better diagnosis and treatment. [Read more](https://thesouthfirst.com/health/scientists-chase-endometriosis-genes-in-indian-women-stumble-upon-a-thyroid-connection/)
+• The inaugural Healthline Awards for vetted health and wellness products are here. Maybe now we can actually trust some of these wellness trends? [Read more](https://www.healthline.com/health-news/2026-healthline-awards-fullspan-health)
+• Bad news for your snack drawer: new research confirms ultra-processed foods are strongly linked to multiple diseases and even death. Stick to whole foods, Sidra. [Read more](https://www.healthline.com/health-news/ultra-processed-higher-risk-multiple-diseases-death)
+• Indian scientists chasing endometriosis genes found a surprising connection to thyroid issues. Important work, especially given India's high caseload. [Read more](https://thesouthfirst.com/health/scientists-chase-endometriosis-genes-in-indian-women-stumble-upon-a-thyroid-connection/)
 
 ## 🇮🇳 India
-• India's elections are facing unprecedented scrutiny, with opposition leaders accusing the Election Commission of undermining democracy by excluding voters and questioning results. This is a big deal for India's democratic image. [Read more](https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny)
-• The ruling BJP is hitting back hard, calling Rahul Gandhi a "pre-eminent fraudster" for his claims about voter registration issues, proving election season mudslinging is alive and well. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhi-is-pre-eminent-fraudster-in-indian-politics-bjp/articleshow/134613343.cms)
+• Modi's India is finally taking a more direct stance against Trump, challenging him on everything from "terrorism" to tariffs. The gloves are off. [Read more](https://www.aljazeera.com/news/2026/10/1/modis-india-takes-on-trump-more-openly-from-terrorism-to-tariffs)
+• With a potential US-China thaw, India might see its leverage on the global stage shift. Geopolitics, always keeping us on our toes. [Read more](https://economictimes.indiatimes.com/news/morning-brief-podcast/morning-brief-podcast-us-china-thaw-and-indias-leverage/podcast/134630084.cms)
+• The BJP is back to its usual antics, calling Rahul Gandhi a "pre-eminent fraudster" over claims of voter registration form alterations. Tuesday, isn't it? [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhi-is-pre-eminent-fraudster-in-indian-politics-bjp/articleshow/134613343.cms)
 
-TODAY'S TAKEAWAY: AI is the undisputed main character today, both saving and potentially sabotaging your digital life, and even showing some troubling biases.
+TODAY'S TAKEAWAY: AI's promise is being overshadowed by its security risks and the internal chaos at OpenAI, while India navigates tricky political waters both domestically and internationally.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 07:24 UAE time
+Generated at 07:39 UAE time
