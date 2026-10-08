@@ -1,32 +1,33 @@
 
        SIDRA'S MORNING BRIEFING
-       Wednesday, October 07, 2026
+       Thursday, October 08, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• It's Putin's birthday, and Ukraine marked it with a "vile" attack, leaving at least 11 dead. This isn't just news; it's a stark reminder that the war is very much alive and kicking. [Read more](https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates)
-• Three years on, Israel is still reeling from the Oct 7th Hamas attack, a somber anniversary highlighting persistent regional instability. History often repeats, or at least keeps playing its greatest hits. [Read more](https://www.theguardian.com/world/live/2026/oct/07/israel-october-7-anniversary-hamas-gaza-netanyahu-iran-latest-news-updates)
-• Good news for once: the WHO says Russia's plague risk is low after a lab tech died. No medieval pandemics today, thank goodness. [Read more](https://www.theguardian.com/world/2026/oct/06/plague-epidemic-risk-russia-low-death-darya-shipilova-who)
+• Ukraine is still reeling from "vile" Russian attacks, with Zelenskyy condemning the latest strikes that killed 20 in a single apartment building. This tragic conflict keeps dragging on, costing countless lives. [Read more](https://www.theguardian.com/world/2026/oct/08/ukraine-war-briefing-zelenskyy-condemns-vile-attacks-from-russia-that-killed-20-in-one-apartment)
+• A tanker was attacked off Qatar and Iran is threatening to shut down the Strait of Hormuz, a critical oil shipping route. This is genuinely important as it could send global oil prices soaring and destabilize the region further. [Read more](https://www.theguardian.com/world/2026/oct/08/tanker-attacked-qatar-coast-strait-of-hormuz-iran-oil-price)
+• Palestinians in Gaza are still living through disease, despair, and ruins, caught between neither war nor peace. The humanitarian crisis remains dire. [Read more](https://www.theguardian.com/world/2026/oct/07/palestinians-gaza-existing-amid-disease-despair-ruins)
 
 ## 🤖 Tech & AI
-• Donald Trump is making it clear that his political future is now deeply entwined with AI, which means prepare for more wild claims powered by algorithms. Fun times ahead, or utter chaos? [Read more](https://www.theguardian.com/technology/2026/oct/05/trump-power-ai-techscape)
-• OpenAI is apologizing for botching an Australian hack, trying to rebuild trust in a market they desperately want for data centers. Classic Silicon Valley: break things, then say sorry, then ask for more money. [Read more](https://www.rte.ie/news/business/2026/1006/1594158-openai-sorry-for-australia-hack-wants-to-rebuild-trust/)
-• The EU is still debating if its shiny new AI rules are actually enough to protect citizens from rogue bots and societal collapse. Spoiler: probably not, but at least they're trying. [Read more](https://www.thelocal.com/20261006/are-the-eus-new-rules-on-ai-enough-to-protect-europeans)
+• Remember that nightmare scenario? It's getting real: AI giant Anthropic found users trying to enhance pathogens with their AI. This is CRITICALLY important because AI-designed bioweapons are a terrifying, immediate risk. [Read more](https://warontherocks.com/how-to-defend-against-ai-designed-viruses/)
+• Atlassian is pushing for closer human-AI collaboration with its new Agentic Multiplayer Protocol, aiming for AI agents and people to work side-by-side. Get ready for your next coworker to be code. [Read more](https://siliconangle.com/2026/10/07/atlassian-lays-the-groundwork-for-humans-and-ai-agents-to-work-side-by-side/)
+• Trump is increasingly tying his power to AI, which is a bit concerning given his track record with, well, reality. It signals a future where AI influence in politics might be unavoidable. [Read more](https://www.theguardian.com/technology/2026/oct/05/trump-power-ai-techscape)
 
 ## 💪 Health & Wellness
-• For those on GLP-1s, new research suggests sticking with and increasing your Ozempic dose might offer better heart protection than jumping ship to Mounjaro. Your doctor will have thoughts, but it's worth noting. [Read more](https://www.healthline.com/health-news/increase-ozempic-dose-lower-heart-events-mounjaro)
-• Indian scientists are digging into endometriosis genes and found a curious thyroid connection, potentially paving the way for better diagnosis and treatment for women who are often overlooked. This is genuinely important research. [Read more](https://thesouthfirst.com/health/scientists-chase-endometriosis-genes-in-indian-women-stumble-upon-a-thyroid-connection/)
+• For those on weight-loss drugs: new research suggests increasing your Ozempic dose offers better heart protection than switching to Mounjaro. Good to know the specifics matter. [Read more](https://www.healthline.com/health-news/increase-ozempic-dose-lower-heart-events-mounjaro)
+• Indian scientists are finally chasing endometriosis genes in local women and found a potential link to thyroid issues. This is a big deal for understanding and treating a condition that impacts so many. [Read more](https://thesouthfirst.com/health/scientists-chase-endometriosis-genes-in-indian-women-stumble-upon-a-thyroid-connection/)
+• A global study confirms what many women already know: we experience pain more often than men, with prevalence increasing fastest before age 55. Validating, but also, fix it already! [Read more](https://www.healthline.com/health-news/pain-more-prevalent-women-increases-before-55)
 
 ## 🇮🇳 India
-• Modi's been busy: he's deepening strategic ties with Egypt over the Mecca Pact, proving India's global footprint is expanding faster than your Netflix watchlist. [Read more](https://economictimes.indiatimes.com/news/international/world-news/egypt-navigates-mecca-pact-steps-up-ties-with-india/articleshow/134663731.cms)
-• In domestic news, the INDIA Bloc leaders Rahul Gandhi and Priyanka are facing a case for "forced entry" into Akashvani Bhawan. Politics as usual, making headlines for all the wrong reasons. [Read more](https://www.ndtv.com/india-news/live-updates-india-bloc-marches-to-poll-body-office-demands-gyanesh-kumars-resignation-12144166#publisher=newsstand)
-• India is playing a master class in geopolitics, leveraging a thawing US-China relationship after Xi met both Modi and Trump. Suddenly, India holds more cards than previously thought. [Read more](https://economictimes.indiatimes.com/news/morning-brief-podcast/morning-brief-podcast-us-china-thaw-and-indias-leverage/podcast/134630084.cms)
+• Elon Musk claims India is discriminating against Starlink by holding up its launch, but India's just asking for security clearance. Classic Musk vs. the world, honestly. [Read more](https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/)
+• India and Egypt are strengthening their strategic ties, with discussions between Modi and Sisi focusing on the Mecca Pact. Global alliances are shifting, and India is right in the mix. [Read more](https://economictimes.indiatimes.com/news/international/world-news/egypt-navigates-mecca-pact-steps-up-ties-with-india/articleshow/134663731.cms)
+• The INDIA Bloc is back to protesting in Delhi, leading to heightened security and even a scuffle where a man was thrashed for raising a pro-Modi slogan. Politics in India remains, shall we say, spirited. [Read more](https://www.ndtv.com/india-news/opposition-protest-gyanesh-kumar-eat-protest-repeat-moets-rajghat-trip-on-india-blocs-day-3-agenda-12155208#publisher=newsstand), [Read more](https://www.ndtv.com/india-news/man-thrashed-for-raising-pro-modi-slogan-at-opposition-protest-in-delhi-12155344#publisher=newsstand)
 
-TODAY'S TAKEAWAY: India is making big moves on the global stage while the rest of the world grapples with ongoing conflict and the ever-present AI question marks.
+TODAY'S TAKEAWAY: The potential for AI's misuse, especially in truly terrifying ways, is no longer theoretical and demands our immediate, serious attention.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 08:00 UAE time
+Generated at 08:16 UAE time
