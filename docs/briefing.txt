@@ -1,31 +1,29 @@
 
        SIDRA'S MORNING BRIEFING
-       Sunday, October 11, 2026
+       Monday, October 12, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Trump is back on his favorite soapbox, now demanding a "new leader" for Ukraine after a spat with Zelenskyy over a Russian fuel deal. It's giving major pre-election drama. [ref:5, 10]
+• Trump declared a "partial ceasefire" in Ukraine, which was immediately shot down by Zelenskyy and quickly violated by Russia. Sounds like someone’s just trying to score political points without consulting anyone actually fighting. [ref:3, 5, 11]
+• The Middle East situation continues its dreary march, with Houthi attacks reportedly hitting Riyadh airport again. Just when you thought things couldn’t get more unstable. [Read more](https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates)
 
 ## 🤖 Tech & AI
-• Microsoft's Satya Nadella is sounding the alarm, stating we should just assume all advanced AI models are "compromised" and need an "emergency brake." This is genuinely important because it comes from an industry leader, signaling serious underlying concerns. [ref:1, 4]
-• Google is trying to combat the deepfake deluge, rolling out expanded access to its SynthID Detector to spot AI-generated images and video. A small win for truth in the digital age. [Read more](https://punchng.com/google-expands-access-to-ai-detector-for-images-videos/)
-• Elon Musk just can't quit a fight, now accusing Mukesh Ambani of blocking Starlink's launch in India. Because who needs regulation when you have Twitter rants, right? [Read more](https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/)
+• Get this: Microsoft's president says AI is less regulated than *milk*. Given how fast it's evolving, that's not just a concern, it's a terrifying thought. [Read more](https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules)
+• And because we can't have nice things, Silicon Valley is actually going along with Trump’s idea to rename AI "super intelligence." Call it what you want, it's still unregulated. [Read more](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai)
 
 ## 💪 Health & Wellness
-• New research suggests sticking with a higher Ozempic dose might offer better heart protection than jumping ship to Mounjaro. Good to know if you're navigating the GLP-1 maze. [Read more](https://www.healthline.com/health-news/increase-ozempic-dose-lower-heart-events-mounjaro)
-• For those managing weight post-GLP-1s, structured support like wellness apps and tailored meals appear to slow regain. Turns out, lifestyle still matters. [Read more](https://www.healthline.com/health-news/wellness-apps-medically-tailored-meals-slow-weight-gain-after-glp-1s)
-• Indian scientists are digging into endometriosis genes in women, finding a surprising link to thyroid issues. This is a big deal for understanding and treating a condition that heavily impacts Indian women. [Read more](https://thesouthfirst.com/health/scientists-chase-endometriosis-genes-in-indian-women-stumble-upon-a-thyroid-connection/)
+• For those tracking weight-loss drugs, new research suggests sticking with and increasing your Ozempic dose might offer better heart protection than switching to Mounjaro. Good to know the science is still sorting itself out. [Read more](https://www.healthline.com/health-news/increase-ozempic-dose-lower-heart-events-mounjaro)
 
 ## 🇮🇳 India
-• Watch out for Neha Bora, a feisty Gen Z protester who's become a fresh face taking on Modi. This is exactly the kind of grassroots energy to keep an eye on. [Read more](https://www.bbc.co.uk/news/articles/c5n49xln3lz0o)
-• BJP scored significant bypoll victories, with Amit Shah predictably slamming Rahul Gandhi for "lies and confusion." Same old politics, different day, but the wins show continued BJP strength. [Read more](https://economictimes.indiatimes.com/news/india/bjp-winning-despite-rahul-gandhis-lies-confusion-and-malicious-propaganda-says-amit-shah-after-bypoll-victories/articleshow/134837216.cms)
-• Modi and CM Vijay just inaugurated Chennai Metro Rail’s Phase 2, a shiny new infrastructure win for Tamil Nadu. Someone's getting a new commute. [Read more](https://www.thehindu.com/news/cities/chennai/chennai-metro-phase-two-inauguration-poonamallee-vadapalani-narendra-modi-visit-schedule-cm-vijay-meeting-live-updates/article71570613.ece)
+• A feisty Gen Z protester, Neha Bora, is making waves against Modi, proving that the youth aren’t staying silent. We love to see it. [Read more](https://www.bbc.co.uk/news/articles/c5n49xln3lz0o)
+• Mamata Banerjee and TMC MPs were detained during a protest, leading TMC to declare a "Super Emergency." Classic Indian political drama, always keeping things spicy. [Read more](https://timesofindia.indiatimes.com/city/delhi/what-are-you-so-scared-of-tmc-calls-mamatas-detention-a-super-emergency-targets-pm-narendra-modi/articleshow/134852312.cms)
+• The BJP is slamming Rahul Gandhi for trying to meet the Chief Justice, saying he's dragging constitutional institutions into politics. Basically, another day, another political spat. [Read more](https://www.thehindu.com/news/national/bjp-slams-rahul-over-cji-request-meeting-says-constitutional-institutions-cant-be-dragged-into-political-theatrics/article71574013.ece)
 
-TODAY'S TAKEAWAY: The AI industry's own leaders are telling us to assume the worst and hit the brakes. Time to pay attention.
+TODAY'S TAKEAWAY: While Trump is playing make-believe with ceasefires, the real news is that AI is running wild with almost zero regulation.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 08:06 UAE time
+Generated at 08:23 UAE time
