@@ -1,29 +1,34 @@
 
        SIDRA'S MORNING BRIEFING
-       Monday, October 12, 2026
+       Tuesday, October 13, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Trump declared a "partial ceasefire" in Ukraine, which was immediately shot down by Zelenskyy and quickly violated by Russia. Sounds like someone’s just trying to score political points without consulting anyone actually fighting. [ref:3, 5, 11]
-• The Middle East situation continues its dreary march, with Houthi attacks reportedly hitting Riyadh airport again. Just when you thought things couldn’t get more unstable. [Read more](https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates)
+• Andy Burnham is making waves, hinting at a potential UK return to a closer EU relationship. The Brexit drama, it seems, never truly ends. [Read more](https://www.theguardian.com/world/2026/oct/13/tuesday-briefing-could-burnham-take-britain-back-towards-the-eu)
 
 ## 🤖 Tech & AI
-• Get this: Microsoft's president says AI is less regulated than *milk*. Given how fast it's evolving, that's not just a concern, it's a terrifying thought. [Read more](https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules)
-• And because we can't have nice things, Silicon Valley is actually going along with Trump’s idea to rename AI "super intelligence." Call it what you want, it's still unregulated. [Read more](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai)
+• Microsoft's president is sounding the alarm again, stating AI is less regulated than milk – a genuinely important point we keep hearing but see little action on. [Read more](https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules)
+• Capital crunch is looming as Intel and Broadcom CEOs warn funding might be AI's next big bottleneck. Who knew even tech giants needed more cash? [Read more](https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html)
+• On a brighter note, an AI startup can now whip up permit-ready blueprints in minutes, which is either genius or terrifying for traditional architects. [Read more](https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/)
+
+## 💄 Fashion & Beauty
+• Gen Z is bringing back the tie. Yes, seriously. Get ready for a smartening up, or just shake your head at the whims of fashion. [Read more](https://www.theguardian.com/fashion/2026/oct/07/ties-fashion-gen-z)
 
 ## 💪 Health & Wellness
-• For those tracking weight-loss drugs, new research suggests sticking with and increasing your Ozempic dose might offer better heart protection than switching to Mounjaro. Good to know the science is still sorting itself out. [Read more](https://www.healthline.com/health-news/increase-ozempic-dose-lower-heart-events-mounjaro)
+• Good news for those on GLP-1s: wellness apps and tailored meals can help you keep the weight off once you stop. Structured support for the win. [Read more](https://www.healthline.com/health-news/wellness-apps-medically-tailored-meals-slow-weight-gain-after-glp-1s)
+• Finally, some focused research on endometriosis in Indian women, uncovering a thyroid connection. It's about time this under-studied area gets attention. [Read more](https://thesouthfirst.com/health/scientists-chase-endometriosis-genes-in-indian-women-stumble-upon-a-thyroid-connection/)
+• A new study confirms what many women already know: pain is more prevalent in women and escalates faster before age 55. We didn't need a study for this, but okay. [Read more](https://www.healthline.com/health-news/pain-more-prevalent-women-increases-before-55)
 
 ## 🇮🇳 India
-• A feisty Gen Z protester, Neha Bora, is making waves against Modi, proving that the youth aren’t staying silent. We love to see it. [Read more](https://www.bbc.co.uk/news/articles/c5n49xln3lz0o)
-• Mamata Banerjee and TMC MPs were detained during a protest, leading TMC to declare a "Super Emergency." Classic Indian political drama, always keeping things spicy. [Read more](https://timesofindia.indiatimes.com/city/delhi/what-are-you-so-scared-of-tmc-calls-mamatas-detention-a-super-emergency-targets-pm-narendra-modi/articleshow/134852312.cms)
-• The BJP is slamming Rahul Gandhi for trying to meet the Chief Justice, saying he's dragging constitutional institutions into politics. Basically, another day, another political spat. [Read more](https://www.thehindu.com/news/national/bjp-slams-rahul-over-cji-request-meeting-says-constitutional-institutions-cant-be-dragged-into-political-theatrics/article71574013.ece)
+• Young India is speaking up: Neha Bora is emerging as a powerful Gen Z voice in protests against Modi. Fresh blood, indeed. [Read more](https://www.bbc.co.uk/news/articles/c5n49xln3lz0o)
+• Home Minister Amit Shah is talking big on the diplomatic front at BIMSTEC, claiming India believes in peace, not supremacy. Let's see if actions match the rhetoric. [Read more](https://www.thehindu.com/news/national/union-home-minister-amit-shah-bimstec-meeting-on-october-13-2026/article71578323.ece)
+• The political pot is boiling: TMC is calling Mamata Banerjee's detention a "Super Emergency" after she and other MPs were held during a protest. Never a dull moment. [Read more](https://timesofindia.indiatimes.com/city/delhi/what-are-you-so-scared-of-tmc-calls-mamatas-detention-a-super-emergency-targets-pm-narendra-modi/articleshow/134852312.cms)
 
-TODAY'S TAKEAWAY: While Trump is playing make-believe with ceasefires, the real news is that AI is running wild with almost zero regulation.
+TODAY'S TAKEAWAY: AI's future is a battle between regulation, funding, and disruptive innovation, while India's political landscape continues its usual high-drama performance.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 08:23 UAE time
+Generated at 08:50 UAE time
