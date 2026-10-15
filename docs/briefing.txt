@@ -1,30 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Wednesday, October 14, 2026
+       Thursday, October 15, 2026
 -----------------------------
 
 
-## 🌍 World & Politics
-• Zelenskyy is furious, claiming allies failed to warn Kyiv about recent Russian ballistic missile strikes. It’s a bad look and points to a major intel failure. [Read more](https://www.theguardian.com/world/2026/oct/14/ukraine-war-briefing-zelenskyy-decries-absolutely-unjust-lack-of-warning-from-allies-after-kyiv-plant-strike)
-• The Middle East is heating up again: Saudi Arabia bombed oil depots in Yemen following reports of missiles launched towards their Aramco HQ. Tensions, as usual, are sky-high. [Read more](https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital)
+🌍 World & Politics
+• UK is throwing £17 million at Chornobyl repairs, but there's a looming fear that US support for Ukraine might be drying up. Keep an eye on that. [Read more](https://www.theguardian.com/world/2026/oct/15/ukraine-war-briefing-uk-pledges-17m-to-repair-chornobyl-attack-damage-amid-fears-of-slipping-us-support)
+• SpaceX's military-grade Starlink, Starshield, might be facing restrictions, which could seriously impact Ukraine's battleground comms. [Read more](https://www.theguardian.com/world/2026/oct/15/starshield-starlink-ukraine-restriction-explained)
 
-## 🤖 Tech & AI
-• Your AI bill is about to get gnarly: Companies like Zoho are freezing pay and cutting marketing due to skyrocketing AI infrastructure costs, making cloud bills look like pocket change. [ref:1, ref:10]
-• Not great news: Anthropic confirmed its Claude AI was used by Houthis to develop guided weapons. AI isn't just optimizing spreadsheets; it's building bombs. [Read more](https://www.naturalnews.com/2026-10-13-anthropic-houthis-used-claude-develop-guided-weapons.html)
-• Apple's latest smart home devices are rolling out with an upgraded Siri, perhaps finally making your smart home actually smart, or at least less annoying. [Read more](https://www.theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai)
+🤖 Tech & AI
+• The AI race is back on! Google has surprisingly re-entered the chat, challenging OpenAI and Anthropic's perceived dominance. Game on, I guess. [Read more](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on)
+• Your AI bill is probably astronomical, eclipsing cloud spend and causing a major cost crisis. Startups like Ricursive are trying to fix this by having AI design its own chips, which is both brilliant and terrifying. [ref:4, ref:3]
+• McKinsey is now making job applicants argue with a fake AI client. Welcome to the future of hiring, it's just as awkward as you'd imagine. [Read more](https://www.theverge.com/news/1011654/mckinsey-ai-client-interview)
 
-## 💪 Health & Wellness
-• A new study links PMOS (formerly PCOS) to an increased risk of Alzheimer's disease. Another reason to keep a close eye on women's metabolic health. [Read more](https://www.healthline.com/health-news/pmos-pcos-may-be-associated-alzheimers-disease-risk)
+💪 Health & Wellness
+• Google is officially in your cycle: They've invested in the Flo period tracking app and are planning women's health wearables. Big implications for personalized data, and privacy. [Read more](https://thenextweb.com/news/google-flo-health-investment-womens-health-wearables)
+• PMOS (formerly PCOS, remember?) is now being linked to an increased risk of Alzheimer's. Yet another reason to take women's metabolic health seriously. [Read more](https://www.healthline.com/health-news/pmos-pcos-may-be-associated-alzheimers-disease-risk)
 
-## 🇮🇳 India
-• Modi's government is in crisis mode: Mamata Banerjee and other TMC MPs were detained during protests, sparking outrage and comparisons to a "Super Emergency." This is a major power play. [Read more](https://timesofindia.indiatimes.com/city/delhi/what-are-you-so-scared-of-tmc-calls-mamatas-detention-a-super-emergency-targets-pm-narendra-modi/articleshow/134852312.cms)
-• Adding fuel to the fire, a "Cockroach" uprising—fueled by unemployment and corruption scandals—is seriously challenging Modi's administration. This isn't just an internet joke anymore; it's a movement. [ref:9, ref:15]
-• Amidst the domestic chaos, Jaishankar is busy on the global stage, affirming India's steady ties with Russia despite Western pressure and firmly telling China to keep its boundaries stable. A delicate balancing act, indeed. [ref:2, ref:4]
+🇮🇳 India
+• Modi's government is genuinely rattled by the youth-led "Cockroach" uprising against the election chief, with leaders arrested and thousands detained. This is a massive political earthquake. [ref:2, ref:10]
+• These crucial protests, fueled by unemployment and dodgy electoral rolls, are heading to the Supreme Court today. This is important. [Read more](https://www.thehindu.com/news/national/anti-cec-sir-protest-live-updates-oct-15-2026-rahul-gandhi-india-bloc/article71586459.ece)
+• Meanwhile, Amit Shah is confidently predicting a crushing defeat for the opposition in 2029, basically telling everyone to chill out. Bold. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/oppn-heading-for-crushing-defeat-again-in-2029-elections-says-amit-shah/articleshow/134926055.cms)
 
-TODAY'S TAKEAWAY: AI's cost and misuse are becoming major global issues, while India's political stability is facing its toughest test in years.
+TODAY'S TAKEAWAY: From the streets of India to the halls of tech, the powerful are being tested by new forces.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:59 UAE time
+Generated at 06:49 UAE time
