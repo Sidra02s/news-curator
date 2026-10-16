@@ -1,31 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Thursday, October 15, 2026
+       Friday, October 16, 2026
 -----------------------------
 
 
-🌍 World & Politics
-• UK is throwing £17 million at Chornobyl repairs, but there's a looming fear that US support for Ukraine might be drying up. Keep an eye on that. [Read more](https://www.theguardian.com/world/2026/oct/15/ukraine-war-briefing-uk-pledges-17m-to-repair-chornobyl-attack-damage-amid-fears-of-slipping-us-support)
-• SpaceX's military-grade Starlink, Starshield, might be facing restrictions, which could seriously impact Ukraine's battleground comms. [Read more](https://www.theguardian.com/world/2026/oct/15/starshield-starlink-ukraine-restriction-explained)
+## 🌍 World & Politics
+• Yemen's former PM says the civil war there is now directly threatening western security. Just what the world needed, another conflict hotspot with global reach. [Read more](https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm)
+• Trump is about to drop the hammer on India with tariffs, thanks to their Russian oil habit. Brace for potential economic fallout, because Trump doesn't bluff on these things. [Read more](https://economictimes.indiatimes.com/news/india/russia-sanctions-bill-oil-crude-trump-may-decide-indias-fate-over-100-tariff-risk-within-the-next-10-days/articleshow/134958457.cms)
 
-🤖 Tech & AI
-• The AI race is back on! Google has surprisingly re-entered the chat, challenging OpenAI and Anthropic's perceived dominance. Game on, I guess. [Read more](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on)
-• Your AI bill is probably astronomical, eclipsing cloud spend and causing a major cost crisis. Startups like Ricursive are trying to fix this by having AI design its own chips, which is both brilliant and terrifying. [ref:4, ref:3]
-• McKinsey is now making job applicants argue with a fake AI client. Welcome to the future of hiring, it's just as awkward as you'd imagine. [Read more](https://www.theverge.com/news/1011654/mckinsey-ai-client-interview)
+## 🤖 Tech & AI
+• Even top-tier VCs like Benchmark are admitting that AI is nuking the Silicon Valley unspoken rule about not backing rival companies. The Wild West just got wilder. [Read more](https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/)
+• Your biggest cyber nightmare just got an upgrade: over 80% of ransomware attacks are now weaponizing AI. Time to update everything, again. [Read more](https://www.naturalnews.com/2026-10-15-ai-tools-linked-rise-in-ransomware-attacks.html)
+• Amazon's device guru believes AI will make apps obsolete, with devices anticipating your every need. Less tapping, more mind-reading, apparently. [Read more](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/)
 
-💪 Health & Wellness
-• Google is officially in your cycle: They've invested in the Flo period tracking app and are planning women's health wearables. Big implications for personalized data, and privacy. [Read more](https://thenextweb.com/news/google-flo-health-investment-womens-health-wearables)
-• PMOS (formerly PCOS, remember?) is now being linked to an increased risk of Alzheimer's. Yet another reason to take women's metabolic health seriously. [Read more](https://www.healthline.com/health-news/pmos-pcos-may-be-associated-alzheimers-disease-risk)
+## 💪 Health & Wellness
+• Heads up, PMOS (aka your old friend PCOS) is now linked to an increased risk of Alzheimer's. Another metabolic marker to keep firmly on your radar. [Read more](https://www.healthline.com/health-news/pmos-pcos-may-be-associated-alzheimers-disease-risk)
+• Google just made a major play in women's health, strategically investing in period tracker Flo to integrate data into wearables. Your cycle is officially going mainstream and smart. [ref:13, ref:15]
+• For those coming off GLP-1s, good news: support systems like wellness apps are proving key to maintaining weight loss. Don't go it alone. [Read more](https://www.healthline.com/health-news/wellness-apps-medically-tailored-meals-slow-weight-gain-after-glp-1s)
 
-🇮🇳 India
-• Modi's government is genuinely rattled by the youth-led "Cockroach" uprising against the election chief, with leaders arrested and thousands detained. This is a massive political earthquake. [ref:2, ref:10]
-• These crucial protests, fueled by unemployment and dodgy electoral rolls, are heading to the Supreme Court today. This is important. [Read more](https://www.thehindu.com/news/national/anti-cec-sir-protest-live-updates-oct-15-2026-rahul-gandhi-india-bloc/article71586459.ece)
-• Meanwhile, Amit Shah is confidently predicting a crushing defeat for the opposition in 2029, basically telling everyone to chill out. Bold. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/oppn-heading-for-crushing-defeat-again-in-2029-elections-says-amit-shah/articleshow/134926055.cms)
+## 🇮🇳 India
+• Modi's government is facing a fierce new wave of youth-led "Cockroach" protests over election integrity and unemployment, leading to a serious crackdown and mass detentions in Delhi. This is a big deal, not just street noise. [ref:2, ref:6, ref:12]
+• These protests are tapping into a deep history of popular uprisings in India, proving dissent against the government is a long-standing tradition. [Read more](https://www.aljazeera.com/news/2026/10/13/how-protests-have-shaped-india-from-anti-hindi-agitation-to-farm-laws)
 
-TODAY'S TAKEAWAY: From the streets of India to the halls of tech, the powerful are being tested by new forces.
+TODAY'S TAKEAWAY: India is boiling over with protests while the global tech scene redefines everything you thought you knew about investment and cyber security.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:49 UAE time
+Generated at 06:38 UAE time
