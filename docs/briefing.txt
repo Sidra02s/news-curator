@@ -1,31 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Friday, October 16, 2026
+       Saturday, October 17, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Yemen's former PM says the civil war there is now directly threatening western security. Just what the world needed, another conflict hotspot with global reach. [Read more](https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm)
-• Trump is about to drop the hammer on India with tariffs, thanks to their Russian oil habit. Brace for potential economic fallout, because Trump doesn't bluff on these things. [Read more](https://economictimes.indiatimes.com/news/india/russia-sanctions-bill-oil-crude-trump-may-decide-indias-fate-over-100-tariff-risk-within-the-next-10-days/articleshow/134958457.cms)
+• Putin is making power moves, declaring Russia is building a "non-negotiable security zone" inside Ukraine. Translation: more land grabbing, more conflict. [Read more](https://www.theguardian.com/world/2026/oct/17/ukraine-war-briefing-russia-building-non-negotiable-security-zone-inside-ukrainian-border-putin-declares)
+• Ukraine’s military is still fighting with inconsistent Starlink access, according to Zelenskyy. This ongoing issue is a serious handicap in their war effort. [Read more](https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy)
 
 ## 🤖 Tech & AI
-• Even top-tier VCs like Benchmark are admitting that AI is nuking the Silicon Valley unspoken rule about not backing rival companies. The Wild West just got wilder. [Read more](https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/)
-• Your biggest cyber nightmare just got an upgrade: over 80% of ransomware attacks are now weaponizing AI. Time to update everything, again. [Read more](https://www.naturalnews.com/2026-10-15-ai-tools-linked-rise-in-ransomware-attacks.html)
-• Amazon's device guru believes AI will make apps obsolete, with devices anticipating your every need. Less tapping, more mind-reading, apparently. [Read more](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/)
+• Vercel's new AI model, Jev, is reportedly their fastest-adopted ever, showing just how quickly these things are getting integrated into everything. Keep an eye on it. [Read more](https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/)
+• Workday's CEO predicts AI will scoop up low-cost jobs, but primarily within existing markets, not through outsourcing. So, the robots are coming for jobs closer to home. [Read more](https://economictimes.indiatimes.com/tech/artificial-intelligence/low-cost-jobs-will-be-taken-over-by-ai-most-worried-about-outsourced-ones-says-workday-chief/articleshow/134982288.cms)
+• Alert: India just reported rogue AI agent activity due to exposed credentials. This isn't theoretical anymore; secure your digital life. [Read more](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)
 
 ## 💪 Health & Wellness
-• Heads up, PMOS (aka your old friend PCOS) is now linked to an increased risk of Alzheimer's. Another metabolic marker to keep firmly on your radar. [Read more](https://www.healthline.com/health-news/pmos-pcos-may-be-associated-alzheimers-disease-risk)
-• Google just made a major play in women's health, strategically investing in period tracker Flo to integrate data into wearables. Your cycle is officially going mainstream and smart. [ref:13, ref:15]
-• For those coming off GLP-1s, good news: support systems like wellness apps are proving key to maintaining weight loss. Don't go it alone. [Read more](https://www.healthline.com/health-news/wellness-apps-medically-tailored-meals-slow-weight-gain-after-glp-1s)
+• Google is making a huge play in women's health, investing in the Flo period-tracking app and planning new wearables. This could finally bring some serious tech muscle to our unique health needs. [ref:10, ref:12, ref:15]
+• PMOS (formerly PCOS) is now being linked to an increased risk of Alzheimer's. If this applies to you, it's a critical new health connection to be aware of. [Read more](https://www.healthline.com/health-news/pmos-pcos-may-be-associated-alzheimers-disease-risk)
+• Beyond the pink ribbons, breast cancer patients need more support *after* treatment ends. It's a reminder that recovery is a long-term game. [Read more](https://www.healthline.com/health-news/breast-cancer-awareness-what-patients-need-when-treatment-ends)
 
 ## 🇮🇳 India
-• Modi's government is facing a fierce new wave of youth-led "Cockroach" protests over election integrity and unemployment, leading to a serious crackdown and mass detentions in Delhi. This is a big deal, not just street noise. [ref:2, ref:6, ref:12]
-• These protests are tapping into a deep history of popular uprisings in India, proving dissent against the government is a long-standing tradition. [Read more](https://www.aljazeera.com/news/2026/10/13/how-protests-have-shaped-india-from-anti-hindi-agitation-to-farm-laws)
+• India's government swiftly rejected a UN expert's report on youth facing retaliation for discussing mental health, calling it "hearsay." Sounds like they're not keen on airing that laundry. [Read more](https://www.thehindu.com/news/national/india-rejects-report-by-un-human-rights-expert-that-says-indian-youth-face-retaliation-terms-claims-as-hearsay/article71595548.ece)
+• BJP's Sarbananda Sonowal went full attack mode on Congress, labeling them a "seed of division" while hyping Modi. Just another day in the political mudslinging ring. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/sarbananda-sonowal-congress-is-the-seed-of-division-modi-is-the-architect-of-new-india/articleshow/134968998.cms)
+• A journalist was arrested in Delhi following protests, which unfortunately signals the ongoing tightening grip on public dissent in the country. [Read more](https://www.ndtv.com/india-news/cjps-abhijeet-dipke-under-preventive-arrest-aisa-chief-neha-bora-released-over-protests-in-delhi-12197504#publisher=newsstand)
 
-TODAY'S TAKEAWAY: India is boiling over with protests while the global tech scene redefines everything you thought you knew about investment and cyber security.
+TODAY'S TAKEAWAY: AI's impact is now less about "if" and more about "how fast it's replacing jobs and how easily it can be exploited."
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:38 UAE time
+Generated at 06:27 UAE time
