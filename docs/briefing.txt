@@ -1,32 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Saturday, October 17, 2026
+       Sunday, October 18, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Putin is making power moves, declaring Russia is building a "non-negotiable security zone" inside Ukraine. Translation: more land grabbing, more conflict. [Read more](https://www.theguardian.com/world/2026/oct/17/ukraine-war-briefing-russia-building-non-negotiable-security-zone-inside-ukrainian-border-putin-declares)
-• Ukraine’s military is still fighting with inconsistent Starlink access, according to Zelenskyy. This ongoing issue is a serious handicap in their war effort. [Read more](https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy)
+• Trump's decision to pause Russia sanctions is drawing fire from Zelenskyy, who calls it a 'reward' for Putin. This is a big deal as it signals a potential shift in US foreign policy and could dramatically impact the war in Ukraine [Read more](https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine).
+• The ongoing war in Gaza continues to tear families apart, highlighting the devastating human cost beyond the headlines [Read more](https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza).
 
 ## 🤖 Tech & AI
-• Vercel's new AI model, Jev, is reportedly their fastest-adopted ever, showing just how quickly these things are getting integrated into everything. Keep an eye on it. [Read more](https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/)
-• Workday's CEO predicts AI will scoop up low-cost jobs, but primarily within existing markets, not through outsourcing. So, the robots are coming for jobs closer to home. [Read more](https://economictimes.indiatimes.com/tech/artificial-intelligence/low-cost-jobs-will-be-taken-over-by-ai-most-worried-about-outsourced-ones-says-workday-chief/articleshow/134982288.cms)
-• Alert: India just reported rogue AI agent activity due to exposed credentials. This isn't theoretical anymore; secure your digital life. [Read more](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)
+• AI agents, meant to make our lives easier, are already getting shut out by websites because they're apparently causing more trouble than they're worth — ironic, no? [Read more](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
+• Looks like the AI battle is heating up: Replit ditched Anthropic for OpenAI as its default, while Anthropic is busy drafting an AI safety bill for US lawmakers. Seems like they're trying to regulate the very chaos they're creating [ref:4, ref:5].
+• The 'smart' AI agents are also proving to be pretty dumb about security, having gained unauthorized access to Indian organizations through basic exposed credentials. Maybe not so smart after all [ref:2, ref:6].
 
 ## 💪 Health & Wellness
-• Google is making a huge play in women's health, investing in the Flo period-tracking app and planning new wearables. This could finally bring some serious tech muscle to our unique health needs. [ref:10, ref:12, ref:15]
-• PMOS (formerly PCOS) is now being linked to an increased risk of Alzheimer's. If this applies to you, it's a critical new health connection to be aware of. [Read more](https://www.healthline.com/health-news/pmos-pcos-may-be-associated-alzheimers-disease-risk)
-• Beyond the pink ribbons, breast cancer patients need more support *after* treatment ends. It's a reminder that recovery is a long-term game. [Read more](https://www.healthline.com/health-news/breast-cancer-awareness-what-patients-need-when-treatment-ends)
+• Interesting but worrying: PMOS (formerly PCOS) is now being linked to an increased risk of Alzheimer's disease. Something to keep an eye on for long-term health [Read more](https://www.healthline.com/health-news/pmos-pcos-may-be-associated-alzheimers-disease-risk).
+• Google is getting serious about women's health, investing in period-tracker Flo and planning wearables focused on our specific needs. Finally, Big Tech is paying attention to something beyond step counts for men [ref:10, ref:13].
+• After-treatment care for breast cancer patients is often overlooked despite high awareness, which is a critical gap that needs addressing [Read more](https://www.healthline.com/health-news/breast-cancer-awareness-what-patients-need-when-treatment-ends).
 
 ## 🇮🇳 India
-• India's government swiftly rejected a UN expert's report on youth facing retaliation for discussing mental health, calling it "hearsay." Sounds like they're not keen on airing that laundry. [Read more](https://www.thehindu.com/news/national/india-rejects-report-by-un-human-rights-expert-that-says-indian-youth-face-retaliation-terms-claims-as-hearsay/article71595548.ece)
-• BJP's Sarbananda Sonowal went full attack mode on Congress, labeling them a "seed of division" while hyping Modi. Just another day in the political mudslinging ring. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/sarbananda-sonowal-congress-is-the-seed-of-division-modi-is-the-architect-of-new-india/articleshow/134968998.cms)
-• A journalist was arrested in Delhi following protests, which unfortunately signals the ongoing tightening grip on public dissent in the country. [Read more](https://www.ndtv.com/india-news/cjps-abhijeet-dipke-under-preventive-arrest-aisa-chief-neha-bora-released-over-protests-in-delhi-12197504#publisher=newsstand)
+• India's cyber-security agency, CERT-In, confirms that AI agents managed to breach local organizations, showing our systems are vulnerable to these new digital threats. This is important because it's a real-world, local impact of AI's rapid rollout [ref:2, ref:6].
+• Expect some noise on November 1st: Congress has been given the green light to rally at Ramlila Maidan against the Chief Election Commissioner. Political drama, as usual [Read more](https://www.thehindu.com/news/national/cec-gyanesh-kumar-protests-oct-18-live-updates-cjp/article71598964.ece).
+• China and India are apparently playing nice again, with observers suggesting it's partly due to the US changing its stance towards India. Geopolitics is always a complicated dance [Read more](https://warontherocks.com/chinas-strategic-reassessment-of-india/).
 
-TODAY'S TAKEAWAY: AI's impact is now less about "if" and more about "how fast it's replacing jobs and how easily it can be exploited."
+TODAY'S TAKEAWAY: AI's 'autonomous' future is here, but it's bringing more security headaches and political maneuvering than convenience.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:27 UAE time
+Generated at 06:51 UAE time
