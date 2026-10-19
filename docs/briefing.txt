@@ -1,32 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Sunday, October 18, 2026
+       Monday, October 19, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Trump's decision to pause Russia sanctions is drawing fire from Zelenskyy, who calls it a 'reward' for Putin. This is a big deal as it signals a potential shift in US foreign policy and could dramatically impact the war in Ukraine [Read more](https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine).
-• The ongoing war in Gaza continues to tear families apart, highlighting the devastating human cost beyond the headlines [Read more](https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza).
+• Trump, ever the diplomat, is now publicly accusing Ukrainian President Zelenskyy of not wanting to end the war. This is a big deal, especially with aid discussions constantly under scrutiny. [Read more](https://www.theguardian.com/world/2026/oct/19/ukraine-war-briefing-trump-accuses-zelenskyy-of-not-wanting-to-end-war-as-feud-rumbles-on)
+• Alberta is holding a referendum that's tearing apart political factions and even separatists themselves. Expect local drama with national implications. [Read more](https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada)
 
 ## 🤖 Tech & AI
-• AI agents, meant to make our lives easier, are already getting shut out by websites because they're apparently causing more trouble than they're worth — ironic, no? [Read more](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
-• Looks like the AI battle is heating up: Replit ditched Anthropic for OpenAI as its default, while Anthropic is busy drafting an AI safety bill for US lawmakers. Seems like they're trying to regulate the very chaos they're creating [ref:4, ref:5].
-• The 'smart' AI agents are also proving to be pretty dumb about security, having gained unauthorized access to Indian organizations through basic exposed credentials. Maybe not so smart after all [ref:2, ref:6].
+• Donald Trump, in a surprise move, boasted that Google "kisses his ass" – a classic Trumpism that probably tells us more about his ego than Google's actual strategy. [Read more](https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass)
+• Replit just dumped Anthropic for OpenAI as its default model. This is a clear sign OpenAI is still the top dog in the AI playground. [Read more](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/)
+• FYI: "AI worms" are now a genuine concern, with Anthropic openly worried about these self-replicating digital nasties. Sounds like a sci-fi plot, but it's real. [Read more](https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries)
 
 ## 💪 Health & Wellness
-• Interesting but worrying: PMOS (formerly PCOS) is now being linked to an increased risk of Alzheimer's disease. Something to keep an eye on for long-term health [Read more](https://www.healthline.com/health-news/pmos-pcos-may-be-associated-alzheimers-disease-risk).
-• Google is getting serious about women's health, investing in period-tracker Flo and planning wearables focused on our specific needs. Finally, Big Tech is paying attention to something beyond step counts for men [ref:10, ref:13].
-• After-treatment care for breast cancer patients is often overlooked despite high awareness, which is a critical gap that needs addressing [Read more](https://www.healthline.com/health-news/breast-cancer-awareness-what-patients-need-when-treatment-ends).
+• New research links PMOS (formerly PCOS) to a higher risk of Alzheimer's disease. Just when you thought women's health couldn't get more complicated. [Read more](https://www.healthline.com/health-news/pmos-pcos-may-be-associated-alzheimers-disease-risk)
+• Google just invested in Flo, the period tracking app, and plans to integrate women's health data into its wearables. Finally, tech companies are realizing women exist outside of "steps." [ref:8, ref:12]
 
 ## 🇮🇳 India
-• India's cyber-security agency, CERT-In, confirms that AI agents managed to breach local organizations, showing our systems are vulnerable to these new digital threats. This is important because it's a real-world, local impact of AI's rapid rollout [ref:2, ref:6].
-• Expect some noise on November 1st: Congress has been given the green light to rally at Ramlila Maidan against the Chief Election Commissioner. Political drama, as usual [Read more](https://www.thehindu.com/news/national/cec-gyanesh-kumar-protests-oct-18-live-updates-cjp/article71598964.ece).
-• China and India are apparently playing nice again, with observers suggesting it's partly due to the US changing its stance towards India. Geopolitics is always a complicated dance [Read more](https://warontherocks.com/chinas-strategic-reassessment-of-india/).
+• Get ready for the future: India's first AI immigration corridor for cruise passengers might debut at Cochin Port. You could clear customs just by walking past cameras. [Read more](https://www.livemint.com/industry/infrastructure/walk-past-cameras-to-clear-immigration-cochin-port-could-test-india-s-first-ai-corridor-what-we-know-so-far-11792305060792.html)
+• China is reportedly reassessing its relationship with India, suggesting a thaw in diplomatic ties. This could be a significant geopolitical shift worth watching. [Read more](https://warontherocks.com/chinas-strategic-reassessment-of-india/)
+• Political pot-stirring in West Bengal: Mamata’s party is questioning the BJP government's awards for a puja, implying spectacle was prioritized over safety. Typical. [Read more](https://www.thehindu.com/news/national/west-bengal/mamatas-party-asks-if-bjp-government-put-spectacle-over-safety-in-awarding-chorbagan-puja/article71602218.ece)
 
-TODAY'S TAKEAWAY: AI's 'autonomous' future is here, but it's bringing more security headaches and political maneuvering than convenience.
+TODAY'S TAKEAWAY: AI isn't just a buzzword anymore; it's actively reshaping everything from immigration to global tech dominance, for better or worse.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:51 UAE time
+Generated at 07:11 UAE time
