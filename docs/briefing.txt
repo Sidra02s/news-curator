@@ -1,31 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Monday, October 19, 2026
+       Tuesday, October 20, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Trump, ever the diplomat, is now publicly accusing Ukrainian President Zelenskyy of not wanting to end the war. This is a big deal, especially with aid discussions constantly under scrutiny. [Read more](https://www.theguardian.com/world/2026/oct/19/ukraine-war-briefing-trump-accuses-zelenskyy-of-not-wanting-to-end-war-as-feud-rumbles-on)
-• Alberta is holding a referendum that's tearing apart political factions and even separatists themselves. Expect local drama with national implications. [Read more](https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada)
+• Zelenskyy is throwing shade at the US, claiming they're deliberately holding back vital interceptor missiles while Russia keeps bombing Kyiv. This isn't just a squabble; it's a huge deal for Ukraine's defense. [ref:6, ref:15]
 
 ## 🤖 Tech & AI
-• Donald Trump, in a surprise move, boasted that Google "kisses his ass" – a classic Trumpism that probably tells us more about his ego than Google's actual strategy. [Read more](https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass)
-• Replit just dumped Anthropic for OpenAI as its default model. This is a clear sign OpenAI is still the top dog in the AI playground. [Read more](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/)
-• FYI: "AI worms" are now a genuine concern, with Anthropic openly worried about these self-replicating digital nasties. Sounds like a sci-fi plot, but it's real. [Read more](https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries)
+• Microsoft just dropped a bombshell: they're essentially calling AI agents "insider threats," warning that even top-tier models from OpenAI and Anthropic can't be fully trusted. Talk about trust issues in the AI world. [Read more](https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/)
+• Your friendly neighborhood AI coding tool, OpenCode, got hacked, spilling user API keys and running up bills. Just another reminder that convenience often comes with a hefty side of cybersecurity risks. [Read more](https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/)
+• Tenstorrent, the dark horse chip maker looking to unseat Nvidia, just scored a massive $1.5 billion investment, pushing its valuation to $6.2 billion. They're clearly serious about open-weight AI chips and shaking things up. [Read more](https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/)
 
 ## 💪 Health & Wellness
-• New research links PMOS (formerly PCOS) to a higher risk of Alzheimer's disease. Just when you thought women's health couldn't get more complicated. [Read more](https://www.healthline.com/health-news/pmos-pcos-may-be-associated-alzheimers-disease-risk)
-• Google just invested in Flo, the period tracking app, and plans to integrate women's health data into its wearables. Finally, tech companies are realizing women exist outside of "steps." [ref:8, ref:12]
+• Big news for women's health: Google just invested in Flo, the period-tracking app, with plans to integrate women's health data into their wearables. Finally, big tech might actually start paying attention to more than just step counts. [ref:9, ref:10]
+• Speaking of women's health, PMOS (formerly PCOS) is now being linked to an increased risk of Alzheimer's disease. Another reason to take those metabolic issues seriously. [Read more](https://www.healthline.com/health-news/pmos-pcos-may-be-associated-alzheimers-disease-risk)
+
+## 💄 Fashion & Beauty
+• Uniqlo India's profit is up a massive 41%, with revenue soaring 44% in FY26. Looks like their casual-cool vibe is seriously resonating, proving India is a goldmine for global fashion brands. [Read more](https://economictimes.indiatimes.com/industry/cons-products/garments-/-textiles/uniqlo-india-net-profit-rises-41-to-rs-253-cr-in-fy26-co-bets-on-expansion/articleshow/135034408.cms)
 
 ## 🇮🇳 India
-• Get ready for the future: India's first AI immigration corridor for cruise passengers might debut at Cochin Port. You could clear customs just by walking past cameras. [Read more](https://www.livemint.com/industry/infrastructure/walk-past-cameras-to-clear-immigration-cochin-port-could-test-india-s-first-ai-corridor-what-we-know-so-far-11792305060792.html)
-• China is reportedly reassessing its relationship with India, suggesting a thaw in diplomatic ties. This could be a significant geopolitical shift worth watching. [Read more](https://warontherocks.com/chinas-strategic-reassessment-of-india/)
-• Political pot-stirring in West Bengal: Mamata’s party is questioning the BJP government's awards for a puja, implying spectacle was prioritized over safety. Typical. [Read more](https://www.thehindu.com/news/national/west-bengal/mamatas-party-asks-if-bjp-government-put-spectacle-over-safety-in-awarding-chorbagan-puja/article71602218.ece)
+• It was Vijayadashmi yesterday, and the usual suspects – Modi, Shah – were busy extending wishes. Meanwhile, Priyanka Gandhi is apparently in the driver's seat for critical alliance talks in UP, hinting at some serious political chess moves. [ref:7, ref:13]
+• The RSS Chief, Mohan Bhagwat, is waving the red flag, cautioning against "regime change" attempts and citing France and Albania as examples. Sounds like he's feeling some pressure from internal or external forces. [Read more](https://www.ndtv.com/india-news/rss-chief-mohan-bhagwat-like-bangladesh-france-attempts-of-regime-change-in-india-as-well-12209226#publisher=newsstand)
 
-TODAY'S TAKEAWAY: AI isn't just a buzzword anymore; it's actively reshaping everything from immigration to global tech dominance, for better or worse.
+TODAY'S TAKEAWAY: Big Tech is finally waking up to women's health, and it's about time.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 07:11 UAE time
+Generated at 06:58 UAE time
