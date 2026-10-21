@@ -1,32 +1,33 @@
 
        SIDRA'S MORNING BRIEFING
-       Tuesday, October 20, 2026
+       Wednesday, October 21, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Zelenskyy is throwing shade at the US, claiming they're deliberately holding back vital interceptor missiles while Russia keeps bombing Kyiv. This isn't just a squabble; it's a huge deal for Ukraine's defense. [ref:6, ref:15]
+• The U.S. has reportedly resumed sharing intelligence with Ukraine on Russian strikes, a significant step after earlier restrictions. This means Kyiv is getting vital info back, which is kinda a big deal for their defense. [Read more](https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy)
+• In a classic 'us vs. them' move, the U.S. has banned DeepSeek, a Chinese AI tech, from federal systems. Basically, another round in the tech Cold War, but this time with AI as the weapon. [Read more](https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html)
 
 ## 🤖 Tech & AI
-• Microsoft just dropped a bombshell: they're essentially calling AI agents "insider threats," warning that even top-tier models from OpenAI and Anthropic can't be fully trusted. Talk about trust issues in the AI world. [Read more](https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/)
-• Your friendly neighborhood AI coding tool, OpenCode, got hacked, spilling user API keys and running up bills. Just another reminder that convenience often comes with a hefty side of cybersecurity risks. [Read more](https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/)
-• Tenstorrent, the dark horse chip maker looking to unseat Nvidia, just scored a massive $1.5 billion investment, pushing its valuation to $6.2 billion. They're clearly serious about open-weight AI chips and shaking things up. [Read more](https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/)
-
-## 💪 Health & Wellness
-• Big news for women's health: Google just invested in Flo, the period-tracking app, with plans to integrate women's health data into their wearables. Finally, big tech might actually start paying attention to more than just step counts. [ref:9, ref:10]
-• Speaking of women's health, PMOS (formerly PCOS) is now being linked to an increased risk of Alzheimer's disease. Another reason to take those metabolic issues seriously. [Read more](https://www.healthline.com/health-news/pmos-pcos-may-be-associated-alzheimers-disease-risk)
+• Elon's empire just got even stronger: SpaceX's AI segment has sent its revenue and profit through the roof, proving that his Super Intelligence gamble is paying off big time. [ref:1, ref:4]
+• Google and Amazon are ganging up on Nvidia, launching tools to lure developers away from Nvidia's GPUs. The chip wars just got a whole lot spicier, and Nvidia's stronghold is definitely feeling the heat. [Read more](https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/)
+• Google's Gemini AI is now making its way into your car, promising a more personalized driving experience by tapping into your Google apps. Get ready for your car to know you a little too well. [Read more](https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto)
 
 ## 💄 Fashion & Beauty
-• Uniqlo India's profit is up a massive 41%, with revenue soaring 44% in FY26. Looks like their casual-cool vibe is seriously resonating, proving India is a goldmine for global fashion brands. [Read more](https://economictimes.indiatimes.com/industry/cons-products/garments-/-textiles/uniqlo-india-net-profit-rises-41-to-rs-253-cr-in-fy26-co-bets-on-expansion/articleshow/135034408.cms)
+• Uniqlo India is absolutely crushing it, with profits soaring 41% and revenue up 44%. Seems like India really loves its minimalist, well-made basics. [Read more](https://economictimes.indiatimes.com/industry/cons-products/garments-/-textiles/uniqlo-india-net-profit-rises-41-to-rs-253-cr-in-fy26-co-bets-on-expansion/articleshow/135034408.cms)
+• Gen Z is fueling India's beauty boom, making up 60% of Myntra's beauty buyers and spending big, especially those from smaller cities. So, yes, the kids are alright, and they're buying a lot of makeup. [Read more](https://www.thehindubusinessline.com/companies/gen-z-drives-indias-beauty-boom-half-from-small-cities-myntra-report/article71602617.ece)
+
+## 💪 Health & Wellness
+• Google just made a major play in women's health, investing in period-tracking app Flo and announcing plans for new women-focused wearables. Get ready for your smart tech to get even smarter about your cycle. [ref:7, ref:9, ref:15]
 
 ## 🇮🇳 India
-• It was Vijayadashmi yesterday, and the usual suspects – Modi, Shah – were busy extending wishes. Meanwhile, Priyanka Gandhi is apparently in the driver's seat for critical alliance talks in UP, hinting at some serious political chess moves. [ref:7, ref:13]
-• The RSS Chief, Mohan Bhagwat, is waving the red flag, cautioning against "regime change" attempts and citing France and Albania as examples. Sounds like he's feeling some pressure from internal or external forces. [Read more](https://www.ndtv.com/india-news/rss-chief-mohan-bhagwat-like-bangladesh-france-attempts-of-regime-change-in-india-as-well-12209226#publisher=newsstand)
+• A decades-old land dispute between Odisha and Andhra Pradesh is heating up again, with the opposition accusing the BJP government of staying mum. It's a classic political spat over a handful of villages. [Read more](https://www.thehindu.com/news/national/odisha/naveen-patnaik-questions-odisha-governments-silence-on-andhras-poll-notification-for-disputed-kotia-villages/article71603050.ece)
+• India's new Free Trade Agreement with New Zealand is promising big wins for trade, investment, and student mobility, all while keeping sensitive Indian sectors protected. Fingers crossed it actually delivers. [Read more](https://www.thehindu.com/business/Economy/what-are-the-deal-contours-of-india-new-zealand-fta/article71606245.ece)
 
-TODAY'S TAKEAWAY: Big Tech is finally waking up to women's health, and it's about time.
+TODAY'S TAKEAWAY: Get ready, because AI isn't just taking over your job, it's taking over the world, your car, and even your period tracker.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:58 UAE time
+Generated at 06:52 UAE time
