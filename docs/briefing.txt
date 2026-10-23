@@ -1,33 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Thursday, October 22, 2026
+       Friday, October 23, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• England's maternity units are reportedly on the brink, risking closures amidst a growing crisis; sounds like a pretty grim outlook for new mums. [Read more](https://www.theguardian.com/world/2026/oct/22/thursday-briefing-the-crisis-putting-maternity-units-in-england-at-risk-of-closure)
-• Putin just released an American prisoner, meeting with a Trump envoy for Ukraine talks; things are definitely warming up (or getting weird) on the geopolitical front. [Read more](https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release)
-• Trump's new women's health order sounds great on paper, naming endometriosis and other issues, but don't hold your breath for immediate benefits – they're years away. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
+• The blame game for Ukraine's Starlink issues is getting spicy, with Trump, Musk, and Zelenskyy all pointing fingers. It's high drama, and honestly, who isn't a little tired of Elon's antics? [Read more](https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row)
+• AIPAC, the powerful pro-Israel lobby, has paused candidate endorsements as US sentiment shifts. This is a rare moment of political flexibility, and worth watching to see if it actually sticks. [Read more](https://www.theguardian.com/world/2026/oct/22/aipac-politics-endorsements-israel)
+• An ex-CIA chief admitted a human, not just an AI 'kill chain,' was behind that Iran school bombing. Because even killer robots apparently need human supervision, which is unsettling. [Read more](https://www.ndtv.com/india-news/general-david-petraeus-at-ndtv-world-summit-human-pulled-the-trigger-machine-helped-ex-cia-chief-on-iran-school-bombing-12223816#publisher=newsstand)
 
 ## 🤖 Tech & AI
-• Even with all the market jitters, Blackstone’s AI chief isn't sweating the debt fears around the massive AI build-out, so maybe the sky isn't falling just yet. [Read more](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/)
-• A CTO reminds us that for all the AI hype, human expertise is still non-negotiable; good, because we're not quite ready for robots to run everything. [Read more](https://www.theguardian.com/technology/2026/oct/20/ai-human-judgment)
-• Recursive just dropped Flint, a laptop coding model that was reportedly built mostly by AI itself; talk about meta. [Read more](https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/)
+• Brace yourself: critical PHP security flaws could be putting 70% of the internet at risk. Your website (or your fave online store) might be next unless everyone updates, stat. [Read more](https://www.bloomberg.com/news/articles/2026-10-21/governments-take-websites-offline-after-php-security-warnings)
+• AI espionage is officially a "reality," according to the Director of National Intelligence. So, that sci-fi plot about spies stealing your AI secrets? It's happening now. [Read more](https://www.naturalnews.com/2026-10-22-dni-clayton-ai-espionage-threat-a-reality.html)
+• OpenAI is gunning for a whopping $1.25 trillion valuation with a new $30 billion raise. The AI gold rush is still on, proving everyone's convinced this is the future (and a very expensive one). [Read more](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/)
 
 ## 💪 Health & Wellness
-• Google just made a big move into women's health, investing in period tracker Flo and planning wearables; finally, tech focusing on us. [ref:8, 13]
-• A new AI tool claims it can predict cancer survival from a single selfie; talk about pushing the boundaries of diagnostics. [Read more](https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie)
-• Breast cancer awareness needs to extend beyond treatment, focusing on what patients actually need afterwards; a crucial reminder that the fight doesn't end with remission. [Read more](https://www.healthline.com/health-news/breast-cancer-awareness-what-patients-need-when-treatment-ends)
+• Google just invested in the period-tracking app Flo, planning to integrate women's health data into its wearables. Your cycle could soon be powering your tech life, for better or worse. [ref:5, ref:12]
+• Trump's new women's health order names key issues like endometriosis, but actual patient benefits are years off. Another reminder that political promises are often a very slow burn. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
+• The conversation around breast cancer is finally shifting to what patients need AFTER treatment ends. Because surviving is only half the battle; thriving is the next crucial step. [Read more](https://www.healthline.com/health-news/breast-cancer-awareness-what-patients-need-when-treatment-ends)
 
 ## 🇮🇳 India
-• Goldman Sachs predicts AI-led IPOs could add a whopping $100 billion to India’s market cap; time to watch the tech sector closer than ever. [Read more](https://www.business-standard.com/markets/news/ai-led-ipos-may-add-up-to-100-billion-to-india-s-market-cap-goldman-sachs-126102100382_1.html)
-• Punjab CM Bhagwant Mann is taking Amit Shah to task over the drug crisis, calling out the sudden concern now that elections are looming; classic political drama. [Read more](https://timesofindia.indiatimes.com/city/chandigarh/now-elections-have-come-youre-worried-about-punjab-cm-bhagwant-mann-hits-back-at-amit-shah-over-drug-crisis/articleshow/135074283.cms)
-• Karnataka is outsourcing regulatory functions in key departments like Food Safety and Labor, which could streamline things or just open up a whole new can of worms. [Read more](https://www.thehindu.com/news/national/karnataka/karnataka-government-to-outsource-regulatory-functions-in-three-departments/article71610421.ece)
+• India just laid bare at the UN that Pakistan shamefully refused to accept its own soldiers' bodies during the Kargil war. A stark, ugly reminder of cross-border realities and a severe lack of human decency. [Read more](https://www.thehindu.com/news/national/pakistan-refused-to-accept-bodies-of-its-own-soldiers-killed-in-kargil-war-india-at-un/article71614773.ece)
+• Punjab's CM Bhagwant Mann blasted Amit Shah over the state's drug crisis, calling out his sudden concern only when elections loom. Classic political theater, but the underlying issue is deadly serious. [Read more](https://timesofindia.indiatimes.com/city/chandigarh/now-elections-have-come-youre-worried-about-punjab-cm-bhagwant-mann-hits-back-at-amit-shah-over-drug-crisis/articleshow/135074283.cms)
 
-TODAY'S TAKEAWAY: AI isn't just a buzzword anymore, it's shaking up everything from global markets to your personal health, even as we figure out its limits.
+TODAY'S TAKEAWAY: From internet security to global politics and AI's trillion-dollar ambitions, it seems everyone is either fighting for their piece or patching up something broken.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:56 UAE time
+Generated at 06:49 UAE time
