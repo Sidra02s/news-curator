@@ -1,32 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Friday, October 23, 2026
+       Saturday, October 24, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• The blame game for Ukraine's Starlink issues is getting spicy, with Trump, Musk, and Zelenskyy all pointing fingers. It's high drama, and honestly, who isn't a little tired of Elon's antics? [Read more](https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row)
-• AIPAC, the powerful pro-Israel lobby, has paused candidate endorsements as US sentiment shifts. This is a rare moment of political flexibility, and worth watching to see if it actually sticks. [Read more](https://www.theguardian.com/world/2026/oct/22/aipac-politics-endorsements-israel)
-• An ex-CIA chief admitted a human, not just an AI 'kill chain,' was behind that Iran school bombing. Because even killer robots apparently need human supervision, which is unsettling. [Read more](https://www.ndtv.com/india-news/general-david-petraeus-at-ndtv-world-summit-human-pulled-the-trigger-machine-helped-ex-cia-chief-on-iran-school-bombing-12223816#publisher=newsstand)
+• The Ukraine war keeps on giving: US is pushing for peace talks while Moscow says Russian diesel tankers are now headed for North America. Global ripple effects are definitely not slowing down. [Read more](https://www.theguardian.com/world/2026/oct/24/ukraine-war-briefing-russian-diesel-tankers-headed-for-north-america-says-moscow-as-us-tries-to-revive-peace-talks)
+• Tensions are dangerously high in the Middle East, with both the US and Israel getting stern warnings against launching fresh strikes on Iran. Let's hope cooler heads prevail. [Read more](https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel)
 
 ## 🤖 Tech & AI
-• Brace yourself: critical PHP security flaws could be putting 70% of the internet at risk. Your website (or your fave online store) might be next unless everyone updates, stat. [Read more](https://www.bloomberg.com/news/articles/2026-10-21/governments-take-websites-offline-after-php-security-warnings)
-• AI espionage is officially a "reality," according to the Director of National Intelligence. So, that sci-fi plot about spies stealing your AI secrets? It's happening now. [Read more](https://www.naturalnews.com/2026-10-22-dni-clayton-ai-espionage-threat-a-reality.html)
-• OpenAI is gunning for a whopping $1.25 trillion valuation with a new $30 billion raise. The AI gold rush is still on, proving everyone's convinced this is the future (and a very expensive one). [Read more](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/)
+• OpenAI has finally pulled its frontier AI models off the live internet for training, admitting "significant risks" after weeks of denying it. Took them long enough. [ref:1, ref:2]
+• Google just updated its privacy policy, which basically means your Gmail and Photos data could now be used for targeted ads if you're using their personalized AI features. Your personal life is their profit. [Read more](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
+• Jack Dorsey's Block is introducing an AI model called Dessa that supposedly chats like an "awkward new friend." Because we all needed more uncomfortable small talk. [Read more](https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech)
 
 ## 💪 Health & Wellness
-• Google just invested in the period-tracking app Flo, planning to integrate women's health data into its wearables. Your cycle could soon be powering your tech life, for better or worse. [ref:5, ref:12]
-• Trump's new women's health order names key issues like endometriosis, but actual patient benefits are years off. Another reminder that political promises are often a very slow burn. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
-• The conversation around breast cancer is finally shifting to what patients need AFTER treatment ends. Because surviving is only half the battle; thriving is the next crucial step. [Read more](https://www.healthline.com/health-news/breast-cancer-awareness-what-patients-need-when-treatment-ends)
+• Google is stepping up its game in women's health, investing in the period-tracking app Flo and planning new health wearables. It's about time big tech started catering beyond just men's fitness. [ref:9, ref:14]
+• Trump's administration has named endometriosis, fibroids, and menopause in a new women's health order, but don't get too excited – actual patient benefits could still be years away. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
 
 ## 🇮🇳 India
-• India just laid bare at the UN that Pakistan shamefully refused to accept its own soldiers' bodies during the Kargil war. A stark, ugly reminder of cross-border realities and a severe lack of human decency. [Read more](https://www.thehindu.com/news/national/pakistan-refused-to-accept-bodies-of-its-own-soldiers-killed-in-kargil-war-india-at-un/article71614773.ece)
-• Punjab's CM Bhagwant Mann blasted Amit Shah over the state's drug crisis, calling out his sudden concern only when elections loom. Classic political theater, but the underlying issue is deadly serious. [Read more](https://timesofindia.indiatimes.com/city/chandigarh/now-elections-have-come-youre-worried-about-punjab-cm-bhagwant-mann-hits-back-at-amit-shah-over-drug-crisis/articleshow/135074283.cms)
+• India's Gen Z "cockroach" protesters are shaking things up, daring to challenge Modi's government on what democracy means and who truly represents the people. This is a crucial fight. [Read more](https://theconversation.com/indian-gen-z-cockroach-protesters-aim-to-upend-assumptions-about-democracy-and-populism-in-modis-india-294730)
+• Another political storm is brewing as Modi’s government introduces a high-level demography panel, sparking fears of new citizenship politics linked to the contentious SIR exercise. [Read more](https://timesofindia.indiatimes.com/toi-plus/politics/demography-panel-amid-sir-row-is-india-entering-a-new-phase-of-citizenship-politics/articleshow/135120823.cms)
+• Protests are intensifying in India with a Congress MP detained during student demonstrations at Jamia Millia Islamia, highlighting growing unrest and demands for student union polls. [Read more](https://www.ndtv.com/india-news/congress-mp-imraan-masood-detained-during-jamia-millia-islamia-protests-students-demand-union-polls-12228776#publisher=newsstand)
 
-TODAY'S TAKEAWAY: From internet security to global politics and AI's trillion-dollar ambitions, it seems everyone is either fighting for their piece or patching up something broken.
+TODAY'S TAKEAWAY: OpenAI finally learned its lesson about internet dangers, while India's youth are proving they won't be silenced.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:49 UAE time
+Generated at 06:45 UAE time
