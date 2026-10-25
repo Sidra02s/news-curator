@@ -1,31 +1,33 @@
 
        SIDRA'S MORNING BRIEFING
-       Saturday, October 24, 2026
+       Sunday, October 25, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• The Ukraine war keeps on giving: US is pushing for peace talks while Moscow says Russian diesel tankers are now headed for North America. Global ripple effects are definitely not slowing down. [Read more](https://www.theguardian.com/world/2026/oct/24/ukraine-war-briefing-russian-diesel-tankers-headed-for-north-america-says-moscow-as-us-tries-to-revive-peace-talks)
-• Tensions are dangerously high in the Middle East, with both the US and Israel getting stern warnings against launching fresh strikes on Iran. Let's hope cooler heads prevail. [Read more](https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel)
+• Ukraine's Starlink connection is holding steady despite recent restrictions, keeping critical communications online. [Read more](https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions)
+• Gaza’s suffering is now campaign fodder for Israel’s elections, which means their plight could get even worse before it gets better. This is a critical development for regional stability. [Read more](https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election)
 
 ## 🤖 Tech & AI
-• OpenAI has finally pulled its frontier AI models off the live internet for training, admitting "significant risks" after weeks of denying it. Took them long enough. [ref:1, ref:2]
-• Google just updated its privacy policy, which basically means your Gmail and Photos data could now be used for targeted ads if you're using their personalized AI features. Your personal life is their profit. [Read more](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
-• Jack Dorsey's Block is introducing an AI model called Dessa that supposedly chats like an "awkward new friend." Because we all needed more uncomfortable small talk. [Read more](https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech)
+• Your text messages are about to get crowded: AI agents for everything from family planning to travel are moving in. Pick wisely, Sidra. [Read more](https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/)
+• Turns out AI has political leanings: Grok's all-in for Republicans, while OpenAI's GPT prefers Democrats. This highlights the hidden biases baked into our tech, so trust your own judgment. [Read more](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/)
+• Pennsylvania just mandated labels on AI-generated ads, a smart move to keep us from being totally duped. Expect other states to follow suit. [Read more](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)
 
 ## 💪 Health & Wellness
-• Google is stepping up its game in women's health, investing in the period-tracking app Flo and planning new health wearables. It's about time big tech started catering beyond just men's fitness. [ref:9, ref:14]
-• Trump's administration has named endometriosis, fibroids, and menopause in a new women's health order, but don't get too excited – actual patient benefits could still be years away. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
+• Google just made a big play in women's health, investing in period tracker Flo and planning new wearables. Finally, tech acknowledging what actual bodies need. [ref:11, ref:14]
+• Trump’s new women's health order names endometriosis and menopause, but don't hold your breath for immediate benefits. These things take years to actually impact patients. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
 
 ## 🇮🇳 India
-• India's Gen Z "cockroach" protesters are shaking things up, daring to challenge Modi's government on what democracy means and who truly represents the people. This is a crucial fight. [Read more](https://theconversation.com/indian-gen-z-cockroach-protesters-aim-to-upend-assumptions-about-democracy-and-populism-in-modis-india-294730)
-• Another political storm is brewing as Modi’s government introduces a high-level demography panel, sparking fears of new citizenship politics linked to the contentious SIR exercise. [Read more](https://timesofindia.indiatimes.com/toi-plus/politics/demography-panel-amid-sir-row-is-india-entering-a-new-phase-of-citizenship-politics/articleshow/135120823.cms)
-• Protests are intensifying in India with a Congress MP detained during student demonstrations at Jamia Millia Islamia, highlighting growing unrest and demands for student union polls. [Read more](https://www.ndtv.com/india-news/congress-mp-imraan-masood-detained-during-jamia-millia-islamia-protests-students-demand-union-polls-12228776#publisher=newsstand)
+• US Secretary of State Rubio skipped Delhi's power corridors for boardrooms and a refinery, signalling a major shift in how the US sees its relationship with India – less traditional diplomacy, more business. This is a significant geopolitical pivot. [Read more](https://thediplomat.com/2026/10/rubios-unusual-visit-to-india-marks-a-paradigm-shift-in-india-us-ties/)
+• India's "Cockroach" Gen Z protesters are shaking up assumptions about democracy and populism under Modi, proving that youth movements are still a force to be reckoned with. [Read more](https://www.nakedcapitalism.com/2026/10/indian-gen-z-cockroach-protesters-aim-to-upend-assumptions-about-democracy-and-populism-in-modis-india.html)
+• Modi's latest Mann ki Baat urged 'Vocal for Local' ahead of Deepavali, pushing Indian-made goods – expect a domestic shopping spree. [Read more](https://www.thehindu.com/news/national/mann-ki-baat-address-pm-modi-asks-citizens-to-strengthen-vocal-for-local-ahead-of-deepavali/article71622742.ece)
+• Union Minister Piyush Goyal is already on the hunt for "AI-proof" jobs, focusing on handlooms, handicrafts, and tourism. India’s banking on its traditional strengths to ride the AI wave. [Read more](https://economictimes.indiatimes.com/news/india/piyush-goyal-asks-ministry-to-identify-ai-proof-jobs-eyes-handlooms-handicrafts-and-tourism-says-india-can-lead-in-traditional-sectors/articleshow/135163326.cms)
+• The Modi government’s new demography panel is stirring up fresh controversy, reviving old fears about citizenship politics. Keep an eye on this; it could get divisive. [Read more](https://timesofindia.indiatimes.com/toi-plus/politics/demography-panel-amid-sir-row-is-india-entering-a-new-phase-of-citizenship-politics/articleshow/135120823.cms)
 
-TODAY'S TAKEAWAY: OpenAI finally learned its lesson about internet dangers, while India's youth are proving they won't be silenced.
+TODAY'S TAKEAWAY: The geopolitical landscape is subtly shifting, especially with India, while AI's inherent biases and growing regulatory impact are becoming impossible to ignore.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 06:45 UAE time
+Generated at 07:10 UAE time
