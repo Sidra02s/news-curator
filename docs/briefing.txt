@@ -1,33 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Sunday, October 25, 2026
+       Monday, October 26, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Ukraine's Starlink connection is holding steady despite recent restrictions, keeping critical communications online. [Read more](https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions)
-• Gaza’s suffering is now campaign fodder for Israel’s elections, which means their plight could get even worse before it gets better. This is a critical development for regional stability. [Read more](https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election)
+• US Secretary of State Rubio skipped Delhi's political power for business boardrooms during his India visit, signaling a new, more pragmatic US approach to the relationship. This is a subtle but significant shift. [Read more](https://thediplomat.com/2026/10/rubios-unusual-visit-to-india-marks-a-paradigm-shift-in-india-us-ties/)
+• Venezuela's exiled opposition leader, María Corina Machado, made a triumphant return, which could seriously shake up the political landscape there. Keep an eye on this. [Read more](https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return)
 
 ## 🤖 Tech & AI
-• Your text messages are about to get crowded: AI agents for everything from family planning to travel are moving in. Pick wisely, Sidra. [Read more](https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/)
-• Turns out AI has political leanings: Grok's all-in for Republicans, while OpenAI's GPT prefers Democrats. This highlights the hidden biases baked into our tech, so trust your own judgment. [Read more](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/)
-• Pennsylvania just mandated labels on AI-generated ads, a smart move to keep us from being totally duped. Expect other states to follow suit. [Read more](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)
+• Google's AI-powered search has publishers scrambling, fundamentally changing how content reaches readers online. This is big for anyone in digital media. [Read more](https://www.theverge.com/column/1017983/google-ai-search-online-publishing)
+• India's NCERT is rolling out a 20-hour AI and computational thinking module for high schoolers, a smart move to prep the next generation for a tech-driven future. [Read more](https://economictimes.indiatimes.com/industry/services/education/ncert-rolls-out-20-hour-ai-computational-thinking-module-for-classes-9-12/articleshow/135185294.cms)
+• In a surprising move, the r/opensource community banned AI projects from their forums, showing growing ideological splits within the tech world. [Read more](https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban)
 
 ## 💪 Health & Wellness
-• Google just made a big play in women's health, investing in period tracker Flo and planning new wearables. Finally, tech acknowledging what actual bodies need. [ref:11, ref:14]
-• Trump’s new women's health order names endometriosis and menopause, but don't hold your breath for immediate benefits. These things take years to actually impact patients. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
+• Google just invested in the period tracking app Flo Health, planning to integrate women's health data into its wearables – potentially a game-changer for personalized wellness. [ref:9, ref:12]
+• Trump's women's health order mentions critical conditions like endometriosis, but actual patient benefits are still years away. Progress, but at a snail's pace. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
 
 ## 🇮🇳 India
-• US Secretary of State Rubio skipped Delhi's power corridors for boardrooms and a refinery, signalling a major shift in how the US sees its relationship with India – less traditional diplomacy, more business. This is a significant geopolitical pivot. [Read more](https://thediplomat.com/2026/10/rubios-unusual-visit-to-india-marks-a-paradigm-shift-in-india-us-ties/)
-• India's "Cockroach" Gen Z protesters are shaking up assumptions about democracy and populism under Modi, proving that youth movements are still a force to be reckoned with. [Read more](https://www.nakedcapitalism.com/2026/10/indian-gen-z-cockroach-protesters-aim-to-upend-assumptions-about-democracy-and-populism-in-modis-india.html)
-• Modi's latest Mann ki Baat urged 'Vocal for Local' ahead of Deepavali, pushing Indian-made goods – expect a domestic shopping spree. [Read more](https://www.thehindu.com/news/national/mann-ki-baat-address-pm-modi-asks-citizens-to-strengthen-vocal-for-local-ahead-of-deepavali/article71622742.ece)
-• Union Minister Piyush Goyal is already on the hunt for "AI-proof" jobs, focusing on handlooms, handicrafts, and tourism. India’s banking on its traditional strengths to ride the AI wave. [Read more](https://economictimes.indiatimes.com/news/india/piyush-goyal-asks-ministry-to-identify-ai-proof-jobs-eyes-handlooms-handicrafts-and-tourism-says-india-can-lead-in-traditional-sectors/articleshow/135163326.cms)
-• The Modi government’s new demography panel is stirring up fresh controversy, reviving old fears about citizenship politics. Keep an eye on this; it could get divisive. [Read more](https://timesofindia.indiatimes.com/toi-plus/politics/demography-panel-amid-sir-row-is-india-entering-a-new-phase-of-citizenship-politics/articleshow/135120823.cms)
+• India’s Gen Z "Cockroach" protesters are gaining real traction, challenging traditional democratic norms and Modi's populism. These aren't just kids; they're a force to watch. [Read more](https://www.nakedcapitalism.com/2026/10/indian-gen-z-cockroach-protesters-aim-to-upend-assumptions-about-democracy-and-populism-in-modis-india.html)
+• Modi's government has introduced a new demography panel amidst the contentious SIR exercise, raising concerns about potential shifts in India's citizenship politics. This is a hot button issue. [Read more](https://timesofindia.indiatimes.com/toi-plus/politics/demography-panel-amid-sir-row-is-india-entering-a-new-phase-of-citizenship-politics/articleshow/135120823.cms)
+• In a concerning find, over 340 voter ID cards were discovered on a riverbank in Madhya Pradesh, raising questions about electoral integrity and local governance. [Read more](https://www.ndtv.com/india-news/over-340-voter-id-cards-found-on-narmada-riverbank-in-madhya-pradesh-12235441#publisher=newsstand)
 
-TODAY'S TAKEAWAY: The geopolitical landscape is subtly shifting, especially with India, while AI's inherent biases and growing regulatory impact are becoming impossible to ignore.
+TODAY'S TAKEAWAY: AI is rapidly reshaping our digital world, but don't overlook India, where political movements and citizenship debates are heating up.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 07:10 UAE time
+Generated at 07:17 UAE time
