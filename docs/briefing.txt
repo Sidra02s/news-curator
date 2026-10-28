@@ -1,31 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Tuesday, October 27, 2026
+       Wednesday, October 28, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Israel’s election is officially underway; this isn't just another vote, it's touted as potentially the most pivotal in its history, so keep an eye on the results for major regional shifts. [Read more](https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates)
-• Chinese markets are bleeding trillions, a direct hit from its relentless AI race with the US; looks like the tech arms race has real economic consequences for Beijing. [Read more](https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing)
+• Ukraine is actually retaking some territory, which is good news for Kyiv, though Nordic leaders are still begging Putin to just stop. It's about time we saw some positive movement there. [Read more](https://www.theguardian.com/world/2026/oct/28/ukraine-war-briefing-kyiv-retaking-territory-zelenskyy-says-as-nordic-leaders-urge-putin-to-end-the-conflict)
+• Gulf states are quietly working on a multi-part peace deal to avoid another messy US-Iran war. Let's hope they pull it off, because no one needs that headache. [Read more](https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war)
+• Israel's election is still a dead heat, with no clear winner, meaning more coalition drama is inevitable. Stability? What's that? [ref:10, ref:11]
 
 ## 🤖 Tech & AI
-• Anthropic, one of the big AI players, is going for a massive stock market valuation, which is a huge test for the entire generative AI industry's future. [Read more](https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market)
-• On the flip side, Anthropic's Claude AI apparently got a little too close to Georgia voter data – a timely reminder that privacy in AI is still a massive, unresolved headache. [Read more](https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us)
-• The AI boom isn't just about code; Anthropic's S-1 filing starkly highlights its shocking methane dependency and intense energy demands, making you wonder about the environmental cost of all this "progress." [Read more](https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk)
+• Sundar Pichai is apparently giving up short-term Google Cloud revenue to fuel AI research, proving their commitment to AI is terrifyingly real. This is Google putting all its chips on the AI table. [Read more](https://in.mashable.com/tech/115397/sundar-pichai-is-giving-up-googles-cloud-revenue-for-ai-but-whats-the-bigger-plan)
+• Goldman Sachs just dropped a bombshell: AI is now driving global markets more than oil. Your portfolio better be paying attention to silicon, not just crude. [Read more](https://www.businessinsider.com/kospi-stock-index-ai-trade-chip-stocks-oil-goldman-sachs-2026-10#article)
+• Elon Musk’s new AI-made 'Odyssey' film is being universally panned as "meaningless as a laptop screensaver." Not even AI can polish that turd, apparently. [Read more](https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan)
 
 ## 💪 Health & Wellness
-• Google just invested in Flo, the period tracking app, signaling a serious push into women's health wearables and personalized coaching, which could finally mean better tech for us. [ref:6, ref:9]
-• Trump’s latest order name-drops endometriosis, fibroids, and menopause, but don't hold your breath for immediate benefits; actual patient impact is still years away. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
-• A little reminder to pick up the pace: research suggests walking faster can significantly lower your risk of death, so maybe ditch the leisurely stroll for a brisk power walk. [Read more](https://www.healthline.com/health-news/walking-speed-daily-steps-may-predict-death-risk)
+• Google is diving deep into women’s health, investing in period tracker Flo and planning new wearables. This could actually be huge for conditions like PCOS and endometriosis, finally bringing serious tech to underserved areas. [ref:12, ref:14]
+• Trump's new women's health order names endometriosis, fibroids, and menopause, but don't hold your breath for immediate benefits. It's a good step, but years away from patient impact. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
 
 ## 🇮🇳 India
-• India's Defence Ministry just inked a deal with AI firm Sarvam for tri-service AI initiatives, which is a big leap for military tech, bringing AI right into the heart of national defence. [Read more](https://www.ndtv.com/india-news/defence-ministry-arm-ai-firm-sarvam-sign-pact-for-tri-service-ai-initiatives-12241405#publisher=newsstand)
-• Walking in Indian cities remains a nightmare; broken footpaths and unsafe crossings are making simple pedestrian life actively hazardous, and honestly, it's a ridiculous problem to still have. [Read more](https://timesofindia.indiatimes.com/city/delhi/walking-in-delhi-mumbai-or-bengaluru-heres-what-nobody-tells-you/articleshow/135203578.cms)
+• India needs to get specific with its AI rules rather than throwing an omnibus law at it, otherwise innovation will probably get choked. Smart thinking for future-proofing. [Read more](https://www.ndtv.com/india-news/india-needs-sector-specific-ai-rules-not-omnibus-law-12246820#publisher=newsstand)
+• A casual remark about PM Modi's father has stirred up a massive political row, because of course it has. Just another Tuesday in Indian politics. [Read more](https://www.dw.com/en/india-news-remark-on-modis-father-stirs-political-row/live-79758965)
 
-TODAY'S TAKEAWAY: The AI race is hitting critical mass, both economically and ethically, forcing us to reckon with its cost and consequences.
+TODAY'S TAKEAWAY: AI isn't just a buzzword anymore; it's dictating global markets and Google's entire strategy.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 07:09 UAE time
+Generated at 07:48 UAE time
