@@ -1,33 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Thursday, October 29, 2026
+       Friday, October 30, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• India's once-warm relationship with Trump has apparently cooled, with New Delhi now hoping US midterm losses will humble him. Looks like political pragmatism trumps past bromances. [Read more](https://www.aljazeera.com/features/2026/10/28/why-india-has-soured-on-trump-ahead-of-us-midterms)
-• China is drawing a firm line around its AI tech, with new export curbs aimed at preventing foreign companies from replicating its AI models and data. The AI arms race just got real. [Read more](https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-new-export-curbs-draw-a-line-around-its-ai-crown-jewels/articleshow/135257223.cms)
-• Israel's election results are still being finalized with absentee ballots, setting the stage for coalition talks. Expect some political chess moves over there soon. [Read more](https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news)
+• Putin thinks Elon Musk is a "true genius," apparently connecting over Russia's Starlink-like satellite project. Make of that what you will. [Read more](https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/)
+• Israel faces a fresh political headache: can the opposition actually form a government with Palestinian parties? This could redefine regional politics, so keep an eye on it. [Read more](https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties)
 
 ## 🤖 Tech & AI
-• Google is patting itself on the back, claiming its heavy AI investments are boosting search traffic. So, AI is making us search more, or just making search more appealing? You decide. [Read more](https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026)
-• Even Instagram boss Adam Mosseri admits the public's negativity around AI is only going to get worse. At least someone's being realistic about the rising tech backlash. [Read more](https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity)
-• Elon Musk's much-hyped AI-generated "Odyssey" film is getting absolutely savaged by critics, called "meaningless as a laptop screensaver." Stick to rockets, maybe? [Read more](https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan)
+• Psychics are fighting back against AI-generated readings. Your spiritual guidance might soon come from an algorithm, how… modern. [Read more](https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings)
+• Google's AI search isn't driving traffic to sites like Reddit, proving AI isn't always a golden goose for everyone. Also, Musk's AI-made film is getting torched by critics. [ref:2, ref:4]
+• Apple's new MacBook Pro now boasts an OLED display and touchscreen, plus cool features for color pros. Good news if you're in the market for an expensive new toy. [Read more](https://www.theverge.com/1022347/apple-macbook-supports-new-cmf)
 
 ## 💪 Health & Wellness
-• Brace yourself: drug-resistant "superbugs" are on the rise, linked to over 50,000 deaths annually in the US alone. This is genuinely important and frankly terrifying. [Read more](https://www.healthline.com/health-news/drug-resistant-infections-deaths-rising-cdc)
-• Google is making a play in women's health, investing in the period-tracking app Flo and planning integrated wearables. Expect your cycle data to become part of the Google ecosystem. [ref:10, ref:15]
-• Trump's new order for women's health, covering endometriosis and menopause, sounds good but actual patient benefits could be years away. Don't hold your breath for immediate relief. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
+• Drug-resistant "superbugs" are now causing over 50,000 deaths a year in the US. This is genuinely important; it's a silent epidemic needing urgent attention. [Read more](https://www.healthline.com/health-news/drug-resistant-infections-deaths-rising-cdc)
+• Google's new investment in Flo will bring women's health data, like period tracking, into mainstream wearables. Finally, tech focusing on *our* health, not just steps. [ref:7, ref:11]
+• On a lighter note, walking faster might just help you live longer. Consider it your permission to power-walk everywhere. [Read more](https://www.healthline.com/health-news/walking-speed-daily-steps-may-predict-death-risk)
 
 ## 🇮🇳 India
-• The opposition is stirring the pot in India, with an impromptu remark about PM Modi's father sparking a major political firestorm. Never underestimate the power of a well-placed insult. [Read more](https://www.dw.com/en/india-news-remark-on-modis-father-stirs-political-row/live-79758965)
-• BJP and JD(S) just swept Karnataka's Legislative Council elections, winning all four available seats. Looks like the NDA is feeling pretty good about its local dominance. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/dk-its-done-bro-bjps-historic-4-0-sweep-in-karnataka-council-elections-shakes-congress/articleshow/135256620.cms)
-• On the heels of Israel's elections, India-Israel ties are expected to remain solid despite any political shifts there. Some relationships are just too strategic to break. [Read more](https://thediplomat.com/2026/10/the-future-of-india-israel-ties-after-israels-election/)
+• The INDIA bloc's "public impeachment" of the Chief Election Commissioner has been postponed, while a Telangana BJP MP vows to walk until the Congress government falls. Never a dull moment in Indian politics. [ref:8, ref:9]
+• PM Modi is currently on a roadshow in Gujarat, keeping up the campaign pace. [Read more](https://www.ndtv.com/india-news/pm-narendra-modi-holds-roadshow-in-gujarat-during-two-day-state-visit-12257517#publisher=newsstand)
+• Rahul Gandhi is strongly opposing the sale of IDBI bank, arguing public banks are crucial for nation-building, not for privatization. This is a critical debate on India's economic future. [Read more](https://www.thehindu.com/news/national/public-banks-not-assets-to-be-sold-off-they-are-tools-to-build-nation-rahul-amid-idbi-bank-sale-row/article71644096.ece)
 
-TODAY'S TAKEAWAY: Looks like AI is simultaneously making Google richer, frustrating the public, and making terrible movies, while India is busy navigating complex global and domestic politics.
+TODAY'S TAKEAWAY: While AI struggles to find its footing and impress critics, real health issues like superbugs and women's wellness are finally getting some much-needed tech attention.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 07:54 UAE time
+Generated at 07:57 UAE time
