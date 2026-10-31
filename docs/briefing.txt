@@ -1,32 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Friday, October 30, 2026
+       Saturday, October 31, 2026
 -----------------------------
 
 
-## 🌍 World & Politics
-• Putin thinks Elon Musk is a "true genius," apparently connecting over Russia's Starlink-like satellite project. Make of that what you will. [Read more](https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/)
-• Israel faces a fresh political headache: can the opposition actually form a government with Palestinian parties? This could redefine regional politics, so keep an eye on it. [Read more](https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties)
-
 ## 🤖 Tech & AI
-• Psychics are fighting back against AI-generated readings. Your spiritual guidance might soon come from an algorithm, how… modern. [Read more](https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings)
-• Google's AI search isn't driving traffic to sites like Reddit, proving AI isn't always a golden goose for everyone. Also, Musk's AI-made film is getting torched by critics. [ref:2, ref:4]
-• Apple's new MacBook Pro now boasts an OLED display and touchscreen, plus cool features for color pros. Good news if you're in the market for an expensive new toy. [Read more](https://www.theverge.com/1022347/apple-macbook-supports-new-cmf)
+• Google just beamed its first AI response from space via a satellite with Tensor Processing Units. Looks like your data just went interstellar. [Read more](https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission)
+• Good news for once: AI found a critical flaw in PHP, proving it's not all Skynet and bad movie scripts. Give credit where it's due. [Read more](https://www.theguardian.com/technology/2026/oct/30/credit-where-its-due-to-ai-for-uncovering-the-php-flaw-and-discredit-to-the-leaker)
+• Even psychics are feeling the heat: AI is now generating readings, threatening to put human mystics out of business. So much for intuition. [Read more](https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings)
 
 ## 💪 Health & Wellness
-• Drug-resistant "superbugs" are now causing over 50,000 deaths a year in the US. This is genuinely important; it's a silent epidemic needing urgent attention. [Read more](https://www.healthline.com/health-news/drug-resistant-infections-deaths-rising-cdc)
-• Google's new investment in Flo will bring women's health data, like period tracking, into mainstream wearables. Finally, tech focusing on *our* health, not just steps. [ref:7, ref:11]
-• On a lighter note, walking faster might just help you live longer. Consider it your permission to power-walk everywhere. [Read more](https://www.healthline.com/health-news/walking-speed-daily-steps-may-predict-death-risk)
+• Brace yourself: Drug-resistant "superbugs" are on the rise, causing over 50,000 deaths annually in the US. This is genuinely terrifying and a major concern. [Read more](https://www.healthline.com/health-news/drug-resistant-infections-deaths-rising-cdc)
+• Google is going big into women's health, investing in period tracker Flo and planning wearables. Hopefully, this means better insights, not just more data for Google. [Read more](https://thenextweb.com/news/google-flo-health-investment-womens-health-wearables) [Read more](https://www.prnewswire.com/news-releases/flo-health-and-google-health-join-forces-to-put-womens-health-at-the-center-of-wearable-tracking-and-personalized-coaching-302905153.html)
+• A new study warns that obesity in your 20s and 30s significantly ups your cancer risk later. Time to dust off those running shoes, or at least look at them. [Read more](https://www.healthline.com/health-news/obesity-during-young-adulthood-raises-cancer-risk)
 
 ## 🇮🇳 India
-• The INDIA bloc's "public impeachment" of the Chief Election Commissioner has been postponed, while a Telangana BJP MP vows to walk until the Congress government falls. Never a dull moment in Indian politics. [ref:8, ref:9]
-• PM Modi is currently on a roadshow in Gujarat, keeping up the campaign pace. [Read more](https://www.ndtv.com/india-news/pm-narendra-modi-holds-roadshow-in-gujarat-during-two-day-state-visit-12257517#publisher=newsstand)
-• Rahul Gandhi is strongly opposing the sale of IDBI bank, arguing public banks are crucial for nation-building, not for privatization. This is a critical debate on India's economic future. [Read more](https://www.thehindu.com/news/national/public-banks-not-assets-to-be-sold-off-they-are-tools-to-build-nation-rahul-amid-idbi-bank-sale-row/article71644096.ece)
+• India's ISRO just launched the NVS-03 navigation satellite, boosting national self-reliance in critical tech. PM Modi is, predictably, thrilled. [Read more](https://www.thehindu.com/sci-tech/science/pm-modi-congratulates-isro-scientists-on-gslv-f18-launch-of-nvs-03/article71648465.ece)
+• PM Modi also paid respects to Sardar Patel on National Unity Day. It’s Saturday, so expect the usual nationalistic drumbeat. [Read more](https://www.thehindu.com/news/national/pm-modi-pays-floral-tributes-to-sardar-patel-at-the-statue-of-unity-on-national-unity-day/article71648293.ece)
+• Kerala's Home Minister is cracking down hard on drunk driving after a spike in accident deaths. About time for some accountability on the roads. [Read more](https://www.thehindu.com/news/national/kerala/keralam-home-minister-ramesh-chennithala-warns-of-crackdown-on-intoxicated-driving/article71648253.ece)
 
-TODAY'S TAKEAWAY: While AI struggles to find its footing and impress critics, real health issues like superbugs and women's wellness are finally getting some much-needed tech attention.
+## 💅 Fashion & Beauty
+• Here's a real breakthrough: Researchers are exploring if period blood could finally provide an early diagnosis for endometriosis, potentially saving years of suffering. This could be massive. [Read more](https://www.allure.com/story/period-blood-endometriosis-infertility-testing-diagnostics)
+
+TODAY'S TAKEAWAY: AI is everywhere, from space to your period tracker, but let's not forget about the very real superbugs on the ground.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 07:57 UAE time
+Generated at 07:51 UAE time
