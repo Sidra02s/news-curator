@@ -1,30 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Sunday, November 01, 2026
+       Monday, November 02, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Ukraine saw a rare moment of de-escalation with a truce in Oleshky, offering a tiny glimmer of hope that peace talks aren't totally deadlocked. [Read more](https://www.theguardian.com/world/2026/nov/01/ukraine-war-briefing-oleshky-truce-shows-de-escalation-is-possible-says-zelenskyy)
+• US-Iran talks about reopening the Strait of Hormuz are reportedly 'braced for the worst' — a major geopolitical flashpoint that directly impacts global oil prices, so keep an eye on this. [Read more](https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz)
+• Ukraine is back to hitting Russian oil refineries, completely ignoring any 'don't poke the bear' advice from the West, which tells you all you need to know about their current strategy. [Read more](https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil)
+• Kyiv's air raid warning app likely got hacked, sending out false alarms; in a war zone, that's not just annoying, it's a dangerous erosion of trust. [Read more](https://www.theguardian.com/world/2026/nov/02/ukraine-war-briefing-kyiv-says-air-raid-warning-app-likely-hacked-after-users-receive-false-alerts)
 
 ## 🤖 Tech & AI
-• Your dating life just got an upgrade, or maybe a crutch: chatbots are now playing wingman, helping craft those perfect opening lines and witty comebacks. [Read more](https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating)
-• Apple's CEO is playing it cool, claiming they won't "ship AI for AI’s sake" – a subtle jab at every other tech company rushing out questionable AI features. [Read more](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)
-• Even psychics are pushing back against AI-generated readings, proving that some things, like mystical insight, should probably stay human-powered. [Read more](https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings)
+• Apple's new CEO is downplaying the AI hype, saying they won't "ship AI for AI's sake" — a surprisingly sensible, if slow, approach compared to their rivals. [Read more](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)
+• Some psychics are actually pushing back against AI-generated readings, which is hilarious; apparently, even the mystical arts have a 'real artists don't use AI' debate now. [Read more](https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings)
+• Elon Musk's much-hyped AI-made Odyssey film is getting savaged by reviewers, proving that even with advanced tech, good storytelling still requires actual human talent. [Read more](https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan)
 
 ## 💪 Health & Wellness
-• Brace yourself: Drug-resistant "superbugs" are linked to over 50,000 deaths annually, proving some threats aren't just in sci-fi movies. [Read more](https://www.healthline.com/health-news/drug-resistant-infections-deaths-rising-cdc)
-• Google is now investing in the period-tracking app Flo and plans to integrate women’s health data into its wearables, because your cycle needs more data points than your steps. [Read more](https://thenextweb.com/news/google-flo-health-investment-womens-health-wearables)
-• New research warns that obesity in your 20s and 30s significantly ups your cancer risk later in life, so those late-night pizza habits might come back to haunt you. [Read more](https://www.healthline.com/health-news/obesity-during-young-adulthood-raises-cancer-risk)
+• Over 50,000 deaths a year are now linked to drug-resistant 'superbugs' according to the CDC, making the fight against antibiotic resistance more critical than ever. [Read more](https://www.healthline.com/health-news/drug-resistant-infections-deaths-rising-cdc)
+• Google just invested in the period tracking app Flo and plans women's health wearables — expect your personal cycle data to become even more integrated into your tech ecosystem. [Read more](https://thenextweb.com/news/google-flo-health-investment-womens-health-wearables)
 
 ## 🇮🇳 India
-• Delhi turned into a political showdown with the INDIA Bloc staging a massive rally, demanding the removal of the Chief Election Commissioner, while BJP held a counter-protest. [ref:1, ref:10]
-• The opposition is raising hell over alleged voter exclusion, but critics are pointing out their selective solidarity, especially regarding past discrimination. [Read more](https://www.aljazeera.com/opinions/2026/10/31/the-selective-solidarity-at-the-heart-of-indias-voter-protests)
+• PM Modi is in attack mode, accusing the opposition of 'obstruction' and an 'anti-India pattern,' which is classic pre-election rhetoric ramping up. [Read more](https://timesofindia.indiatimes.com/india/opposition-into-politics-of-obstruction-must-see-anti-india-pattern-pm-modi/articleshow/135411721.cms)
+• Opposition parties are uniting over alleged voter disenfranchisement from new voter roll revisions, creating a fresh headache for Modi and pointing to deeper issues with electoral transparency. [Read more](https://www.thehindubusinessline.com/news/indias-protest-movements-unite-in-fresh-headache-for-modi/article71652027.ece)
+• In a blow to AAP, three of their MLAs just jumped ship to BJP in Punjab, right before crucial elections; expect some serious political musical chairs in the coming months. [Read more](https://www.ndtv.com/india-news/setback-for-aap-ahead-of-punjab-polls-3-mlas-join-bjp-hours-after-resigning-12269786#publisher=newsstand)
 
-TODAY'S TAKEAWAY: India's political stage is boiling over, while AI keeps pushing into every corner of our lives, from dating to debugging.
+TODAY'S TAKEAWAY: India's political landscape is heating up with serious electoral disputes and party realignments, while global tensions over oil supply and the ever-present AI debate continue to simmer.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 08:31 UAE time
+Generated at 08:43 UAE time
