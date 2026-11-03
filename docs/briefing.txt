@@ -1,32 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Monday, November 02, 2026
+       Tuesday, November 03, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• US-Iran talks about reopening the Strait of Hormuz are reportedly 'braced for the worst' — a major geopolitical flashpoint that directly impacts global oil prices, so keep an eye on this. [Read more](https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz)
-• Ukraine is back to hitting Russian oil refineries, completely ignoring any 'don't poke the bear' advice from the West, which tells you all you need to know about their current strategy. [Read more](https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil)
-• Kyiv's air raid warning app likely got hacked, sending out false alarms; in a war zone, that's not just annoying, it's a dangerous erosion of trust. [Read more](https://www.theguardian.com/world/2026/nov/02/ukraine-war-briefing-kyiv-says-air-raid-warning-app-likely-hacked-after-users-receive-false-alerts)
+• Zelenskyy's heading to Berlin for unexpected talks with Merz, so expect some fresh geopolitical chatter from Europe. [Read more](https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news)
 
 ## 🤖 Tech & AI
-• Apple's new CEO is downplaying the AI hype, saying they won't "ship AI for AI's sake" — a surprisingly sensible, if slow, approach compared to their rivals. [Read more](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)
-• Some psychics are actually pushing back against AI-generated readings, which is hilarious; apparently, even the mystical arts have a 'real artists don't use AI' debate now. [Read more](https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings)
-• Elon Musk's much-hyped AI-made Odyssey film is getting savaged by reviewers, proving that even with advanced tech, good storytelling still requires actual human talent. [Read more](https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan)
+• A University of Kentucky employee just got a religious exemption from using AI, proving even algorithms can't conquer all beliefs. What a wild precedent. [Read more](https://www.insidehighered.com/news/quick-takes/2026/11/02/u-kentucky-says-humanist-admin-exempt-ai)
+• The tech titans are at it again: Meta and Palantir are apparently duking it out with OpenAI and Google over AI's future. Grab your popcorn, this industry rift is getting interesting. [Read more](https://www.ndtv.com/opinion/the-great-ai-rift-why-meta-palantir-are-fighting-against-openai-anthropic-google-12275172#publisher=newsstand)
+• Apple Watch is beta testing new AI features to rewind and recap conversations. Your personal assistant just got a memory upgrade, for better or worse. [Read more](https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/)
 
 ## 💪 Health & Wellness
-• Over 50,000 deaths a year are now linked to drug-resistant 'superbugs' according to the CDC, making the fight against antibiotic resistance more critical than ever. [Read more](https://www.healthline.com/health-news/drug-resistant-infections-deaths-rising-cdc)
-• Google just invested in the period tracking app Flo and plans women's health wearables — expect your personal cycle data to become even more integrated into your tech ecosystem. [Read more](https://thenextweb.com/news/google-flo-health-investment-womens-health-wearables)
+• Drug-resistant superbugs are causing over 50,000 deaths annually, a stark reminder that some things AI can't fix. This is genuinely important and a growing threat. [Read more](https://www.healthline.com/health-news/drug-resistant-infections-deaths-rising-cdc)
+• Google just invested in the period tracker Flo and is planning women’s health wearables. Finally, tech that actually cares about our cycles. [Read more](https://thenextweb.com/news/google-flo-health-investment-womens-health-wearables)
+• Research indicates obesity in your 20s and 30s significantly increases your cancer risk later in life. Another good reason to keep those wellness goals front and center. [Read more](https://www.healthline.com/health-news/obesity-during-young-adulthood-raises-cancer-risk)
 
 ## 🇮🇳 India
-• PM Modi is in attack mode, accusing the opposition of 'obstruction' and an 'anti-India pattern,' which is classic pre-election rhetoric ramping up. [Read more](https://timesofindia.indiatimes.com/india/opposition-into-politics-of-obstruction-must-see-anti-india-pattern-pm-modi/articleshow/135411721.cms)
-• Opposition parties are uniting over alleged voter disenfranchisement from new voter roll revisions, creating a fresh headache for Modi and pointing to deeper issues with electoral transparency. [Read more](https://www.thehindubusinessline.com/news/indias-protest-movements-unite-in-fresh-headache-for-modi/article71652027.ece)
-• In a blow to AAP, three of their MLAs just jumped ship to BJP in Punjab, right before crucial elections; expect some serious political musical chairs in the coming months. [Read more](https://www.ndtv.com/india-news/setback-for-aap-ahead-of-punjab-polls-3-mlas-join-bjp-hours-after-resigning-12269786#publisher=newsstand)
+• PM Modi is firing shots at the opposition, claiming they're engaging in "anti-India" obstruction rather than constitutional duties. Standard political drama, but the rhetoric is getting sharper. [Read more](https://timesofindia.indiatimes.com/india/opposition-into-politics-of-obstruction-must-see-anti-india-pattern-pm-modi/articleshow/135411721.cms)
+• India’s protest movements are uniting over alleged voter-roll revisions that could disenfranchise millions, creating a big headache for the Modi government. This smells like a brewing crisis. [ref:6, ref:10]
+• Bengal CM Adhikari claims Mamata and Rahul are fighting to keep "infiltrators" in India, intensifying the already heated debate on citizenship and national identity. [Read more](https://www.thehindu.com/news/national/west-bengal/mamata-rahul-fighting-for-infiltrators-to-keep-them-in-india-bengal-cm/article71660098.ece)
 
-TODAY'S TAKEAWAY: India's political landscape is heating up with serious electoral disputes and party realignments, while global tensions over oil supply and the ever-present AI debate continue to simmer.
+TODAY'S TAKEAWAY: The future of AI is contentious and highly personal, while India's political landscape is heating up with serious accusations and widespread protests.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 08:43 UAE time
+Generated at 08:55 UAE time
