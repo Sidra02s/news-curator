@@ -1,31 +1,34 @@
 
        SIDRA'S MORNING BRIEFING
-       Tuesday, November 03, 2026
+       Wednesday, November 04, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Zelenskyy's heading to Berlin for unexpected talks with Merz, so expect some fresh geopolitical chatter from Europe. [Read more](https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news)
+• US Democrats just snatched a midterm victory, which means Trump’s path to the presidency is looking even rockier. Good riddance, honestly. [Read more](https://www.theguardian.com/world/2026/nov/04/wednesday-briefing-what-the-democrat-midterms-victory-tell-us-about-trumps-future-as-president)
 
 ## 🤖 Tech & AI
-• A University of Kentucky employee just got a religious exemption from using AI, proving even algorithms can't conquer all beliefs. What a wild precedent. [Read more](https://www.insidehighered.com/news/quick-takes/2026/11/02/u-kentucky-says-humanist-admin-exempt-ai)
-• The tech titans are at it again: Meta and Palantir are apparently duking it out with OpenAI and Google over AI's future. Grab your popcorn, this industry rift is getting interesting. [Read more](https://www.ndtv.com/opinion/the-great-ai-rift-why-meta-palantir-are-fighting-against-openai-anthropic-google-12275172#publisher=newsstand)
-• Apple Watch is beta testing new AI features to rewind and recap conversations. Your personal assistant just got a memory upgrade, for better or worse. [Read more](https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/)
+• Fal, an AI inference startup, just saw its valuation jump to a staggering $16 billion. Yes, the AI gold rush is still very much on. [Read more](https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/)
+• In a wild story, hackers pulled off the largest crypto heist ever on Binance ($6.3 billion!) by using fake job interviews and an internal AI tool. Cybersecurity nightmares just got a lot smarter. [Read more](https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained)
+• Good news for your smart home: Sonos is rolling out new presets and an AI voice assistant beta. Your lazy morning routine just got even easier. [Read more](https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access)
+
+## 💄 Fashion & Beauty
+• Apparently, the 'tradwife' movement is losing its luster, with many women now fleeing it. Turns out, going backwards isn't actually progress. [Read more](https://www.theguardian.com/lifeandstyle/2026/nov/04/why-tradwives-are-fleeing-the-movement-i-cant-undo-my-past-but-i-can-warn-other-women)
 
 ## 💪 Health & Wellness
-• Drug-resistant superbugs are causing over 50,000 deaths annually, a stark reminder that some things AI can't fix. This is genuinely important and a growing threat. [Read more](https://www.healthline.com/health-news/drug-resistant-infections-deaths-rising-cdc)
-• Google just invested in the period tracker Flo and is planning women’s health wearables. Finally, tech that actually cares about our cycles. [Read more](https://thenextweb.com/news/google-flo-health-investment-womens-health-wearables)
-• Research indicates obesity in your 20s and 30s significantly increases your cancer risk later in life. Another good reason to keep those wellness goals front and center. [Read more](https://www.healthline.com/health-news/obesity-during-young-adulthood-raises-cancer-risk)
+• Google is diving deeper into women’s health, investing in the period-tracking app Flo and planning new wearables. Finally, big tech getting smarter about half the population. [Read more](https://thenextweb.com/news/google-flo-health-investment-womens-health-wearables)
+• A new study warns that obesity in your 20s and 30s significantly increases your cancer risk later in life. A stark reminder that your health today impacts your future. [Read more](https://www.healthline.com/health-news/obesity-during-young-adulthood-raises-cancer-risk)
+• GLP-1 drugs like Ozempic and Mounjaro are proving more effective than standard treatments for prediabetes and heart risks. They’re quickly becoming the new hotness in health. [Read more](https://www.healthline.com/health-news/glp-1s-lower-diabetes-heart-risks-better-than-standard-prevention)
 
 ## 🇮🇳 India
-• PM Modi is firing shots at the opposition, claiming they're engaging in "anti-India" obstruction rather than constitutional duties. Standard political drama, but the rhetoric is getting sharper. [Read more](https://timesofindia.indiatimes.com/india/opposition-into-politics-of-obstruction-must-see-anti-india-pattern-pm-modi/articleshow/135411721.cms)
-• India’s protest movements are uniting over alleged voter-roll revisions that could disenfranchise millions, creating a big headache for the Modi government. This smells like a brewing crisis. [ref:6, ref:10]
-• Bengal CM Adhikari claims Mamata and Rahul are fighting to keep "infiltrators" in India, intensifying the already heated debate on citizenship and national identity. [Read more](https://www.thehindu.com/news/national/west-bengal/mamata-rahul-fighting-for-infiltrators-to-keep-them-in-india-bengal-cm/article71660098.ece)
+• PM Modi is back at it, slamming the opposition for "obstructionist politics" and seeing an "anti-India pattern." Standard political playbook, really. [Read more](https://timesofindia.indiatimes.com/india/opposition-into-politics-of-obstruction-must-see-anti-india-pattern-pm-modi/articleshow/135411721.cms)
+• India's opposition is uniting over contentious voter-roll revisions, alleging millions are being disenfranchised. A brewing storm, but they're being criticized for ignoring past Muslim voter discrimination. [ref:2, ref:7]
+• BJP leaders are singing "Modi Kahin Nahi Jaayenge" (Modi isn't going anywhere). So, expect more of the same, unfortunately. [Read more](https://www.ndtv.com/india-news/with-harmonium-union-minister-arjun-ram-meghwal-sings-modi-kahin-nahi-jaayenge-12280894#publisher=newsstand)
 
-TODAY'S TAKEAWAY: The future of AI is contentious and highly personal, while India's political landscape is heating up with serious accusations and widespread protests.
+TODAY'S TAKEAWAY: India's political scene is heating up with voter protests and Modi's usual counter-attacks, while AI continues its relentless expansion — for both good and bad.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 08:55 UAE time
+Generated at 08:24 UAE time
