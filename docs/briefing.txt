@@ -1,34 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Wednesday, November 04, 2026
+       Thursday, November 05, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• US Democrats just snatched a midterm victory, which means Trump’s path to the presidency is looking even rockier. Good riddance, honestly. [Read more](https://www.theguardian.com/world/2026/nov/04/wednesday-briefing-what-the-democrat-midterms-victory-tell-us-about-trumps-future-as-president)
+• The UK is apparently "dangerously" reliant on China for the critical minerals needed for both defence and AI. Cue national security jitters across the pond. [Read more](https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy)
 
 ## 🤖 Tech & AI
-• Fal, an AI inference startup, just saw its valuation jump to a staggering $16 billion. Yes, the AI gold rush is still very much on. [Read more](https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/)
-• In a wild story, hackers pulled off the largest crypto heist ever on Binance ($6.3 billion!) by using fake job interviews and an internal AI tool. Cybersecurity nightmares just got a lot smarter. [Read more](https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained)
-• Good news for your smart home: Sonos is rolling out new presets and an AI voice assistant beta. Your lazy morning routine just got even easier. [Read more](https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access)
-
-## 💄 Fashion & Beauty
-• Apparently, the 'tradwife' movement is losing its luster, with many women now fleeing it. Turns out, going backwards isn't actually progress. [Read more](https://www.theguardian.com/lifeandstyle/2026/nov/04/why-tradwives-are-fleeing-the-movement-i-cant-undo-my-past-but-i-can-warn-other-women)
+• Apparently, AI industry PACs dumped millions into the 2026 midterms trying to swing Congress. Mixed results, but they're already gearing up for the next round of influence-peddling. So much for AI being 'neutral.' [Read more](https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/)
+• Google is threatening to turn off Search for schools that reject AI, which is a bold move to push adoption. This could reshape education fast, for better or worse. [Read more](https://www.theguardian.com/technology/2026/nov/04/google-search-ai-schools)
+• Remember that lawyer who used ChatGPT and made up cases? Now a CPS prosecutor did it too, citing imaginary cases from an AI search. When AI lies, people get in serious trouble. [Read more](https://www.theguardian.com/technology/2026/nov/03/a-serious-failure-cps-prosecutor-cites-imaginary-case-to-high-court-after-ai-search)
 
 ## 💪 Health & Wellness
-• Google is diving deeper into women’s health, investing in the period-tracking app Flo and planning new wearables. Finally, big tech getting smarter about half the population. [Read more](https://thenextweb.com/news/google-flo-health-investment-womens-health-wearables)
-• A new study warns that obesity in your 20s and 30s significantly increases your cancer risk later in life. A stark reminder that your health today impacts your future. [Read more](https://www.healthline.com/health-news/obesity-during-young-adulthood-raises-cancer-risk)
-• GLP-1 drugs like Ozempic and Mounjaro are proving more effective than standard treatments for prediabetes and heart risks. They’re quickly becoming the new hotness in health. [Read more](https://www.healthline.com/health-news/glp-1s-lower-diabetes-heart-risks-better-than-standard-prevention)
+• Google is really diving into women's health, investing in the period-tracking app Flo and planning integrated wearables. Your cycle data is about to get a whole lot more connected, and centralized. [Read more](https://thenextweb.com/news/google-flo-health-investment-womens-health-wearables)
+• New research shows that being obese in your 20s and 30s significantly increases your cancer risk later in life. A sobering reminder for looking after yourself now. [Read more](https://www.healthline.com/health-news/obesity-during-young-adulthood-raises-cancer-risk)
+• GLP-1 drugs like Ozempic and Mounjaro are showing they're better than traditional methods like metformin at lowering diabetes and heart risks. This could be a game-changer for prevention. [Read more](https://www.healthline.com/health-news/glp-1s-lower-diabetes-heart-risks-better-than-standard-prevention)
 
 ## 🇮🇳 India
-• PM Modi is back at it, slamming the opposition for "obstructionist politics" and seeing an "anti-India pattern." Standard political playbook, really. [Read more](https://timesofindia.indiatimes.com/india/opposition-into-politics-of-obstruction-must-see-anti-india-pattern-pm-modi/articleshow/135411721.cms)
-• India's opposition is uniting over contentious voter-roll revisions, alleging millions are being disenfranchised. A brewing storm, but they're being criticized for ignoring past Muslim voter discrimination. [ref:2, ref:7]
-• BJP leaders are singing "Modi Kahin Nahi Jaayenge" (Modi isn't going anywhere). So, expect more of the same, unfortunately. [Read more](https://www.ndtv.com/india-news/with-harmonium-union-minister-arjun-ram-meghwal-sings-modi-kahin-nahi-jaayenge-12280894#publisher=newsstand)
+• PM Modi is back to his usual tune, accusing the opposition of "obstruction politics" and an "anti-India pattern." Nothing new there, but the rhetoric is heating up. [Read more](https://timesofindia.indiatimes.com/india/opposition-into-politics-of-obstruction-must-see-anti-india-pattern-pm-modi/articleshow/135411721.cms)
+• Meanwhile, India's opposition movements are actually uniting over a controversial voter-roll revision, alleging millions are being disenfranchised. This is a real headache for Modi and could spark significant unrest. [Read more](https://www.thehindubusinessline.com/news/indias-protest-movements-unite-in-fresh-headache-for-modi/article71652027.ece)
+• In a bit of selective solidarity, critics point out the current voter protests aren't addressing the discrimination Muslims faced during similar voter exclusions in 2019. Interesting how some issues get more airtime than others. [Read more](https://www.aljazeera.com/opinions/2026/10/31/the-selective-solidarity-at-the-heart-of-indias-voter-protests)
 
-TODAY'S TAKEAWAY: India's political scene is heating up with voter protests and Modi's usual counter-attacks, while AI continues its relentless expansion — for both good and bad.
+TODAY'S TAKEAWAY: India is boiling over alleged voter disenfranchisement, while AI's influence in politics and its real-world blunders are becoming undeniable.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 08:24 UAE time
+Generated at 08:50 UAE time
