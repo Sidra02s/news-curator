@@ -1,28 +1,29 @@
 
        SIDRA'S MORNING BRIEFING
-       Thursday, November 05, 2026
+       Friday, November 06, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• The UK is apparently "dangerously" reliant on China for the critical minerals needed for both defence and AI. Cue national security jitters across the pond. [Read more](https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy)
+• Trump's midterm losses are shaking up US politics, forcing India to rethink trade strategies; expect some bumpy roads ahead for global economics. [Read more](https://economictimes.indiatimes.com/opinion/et-commentary/reset-will-keep-india-busy-as-trumps-midterm-loss-redraws-us-politics/articleshow/135550189.cms)
+• Paraguay's president just quit after a national bank crisis froze millions in savings, proving that financial instability can truly rock a government. [Read more](https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns)
 
 ## 🤖 Tech & AI
-• Apparently, AI industry PACs dumped millions into the 2026 midterms trying to swing Congress. Mixed results, but they're already gearing up for the next round of influence-peddling. So much for AI being 'neutral.' [Read more](https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/)
-• Google is threatening to turn off Search for schools that reject AI, which is a bold move to push adoption. This could reshape education fast, for better or worse. [Read more](https://www.theguardian.com/technology/2026/nov/04/google-search-ai-schools)
-• Remember that lawyer who used ChatGPT and made up cases? Now a CPS prosecutor did it too, citing imaginary cases from an AI search. When AI lies, people get in serious trouble. [Read more](https://www.theguardian.com/technology/2026/nov/03/a-serious-failure-cps-prosecutor-cites-imaginary-case-to-high-court-after-ai-search)
+• Perplexity is coming hard for OpenAI with new "Teammates" AI agents designed for work, setting the stage for a real corporate AI battle. [Read more](https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work)
+• Google just told schools: either embrace AI or lose Search access, a bold move pushing AI integration into education whether they like it or not. [Read more](https://www.theguardian.com/technology/2026/nov/04/google-search-ai-schools)
+• Big tech is betting on AI agents: Palo Alto Networks is eyeing an AI security startup for $500M, and Airbnb plans an AI travel agent for 2027. [Read more](https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/)[Read more](https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/)
 
 ## 💪 Health & Wellness
-• Google is really diving into women's health, investing in the period-tracking app Flo and planning integrated wearables. Your cycle data is about to get a whole lot more connected, and centralized. [Read more](https://thenextweb.com/news/google-flo-health-investment-womens-health-wearables)
-• New research shows that being obese in your 20s and 30s significantly increases your cancer risk later in life. A sobering reminder for looking after yourself now. [Read more](https://www.healthline.com/health-news/obesity-during-young-adulthood-raises-cancer-risk)
-• GLP-1 drugs like Ozempic and Mounjaro are showing they're better than traditional methods like metformin at lowering diabetes and heart risks. This could be a game-changer for prevention. [Read more](https://www.healthline.com/health-news/glp-1s-lower-diabetes-heart-risks-better-than-standard-prevention)
+• GLP-1 drugs (think Ozempic) are proving more effective than standard meds like Metformin for prediabetes and heart risks – huge for proactive health management. [Read more](https://www.healthline.com/health-news/glp-1s-lower-diabetes-heart-risks-better-than-standard-prevention)
+• Google is diving deep into women's health, investing in the Flo period tracker and planning new wearables; finally, tech is taking our bodies seriously. [Read more](https://thenextweb.com/news/google-flo-health-investment-womens-health-wearables)[Read more](https://www.prnewswire.com/news-releases/flo-health-and-google-health-join-forces-to-put-womens-health-at-the-center-of-wearable-tracking-and-personalized-coaching-302905153.html)
+• Trump's new women's health order names endometriosis and menopause, which is a step, but don't hold your breath for immediate benefits; progress is slow. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
 
 ## 🇮🇳 India
-• PM Modi is back to his usual tune, accusing the opposition of "obstruction politics" and an "anti-India pattern." Nothing new there, but the rhetoric is heating up. [Read more](https://timesofindia.indiatimes.com/india/opposition-into-politics-of-obstruction-must-see-anti-india-pattern-pm-modi/articleshow/135411721.cms)
-• Meanwhile, India's opposition movements are actually uniting over a controversial voter-roll revision, alleging millions are being disenfranchised. This is a real headache for Modi and could spark significant unrest. [Read more](https://www.thehindubusinessline.com/news/indias-protest-movements-unite-in-fresh-headache-for-modi/article71652027.ece)
-• In a bit of selective solidarity, critics point out the current voter protests aren't addressing the discrimination Muslims faced during similar voter exclusions in 2019. Interesting how some issues get more airtime than others. [Read more](https://www.aljazeera.com/opinions/2026/10/31/the-selective-solidarity-at-the-heart-of-indias-voter-protests)
+• India is facing a drought-induced dilemma, prioritizing food security over its ambitious ethanol blending target – a tough call that highlights climate change impacts. [Read more](https://economictimes.indiatimes.com/industry/renewables/drought-threatens-indias-20-ethanol-blending-target-as-food-takes-priority/articleshow/135520093.cms)[Read more](https://www.business-standard.com/economy/news/india-puts-food-before-fuel-as-el-nino-dents-ethanol-blending-target-126110400147_1.html)
+• Trump's midterm losses in the US mean India will be busy resetting trade relations, anticipating shifts that could impact our economy significantly. [Read more](https://economictimes.indiatimes.com/opinion/et-commentary/reset-will-keep-india-busy-as-trumps-midterm-loss-redraws-us-politics/articleshow/135550189.cms)
+• A major fire at an Oil India tank farm in Assam, resulting in one fatality, is a tragic reminder of industrial risks and safety gaps. [Read more](https://www.ndtv.com/india-news/major-fire-at-oil-india-tank-farm-in-assams-dibrugarh-1-dead-several-injured-12291536#publisher=newsstand)
 
-TODAY'S TAKEAWAY: India is boiling over alleged voter disenfranchisement, while AI's influence in politics and its real-world blunders are becoming undeniable.
+TODAY'S TAKEAWAY: From US politics to our own climate challenges, India's morning starts with major recalibrations.
 
 -----------------------------
 
