@@ -1,32 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Friday, November 06, 2026
+       Saturday, November 07, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Trump's midterm losses are shaking up US politics, forcing India to rethink trade strategies; expect some bumpy roads ahead for global economics. [Read more](https://economictimes.indiatimes.com/opinion/et-commentary/reset-will-keep-india-busy-as-trumps-midterm-loss-redraws-us-politics/articleshow/135550189.cms)
-• Paraguay's president just quit after a national bank crisis froze millions in savings, proving that financial instability can truly rock a government. [Read more](https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns)
+• Hold onto your hats: Beijing is confirming talks for a historic, potentially volatile, meeting between Xi, Trump, and Putin to discuss the Ukraine war. This is a big deal if it actually happens. [Read more](https://www.theguardian.com/world/2026/nov/07/ukraine-war-briefing-beijing-confirms-historic-xi-trump-putin-meeting-under-discussion)
+• Trump’s back at it, ordering another round of "minor" strikes on Iran, keeping tensions simmering in the Middle East and showing some things never change. [Read more](https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says)
+• Good news for global shipping (and oil prices): There’s a Qatari plan to reopen the Strait of Hormuz, potentially linked to new nuclear inspections for Iran. [Read more](https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections)
 
 ## 🤖 Tech & AI
-• Perplexity is coming hard for OpenAI with new "Teammates" AI agents designed for work, setting the stage for a real corporate AI battle. [Read more](https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work)
-• Google just told schools: either embrace AI or lose Search access, a bold move pushing AI integration into education whether they like it or not. [Read more](https://www.theguardian.com/technology/2026/nov/04/google-search-ai-schools)
-• Big tech is betting on AI agents: Palo Alto Networks is eyeing an AI security startup for $500M, and Airbnb plans an AI travel agent for 2027. [Read more](https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/)[Read more](https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/)
+• OpenAI is now valued at a staggering $1.25 trillion, solidifying its reign at the top of the AI pyramid as rivals scramble to keep up. [Read more](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation)
+• Elon Musk is reportedly killing Cybertruck production to focus entirely on robotics and AI; expect more robotaxis and fewer polygonal trucks. [Read more](https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai)
+• The AI race just got cloak-and-dagger: China allegedly recruited a tech exec to spy on Nvidia CEO Jensen Huang, proving the stakes are incredibly high. [Read more](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy)
 
 ## 💪 Health & Wellness
-• GLP-1 drugs (think Ozempic) are proving more effective than standard meds like Metformin for prediabetes and heart risks – huge for proactive health management. [Read more](https://www.healthline.com/health-news/glp-1s-lower-diabetes-heart-risks-better-than-standard-prevention)
-• Google is diving deep into women's health, investing in the Flo period tracker and planning new wearables; finally, tech is taking our bodies seriously. [Read more](https://thenextweb.com/news/google-flo-health-investment-womens-health-wearables)[Read more](https://www.prnewswire.com/news-releases/flo-health-and-google-health-join-forces-to-put-womens-health-at-the-center-of-wearable-tracking-and-personalized-coaching-302905153.html)
-• Trump's new women's health order names endometriosis and menopause, which is a step, but don't hold your breath for immediate benefits; progress is slow. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
+• Google just poured money into period-tracking app Flo Health, with plans to integrate women’s health data into their wearables – finally some smart tech for us. This could genuinely advance women's health monitoring. [Read more](https://thenextweb.com/news/google-flo-health-investment-womens-health-wearables)
+• Great news for prediabetes management: GLP-1 drugs like Ozempic are proving more effective than standard treatments, potentially slashing heart and diabetes risks. [Read more](https://www.healthline.com/health-news/glp-1s-lower-diabetes-heart-risks-better-than-standard-prevention)
 
 ## 🇮🇳 India
-• India is facing a drought-induced dilemma, prioritizing food security over its ambitious ethanol blending target – a tough call that highlights climate change impacts. [Read more](https://economictimes.indiatimes.com/industry/renewables/drought-threatens-indias-20-ethanol-blending-target-as-food-takes-priority/articleshow/135520093.cms)[Read more](https://www.business-standard.com/economy/news/india-puts-food-before-fuel-as-el-nino-dents-ethanol-blending-target-126110400147_1.html)
-• Trump's midterm losses in the US mean India will be busy resetting trade relations, anticipating shifts that could impact our economy significantly. [Read more](https://economictimes.indiatimes.com/opinion/et-commentary/reset-will-keep-india-busy-as-trumps-midterm-loss-redraws-us-politics/articleshow/135550189.cms)
-• A major fire at an Oil India tank farm in Assam, resulting in one fatality, is a tragic reminder of industrial risks and safety gaps. [Read more](https://www.ndtv.com/india-news/major-fire-at-oil-india-tank-farm-in-assams-dibrugarh-1-dead-several-injured-12291536#publisher=newsstand)
+• India is preparing for a "reset" with the US, as Trump’s midterm losses mean a shift in American politics and new trade dynamics. [Read more](https://economictimes.indiatimes.com/opinion/et-commentary/reset-will-keep-india-busy-as-trumps-midterm-loss-redraws-us-politics/articleshow/135550189.cms)
+• Rahul Gandhi is openly challenging PM Modi and Amit Shah for a public debate on "vote theft" allegations, heating up the national political discourse dramatically. [Read more](https://www.thehindu.com/news/national/dont-confuse-pm-modi-convince-him-for-open-debate-with-me-rahul-gandhi-to-amit-shah/article71677239.ece)
+• A grim situation in Assam: A deadly oil fire has claimed two lives, with five others critically injured – a stark reminder of industrial hazards. [Read more](https://www.ndtv.com/india-news/death-count-in-assam-oil-india-fire-rises-to-2-5-injured-remain-critical-12295904#publisher=newsstand)
 
-TODAY'S TAKEAWAY: From US politics to our own climate challenges, India's morning starts with major recalibrations.
+TODAY'S TAKEAWAY: The world stage is a chaotic blend of high-stakes diplomacy and military action, while the tech sector races into a future where AI is both invaluable and increasingly surveilled.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 08:50 UAE time
+Generated at 08:07 UAE time
