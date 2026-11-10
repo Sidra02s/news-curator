@@ -1,32 +1,32 @@
 
        SIDRA'S MORNING BRIEFING
-       Monday, November 09, 2026
+       Tuesday, November 10, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Trump got a reality check in the US midterms, sparking questions about his policy support and what this means for global affairs. Feels like the world is holding its breath. [Read more](https://www.livemint.com/opinion/online-views/trump-us-midterm-election-democratic-victory-republican-11794032555831.html)
-• Abu Dhabi talks are zeroing in on post-war "security guarantees" for Ukraine, which sounds important but also like a lot of diplomatic heavy lifting. Fingers crossed for some actual progress. [Read more](https://www.theguardian.com/world/2026/nov/09/ukraine-war-briefing-post-war-security-guarantees-a-key-focus-in-upcoming-abu-dhabi-talks-says-rubio)
+• Ukraine is feeling good about its battlefield gains, believing it strengthens their hand in upcoming peace talks led by the US in Abu Dhabi. Seems like diplomacy might finally be gaining some traction. [ref:2, ref:7]
+• Over in the US, Trump took a bit of a hit in the midterms, raising questions about what that means for his foreign policy and global standing moving forward. Thank goodness for small mercies, perhaps? [Read more](https://www.livemint.com/opinion/online-views/trump-us-midterm-election-democratic-victory-republican-11794032555831.html)
+• Israel's political chessboard is moving, with a new Knesset speaker potentially holding the key to ousting Netanyahu. About time for some fresh faces, no? [Read more](https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm)
 
 ## 🤖 Tech & AI
-• Google's AI chatbot is playing coy about the 2020 US election winner, refusing a direct answer. It's either a smart move to avoid controversy or a stark reminder of AI's current limitations. [Read more](https://www.naturalnews.com/2026-11-08-ai-chatbot-declines-direct-answer-2020-election.html)
-• Apple is apparently in a mad dash to make Siri genuinely smart, hoping to catch up to the likes of OpenAI's agents. Let's see if "Hey Siri" finally gets a glow-up. [Read more](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic)
-• Anthropic's IPO filing casually dropped a warning that their advanced AI could cause "catastrophic or existential risks." So, great, another potential apocalypse to add to the list. [Read more](https://www.naturalnews.com/2026-11-08-anthropic-ipo-pentagon-ai-focus-safety-gaps.html)
+• Apple found a new way to squeeze more money out of us: $50 "usage packs" if you actually want to use all their new AI features. Because why offer innovation when you can upsell? [Read more](https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro)
+• Instagram's jumping on the AI bandwagon, letting you generate custom filters for your Stories with simple prompts. Prepare for an even more filtered reality, darling. [Read more](https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters)
+• Nvidia CEO Jensen Huang, the leather-jacket-clad AI visionary, is apparently tangled in a scandal involving an alleged Chinese spy. Talk about drama behind the silicon. [ref:9, ref:14]
 
 ## 💪 Health & Wellness
-• Google is putting money into the period-tracking app Flo and planning women’s health wearables, which could finally bring some much-needed tech focus to our specific health needs. Good, it's about time. [Read more](https://thenextweb.com/news/google-flo-health-investment-womens-health-wearables)
-• New studies suggest GLP-1 drugs (hello, Ozempic) might be even better than standard prevention for lowering diabetes and heart risks. These drugs are seriously shaking things up. [Read more](https://www.healthline.com/health-news/glp-1s-lower-diabetes-heart-risks-better-than-standard-prevention)
-• Trump's new order on women's health is naming endometriosis, fibroids, and menopause – which is nice, but actual patient benefits might still be years away. Don't hold your breath for immediate fixes. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
+• Good news for many: Those GLP-1 drugs like Ozempic and Mounjaro are showing superior results in lowering diabetes and heart risks compared to standard prevention methods. More than just a weight-loss wonder. [Read more](https://www.healthline.com/health-news/glp-1s-lower-diabetes-heart-risks-better-than-standard-prevention)
+• Trump's new women's health order addresses conditions like endometriosis and menopause, which is great, but don't hold your breath for immediate changes—patient benefits are likely years away. Promises, promises. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
 
 ## 🇮🇳 India
-• Sonia Gandhi is not mincing words, claiming "great damage" has been done to India's democracy and institutions under the Modi government. It’s a bold accusation that's definitely going to stir the pot. [Read more](https://www.business-standard.com/politics/great-damage-done-to-india-s-democracy-under-modi-govt-sonia-gandhi-126110700259_1.html)
-• Karnataka is making a smart move by introducing an English option in all government schools and roping in the British Council for teacher training. This could be huge for future generations. [Read more](https://www.ndtv.com/education/karnataka-to-make-all-government-schools-bilingual-with-english-option-12302440#publisher=newsstand)
-• India's oilmeal exports are down almost 29%, with cheaper alternatives from Brazil and Argentina eating into our market share. Ouch, that’s a hit to the economy. [Read more](https://www.thehindu.com/news/national/indias-april-august-oilmeal-exports-fall-285-as-soymeal-loses-to-brazil-argentina/article71681830.ece)
+• Sonia Gandhi is not mincing words, claiming "great damage" has been done to India's democracy and institutions under the Modi government, and people are finally recognizing it. Someone's definitely drawing a line in the sand. [ref:1, ref:4]
+• In a more personal jab, Gandhi's new memoir reveals PM Modi "tends to look away" and avoids eye contact, offering a juicy insight into their dynamic. The shade is real. [Read more](https://www.ndtv.com/india-news/have-no-real-contact-with-him-he-avoids-eye-contact-sonia-gandhi-on-pm-modi-12306330#publisher=newsstand)
+• While the political drama unfolds, India is also gearing up for an ambitious deep-sea mission, MATSYA-6000, set to plunge 6,000 meters below the ocean by 2028. Who knew we were racing to the bottom of the sea? [Read more](https://www.ndtv.com/india-news/indias-race-to-the-bottom-of-the-ocean-what-lies-6-000-metres-below-12307246#publisher=newsstand)
 
-TODAY'S TAKEAWAY: The AI race is getting intense, not just in capability but in the potential for unintended consequences – while closer to home, India's political rhetoric is heating up significantly.
+TODAY'S TAKEAWAY: The political pot is boiling in India with Sonia Gandhi's direct critiques, while tech giants continue finding ways to monetize AI, and global peace talks for Ukraine finally begin.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 08:56 UAE time
+Generated at 09:03 UAE time
