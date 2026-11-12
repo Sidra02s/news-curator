@@ -1,32 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Wednesday, November 11, 2026
+       Thursday, November 12, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Ukraine peace talks are actually happening in Abu Dhabi with US, Ukraine, and Russia, raising hopes for a "final end" to the war — though Zelenskyy still thinks Putin's living in fantasy land. The US calls them "very productive," which sounds almost shockingly positive. [ref:1, 11, 13]
-• Adding to the weirdness, Ukraine apparently captured an Indonesian POW, hinting at how far Russia is reaching for recruits. Wild. [Read more](https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia)
+• Ukraine peace talks are finally getting serious, with US envoys meeting Putin and Abu Dhabi hosting discussions. Zelenskyy sees a "window of opportunity," which is genuinely important, but optimism should be tempered. [ref:3, 5, 8]
+• Spain just saw its first general strike in 14 years, with millions protesting crippling housing costs. People are clearly reaching their breaking point on cost of living. [Read more](https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs)
 
 ## 🤖 Tech & AI
-• Your Oura ring just got smarter: they're acquiring AI chatbot startup Counsel Health for $625 million. Soon, your bedtime tracker will be giving you personalized health advice, hopefully sans judgment. [Read more](https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition)
-• New York isn't playing around; its new AI safety law is now in effect, meaning giants like OpenAI and Anthropic have to disclose their safety practices or face big fines. Expect a lot more bureaucratic paperwork in the AI world. [Read more](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/)
-• Never a dull moment: Trump claims he threatened to arrest an unnamed top AI exec over security concerns, telling them to "kiss your wife goodnight." The drama is unending, even in tech. [Read more](https://economictimes.indiatimes.com/news/international/world-news/kiss-your-wife-goodnight-donald-trump-says-he-threatened-to-arrest-unnamed-top-ai-executive-artificial-intelligence/articleshow/135703556.cms)
-• Google is quietly expanding its Tensor AI chips, now focusing on supporting those autonomous AI agents we keep hearing about. The future is coded, and it's on custom silicon. [Read more](https://www.business-standard.com/technology/tech-news/google-expands-8th-gen-tensor-series-with-agents-workload-focused-ai-chips-126111000335_1.html)
+• AI is hot, but practical application still needs human expertise, says Bottomline. Good to know our jobs aren't totally obsolete yet. [Read more](https://www.pymnts.com/opinion/2026/bottomline-sees-expertise-turning-ai-potential-into-customer-value/)
+• Google launched "Tabletop AI" to build custom collaboration apps – basically, more AI to help you organize your digital chaos. [Read more](https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability)
+• Open-source projects are starting to ban AI-generated contributions. It seems some still prefer human touch over robot code. [Read more](https://osssaysno.com)
 
 ## 💪 Health & Wellness
-• Attention, GLP-1 users: the FDA is updating labels to include a rare but serious eye disease risk. It seems every miracle drug comes with a side quest. [Read more](https://www.healthline.com/health-news/fda-safety-labeling-changes-glp-1-drugs-eye-diesease-risk)
-• Trump's new women's health order names endometriosis, fibroids, and menopause, which is great, but don't hold your breath for immediate benefits; patient help is still years away. It's a start, I guess. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
-• Google is also throwing its weight (and money) into women's health, investing in Flo Health for new wearables. Data-driven health tracking for women is definitely on the rise. [Read more](https://www.patriciarenee.com/google-flo-health-womens-health-wearables/)
+• Popular GLP-1 weight-loss drugs now come with an FDA warning for a rare but serious eye disease risk. Add it to the list of "things to watch out for." [Read more](https://www.healthline.com/health-news/fda-safety-labeling-changes-glp-1-drugs-eye-diesease-risk)
+• Trump’s new women's health order addresses issues like endometriosis and menopause, but actual patient benefits are years away. Sounds like a long-term promise, not a quick fix. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
 
 ## 🇮🇳 India
-• Sonia Gandhi is out here saying Modi's government has "greatly damaged India's fabric" and people are finally seeing it. Sounds like election season is already heating up. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/great-damage-done-to-indias-fabric-under-modi-government-people-now-recognising-it-sonia-gandhi/articleshow/135639153.cms)
-• The NCW chief is heading to Jharkhand over the Nisha Bhagat case, highlighting crucial ongoing women's issues that demand attention beyond the headlines. [Read more](https://www.thehindu.com/news/national/jharkhand/ncw-chief-vijaya-rahatkar-to-meet-jharkhand-officials-over-nisha-bhagat-case/article71688785.ece)
+• PM Modi wants media to focus on India's "success stories." Translation: less critique, more cheerleading, please. [Read more](https://www.thehindu.com/news/national/work-on-success-stories-of-india-pm-modi-tells-media/article71692866.ece)
+• Asaduddin Owaisi's AIMIM has teamed up with Chandrashekhar Azad in UP, naming Azad as their CM face. A significant political play to watch. [Read more](https://www.ndtv.com/india-news/up-elections-asaduddin-owaisi-seals-chandrashekhar-azad-tie-up-cm-face-what-it-means-for-up-dalit-muslim-votes-12316167#publisher=newsstand)
+• A bit of political pot-stirring: Narasimha Rao's grandson is airing grievances about Sonia Gandhi omitting the ex-PM from her memoir. Classic family drama, political style. [Read more](https://www.ndtv.com/india-news/narasimha-raos-grandson-slams-sonia-gandhi-for-omitting-ex-pm-in-memoir-12316376#publisher=newsstand)
 
-TODAY'S TAKEAWAY: AI safety and global peace talks are surprisingly intertwined, while women's health gets some much-needed tech and policy attention.
+TODAY'S TAKEAWAY: Looks like everyone is finally getting serious about Ukraine peace talks, but the actual outcome is anyone's guess.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 08:42 UAE time
+Generated at 09:04 UAE time
