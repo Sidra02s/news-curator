@@ -1,31 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Thursday, November 12, 2026
+       Friday, November 13, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Ukraine peace talks are finally getting serious, with US envoys meeting Putin and Abu Dhabi hosting discussions. Zelenskyy sees a "window of opportunity," which is genuinely important, but optimism should be tempered. [ref:3, 5, 8]
-• Spain just saw its first general strike in 14 years, with millions protesting crippling housing costs. People are clearly reaching their breaking point on cost of living. [Read more](https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs)
+• India is stepping up as a key mediator in the Ukraine war, leveraging its unique relationships with both Moscow and Kyiv. It's smart, makes India look good on the global stage, and honestly, someone needs to actually talk sense. [Read more](http://foreignpolicy.com/2026/11/11/india-ukraine-war-russia-mediation-black-sea/)
+• Europe is finally getting a seat at the peace talks table, but Putin's still playing hardball and warning against any peacekeeping missions. So, progress, but with a side of Russian obstruction. [ref:2, 4]
+• Keep an eye on Abu Dhabi next week; the US sees a real chance for talks there to potentially bring a "final end" to the Ukraine conflict. Let's hope for more than just good intentions. [Read more](https://english.khabarhub.com/2026/10/575118/)
 
 ## 🤖 Tech & AI
-• AI is hot, but practical application still needs human expertise, says Bottomline. Good to know our jobs aren't totally obsolete yet. [Read more](https://www.pymnts.com/opinion/2026/bottomline-sees-expertise-turning-ai-potential-into-customer-value/)
-• Google launched "Tabletop AI" to build custom collaboration apps – basically, more AI to help you organize your digital chaos. [Read more](https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability)
-• Open-source projects are starting to ban AI-generated contributions. It seems some still prefer human touch over robot code. [Read more](https://osssaysno.com)
+• If your Outlook was acting up yesterday, you weren't alone: Microsoft had a massive global outage, causing headaches for everyone. Good reminder that even giants stumble. [ref:5, 12]
+• AI is officially coming for consulting's sacred billable hours and its entire grad pipeline. Time to adapt or get left behind – maybe good news for efficiency, bad news for junior consultants. [Read more](https://www.cnbc.com/2026/11/12/ai-consulting-billable-hours-graduate-hiring.html)
+• The CEO of Hugging Face is doubling down on open-source AI, despite Nvidia's Jensen Huang bailing on the cause. The battle for who controls AI's future just got more interesting. [Read more](https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/)
 
 ## 💪 Health & Wellness
-• Popular GLP-1 weight-loss drugs now come with an FDA warning for a rare but serious eye disease risk. Add it to the list of "things to watch out for." [Read more](https://www.healthline.com/health-news/fda-safety-labeling-changes-glp-1-drugs-eye-diesease-risk)
-• Trump’s new women's health order addresses issues like endometriosis and menopause, but actual patient benefits are years away. Sounds like a long-term promise, not a quick fix. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
+• A new, rare but serious eye disease risk has been added to GLP-1 drug labels, adding another thing to consider for those popular weight loss meds. Always something, isn't it? [Read more](https://www.healthline.com/health-news/fda-safety-labeling-changes-glp-1-drugs-eye-diesease-risk)
+• Trump's new women's health order names endometriosis, fibroids, and menopause, but don't hold your breath for immediate impact; actual patient benefits could be years away. Classic politics. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
 
 ## 🇮🇳 India
-• PM Modi wants media to focus on India's "success stories." Translation: less critique, more cheerleading, please. [Read more](https://www.thehindu.com/news/national/work-on-success-stories-of-india-pm-modi-tells-media/article71692866.ece)
-• Asaduddin Owaisi's AIMIM has teamed up with Chandrashekhar Azad in UP, naming Azad as their CM face. A significant political play to watch. [Read more](https://www.ndtv.com/india-news/up-elections-asaduddin-owaisi-seals-chandrashekhar-azad-tie-up-cm-face-what-it-means-for-up-dalit-muslim-votes-12316167#publisher=newsstand)
-• A bit of political pot-stirring: Narasimha Rao's grandson is airing grievances about Sonia Gandhi omitting the ex-PM from her memoir. Classic family drama, political style. [Read more](https://www.ndtv.com/india-news/narasimha-raos-grandson-slams-sonia-gandhi-for-omitting-ex-pm-in-memoir-12316376#publisher=newsstand)
+• Modi's been busy in Bengaluru, flagging off new Metro lines and Vande Bharat trains, while simultaneously touting Yoga as India's global calling card. Always a photo op and a sermon with the PM. [ref:3, 10]
+• Meanwhile, Sonia Gandhi isn't mincing words, claiming the ground has "shifted" under the Modi government and predicting it's "not here to stay." She's still got that fire. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/sonia-gandhi-declares-modi-governments-fall-as-inevitable-foresees-revival-of-indias-soul/articleshow/135732440.cms)
 
-TODAY'S TAKEAWAY: Looks like everyone is finally getting serious about Ukraine peace talks, but the actual outcome is anyone's guess.
+TODAY'S TAKEAWAY: Everyone's talking peace for Ukraine, but the path is still bumpy, and tech giants are still having epic fail moments.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 09:04 UAE time
+Generated at 08:58 UAE time
