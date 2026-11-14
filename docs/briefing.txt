@@ -1,31 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Friday, November 13, 2026
+       Saturday, November 14, 2026
 -----------------------------
 
 
+## 🇮🇳 India
+• India's playing diplomat in the Ukraine war, trying to bridge the gap between Moscow and Kyiv. It's a savvy, high-stakes move for global influence. [Read more](http://foreignpolicy.com/2026/11/11/india-ukraine-war-russia-mediation-black-sea/)
+• Sonia Gandhi dropped a mic, claiming the Modi government's shaky and not built to last, sensing a shift in public mood. Spicy stuff. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/sonia-gandhi-declares-modi-governments-fall-as-inevitable-foresees-revival-of-indias-soul/articleshow/135732440.cms)
+
 ## 🌍 World & Politics
-• India is stepping up as a key mediator in the Ukraine war, leveraging its unique relationships with both Moscow and Kyiv. It's smart, makes India look good on the global stage, and honestly, someone needs to actually talk sense. [Read more](http://foreignpolicy.com/2026/11/11/india-ukraine-war-russia-mediation-black-sea/)
-• Europe is finally getting a seat at the peace talks table, but Putin's still playing hardball and warning against any peacekeeping missions. So, progress, but with a side of Russian obstruction. [ref:2, 4]
-• Keep an eye on Abu Dhabi next week; the US sees a real chance for talks there to potentially bring a "final end" to the Ukraine conflict. Let's hope for more than just good intentions. [Read more](https://english.khabarhub.com/2026/10/575118/)
+• Zelenskyy's still frustrated with Starshield, saying SpaceX's internet restrictions are cramping Ukraine's style across the front lines. Tough break. [Read more](https://www.theguardian.com/world/2026/nov/14/ukraine-war-briefing-zelenskyy-says-starshield-restrictions-continue-on-entire-front-line)
+• The ghost of Yalta is back, with whispers that Trump, Xi, and Putin might be plotting their own geopolitical carve-up. Let's hope history doesn't repeat itself. [Read more](https://www.theguardian.com/world/2026/nov/14/yalta-trump-xi-putin-china-apec)
+• EU officials are warning that Russia's playing dirty in any Ukraine peace talks, setting up "traps" instead of genuine negotiations. Classic. [Read more](https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit)
 
 ## 🤖 Tech & AI
-• If your Outlook was acting up yesterday, you weren't alone: Microsoft had a massive global outage, causing headaches for everyone. Good reminder that even giants stumble. [ref:5, 12]
-• AI is officially coming for consulting's sacred billable hours and its entire grad pipeline. Time to adapt or get left behind – maybe good news for efficiency, bad news for junior consultants. [Read more](https://www.cnbc.com/2026/11/12/ai-consulting-billable-hours-graduate-hiring.html)
-• The CEO of Hugging Face is doubling down on open-source AI, despite Nvidia's Jensen Huang bailing on the cause. The battle for who controls AI's future just got more interesting. [Read more](https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/)
+• AI is printing money: LangChain, an AI agent startup, just hit a staggering $3 billion valuation. The gold rush is real, Sidra. [Read more](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/)
+• China's top AI models? Turns out they're powered by those Nvidia chips the US banned. Looks like Jensen Huang might have a new problem, and Congress is already getting involved. [ref:8, ref:11]
+• OpenAI just launched ChatGPT Wallet, letting their AI 'Dots' agents actually buy stuff for you. Your future personal shopper just got a credit card. [Read more](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet)
 
 ## 💪 Health & Wellness
-• A new, rare but serious eye disease risk has been added to GLP-1 drug labels, adding another thing to consider for those popular weight loss meds. Always something, isn't it? [Read more](https://www.healthline.com/health-news/fda-safety-labeling-changes-glp-1-drugs-eye-diesease-risk)
-• Trump's new women's health order names endometriosis, fibroids, and menopause, but don't hold your breath for immediate impact; actual patient benefits could be years away. Classic politics. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
+• Big news if you're on GLP-1s (Ozempic, Wegovy): the FDA is adding a new warning about a rare but serious eye disease risk. Keep those peepers peeled. [Read more](https://www.healthline.com/health-news/fda-safety-labeling-changes-glp-1-drugs-eye-diesease-risk)
+• Trump's new women's health order names endometriosis, fibroids, and menopause as key focus areas, but don't hold your breath for immediate changes; benefits could be years away. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
 
-## 🇮🇳 India
-• Modi's been busy in Bengaluru, flagging off new Metro lines and Vande Bharat trains, while simultaneously touting Yoga as India's global calling card. Always a photo op and a sermon with the PM. [ref:3, 10]
-• Meanwhile, Sonia Gandhi isn't mincing words, claiming the ground has "shifted" under the Modi government and predicting it's "not here to stay." She's still got that fire. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/sonia-gandhi-declares-modi-governments-fall-as-inevitable-foresees-revival-of-indias-soul/articleshow/135732440.cms)
-
-TODAY'S TAKEAWAY: Everyone's talking peace for Ukraine, but the path is still bumpy, and tech giants are still having epic fail moments.
+TODAY'S TAKEAWAY: Geopolitical chess just got a lot more interesting, while AI is officially coming for your credit card.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 08:58 UAE time
+Generated at 08:25 UAE time
