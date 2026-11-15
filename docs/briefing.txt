@@ -1,31 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Saturday, November 14, 2026
+       Sunday, November 15, 2026
 -----------------------------
 
 
-## 🇮🇳 India
-• India's playing diplomat in the Ukraine war, trying to bridge the gap between Moscow and Kyiv. It's a savvy, high-stakes move for global influence. [Read more](http://foreignpolicy.com/2026/11/11/india-ukraine-war-russia-mediation-black-sea/)
-• Sonia Gandhi dropped a mic, claiming the Modi government's shaky and not built to last, sensing a shift in public mood. Spicy stuff. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/sonia-gandhi-declares-modi-governments-fall-as-inevitable-foresees-revival-of-indias-soul/articleshow/135732440.cms)
-
 ## 🌍 World & Politics
-• Zelenskyy's still frustrated with Starshield, saying SpaceX's internet restrictions are cramping Ukraine's style across the front lines. Tough break. [Read more](https://www.theguardian.com/world/2026/nov/14/ukraine-war-briefing-zelenskyy-says-starshield-restrictions-continue-on-entire-front-line)
-• The ghost of Yalta is back, with whispers that Trump, Xi, and Putin might be plotting their own geopolitical carve-up. Let's hope history doesn't repeat itself. [Read more](https://www.theguardian.com/world/2026/nov/14/yalta-trump-xi-putin-china-apec)
-• EU officials are warning that Russia's playing dirty in any Ukraine peace talks, setting up "traps" instead of genuine negotiations. Classic. [Read more](https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit)
+• India is quietly trying to play mediator in the Ukraine war, aiming to leverage its ties with both Moscow and Kyiv. It's a tricky dance, but someone's got to try. [Read more](http://foreignpolicy.com/2026/11/11/india-ukraine-war-russia-mediation-black-sea/)
+• On the flip side, the US is reportedly suggesting Ukraine cede land to Russia for NATO membership, according to Zelenskyy. That's a huge ask, and a major headline for global strategy. [Read more](https://www.theguardian.com/world/2026/nov/15/ukraine-war-briefing-us-proposes-kyiv-cede-land-to-russia-for-nato-membership-zelenskyy-says)
 
 ## 🤖 Tech & AI
-• AI is printing money: LangChain, an AI agent startup, just hit a staggering $3 billion valuation. The gold rush is real, Sidra. [Read more](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/)
-• China's top AI models? Turns out they're powered by those Nvidia chips the US banned. Looks like Jensen Huang might have a new problem, and Congress is already getting involved. [ref:8, ref:11]
-• OpenAI just launched ChatGPT Wallet, letting their AI 'Dots' agents actually buy stuff for you. Your future personal shopper just got a credit card. [Read more](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet)
+• An OpenAI board member just spilled the tea, warning that we still can't trust AI CEOs. Remember the Sam Altman drama? Apparently, that was just a preview. [Read more](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview)
+• Microsoft services went dark for millions globally, but they swear it wasn't a cyberattack or AI gone rogue. Just a good old-fashioned outage, I guess. [ref:7, ref:11]
+• Nigeria's upcoming elections are already battling a surge of AI disinformation, raising alarms about election integrity. This is a critical problem for democracies everywhere. [Read more](https://www.dw.com/en/nigeria-how-the-pcoming-elections-are-influeced-by-the-rise-of-ai-disinformation/a-79946897)
 
 ## 💪 Health & Wellness
-• Big news if you're on GLP-1s (Ozempic, Wegovy): the FDA is adding a new warning about a rare but serious eye disease risk. Keep those peepers peeled. [Read more](https://www.healthline.com/health-news/fda-safety-labeling-changes-glp-1-drugs-eye-diesease-risk)
-• Trump's new women's health order names endometriosis, fibroids, and menopause as key focus areas, but don't hold your breath for immediate changes; benefits could be years away. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
+• The FDA is slapping a new warning on popular GLP-1 drugs like Ozempic, citing a rare but serious eye disease risk. If you're on these, pay attention to your vision. This is genuinely important for users. [Read more](https://www.healthline.com/health-news/fda-safety-labeling-changes-glp-1-drugs-eye-diesease-risk)
+• Trump's new women's health order mentions endometriosis and menopause, but don't expect immediate miracles; patient benefits are likely years away. Typical. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
+• New platforms like Phases are jumping into women-focused peptide treatments for everything from postpartum issues to menopause. Could be interesting, or just another fad. [Read more](http://wwd.com/beauty-industry-news/wellness/phases-launches-women-focused-peptide-treatments-1239391316/)
 
-TODAY'S TAKEAWAY: Geopolitical chess just got a lot more interesting, while AI is officially coming for your credit card.
+## 🇮🇳 India
+• Sonia Gandhi isn't holding back in her new memoir, claiming the "ground has shifted" under the Modi government and they're "not here to stay." Strong words from a political veteran. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/sonia-gandhi-declares-modi-governments-fall-as-inevitable-foresees-revival-of-indias-soul/articleshow/135732440.cms)
+• Her memoir also gives a peek into her father's Soviet experiences and her meetings with Gorbachev and Putin, offering some unique insights into India-Russia ties. [Read more](https://rt-english.com/india/648810-gorbachev-perestroika-putin-sonia-gandhis/)
+
+TODAY'S TAKEAWAY: Global conflicts are getting more complex, while AI's trust issues continue to dominate tech, and our health news keeps us on our toes.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 08:25 UAE time
+Generated at 08:42 UAE time
