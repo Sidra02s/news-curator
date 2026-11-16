@@ -1,31 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Sunday, November 15, 2026
+       Monday, November 16, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• India is quietly trying to play mediator in the Ukraine war, aiming to leverage its ties with both Moscow and Kyiv. It's a tricky dance, but someone's got to try. [Read more](http://foreignpolicy.com/2026/11/11/india-ukraine-war-russia-mediation-black-sea/)
-• On the flip side, the US is reportedly suggesting Ukraine cede land to Russia for NATO membership, according to Zelenskyy. That's a huge ask, and a major headline for global strategy. [Read more](https://www.theguardian.com/world/2026/nov/15/ukraine-war-briefing-us-proposes-kyiv-cede-land-to-russia-for-nato-membership-zelenskyy-says)
+• Ukraine's Zelenskyy is still battling Russia, but now he's also pointing fingers at "Starshield restrictions" for enabling energy attacks. Turns out, even wars depend on who controls the internet's access. [Read more](https://www.theguardian.com/world/2026/nov/16/ukraine-war-briefing-energy-attacks-made-possible-by-continuing-starshield-restrictions-says-zelenskyy)
+• Iran decided to stir the pot, launching drone attacks against a US military base in Bahrain. Just another Monday in the Middle East, keeping everyone on edge. [Read more](https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain)
 
 ## 🤖 Tech & AI
-• An OpenAI board member just spilled the tea, warning that we still can't trust AI CEOs. Remember the Sam Altman drama? Apparently, that was just a preview. [Read more](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview)
-• Microsoft services went dark for millions globally, but they swear it wasn't a cyberattack or AI gone rogue. Just a good old-fashioned outage, I guess. [ref:7, ref:11]
-• Nigeria's upcoming elections are already battling a surge of AI disinformation, raising alarms about election integrity. This is a critical problem for democracies everywhere. [Read more](https://www.dw.com/en/nigeria-how-the-pcoming-elections-are-influeced-by-the-rise-of-ai-disinformation/a-79946897)
+• Microsoft just offered a "deeply sorry" for a massive outage that took down services for millions, assuring us it wasn't hackers or rogue AI. Guess even tech giants have bad hair days. [Read more](https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news)
+• Apple's getting into the AI health game, launching a new study to figure out if these tools are actually helpful or just generating generic wellness advice. About time someone asked. [Read more](https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools)
+• Oracle's executive has some refreshingly direct advice on AI: measure success by tangible results, not just how many fancy bots you've deployed. Proof over pomp, please. [Read more](https://www.business-standard.com/world-news/measure-ai-by-results-not-number-of-agents-deployed-oracle-s-executive-126111500244_1.html)
 
 ## 💪 Health & Wellness
-• The FDA is slapping a new warning on popular GLP-1 drugs like Ozempic, citing a rare but serious eye disease risk. If you're on these, pay attention to your vision. This is genuinely important for users. [Read more](https://www.healthline.com/health-news/fda-safety-labeling-changes-glp-1-drugs-eye-diesease-risk)
-• Trump's new women's health order mentions endometriosis and menopause, but don't expect immediate miracles; patient benefits are likely years away. Typical. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
-• New platforms like Phases are jumping into women-focused peptide treatments for everything from postpartum issues to menopause. Could be interesting, or just another fad. [Read more](http://wwd.com/beauty-industry-news/wellness/phases-launches-women-focused-peptide-treatments-1239391316/)
+• Heads up if you're on GLP-1s: the FDA is adding a rare but serious eye disease risk to the labels. Another potential side effect to keep in mind, because apparently, looking good has its downsides. [Read more](https://www.healthline.com/health-news/fda-safety-labeling-changes-glp-1-drugs-eye-diesease-risk)
+• Trump's new women's health order names endometriosis, fibroids, and menopause, which is great, but don't hold your breath for immediate change. Government bureaucracy moves at a glacial pace. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
 
 ## 🇮🇳 India
-• Sonia Gandhi isn't holding back in her new memoir, claiming the "ground has shifted" under the Modi government and they're "not here to stay." Strong words from a political veteran. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/sonia-gandhi-declares-modi-governments-fall-as-inevitable-foresees-revival-of-indias-soul/articleshow/135732440.cms)
-• Her memoir also gives a peek into her father's Soviet experiences and her meetings with Gorbachev and Putin, offering some unique insights into India-Russia ties. [Read more](https://rt-english.com/india/648810-gorbachev-perestroika-putin-sonia-gandhis/)
+• India is trying to play global diplomat, positioning itself as a potential mediator in the Ukraine war. A bold move to leverage its unique ties with both Moscow and Kyiv. [Read more](http://foreignpolicy.com/2026/11/11/india-ukraine-war-russia-mediation-black-sea/)
+• In a rare moment of levity (or genius PR), Karnataka CM Shivakumar recounted PM Modi swiping his own Metro card to pay for Shivakumar's ticket. Who knew Modi was a silent benefactor? [Read more](https://www.business-standard.com/india-news/pm-modi-swiped-metro-card-for-me-as-i-had-no-money-says-shivakumar-126111401098_1.html)
+• The BJP is back to its usual antics, accusing Rahul Gandhi of hosting an "Anti-India Summit" after a foreign national criticized the Indian mandate. The political drama never ends. [Read more](https://www.thehindu.com/news/national/anti-india-summit-bjp-accuses-rahul-of-providing-platform-to-anti-india-forces-in-hyderabad/article71707146.ece)
 
-TODAY'S TAKEAWAY: Global conflicts are getting more complex, while AI's trust issues continue to dominate tech, and our health news keeps us on our toes.
+TODAY'S TAKEAWAY: India is making big diplomatic plays internationally, while at home, the political theatre is as lively (and petty) as ever.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 08:42 UAE time
+Generated at 08:51 UAE time
