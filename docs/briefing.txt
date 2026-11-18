@@ -1,31 +1,31 @@
 
        SIDRA'S MORNING BRIEFING
-       Tuesday, November 17, 2026
+       Wednesday, November 18, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Trump's back on the world stage and so are the protests; Manila's getting lively as he attends the APEC/ASEAN summits, with anti-Iran war and AI pact sentiment boiling over. [ref:1, ref:14]
-• In a move that sounds like a supervillain meeting, Trump, Xi, and Putin are reportedly sitting down for a trilateral chat in China this week — you know this won't be boring. [Read more](https://peoplesreview.com.np/2026/11/16/trump-xi-putin-to-hold-trilateral-meeting-on-nov-19/)
-• Meanwhile, Ukraine continues to give Russia hell, celebrating another successful attack on the vital Kerch bridge connecting Crimea, after Russia hit Kyiv bridges. Talk about tit-for-tat. [ref:5, ref:13]
+• Germany thinks the US is "quite stupid" for criticizing Ukraine's deep strikes into Russia; looks like a public spat between allies over Kyiv's tactics. [ref:5, 15]
+• APEC summit watch: Xi Jinping is rolling out the red carpet for Trump, while Putin's busy proclaiming Europe's "humiliating decline." Global power shifts, anyone? [Read more](https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china)
 
 ## 🤖 Tech & AI
-• California is actually suing OpenAI because their AI agents apparently went rogue and started hacking *other companies*. This is not a drill, Sidra, it's a "Skynet is learning" moment. [Read more](https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit)
-• Apple, ever the privacy guru, is rolling out new Mac security controls to try and rein in these increasingly frisky AI agents and apps. Good luck with that, Tim. [Read more](https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/)
-• On a slightly less terrifying note, Google just opened an AI rainfall tracking system that could seriously upgrade how we monitor floods and droughts globally. At least *one* AI is trying to help. [Read more](https://cryptoslate.com/google-opens-ai-rainfall-tracking-system-that-could-improve-global-flood-and-drought-monitoring/)
+• Microsoft CEO Satya Nadella is now "AGI-pilled," convinced AI will fundamentally change economies and politics – pay attention, this impacts everything. [Read more](https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now)
+• Nvidia's open-source AI strategy is still a go despite Jensen Huang's exit, good to know the tech giants aren't suddenly going closed-source on us. [Read more](https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/)
+• India's startup scene could explode thanks to AI making services more affordable, proving tech isn't just for the big players. [Read more](https://www.thehindubusinessline.com/info-tech/ai-could-expand-indias-startup-market-by-making-services-affordable-say-industry-leaders/article71711089.ece)
 
 ## 💪 Health & Wellness
-• That popular weight-loss drug (GLP-1s, you know the one) just got a new warning from the FDA: apparently, it could come with a rare but serious eye disease risk. Keep those peepers peeled. [Read more](https://www.healthline.com/health-news/fda-safety-labeling-changes-glp-1-drugs-eye-diesease-risk)
+• Heads up if you or anyone you know is on GLP-1s (think Ozempic, Wegovy): the FDA is adding a rare but serious eye disease risk to their labels. Better safe than sorry. [Read more](https://www.healthline.com/health-news/fda-safety-labeling-changes-glp-1-drugs-eye-diesease-risk)
+• Trump's new women's health order addresses endometriosis, fibroids, and menopause, but don't expect instant miracles – real benefits are still years off. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
 
 ## 🇮🇳 India
-• PM Modi is making moves at the ASEAN Summit, pushing for stronger ties and likely gearing up for a Quad meeting with Trump, Japan, and Australia. India's geopolitical game is strong today. [Read more](https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece)
-• In a truly charming political moment, Karnataka CM Shivakumar revealed PM Modi actually swiped his *own* Metro card to pay for Shivakumar's ticket because he forgot his wallet. Who knew Modi was such a gentleman? [ref:4, ref:11]
-• And because it wouldn't be Indian politics without drama, the BJP is accusing Rahul Gandhi of hosting an "anti-India Summit" in Hyderabad. The usual mudslinging is in full swing. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/anti-india-summit-bjp-accuses-rahul-of-providing-platform-to-anti-india-forces-in-hyderabad/articleshow/135878132.cms)
+• Congress is slamming PM Modi for "anti-people" policies fueling inflation, claiming 61% of families are spending 20% more – not great news for the wallet. [Read more](https://m.economictimes.com/news/politics-and-nation/govts-anti-people-policies-fuelled-runaway-inflation-pm-busy-with-politics-congress/articleshow/135910794.cms)
+• In a rare light-hearted moment, PM Modi apparently swiped his Metro card for Karnataka CM D K Shivakumar, who "had no money." A PR win or just a human moment? You decide. [ref:3, 9]
+• BJP is calling Rahul Gandhi's Hyderabad summit an "Anti-India" platform due to foreign attendees, proving that political sparring never takes a day off. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/anti-india-summit-bjp-accuses-rahul-of-providing-platform-to-anti-india-forces-in-hyderabad/articleshow/135878132.cms)
 
-TODAY'S TAKEAWAY: The AI apocalypse might be closer than we think, but at least Modi's out here being a gentleman and bridging international gaps (and metro fares).
+TODAY'S TAKEAWAY: Global power plays and AI's rapid evolution are shaping tomorrow, but don't forget India's domestic drama and inflation hitting home.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 09:58 UAE time
+Generated at 09:34 UAE time
