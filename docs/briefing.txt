@@ -1,31 +1,28 @@
 
        SIDRA'S MORNING BRIEFING
-       Wednesday, November 18, 2026
+       Thursday, November 19, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• Germany thinks the US is "quite stupid" for criticizing Ukraine's deep strikes into Russia; looks like a public spat between allies over Kyiv's tactics. [ref:5, 15]
-• APEC summit watch: Xi Jinping is rolling out the red carpet for Trump, while Putin's busy proclaiming Europe's "humiliating decline." Global power shifts, anyone? [Read more](https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china)
+• Trump's making waves at the Apec summit, reportedly meeting Xi and Putin in "history-making" trilateral talks – classic showman stuff, but globally significant. [Read more](https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china)
+• Not everyone's thrilled, though: protests are flaring in the Philippines over Trump's visit and a planned AI hub, showing local pushback to the global agenda. [Read more](https://www.yahoo.com/news/politics/articles/leaders-protesters-greet-trump-philippines-103139607.html)
+• The Ukraine conflict grinds on, with Australia's PM telling Putin to "end your war, end it now," while Russia's busy accusing the Netherlands of escalating things. [ref:11, ref:12]
 
 ## 🤖 Tech & AI
-• Microsoft CEO Satya Nadella is now "AGI-pilled," convinced AI will fundamentally change economies and politics – pay attention, this impacts everything. [Read more](https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now)
-• Nvidia's open-source AI strategy is still a go despite Jensen Huang's exit, good to know the tech giants aren't suddenly going closed-source on us. [Read more](https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/)
-• India's startup scene could explode thanks to AI making services more affordable, proving tech isn't just for the big players. [Read more](https://www.thehindubusinessline.com/info-tech/ai-could-expand-indias-startup-market-by-making-services-affordable-say-industry-leaders/article71711089.ece)
-
-## 💪 Health & Wellness
-• Heads up if you or anyone you know is on GLP-1s (think Ozempic, Wegovy): the FDA is adding a rare but serious eye disease risk to their labels. Better safe than sorry. [Read more](https://www.healthline.com/health-news/fda-safety-labeling-changes-glp-1-drugs-eye-diesease-risk)
-• Trump's new women's health order addresses endometriosis, fibroids, and menopause, but don't expect instant miracles – real benefits are still years off. [Read more](https://www.medicaldaily.com/trump-womens-health-order-endometriosis-fibroids-menopause-nih-480159)
+• Microsoft's Satya Nadella is dropping bombshells, predicting AI agents will completely reshuffle the web's ad-driven economics. This is HUGE for any digital business. [Read more](https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/)
+• PM Modi's also chiming in, raising questions about AI's impact on financial markets and the need for investor protection – good to see regulatory foresight in India. [Read more](https://m.economictimes.com/news/india/ai-raises-investor-protection-questions-as-it-reshapes-markets-says-pm-modi/articleshow/135957154.cms)
+• On the ground, Bajaj Finserv is backing an Indian AI startup, Soket AI, with $4 million for indigenous large language model research, especially targeting financial services. Smart money backing local innovation. [Read more](https://www.business-standard.com/industry/news/bajaj-finserv-pennant-invest-4-million-soket-ai-indigenous-llm-126111800589_1.html)
 
 ## 🇮🇳 India
-• Congress is slamming PM Modi for "anti-people" policies fueling inflation, claiming 61% of families are spending 20% more – not great news for the wallet. [Read more](https://m.economictimes.com/news/politics-and-nation/govts-anti-people-policies-fuelled-runaway-inflation-pm-busy-with-politics-congress/articleshow/135910794.cms)
-• In a rare light-hearted moment, PM Modi apparently swiped his Metro card for Karnataka CM D K Shivakumar, who "had no money." A PR win or just a human moment? You decide. [ref:3, 9]
-• BJP is calling Rahul Gandhi's Hyderabad summit an "Anti-India" platform due to foreign attendees, proving that political sparring never takes a day off. [Read more](https://economictimes.indiatimes.com/news/politics-and-nation/anti-india-summit-bjp-accuses-rahul-of-providing-platform-to-anti-india-forces-in-hyderabad/articleshow/135878132.cms)
+• PM Modi's in PR mode, asking India Inc for reform suggestions and claiming 50 crore people have lifted themselves out of poverty. Convenient timing for good optics. [Read more](https://www.ndtv.com/india-news/write-to-me-openly-pm-narendra-modi-asks-india-inc-to-suggest-industry-reforms-12348015#publisher=newsstand)
+• In a surprisingly relatable move, Modi even jumped on the GTA VI hype, posting about India's 'level up' since GTA V – someone's social media team is clearly on top of trends. [Read more](https://www.thehindu.com/news/national/pm-modi-jumps-on-gta-vi-craze-posts-about-indias-level-up-since-gta-v/article71718844.ece)
+• Meanwhile, Congress is busy reminding everyone about "runaway inflation" hurting households, accusing the government of focusing more on politics than pocketbooks. Pick your narrative. [Read more](https://m.economictimes.com/news/politics-and-nation/govts-anti-people-policies-fuelled-runaway-inflation-pm-busy-with-politics-congress/articleshow/135910794.cms)
 
-TODAY'S TAKEAWAY: Global power plays and AI's rapid evolution are shaping tomorrow, but don't forget India's domestic drama and inflation hitting home.
+TODAY'S TAKEAWAY: AI isn't just a buzzword anymore; it's reshaping global power dynamics and economic models, prompting everyone from world leaders to tech giants to react.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 09:34 UAE time
+Generated at 09:43 UAE time
