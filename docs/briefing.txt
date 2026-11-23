@@ -1,34 +1,30 @@
 
        SIDRA'S MORNING BRIEFING
-       Sunday, November 22, 2026
+       Monday, November 23, 2026
 -----------------------------
 
 
-## 🌍 World & Politics
-• European elections are kicking off a "supercycle" that could seriously shake up the EU's foundations – keep an eye on this, because what happens there doesn't stay there. [Read more](https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations)
-• Turns out, organizing a military AI event in a Berlin arts complex was, predictably, a "serious error of judgment," sparking outrage. Who saw that coming? Everyone. [Read more](https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex)
+🌍 World & Politics
+• Ukraine claimed responsibility for sinking a Russian warship near Libya, a bold move showing Kyiv's expanding reach and ongoing conflict escalation. [Read more](https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates)
+• Gaza is now officially a "toxic wasteland," according to experts, highlighting the devastating long-term environmental and humanitarian crisis brewing after months of conflict. [Read more](https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report)
 
-## 🤖 Tech & AI
-• Citi's Vis Raghavan says India isn't just playing in the AI game; it could totally dominate, hinting at a global shift in tech leadership. Your brain cells just got an upgrade. [Read more](https://economictimes.indiatimes.com/news/short-videos/india-can-dominate-ai-says-citis-vis-raghavan-but-not-how-you-think-the-quest/videoshow/136049329.cms)
-• Forget typing, your texts are about to get smarter with AI agents now living directly in your messages, ready to handle everything from travel plans to family logistics. Prepare for less brainpower, more bot-power. [Read more](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/)
-• The real challenge with AI isn't just the tech, it's making sure organizations are human-centric; otherwise, we're just building smarter tools for dumber systems. Priorities, Sidra. [Read more](https://www.thehindu.com/news/national/telangana/human-centric-organisational-design-key-to-navigate-ai-says-insead-professor/article71730673.ece)
+🤖 Tech & AI
+• OpenAI's chief scientist is pushing for a "speed limit" on AI development, which means even the creators are getting nervous about runaway tech. Good luck with that. [Read more](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)
+• Google just dropped $5 million into IIT Kharagpur for advanced AI research, a smart play cementing India's role in the global AI race. [Read more](https://www.business-standard.com/industry/news/google-pledges-5-million-to-iit-kharagpur-for-advanced-ai-research-126112200267_1.html)
+• Brace yourself: the market isn't buying Anthropic's 'catastrophic AI risk' warnings, as their stock slid, proving investors might just care more about profits than doomsday scenarios. [Read more](https://www.business-standard.com/markets/stock-market-news/markets-stock-market-anthropic-shares-fall-ai-doomsday-warning-ipo-valuation-126112200333_1.html)
 
-## 💄 Fashion & Beauty
-• Pink hair is back, baby, with everyone from SZA to Adéla making a strong case for shades from subtle rose to bold magenta. Time to embrace your inner punk rock princess? [Read more](https://www.cosmopolitan.com/style-beauty/beauty/a74469645/pink-hair-ideas/)
-• The Governors Awards just rolled out the red carpet, signaling a season of "bold fashion" ahead for Hollywood, so get ready for some serious style inspiration (or cringe). [Read more](https://www.thewrap.com/culture-lifestyle/fashion/governors-awards-fashion-highlights-charlize-theron-wrapstyle/)
+💪 Health & Wellness
+• New research hints that GLP-1 drugs like Ozempic might do more than just drop pounds; they could actually boost brain health and lower dementia risk. Keep an eye on this. [Read more](https://www.healthline.com/health-news/glp-1s-ozempic-may-boost-brain-health-lower-dementia-risk)
 
-## 💪 Health & Wellness
-• Green tea isn't just for your matcha lattes; ancient wisdom confirms it’s a powerhouse for everything from digestion to inflammation. Drink up, your body will thank you. [Read more](https://thechronicle.com.gh/how-green-tea-can-benefit-your-health/)
+🇮🇳 India
+• India rolled out the red carpet for Nepal's PM, securing 8 agreements and announcing an IIT campus in Nepal — a clear strategic win for Delhi's regional influence. [Read more](https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece) [Read more](https://www.ndtv.com/india-news/nepal-pm-balen-shah-india-visit-live-updates-pm-narendra-modi-meeting-today-india-nepal-relations-key-agenda-energy-hydropower-infrastructure-climate-12363775#publisher=newsstand)
+• Ouch: former Vice-President Hamid Ansari just publicly called out India for "moving towards authoritarian rule" by weakening democratic institutions. That's a huge flag from an insider. [Read more](https://www.thehindu.com/news/national/west-bengal/india-moving-towards-authoritarian-rule-through-erosion-of-democratic-institutions-former-vice-president-ansari/article71734063.ece)
+• In a bold move, Congress party members stormed Meta's offices in India, protesting social media policies; clearly, tech giants are still easy targets for political theater. [Read more](https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india)
 
-## 🇮🇳 India
-• Nepal's rapper-turned-PM Balendra Shah is in Delhi for his first bilateral visit, hoping to talk flood aid, trade, and energy with Modi. Let’s see if the talks hit a high note. [Read more](https://www.dw.com/en/india-nepal-pm-balendra-shah-to-arrive-in-delhi-for-first-visit/live-80008104)
-• PM Modi’s "hunger" jibe at India Inc has Congress firing back, calling it a "confession" of favoritism. The political drama is certainly keeping things spicy. [Read more](https://timesofindia.indiatimes.com/india/evening-newswrap-congress-hits-back-at-pm-modis-hunger-jibe-ncb-busts-us-bound-opioid-pipeline-more/articleshow/136026967.cms)
-• Whispers are getting louder about growing political discontent and whether this could be the beginning of the end for Modi’s era. It’s certainly a question worth pondering. [Read more](https://foreignpolicy.com/2026/11/19/india-protests-election-fraud-modi-corruption-education-students/)
-
-TODAY'S TAKEAWAY: India is positioned to be a major player in the global AI landscape, but local political discontent and the human element of AI adoption remain critical.
+TODAY'S TAKEAWAY: From AI speed limits to India's diplomatic plays, the world is grappling with big tech and bigger politics, sometimes both at once.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 09:11 UAE time
+Generated at 10:05 UAE time
