@@ -1,30 +1,34 @@
 
        SIDRA'S MORNING BRIEFING
-       Monday, November 23, 2026
+       Tuesday, November 24, 2026
 -----------------------------
 
 
-🌍 World & Politics
-• Ukraine claimed responsibility for sinking a Russian warship near Libya, a bold move showing Kyiv's expanding reach and ongoing conflict escalation. [Read more](https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates)
-• Gaza is now officially a "toxic wasteland," according to experts, highlighting the devastating long-term environmental and humanitarian crisis brewing after months of conflict. [Read more](https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report)
+## 🌍 World & Politics
+• Ukraine’s war is broadening with a Kyiv strike on Russian ships in Benghazi, a move Libya’s UN-backed government quickly condemned. This is a significant and worrying expansion of the conflict. [Read more](https://www.theguardian.com/world/2026/nov/24/ukraine-war-briefing-kyiv-strike-on-russian-ships-in-benghazi-condemned-by-un-backed-libya-government)
+• Meanwhile, a Russian drone recently violated Polish airspace, just days after missiles landed on the country. European tensions are definitely not cooling down. [Read more](https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates)
+• Malaysia is planning to send thousands of migrants back to Myanmar, acknowledging the junta's atrocities. A tough decision with serious humanitarian implications. [Read more](https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar)
 
-🤖 Tech & AI
-• OpenAI's chief scientist is pushing for a "speed limit" on AI development, which means even the creators are getting nervous about runaway tech. Good luck with that. [Read more](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)
-• Google just dropped $5 million into IIT Kharagpur for advanced AI research, a smart play cementing India's role in the global AI race. [Read more](https://www.business-standard.com/industry/news/google-pledges-5-million-to-iit-kharagpur-for-advanced-ai-research-126112200267_1.html)
-• Brace yourself: the market isn't buying Anthropic's 'catastrophic AI risk' warnings, as their stock slid, proving investors might just care more about profits than doomsday scenarios. [Read more](https://www.business-standard.com/markets/stock-market-news/markets-stock-market-anthropic-shares-fall-ai-doomsday-warning-ipo-valuation-126112200333_1.html)
+## 🤖 Tech & AI
+• Get this: The US and China now control a staggering 82% of all new global AI computing capacity. This isn't just a tech race; it's a full-blown geopolitical power grab, making India's AI ambitions even more crucial. [Read more](https://timesofindia.indiatimes.com/education/news/us-and-china-control-82-of-new-ai-computing-capacity-what-it-means-for-indias-engineering-students-and-ai-researchers/articleshow/136093210.cms)
+• Nvidia CEO Jensen Huang is facing a congressional grilling over his China dealings and rumored Trump intervention. The AI kingpin is suddenly feeling the political heat. [Read more](https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress)
+• Google Search's AI Mode can now dig into your Drive and Wallet for "personalized responses." Convenient or creepy? You decide, but your digital life just got a lot more integrated. [Read more](https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/)
 
-💪 Health & Wellness
-• New research hints that GLP-1 drugs like Ozempic might do more than just drop pounds; they could actually boost brain health and lower dementia risk. Keep an eye on this. [Read more](https://www.healthline.com/health-news/glp-1s-ozempic-may-boost-brain-health-lower-dementia-risk)
+## 💄 Fashion & Beauty
+• Even Vogue Business is now tracking AI initiatives weekly, which confirms that algorithms are officially infiltrating even the most exclusive corners of fashion and beauty. Your next style trend might be AI-generated. [Read more](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker)
 
-🇮🇳 India
-• India rolled out the red carpet for Nepal's PM, securing 8 agreements and announcing an IIT campus in Nepal — a clear strategic win for Delhi's regional influence. [Read more](https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece) [Read more](https://www.ndtv.com/india-news/nepal-pm-balen-shah-india-visit-live-updates-pm-narendra-modi-meeting-today-india-nepal-relations-key-agenda-energy-hydropower-infrastructure-climate-12363775#publisher=newsstand)
-• Ouch: former Vice-President Hamid Ansari just publicly called out India for "moving towards authoritarian rule" by weakening democratic institutions. That's a huge flag from an insider. [Read more](https://www.thehindu.com/news/national/west-bengal/india-moving-towards-authoritarian-rule-through-erosion-of-democratic-institutions-former-vice-president-ansari/article71734063.ece)
-• In a bold move, Congress party members stormed Meta's offices in India, protesting social media policies; clearly, tech giants are still easy targets for political theater. [Read more](https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india)
+## 💪 Health & Wellness
+• Ozempic and other GLP-1 meds might be doing more than just shrinking waistlines; new research suggests they could boost brain health and even reduce dementia risk. Definitely worth keeping an eye on this space. [Read more](https://www.healthline.com/health-news/glp-1s-ozempic-may-boost-brain-health-lower-dementia-risk)
 
-TODAY'S TAKEAWAY: From AI speed limits to India's diplomatic plays, the world is grappling with big tech and bigger politics, sometimes both at once.
+## 🇮🇳 India
+• Nepal's rapper-turned-PM Balendra Shah is in Delhi for his first bilateral visit, discussing floods, trade, and energy. India-Nepal relations are always a nuanced affair. [Read more](https://www.dw.com/en/india-nepal-pm-balendra-shah-heads-to-delhi-for-first-bilateral-visit/live-80008104)
+• Good news for our tech scene: India's AI funding almost doubled to $1.6 billion this year, and surprisingly, Mumbai is leading Bengaluru as the top recipient. The AI boom is truly here. [Read more](https://www.thehindu.com/news/national/karnataka/india-ai-funding-nearly-doubles-to-16-billion-in-nine-months-of-2026-tracxn-report/article71738125.ece)
+• The BJP and Akali Dal are back together after six years, forming an alliance for the Punjab Assembly elections. Prime Minister Modi is, of course, spinning it as putting Punjab first. [Read more](https://www.thehindu.com/news/national/punjab-elections-bharatiya-janata-party-shiromani-akali-dal-bjp-sad-alliance-seat-sharing-november-24-2026/article71737438.ece)
+
+TODAY'S TAKEAWAY: The global AI arms race is accelerating at warp speed, cementing power in the hands of a few nations while its complex societal impacts, from privacy to security, grow more urgent.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 10:05 UAE time
+Generated at 11:54 UAE time
