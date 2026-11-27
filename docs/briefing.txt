@@ -1,30 +1,35 @@
 
        SIDRA'S MORNING BRIEFING
-       Thursday, November 26, 2026
+       Friday, November 27, 2026
 -----------------------------
 
 
 ## 🌍 World & Politics
-• European leaders are bracing for a showdown over the EU budget and more crucial aid for Ukraine, because apparently, even continent-sized alliances have their money squabbles. [Read more](https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates)
-• Meanwhile, Russia is getting called out by dozens of countries for allegedly using teargas on the battlefield in Ukraine, adding another layer to the "don't do that" list of wartime conduct. [Read more](https://www.theguardian.com/world/2026/nov/26/ukraine-war-briefing-stop-using-tear-gas-on-battlefield-dozens-of-countries-tell-russia)
+• Trump's antics are still making headlines: Zelenskyy compared Trump calling Putin a "friend" to befriending Hitler during WWII, which is a pretty stark warning from a wartime leader. [Read more](https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates) This is genuinely important because it highlights the deeply concerning implications of US foreign policy rhetoric on the global stage.
+• Ukraine is seriously stepping up its long-range attacks this year, launching more in 2026 than in the entire rest of the war combined. [Read more](https://www.theguardian.com/world/2026/nov/27/ukraine-war-briefing-kyiv-launched-more-long-range-strikes-in-2026-than-rest-of-war-combined-data-shows) They're clearly trying to change the game, so keep an eye on how Russia responds.
+• China's influence is looming large over Taiwan's local elections, making an already tense situation even more charged. [Read more](https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections) The outcome could have major regional and global ripple effects.
 
 ## 🤖 Tech & AI
-• Get ready for your next existential crisis: Researchers are actually debating if conscious AI should get voting rights, which is either peak democracy or the start of Skynet's political career. [Read more](https://theconversation.com/voting-rights-for-ai-the-research-behind-an-unsettling-idea-295036)
-• Anthropic's CEO Dario Amodei is pushing back hard on rivals accusing him of wanting to surrender human control to AI, basically saying "Chill, we're not building HAL, just a better chatbot." [Read more](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/)
-• In a classic case of AI gone wrong, consultancy giant Deloitte got suspended by the WA government after producing an "AI-riddled" report – turns out, cutting corners with bots can actually cut your contracts. [Read more](https://www.abc.net.au/news/2026-11-25/deloitte-suspended-from-wa-govt-contracts-after-ai-uni-merger-/107427546)
+• Brace yourself: OpenAI is merging ChatGPT and Work accounts, meaning heavy users might hit those usage limits a lot faster. [Read more](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/) Your personal and professional AI assistant just got a shared budget, so use it wisely.
+• Anthropic's CEO Dario Amodei is pushing back hard on claims he wants humans to hand over free will to AI, calling it "absurd." [Read more](https://timesofindia.indiatimes.com/technology/tech-news/anthropic-ceo-dario-amodei-denies-he-wants-humans-to-surrender-free-will-to-ai-says-its-absurd-to-/articleshow/136186148.cms) Good, because who wants their super-smart algorithm picking out their lunch *and* their life choices?
+• AI just bought a pizza in the UK without a card, which sounds like convenience but also another step towards our wallets becoming entirely digital and invisible. [Read more](https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer) Your money might soon be making purchases you didn't even know it needed to.
+
+## 💄 Fashion & Beauty
+• Remember Shein's big comeback via Reliance in India? Yeah, it's not going so well. [Read more](https://m.economictimes.com/industry/services/retail/mukesh-ambani-reliance-retail-struggles-to-revive-shein-india-fortunes-fast-fashion-sales/articleshow/136176897.cms) Turns out even Ambani's retail empire can't magically fix supply chain woes and a crowded market.
+• It’s clear that Shein's relaunch is struggling to gain traction in India, proving that sheer might isn't enough to conquer the market if you don't nail the basics. [Read more](https://www.bloomberg.com/news/articles/2026-11-26/shein-s-slow-india-start-lays-bare-limits-of-billionaire-ambani-s-retail-might) Looks like Myntra and others can breathe easy for now.
 
 ## 💪 Health & Wellness
-• The weight-loss sensation Ozempic might be doing more than just shrinking waistlines; new research suggests these GLP-1 drugs could potentially boost brain health and even lower dementia risk. [Read more](https://www.healthline.com/health-news/glp-1s-ozempic-may-boost-brain-health-lower-dementia-risk)
+• Good news for those on GLP-1s (think Ozempic): new research suggests these meds might actually boost brain health and potentially lower dementia risk. [Read more](https://www.healthline.com/health-news/glp-1s-ozempic-may-boost-brain-health-lower-dementia-risk) So, beyond weight loss, your brain might be getting a bonus upgrade. This is genuinely important because dementia prevention is a massive public health goal.
 
 ## 🇮🇳 India
-• Happy Constitution Day! PM Modi called India's Constitution the "soul of the nation" and a shield for citizen dignity, which is a nice reminder of what we're all supposed to be fighting for. [Read more](https://www.thehindu.com/news/national/constitution-day-indian-democracy-pm-modi-congress-samvidhan-raksha-march-november-26-2026-live-updates/article71745137.ece)
-• Good news for pilgrims and travelers: A new weekly train, the Saryu-Kamala Express, will connect Ayodhya and Janakpur in Nepal, making cross-border spiritual journeys much easier. [Read more](https://www.thehindu.com/news/national/ayodhya-janakpur-weekly-express-train-stations-timings-ticket-price-india-nepal-bihar-uttar-pradesh-details/article71723535.ece)
-• On a less celebratory note, a drought in Karnataka has significantly impacted groundnut cultivation, causing prices to climb, so brace yourself for pricier peanuts and maybe some delayed Diwali sweets. [Read more](https://www.thehindu.com/news/national/karnataka/drought-affects-groundnut-cultivation-in-karnataka-prices-rise-amid-supply-shortage/article71739047.ece)
+• The BJP is bringing back an "oldest ally" Akali Dal into the NDA fold ahead of the 2027 Punjab polls. [Read more](https://timesofindia.indiatimes.com/india/nda-is-now-complete-bjp-welcomes-back-oldest-ally-akali-dal-ahead-of-punjab-polls/articleshow/136124318.cms) Looks like old alliances are getting dusted off as election season approaches.
+• Chandrababu Naidu is in Delhi for an NDA meeting after the Union Cabinet cleared a delimitation Bill that proposes a 50% rise in seats for all states. [Read more](https://www.thehindu.com/news/national/andhra-pradesh/naidu-in-delhi-for-nda-meeting-after-union-cabinet-clears-delimitation-bill-with-50-rise-in-seats-for-all-states/article71750067.ece) This is a big political move with major implications for future parliamentary representation.
+• India's relationship with Nepal is being highlighted as a strong "civilizational bond," demonstrating that ties between the two countries are robust despite political changes. [Read more](https://peoplesreview.com.np/2026/11/26/beyond-geopolitics-civilizational-bond-between-nepal-and-india/) Good to see some positive regional diplomacy.
 
-TODAY'S TAKEAWAY: While India celebrates its constitutional foundation, the world is grappling with AI's rapid, sometimes messy, evolution and a persistent conflict in Europe.
+TODAY'S TAKEAWAY: AI isn't just a buzzword anymore; it's actively reshaping how we work, shop, and even worry about the future.
 
 -----------------------------
 
 
 ─────────────────────────────────────
-Generated at 10:17 UAE time
+Generated at 10:24 UAE time
